@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-04-10",
+  "newsDate": "2025-11-04",
+  "newsTitle": "第138届广交会今天闭幕",
+  "newsContent": "第138届广交会今天（11月4日）闭幕，本届广交会多项指标刷新历史纪录，累计现场达成意向出口成交256.5亿美元，展现了中国外贸创新发展活力。本届广交会为期15天，展位总数7.5万个，现场展出展品460万件，线下参展企业超3.2万家，累计吸引了来自223个国家和地区超31万名境外采购商，展览规模和到会境外采购商人数均创历史新高。以智能机器人、脑机接口设备、数控加工机床、新能源汽车等为代表的“中国智造”产品成为采购商关注的焦点。本届广交会头部跨国企业到会增至400余家，境外工商机构团组增至144家，国际影响力持续增强。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "广交会上新能源汽车成为采购商关注的焦点，表明市场需求强劲，有利于该行业的发展。",
+      "keywords": [
+        "新能源汽车",
+        "市场需求",
+        "发展"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "智能制造",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "智能机器人、脑机接口设备等智能制造产品受到广泛关注，预示着该领域未来增长潜力巨大。",
+      "keywords": [
+        "智能制造",
+        "创新",
+        "增长潜力"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源汽车电池的主要供应商之一，受益于新能源汽车行业整体向好趋势。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "科大讯飞",
+      "stockCode": "002230",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "公司在人工智能及智能语音技术方面处于领先地位，有望从智能制造领域的增长中获益。",
+      "relatedIndustries": [
+        "智能制造",
+        "信息技术"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "随着智能制造和新能源汽车行业的快速发展，对铜的需求量预计会增加。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "广交会的成功举办展示了中国外贸特别是新能源与智能制造领域的强大活力，为相关产业链上下游企业带来了积极影响。",
+  "analyzedAt": "2025-11-29T12:50:15.576Z",
+  "modelVersion": "qwen-max"
+}

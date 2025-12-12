@@ -1,0 +1,98 @@
+{
+  "newsId": "2025-12-03-9",
+  "newsDate": "2025-12-03",
+  "newsTitle": "冷空气东移南下 继续影响江南",
+  "newsContent": "这两天，随着寒潮主体进一步东移南下，我国多地出现大风降温，部分地区出现雨雪。山东威海、烟台从昨天（12月2日）起开始降雪，为了确保道路畅通，路政、环卫等部门及时出动清雪设备，加紧进行积雪清理和路面除冰，并在陡坡、桥梁等重点路段撒布融雪和防滑材料。内蒙古根河市昨天最低气温跌破零下40℃，迎来今冬首个极寒天气。电力、供热等部门加大电网、输水管等设施巡查，及时上调供暖温度。辽宁盘锦、营口的河口浅滩海域出现海冰分布，标志渤海辽东湾进入海冰期。当地海事等部门组织当地居民提前做好生活、生产等物资准备。  目前，本轮寒潮影响已步入尾声，明天开始到6日，从东北到江南的大部地区气温将陆续回升，逐步转为较常年同期偏高，冷暖差异较大，气象部门提醒公众及时增减衣物。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "寒潮导致供暖需求增加，电力和供热企业受益",
+      "keywords": [
+        "供暖",
+        "电力",
+        "供热"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "农业",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "极端天气可能对农作物造成损害，影响农产品供应",
+      "keywords": [
+        "农作物",
+        "损害",
+        "供应"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "华能国际",
+      "stockCode": "600011",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为大型电力供应商，受益于供暖需求增加",
+      "relatedIndustries": [
+        "能源",
+        "电力"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "新希望",
+      "stockCode": "000876",
+      "exchange": "SZSE",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "极端天气可能对其农业生产造成不利影响",
+      "relatedIndustries": [
+        "农业",
+        "食品"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "天然气",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "供暖需求增加推动天然气价格上涨",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "玉米",
+      "exchange": "大商所",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "极端天气可能导致玉米减产，但短期内价格波动有限",
+      "priceDirection": "down",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期极端天气对国债市场影响较小，货币政策保持稳定",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "寒潮导致能源行业受益，农业面临一定压力。建议关注能源相关企业和期货商品的投资机会。",
+  "analyzedAt": "2025-12-04T06:33:59.888Z",
+  "modelVersion": "qwen-max"
+}

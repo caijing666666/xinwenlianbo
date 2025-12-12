@@ -1,0 +1,123 @@
+{
+  "newsId": "2025-11-24-2",
+  "newsDate": "2025-11-24",
+  "newsTitle": "李强会见德国总理",
+  "newsContent": "当地时间11月23日，国务院总理李强在约翰内斯堡会见德国总理默茨。李强表示，今年5月，习近平主席同总理先生通话，就进一步深化双边关系指明了方向。中方愿同德方加强战略沟通，坚持尊重彼此核心利益和重大关切，打牢两国关系发展的政治基础，拓展各领域务实合作，不断丰富双边关系内涵。希望德方推动欧盟坚持对华伙伴定位，加强对华合作。中方愿同德方加强多边沟通协调，推动完善全球治理，维护多边主义和自由贸易，做促进和平与发展的建设性、确定性力量。默茨表示，德方重视发展对华关系，相信中国“十五五”规划将为德国和欧盟带来机遇，愿拉紧双边合作纽带，加强多边事务沟通，维护自由贸易，促进全球和平稳定发展。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中德合作加强，德国重视中国“十五五”规划带来的机遇，可能促进新能源技术交流与合作。",
+      "keywords": [
+        "新能源",
+        "合作",
+        "技术交流"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "汽车",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中德在汽车领域的合作有望进一步深化，特别是在电动汽车和智能网联汽车方面。",
+      "keywords": [
+        "汽车",
+        "电动汽车",
+        "智能网联"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "半导体",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中德在高科技领域的合作可能涉及半导体产业，推动技术创新和市场拓展。",
+      "keywords": [
+        "半导体",
+        "技术创新",
+        "市场拓展"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池龙头企业，受益于中德在新能源领域的合作。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "比亚迪",
+      "stockCode": "002594",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为新能源汽车制造商，受益于中德在汽车领域的合作。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE STAR",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "作为半导体制造企业，受益于中德在高科技领域的合作。",
+      "relatedIndustries": [
+        "半导体"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中德合作可能带动基础设施建设和制造业发展，增加对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "铁矿石",
+      "exchange": "大商所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中德合作可能推动基础设施建设，增加对钢铁的需求，从而推高铁矿石价格。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "中德合作对宏观经济的影响较为温和，短期内对国债收益率影响不大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "中德合作加强利好新能源、汽车和半导体行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:08:42.014Z",
+  "modelVersion": "qwen-max"
+}

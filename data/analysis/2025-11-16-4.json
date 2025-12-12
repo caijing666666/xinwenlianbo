@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-11-16-4",
+  "newsDate": "2025-11-16",
+  "newsTitle": "【权威访谈】扎实推动经济高质量发展",
+  "newsContent": "“十五五”规划《建议》，把推动高质量发展确定为“十五五”时期经济社会发展的主题。今天（11月16日）的《权威访谈》从扩大高水平对外开放、农业农村现代化建设等方面进行解读。坚持开放合作、互利共赢是中国式现代化的必然要求。《建议》围绕扩大高水平对外开放，开创合作共赢新局面作出一系列重要部署，强调以开放促改革促发展，与世界各国共享机遇、共同发展。农业农村现代化关系中国式现代化全局和成色。《建议》提出“加快农业农村现代化，扎实推进乡村全面振兴”，强调促进城乡融合发展，持续巩固拓展脱贫攻坚成果，推动农村基本具备现代生活条件，加快建设农业强国。推动经济持续健康发展是当前和未来一段时间经济建设的重要着力点。《建议》全面贯彻习近平新时代中国特色社会主义思想，既是在激烈国际竞争中赢得战略主动的重要支撑，也是基本实现社会主义现代化取得决定性进展的有力保障。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策强调推动高质量发展，扩大高水平对外开放，这将促进新能源行业的技术创新和国际合作。",
+      "keywords": [
+        "高质量发展",
+        "对外开放",
+        "技术创新"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "农业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "《建议》提出加快农业农村现代化，扎实推进乡村全面振兴，这将带动农业相关产业的发展。",
+      "keywords": [
+        "农业农村现代化",
+        "乡村振兴",
+        "城乡融合"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源政策利好电池企业，宁德时代作为行业龙头有望受益。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "隆平高科",
+      "stockCode": "000998",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "农业现代化政策利好种子企业，隆平高科作为种业龙头有望受益。",
+      "relatedIndustries": [
+        "农业",
+        "生物科技"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "农产品",
+      "exchange": "郑商所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "农业现代化政策将提升农产品的生产效率和质量，预计农产品期货价格将有所上涨。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前货币政策保持稳定，国债收益率预计维持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源和农业行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:51:00.244Z",
+  "modelVersion": "qwen-max"
+}

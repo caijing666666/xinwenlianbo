@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-11-03-0",
+  "newsDate": "2025-11-03",
+  "newsTitle": "应习近平邀请 西班牙国王将访华",
+  "newsContent": "应国家主席习近平邀请，西班牙国王费利佩六世将于11月10日至13日对中国进行国事访问。",
+  "industryImpacts": [
+    {
+      "industryName": "贸易",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "西班牙国王访华可能促进中西两国之间的经贸合作，增加双边贸易额。",
+      "keywords": [
+        "贸易",
+        "合作",
+        "增长"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "高层互访有助于增进两国人民的相互了解，推动旅游业发展。",
+      "keywords": [
+        "旅游",
+        "文化交流",
+        "游客"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的旅游服务提供商，有望从此次访问带来的旅游热潮中受益。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中远海控",
+      "stockCode": "601919",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "作为全球领先的航运企业之一，可能会因中西贸易量的增长而获得更多的运输订单。",
+      "relatedIndustries": [
+        "贸易",
+        "物流"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内此类外交活动对债券市场影响有限，但长期来看，若能促进经济增长，则有利于降低债务风险。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 60,
+  "summary": "西班牙国王访华预计会对中国的贸易和旅游行业产生积极影响，相关领域内的公司股票或有上涨空间。",
+  "analyzedAt": "2025-11-29T12:53:24.558Z",
+  "modelVersion": "qwen-max"
+}

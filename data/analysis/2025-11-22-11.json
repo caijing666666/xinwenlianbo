@@ -1,0 +1,67 @@
+{
+  "newsId": "2025-11-22-11",
+  "newsDate": "2025-11-22",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "红十字国际委员会将被迫裁员红十字国际委员会21日宣布，该组织将在2026年削减17%的预算，受此影响，将在全球范围内裁减约2900个岗位。红十字国际委员会主席斯波利亚里茨表示，全球正面临武装冲突升级、援助资金大幅削减等挑战，严峻的财政状况正迫使该组织作出艰难取舍。据欧洲媒体报道，红十字国际委员会削减开支与美国减少对该机构的资助有关。美媒称升级版“星舰”火箭助推器爆炸美国太空探索技术公司21日称，该公司升级版“星舰”火箭的助推器在测试中出现异常，具体原因目前还未确定。据美国媒体报道，实时视频显示，助推器当天在测试过程中发生了爆炸。“星舰”火箭由“超级重型”助推器和“星舰”飞船两部分组成，在此前的测试中曾经发生过助推器爆炸、飞船解体、飞船失联等异常情况。       迪拜航展一架印度战机表演时坠毁在阿联酋迪拜参加航展的一架印度“光辉”轻型战斗机21日坠毁，飞行员死亡。目击者称，该战机在进行空中特技表演时突然快速坠落，起火爆炸。印度空军称，已着手调查事故原因。“光辉”战斗机为印度国产战机。去年，曾有一架该型战机在印度进行训练飞行时坠毁。",
+  "industryImpacts": [
+    {
+      "industryName": "航天航空",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "美国太空探索技术公司的升级版“星舰”火箭助推器在测试中爆炸，可能会影响市场对航天航空行业的信心。",
+      "keywords": [
+        "航天",
+        "火箭",
+        "爆炸"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "国防军工",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "印度国产战机“光辉”在迪拜航展坠毁，可能影响市场对国防军工行业的信任度。",
+      "keywords": [
+        "国防",
+        "战机",
+        "坠毁"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "SpaceX",
+      "stockCode": "N/A",
+      "exchange": "N/A",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "升级版“星舰”火箭的助推器在测试中发生爆炸，可能会影响投资者对该公司的信心。",
+      "relatedIndustries": [
+        "航天航空"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "Hindustan Aeronautics Limited (HAL)",
+      "stockCode": "HAL",
+      "exchange": "NSE",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "印度国产战机“光辉”在迪拜航展坠毁，可能会影响该公司股价。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "-1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 50,
+  "summary": "航天航空和国防军工行业受到负面新闻的影响，相关公司股价可能承压。",
+  "analyzedAt": "2025-11-29T10:26:40.481Z",
+  "modelVersion": "qwen-max"
+}

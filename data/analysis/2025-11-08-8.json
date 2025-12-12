@@ -1,0 +1,54 @@
+{
+  "newsId": "2025-11-08-8",
+  "newsDate": "2025-11-08",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "10月末我国外汇储备规模为33433亿美元截至2025年10月末，我国外汇储备规模为33433亿美元，较9月末上升47亿美元。国家外汇管理局表示，我国经济基础稳、优势多、韧性强、潜能大，有利于外汇储备规模保持基本稳定。650℃高效超超临界燃煤发电机组开工建设今天（11月8日），650℃高效超超临界燃煤发电机组在华能玉环电厂开工建设。项目建成后，将刷新世界范围内火电机组最高参数、最低煤耗纪录，大幅提升煤电清洁高效利用水平，每年可减排二氧化碳约45万吨。《好记者讲好故事—2025年中国记者节特别节目》今晚播出今天（11月8日）是第26个中国记者节，《好记者讲好故事—2025年中国记者节特别节目》今晚在总台央视综合频道黄金档播出。11位记者谈采访过程、说内心感受，展现新闻工作者记录奋进画卷，讲好中国故事的生动实践。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "650℃高效超超临界燃煤发电机组的建设将提升煤电清洁高效利用水平，有利于能源行业的长期发展。",
+      "keywords": [
+        "高效",
+        "超超临界",
+        "燃煤发电",
+        "减排"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "华能国际电力股份有限公司",
+      "stockCode": "600011",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为项目的主要参与者，华能国际电力有望从该项目中受益，提高其在清洁能源领域的竞争力。",
+      "relatedIndustries": [
+        "能源",
+        "电力"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "外汇储备规模保持稳定，表明宏观经济环境相对稳健，对国债市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "高效燃煤发电项目的启动利好能源行业及参与企业，但整体市场情绪仍需关注更多经济指标。",
+  "analyzedAt": "2025-11-29T13:23:21.808Z",
+  "modelVersion": "qwen-max"
+}

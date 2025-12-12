@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-12-11",
+  "newsDate": "2025-11-12",
+  "newsTitle": "哈马斯称其已完成停火协议第一阶段",
+  "newsContent": "巴勒斯坦伊斯兰抵抗运动（哈马斯）高级成员哈姆丹11日称，此前与以色列达成的阶段性停火协议只是“初步协议”，并非最终的全面协议。目前，哈马斯方面已经完成了停火协议第一阶段。哈姆丹还称，当前最大的危险来自以色列总理内塔尼亚胡提出的所谓“大以色列”计划，该计划对地区局势构成了深层威胁。阿巴斯称巴勒斯坦国宪法起草接近尾声巴勒斯坦总统阿巴斯11日在法国访问期间称，目前巴勒斯坦国宪法、选举法和政党法的起草已接近尾声。阿巴斯重申，加沙地带战事结束后将组织总统选举和议会选举。黎巴嫩真主党表示不会放下武器黎巴嫩真主党领导人卡西姆11日说，面对以色列持续的侵略行径，真主党不会保持沉默，“不会投降，也不会放下武器”。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "中东地区的紧张局势可能导致能源供应不稳定，增加能源价格波动的风险。",
+      "keywords": [
+        "能源",
+        "供应",
+        "不稳定"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "国防军工",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "地区冲突可能促使相关国家增加军费开支，利好国防军工行业。",
+      "keywords": [
+        "国防",
+        "军工",
+        "军费"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "中东地区局势紧张可能影响原油供应，导致成本上升。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "地区冲突可能促使相关国家增加军费开支，利好国防军工企业。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中东地区局势紧张可能导致原油供应减少，推高油价。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "地缘政治风险增加，避险情绪升温，推动黄金价格上涨。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内地缘政治风险对国债市场影响有限，但需关注长期影响。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "中东地区局势紧张对能源和国防军工行业产生一定影响，建议关注相关企业的短期波动。",
+  "analyzedAt": "2025-11-29T11:12:32.713Z",
+  "modelVersion": "qwen-max"
+}

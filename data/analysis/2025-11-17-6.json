@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-11-17-6",
+  "newsDate": "2025-11-17",
+  "newsTitle": "前10个月我国中西部地区潜能释放 外贸实现较快增长",
+  "newsContent": "今年前10个月，我国中西部地区货物贸易进出口6.68万亿元，外贸增速继续领跑全国。今年前10个月，中部6省货物贸易进出口总值3.18万亿元，同比增长9.52%。中部地区外贸“新”意十足，“新三样”产品出口增长47.35%。其中，电动汽车增长125.39%，高新技术产品占中部地区出口总值近三成。前10个月，我国西部12省区市货物贸易进出口3.5万亿元，创历史同期新高，同比增长8.9%。西部地区对共建“一带一路”国家进出口2.2万亿元，占同期西部地区外贸总值超六成。民营企业继续担当外贸主力军，外商投资企业、国有企业进出口增速均超10%。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "中西部地区电动汽车出口增长显著，表明新能源汽车市场需求强劲，利好新能源行业。",
+      "keywords": [
+        "电动汽车",
+        "出口增长",
+        "新能源"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "高新技术",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中部地区高新技术产品出口占比近三成，显示高新技术产业在外贸中的重要性提升。",
+      "keywords": [
+        "高新技术",
+        "出口",
+        "占比"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池龙头企业，受益于电动汽车出口增长。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "比亚迪",
+      "stockCode": "002594",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为新能源汽车制造商，受益于电动汽车出口增长。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "电动汽车和高新技术产品需求增加，可能带动铜等原材料需求上升。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然外贸增长利好经济，但短期内对债券市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "中西部地区外贸增长特别是新能源和高新技术产品出口增长，利好相关行业和企业。建议关注新能源和高新技术领域的投资机会。",
+  "analyzedAt": "2025-11-29T10:47:18.104Z",
+  "modelVersion": "qwen-max"
+}

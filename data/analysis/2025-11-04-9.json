@@ -1,0 +1,99 @@
+{
+  "newsId": "2025-11-04-9",
+  "newsDate": "2025-11-04",
+  "newsTitle": "第八届进博会明天开幕 各项工作准备就绪",
+  "newsContent": "第八届中国国际进口博览会将于明天（11月5日）在上海开幕，目前各项工作已全部准备就绪。 今年进博会期间，全球十大工业电气企业、四大粮商等行业龙头企业以及众多细分领域领军企业等将携手参展，展出新产品、新技术、新服务461项。展会期间，还将举办第八届虹桥国际经济论坛，包括主论坛及33场分论坛和闭门会等活动。各项服务保障均已准备就绪。首次融入数字孪生与AI智慧决策模型，进行实时用电评估与故障预测。 此外，中央广播电视总台设立在上海北外滩的旋转演播室已正式启用，将通过全方位、多视角的全媒体报道，充分展现进博会盛况。",
+  "industryImpacts": [
+    {
+      "industryName": "电气设备",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "全球十大工业电气企业参展，展示新产品、新技术，有望推动行业创新和发展。",
+      "keywords": [
+        "工业电气",
+        "新产品",
+        "新技术"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "农业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "四大粮商等行业龙头企业参展，有助于提升农产品贸易和技术交流。",
+      "keywords": [
+        "四大粮商",
+        "农产品",
+        "贸易"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "科技",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "展会期间将展示多项新技术和新服务，有利于科技行业的创新发展。",
+      "keywords": [
+        "新技术",
+        "新服务",
+        "创新"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "上海电气",
+      "stockCode": "601727",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的电气设备制造商，进博会的举办将为其带来更多的合作机会和市场曝光。",
+      "relatedIndustries": [
+        "电气设备"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中粮集团",
+      "stockCode": "000031",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为中国最大的粮油食品企业之一，进博会将促进其与国际粮商的合作，提升市场份额。",
+      "relatedIndustries": [
+        "农业"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "大豆",
+      "exchange": "大商所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "四大粮商参展，可能增加大豆等农产品的需求预期。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "进博会对宏观经济的影响较为间接，短期内对国债收益率影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "进博会的举办将对电气设备、农业和科技等行业产生积极影响，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T12:49:52.979Z",
+  "modelVersion": "qwen-max"
+}

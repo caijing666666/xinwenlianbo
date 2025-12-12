@@ -1,0 +1,88 @@
+{
+  "newsId": "2025-11-17-11",
+  "newsDate": "2025-11-17",
+  "newsTitle": "日本各界批评高市早苗错误言行",
+  "newsContent": "日本各界及国际社会批评日本首相高市早苗错误言论危害地区稳定，祸及日本自身。日本最大在野党——立宪民主党众议员小泽一郎表示，高市攻击性言论足以引发日中关系受损、国民感情恶化、进出口贸易减少、人员往来受限等一系列负面后果。日本外务省前审议官田中均告诫，无论是日本干预台海局势，还是修改“无核三原则”，这些事关国家存亡的言论岂能如此轻率地脱口而出？如果高市继续这种轻率的行为，将令国家陷入无可挽回的危机。国际人士称高市错误言论亵渎历史正义韩国韩中城市友好协会会长权起植说，高市涉台言论是亵渎历史正义、重新包装军国主义，其真正意图是要为日本未来军事扩张铺路，这些政治操作必将遭到地区国家的反对。阿根廷地缘政治研究所所长鲁文·古泽蒂表示，联合国大会第2758号决议明确世界上只有一个中国，台湾是中国的一部分，这是国际关系的基本准则之一。日本领导人应保持理性，台湾问题如何解决完全取决于中国人民自己，不容任何外部势力干涉。中国政府对此予以坚定回应完全正当。",
+  "industryImpacts": [
+    {
+      "industryName": "出口贸易",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "高市早苗的言论可能导致中日关系恶化，影响两国之间的进出口贸易。",
+      "keywords": [
+        "中日关系",
+        "进出口贸易",
+        "负面影响"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游业",
+      "impactScore": 65,
+      "impactType": "negative",
+      "reasoning": "中日关系紧张可能限制人员往来，对旅游业造成不利影响。",
+      "keywords": [
+        "人员往来",
+        "旅游业",
+        "负面影响"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国远洋海运集团有限公司",
+      "stockCode": "601919",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "中日关系恶化可能影响航运和物流业务。",
+      "relatedIndustries": [
+        "出口贸易",
+        "航运"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "中国国旅股份有限公司",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "negative",
+      "reasoning": "中日关系紧张可能限制人员往来，对旅游业务造成不利影响。",
+      "relatedIndustries": [
+        "旅游业"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "-1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "中日关系恶化可能影响铜的需求，尤其是来自日本的需求。",
+      "priceDirection": "down",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内中日关系紧张对国债市场的影响有限，但需关注长期风险。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 50,
+  "summary": "高市早苗的言论可能导致中日关系恶化，对出口贸易、旅游业及相关企业产生负面影响。建议谨慎投资相关行业和公司。",
+  "analyzedAt": "2025-11-29T10:48:46.235Z",
+  "modelVersion": "qwen-max"
+}

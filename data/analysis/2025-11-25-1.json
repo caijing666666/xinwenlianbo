@@ -1,0 +1,25 @@
+{
+  "newsId": "2025-11-25-1",
+  "newsDate": "2025-11-25",
+  "newsTitle": "习近平举行仪式欢迎汤加国王访华",
+  "newsContent": "国家主席习近平25日上午在人民大会堂北大厅举行仪式，欢迎汤加王国国王图普六世对我国进行国事访问。天安门广场上鸣礼炮21响。习近平主席夫人彭丽媛出席欢迎仪式。陪同图普六世访华的有王后、卫生大臣、驻华大使等。中共中央政治局委员、中央外事工作委员会办公室主任王毅等出席。军乐团奏汤中两国国歌。图普六世在习近平陪同下检阅中国人民解放军仪仗队。两国元首回到检阅台观看仪仗队分列式。图普六世是应习近平的邀请对我国进行国事访问的。",
+  "industryImpacts": [],
+  "companyImpacts": [],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "此次访问属于外交活动，对债券市场影响较小，预计货币政策保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 30,
+  "summary": "汤加国王访华主要为外交活动，对资本市场整体影响有限。",
+  "analyzedAt": "2025-11-29T10:02:31.632Z",
+  "modelVersion": "qwen-max"
+}

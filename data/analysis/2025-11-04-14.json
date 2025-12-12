@@ -1,0 +1,133 @@
+{
+  "newsId": "2025-11-04-14",
+  "newsDate": "2025-11-04",
+  "newsTitle": "《联合国气候变化框架公约》秘书处执行秘书表示中国宣布新一轮国家自主贡献是应对气候变化重要时刻",
+  "newsContent": "《联合国气候变化框架公约》秘书处执行秘书西蒙·斯蒂尔3日发表书面声明说，中国宣布新一轮国家自主贡献是全球共同应对气候变化努力中的重要时刻。斯蒂尔说，习近平主席在不久前举行的联合国气候变化峰会上指出，绿色低碳转型是时代潮流，习主席的讲话令人感到鼓舞。讲话精神在中国提交的国家自主贡献中得到充分体现。斯蒂尔说，中国的国家自主贡献将以前所未有的规模提供清洁、可靠且价格合理的能源，并通过降低清洁技术成本和推动创新来加速能源转型。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "中国宣布新一轮国家自主贡献，将以前所未有的规模提供清洁、可靠且价格合理的能源，并通过降低清洁技术成本和推动创新来加速能源转型。这将直接利好新能源行业。",
+      "keywords": [
+        "清洁能源",
+        "技术创新",
+        "政策支持"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "电力设备",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "随着新能源的发展，对电力设备的需求也将增加，包括风力发电设备、光伏发电设备等。",
+      "keywords": [
+        "电力设备",
+        "需求增长",
+        "技术创新"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "传统能源",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "随着新能源的快速发展，传统能源如煤炭、石油等的需求可能会受到一定影响。",
+      "keywords": [
+        "传统能源",
+        "需求减少",
+        "替代效应"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为全球领先的锂电池制造商，宁德时代将受益于新能源汽车市场的快速增长。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为光伏行业的龙头企业，隆基股份将受益于光伏装机量的增加。",
+      "relatedIndustries": [
+        "新能源",
+        "电力设备"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国神华",
+      "stockCode": "601088",
+      "exchange": "SSE",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "作为煤炭行业的龙头企业，中国神华可能受到新能源发展的冲击，煤炭需求或有所下降。",
+      "relatedIndustries": [
+        "传统能源",
+        "煤炭"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-2-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "新能源发展将带动电力设备和电动汽车的需求，从而增加对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "新能源的发展可能会减少对传统化石燃料的需求，从而对原油价格产生负面影响。",
+      "priceDirection": "down",
+      "confidence": 0.65
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "短期内货币政策保持稳定，国债收益率预计不会有大的波动。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "新能源及相关产业链的企业债可能因行业发展前景良好而受到投资者青睐。",
+      "yieldDirection": "down",
+      "riskLevel": "moderate",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源行业，相关企业和商品期货有望受益，建议关注龙头企业。同时，传统能源行业可能面临一定压力。",
+  "analyzedAt": "2025-11-29T12:52:08.648Z",
+  "modelVersion": "qwen-max"
+}

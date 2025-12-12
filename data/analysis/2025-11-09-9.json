@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-11-09-9",
+  "newsDate": "2025-11-09",
+  "newsTitle": "国际人士高度赞赏中国绿色发展成果",
+  "newsContent": "为期两天的贝伦气候峰会7日在巴西落下帷幕。会议通过了一份气候行动宣言，呼吁加强国际合作、加速集体行动，应对气候变化。包括中国在内的40多个国家和欧盟共同签署了这份宣言。会议期间，国际人士对中国绿色发展成果表示高度赞赏。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "国际社会对中国绿色发展成果的高度赞赏，表明中国在新能源领域的政策和投资将继续得到支持，这将促进新能源行业的发展。",
+      "keywords": [
+        "绿色发展",
+        "国际合作",
+        "政策支持"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "环保",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "随着全球对气候变化的关注度提高，中国的环保产业将迎来更多的发展机遇。",
+      "keywords": [
+        "气候变化",
+        "国际合作",
+        "环保技术"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源汽车电池的领先企业，宁德时代将受益于国家对绿色发展的持续支持。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为光伏行业的龙头企业，隆基股份有望从政府对可再生能源的支持中获益。",
+      "relatedIndustries": [
+        "新能源",
+        "光伏"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "新能源和环保产业的发展将增加对铜的需求，从而推动铜价上涨。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然绿色发展政策可能带来长期经济增长，但短期内对国债市场的影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源及环保行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T11:24:37.983Z",
+  "modelVersion": "qwen-max"
+}

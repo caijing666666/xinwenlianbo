@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-13-006",
+  "newsDate": "2025-11-13",
+  "newsTitle": "张国清同西班牙国王费利佩六世共同出席中西企业顾问委员会第三次会议",
+  "newsContent": "首页\n        |\n        简\n        |\n        繁\n        |\n        EN\n        |\n        登录\n        \n          \n          \n            个人中心\n            退出\n          \n        \n        |\n        邮箱\n        |\n        无障碍\n\n      \n    \n  \n  \n    \n    EN\n    \n      \n      \n    \n\n    \n      \n        \n          \n          \n        \n        \n          function goSearch(event) {\n            var e = window.event || event;\n            if(e.preventDefault){\n              e.preventDefault();\n            }else{\n              e.returnValue=false;\n            }\n            var s = '', m = document.querySelector('.header .pchide [name=headSearchword]');\n            s = m.offsetHeight > 0 ? m.value : document.querySelector('.header .mhide [name=headSearchword]').value;\n            // 市场主体 dataTypeId=14\n            if (s == '市场主体') {\n              url = '//sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=14&searchWord=' + s;\n            } else {\n              url = '//sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=107&searchWord=' + encodeURIComponent(s);\n            }\n            window.open(url, '_blank');\n          }\n          function listenerKeyUpEventFn(){\n            if(event.keyCode==13){\n              goSearch();\n            };\n          }",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中西企业顾问委员会会议可能促进两国间的贸易合作，增加市场机会。",
+      "keywords": [
+        "贸易",
+        "合作",
+        "市场机会"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中西合作可能涉及基础设施项目，如港口、铁路等，推动相关行业发展。",
+      "keywords": [
+        "基础设施",
+        "项目",
+        "投资"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国交建",
+      "stockCode": "601800",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为基础设施建设领域的龙头企业，有望受益于中西合作带来的新项目。",
+      "relatedIndustries": [
+        "基础设施建设",
+        "建筑"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "招商港口",
+      "stockCode": "001872",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "港口运营公司可能从加强的中西贸易关系中获益。",
+      "relatedIndustries": [
+        "国际贸易",
+        "物流"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内对债券市场影响有限，但长期来看，若中西合作带来经济增长，可能会对国债收益率产生正面影响。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.65
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中西企业顾问委员会会议可能促进两国间贸易和基础设施建设的合作，相关行业和公司有望受益。",
+  "analyzedAt": "2025-12-12T03:29:15.952Z",
+  "modelVersion": "qwen-max"
+}

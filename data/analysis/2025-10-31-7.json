@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-10-31-7",
+  "newsDate": "2025-10-31",
+  "newsTitle": "丁薛祥将访问乌拉圭、巴西并作为习近平主席特别代表出席贝伦气候峰会",
+  "newsContent": "应乌拉圭、巴西政府邀请，中共中央政治局常委、国务院副总理丁薛祥将于11月3日至5日访问乌拉圭、巴西。应巴西总统卢拉邀请，丁薛祥副总理将作为习近平主席特别代表于11月6日出席贝伦气候峰会。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "丁薛祥副总理出席贝伦气候峰会，表明中国在气候变化和可持续发展方面的积极态度，这将推动新能源行业的发展。",
+      "keywords": [
+        "气候变化",
+        "可持续发展",
+        "政策支持"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "环保",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "气候峰会的参与将进一步加强环境保护政策，促进环保技术和服务的需求增长。",
+      "keywords": [
+        "环保政策",
+        "技术需求",
+        "服务需求"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池领域的龙头企业，宁德时代将受益于新能源政策的支持。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为光伏行业的领先企业，隆基股份将受益于全球对可再生能源的关注和投资增加。",
+      "relatedIndustries": [
+        "新能源",
+        "光伏"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "新能源和环保产业的发展将带动铜等金属的需求增长。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "短期内货币政策保持稳定，国债收益率预计不会有显著变化。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "丁薛祥副总理出席贝伦气候峰会，利好新能源和环保行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T13:15:55.600Z",
+  "modelVersion": "qwen-max"
+}

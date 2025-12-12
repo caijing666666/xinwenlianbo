@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-11-05-10",
+  "newsDate": "2025-11-05",
+  "newsTitle": "美参院再次未通过临时拨款法案 美政府“停摆”时间创纪录",
+  "newsContent": "4日，美国国会参议院第14次对共和党提出已获众议院通过的临时拨款法案进行投票。法案依旧未获得所需的60票支持。美国联邦政府“停摆”就此进入第36天，创下新纪录。民主共和两党拉锯持续 美民众指责党争撕裂社会参议院共和党领袖图恩4日称，民主党人的所作所为让美国民众的生活每况愈下。参议院民主党领袖舒默则称，共和党人应为美国民众医疗福利受损负责。此外，美国交通部长达菲4日再次警告称，如果“停摆”再持续一周，政府或将关闭部分空域。因民主、共和两党分歧严重，经常无法就拨款法案达成一致，迄今为止，美国已出现至少15次政府“停摆”。",
+  "industryImpacts": [
+    {
+      "industryName": "航空",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "美国政府停摆可能导致部分空域关闭，影响航班运营和旅客出行。",
+      "keywords": [
+        "政府停摆",
+        "空域关闭",
+        "航班运营"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 65,
+      "impactType": "negative",
+      "reasoning": "政府停摆导致的航班延误和取消可能减少国际游客数量，对旅游业造成负面影响。",
+      "keywords": [
+        "政府停摆",
+        "航班延误",
+        "旅游业"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "美国政府停摆可能导致部分空域关闭，影响航班运营和旅客出行，进而影响公司业绩。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "携程旅行网",
+      "stockCode": "CTRP",
+      "exchange": "NASDAQ",
+      "impactScore": 65,
+      "impactType": "negative",
+      "reasoning": "政府停摆导致的航班延误和取消可能减少国际游客数量，对旅游业造成负面影响，从而影响公司业务。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "-1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然政府停摆可能影响航空业需求，但整体供需关系未发生显著变化。",
+      "priceDirection": "stable",
+      "confidence": 0.6
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 40,
+      "impactType": "neutral",
+      "reasoning": "美国政府停摆对中国国债市场直接影响较小，主要受国内经济政策和市场情绪影响。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 50,
+  "summary": "美国政府停摆对航空和旅游行业产生负面影响，相关企业股价可能承压。期货和债券市场影响相对较小，整体市场情绪偏谨慎。",
+  "analyzedAt": "2025-11-29T12:45:27.603Z",
+  "modelVersion": "qwen-max"
+}

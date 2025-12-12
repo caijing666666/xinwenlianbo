@@ -1,0 +1,101 @@
+{
+  "newsId": "2025-11-11-12",
+  "newsDate": "2025-11-11",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "2025年度中央安全生产考核巡查启动2025年度中央安全生产考核巡查近日启动，22个中央考核巡查组陆续进驻各地，聚焦落实安全生产责任情况，同步核查前期掌握的问题隐患线索，坚决防范遏制重特大生产安全事故发生。12月，各巡查组还将对40个国务院安委会成员单位开展现场考核巡查。《慈善组织公开募捐方案备案指引（试行）》今天印发今天（11月11日），民政部印发《慈善组织公开募捐方案备案指引（试行）》，要求慈善组织开展公开募捐活动前，要履行内部决策程序并提交募捐方案、慈善组织承诺书等备案材料，进一步规范慈善组织公开募捐行为。2035年我国将基本建成适配高比例新能源的新型电力系统国家发展改革委、国家能源局日前发布促进新能源消纳和调控的指导意见，提出到2030年基本建立多层次新能源消纳调控体系，满足全国每年新增2亿千瓦以上新能源合理消纳需求；到2035年基本建成适配高比例新能源的新型电力系统。“陇电入浙”甘肃武威段750千伏输变电工程架线施工“陇电入浙”甘肃武威段750千伏输变电工程日前进入架线施工阶段，该工程全长约234公里，新建铁塔504座，是连接甘肃河西地区大型风光电基地与新能源外送通道的关键枢纽工程，投运后将满足新能源上网需求。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "国家发展改革委和国家能源局发布的指导意见明确支持新能源消纳和调控，到2035年基本建成适配高比例新能源的新型电力系统，这将极大促进新能源行业的发展。",
+      "keywords": [
+        "新能源",
+        "政策支持",
+        "电力系统"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "电力设备",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "随着“陇电入浙”甘肃武威段750千伏输变电工程的推进，电力设备需求将增加，利好相关企业。",
+      "keywords": [
+        "电力设备",
+        "基础设施建设",
+        "输变电工程"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "慈善组织",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "民政部印发《慈善组织公开募捐方案备案指引（试行）》旨在规范慈善组织公开募捐行为，对行业整体影响中性，但可能增加合规成本。",
+      "keywords": [
+        "慈善组织",
+        "募捐",
+        "监管"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池龙头企业，受益于国家对新能源行业的大力支持，未来增长潜力巨大。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "特变电工",
+      "stockCode": "600089",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "公司主营电力设备制造与销售，受益于“陇电入浙”等大型电力工程项目，有望获得新的订单。",
+      "relatedIndustries": [
+        "电力设备",
+        "基础设施建设"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "电力设备及新能源项目的推进将增加对铜的需求，预计铜价将有所上涨。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前宏观经济环境稳定，货币政策未见明显调整信号，国债收益率预计保持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T11:17:42.324Z",
+  "modelVersion": "qwen-max"
+}

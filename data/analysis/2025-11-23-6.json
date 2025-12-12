@@ -1,0 +1,168 @@
+{
+  "newsId": "2025-11-23-6",
+  "newsDate": "2025-11-23",
+  "newsTitle": "前10个月国家铁路货运量创新高",
+  "newsContent": "记者从国铁集团获悉，今年1至10月，国家铁路累计发送货物33.78亿吨，同比增长3%，创历史同期新高。跨境货物运输增幅明显。1至10月，中欧、中亚班列累计开行2.8万列，同比增长7.8%；西部陆海新通道班列累计发送集装箱120万标箱，同比增长64%，促进国际商贸往来。重点物资运输开辟绿色通道。1至10月，国家铁路完成煤炭运量17.32亿吨，其中电煤运量11.78亿吨，冶炼物资、粮食发送量同比分别增长9.1%、13.8%，助力经济平稳运行。1至10月，铁水联运“一单制”物流产品累计订舱3万标箱，国家铁路累计发送铁水联运集装箱货物1425.8万标箱，同比增长16.2%，有效降低全社会物流成本。",
+  "industryImpacts": [
+    {
+      "industryName": "物流",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "铁路货运量创新高，跨境货物运输增幅明显，铁水联运增长显著，有助于降低全社会物流成本。",
+      "keywords": [
+        "铁路货运",
+        "跨境运输",
+        "铁水联运"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "煤炭",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "煤炭运量同比增长，电煤运量增加，有助于保障能源供应和经济平稳运行。",
+      "keywords": [
+        "煤炭运量",
+        "电煤",
+        "能源供应"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "钢铁",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "冶炼物资发送量同比增长，有助于钢铁行业的原材料供应。",
+      "keywords": [
+        "冶炼物资",
+        "钢铁",
+        "原材料供应"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "农业",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "粮食发送量同比增长，有助于农产品的流通和市场供应。",
+      "keywords": [
+        "粮食",
+        "农产品",
+        "市场供应"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国铁路",
+      "stockCode": "601106",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "铁路货运量创新高，公司业绩有望提升。",
+      "relatedIndustries": [
+        "物流",
+        "交通运输"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中远海控",
+      "stockCode": "601919",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "铁水联运增长显著，有助于公司业务拓展。",
+      "relatedIndustries": [
+        "物流",
+        "航运"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国神华",
+      "stockCode": "601088",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "煤炭运量增加，有助于公司煤炭销售。",
+      "relatedIndustries": [
+        "煤炭",
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    },
+    {
+      "companyName": "宝钢股份",
+      "stockCode": "600019",
+      "exchange": "SSE",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "冶炼物资发送量增加，有助于公司原材料供应。",
+      "relatedIndustries": [
+        "钢铁",
+        "制造业"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-2%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "煤炭",
+      "exchange": "郑商所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "煤炭运量增加，需求预期上升。",
+      "priceDirection": "up",
+      "confidence": 0.85
+    },
+    {
+      "commodity": "铁矿石",
+      "exchange": "大商所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "冶炼物资发送量增加，需求预期上升。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "农产品",
+      "exchange": "郑商所",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "粮食发送量增加，需求预期上升。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "铁路货运量增加对整体经济有正面影响，但对企业债市场直接影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "地方债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "铁路货运量增加对地方经济有正面影响，但对地方债市场直接影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "铁路货运量创新高，物流、煤炭、钢铁、农业等行业受益，相关企业和商品期货有望上涨，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:17:53.004Z",
+  "modelVersion": "qwen-max"
+}

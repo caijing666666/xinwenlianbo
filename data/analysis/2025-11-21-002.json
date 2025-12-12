@@ -1,0 +1,133 @@
+{
+  "newsId": "2025-11-21-002",
+  "newsDate": "2025-11-21",
+  "newsTitle": "《携手迈向生态友好的现代化——习近平生态文明思想对全球可持续发展的理论贡献与实践引领》智库报告发布",
+  "newsContent": "这是《携手迈向生态友好的现代化——习近平生态文明思想对全球可持续发展的理论贡献与实践引领》智库报告。新华社记者 陈晔华 摄  新华社成都11月21日电（记者张海磊）由新华社国家高端智库和习近平生态文明思想研究中心共同撰写的智库报告《携手迈向生态友好的现代化——习近平生态文明思想对全球可持续发展的理论贡献与实践引领》，21日在成都举行的2025全球熊猫伙伴大会上面向全球发布。当日，同主题智库报告也在北京举行的全球南方现代化论坛上进行发布。  智库报告约1.6万字，共三个部分，聚焦习近平生态文明思想的深远世界意义，深刻阐明这一思想对全球可持续发展理念的借鉴和超越，系统梳理推动全球可持续发展的中国方案、中国经验、中国倡议，呼吁共建、共创全球生态文明，启迪世界各国携手迈向生态友好的现代化。  地球是人类赖以生存的唯一家园。随着人类社会的飞速发展，气候变化、生物多样性丧失、环境污染“三重危机”的现实挑战愈发严峻，传统现代化模式陷入了难以为继的生态困局。当人类文明行至历史的十字路口，全球可持续发展该何去何从？  报告认为，习近平生态文明思想是马克思主义基本原理同中国生态文明建设实践相结合、同中华优秀传统生态文化相结合的重大成果，科学回答了生态文明建设的中国之问、世界之问、人民之问、时代之问。  报告指出，在习近平生态文明思想的科学指引下，中国既坚定走好人与自然和谐共生的中国式现代化道路，也以大国担当坚持做全球生态文明建设的重要参与者、贡献者、引领者，为全球可持续发展注入强大的确定性。  在中国绿色实践的基础上，报告提炼出一套系统完整、科学有效、可供借鉴的生态文明建设经验，即以国家意志推动生态文明理念融入经济社会发展宏观战略，以治理体系变革筑牢可持续发展的制度根基和保障，以科技创新提升可持续发展的内生动能，以天下情怀汇聚可持续发展的全球合力。  当生态危机成为威胁人类生存发展的巨大挑战，建设清洁美丽可持续家园的任务变得更加紧迫。报告呼吁，各国应携手共建清洁美丽可持续世界。站在新的历史起点上，中国将继续秉持开放包容、合作共赢的原则，以务实行动推动全球可持续发展、携手世界各国共赴生态友好的现代化。  在2025全球熊猫伙伴大会上，报告由新华通讯社总编辑、新华社国家高端智库学术委员会副主任吕岩松主持发布。这是继2024年11月新华社国家高端智库和习近平生态文明思想研究中心在成都发布《让世界读懂美丽中国的“绿色密码”——习近平生态文明思想的中国实践与世界贡献》后，又一对习近平生态文明思想进行阐释的重磅智库报告。 【纠错】    【责任编辑:邱丽芳】  新闻链接 全文丨携手迈向生态友好的现代化——习近平生态文明思想对全球可持续发展的理论贡献与实践引领  2025-11-21 阅读下一篇：",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "报告强调了生态文明建设和可持续发展，政策支持新能源行业的发展，推动清洁能源和绿色技术的应用。",
+      "keywords": [
+        "生态文明",
+        "可持续发展",
+        "清洁能源"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "环保",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "报告提到中国在环境保护方面的努力，相关政策将促进环保行业的投资和发展。",
+      "keywords": [
+        "环境保护",
+        "绿色发展",
+        "生态建设"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "传统能源",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "随着对生态文明的重视，传统能源行业可能会受到政策限制，需求可能下降。",
+      "keywords": [
+        "传统能源",
+        "政策限制",
+        "需求下降"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池龙头企业，受益于政策支持和市场需求增长。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为光伏行业的领军企业，受益于政策支持和市场需求增长。",
+      "relatedIndustries": [
+        "新能源",
+        "光伏"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国石化",
+      "stockCode": "600028",
+      "exchange": "SSE",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "作为传统能源企业，可能受到政策限制和市场需求下降的影响。",
+      "relatedIndustries": [
+        "传统能源",
+        "石油"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "随着对生态文明的重视，传统能源的需求可能下降，影响原油价格。",
+      "priceDirection": "down",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然新能源行业的发展会增加对铜的需求，但整体市场情绪较为中性。",
+      "priceDirection": "stable",
+      "confidence": 0.65
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "货币政策保持稳定，国债收益率预计不会有大的波动。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "绿色债券",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "随着对生态文明的重视，绿色债券的需求可能增加，收益率可能下降。",
+      "yieldDirection": "down",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源和环保行业，相关企业和商品期货有望受益，建议关注龙头企业。传统能源行业可能受到负面影响。",
+  "analyzedAt": "2025-12-12T03:04:18.497Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,132 @@
+{
+  "newsId": "2025-11-14-8",
+  "newsDate": "2025-11-14",
+  "newsTitle": "10月国民经济保持稳中有进发展态势",
+  "newsContent": "国务院新闻办公室今天（11月14日）举行新闻发布会，国家统计局发布数据显示，10月份，我国生产需求平稳增长，转型升级态势持续，国民经济保持了稳中有进的发展态势。10月份，规模以上工业增加值同比增长4.9%，继续保持总体稳定增长。装备制造业和高技术制造业增势较好，规模以上高技术制造业、数字产品制造业增加值分别同比增长7.2%和6.7%，工业机器人、集成电路产量同比分别增长17.9%和17.7%。1—10月份，规模以上装备制造业增加值同比增长9.5%，占规模以上工业比重达到36.1%。服务业平稳增长。10月份，服务业生产指数同比增长4.6%，增势平稳。信息传输、软件和信息技术服务业等现代服务业发展良好，增速快于全部服务业。在提振消费专项行动等政策带动下，市场销售规模扩大。10月份社会消费品零售总额同比增长2.9%，高能效等级家电、新能源汽车零售额保持较快增长；文体休闲服务类、旅游咨询租赁服务类零售额都保持两位数增长。10月份，就业形势总体稳定，全国城镇调查失业率为5.1%，比上月下降0.1个百分点。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "新能源汽车零售额保持较快增长，政策支持和市场需求推动行业发展。",
+      "keywords": [
+        "新能源汽车",
+        "零售额",
+        "增长"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "半导体",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "集成电路产量同比增长17.7%，显示行业需求强劲。",
+      "keywords": [
+        "集成电路",
+        "产量",
+        "增长"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "消费",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "社会消费品零售总额同比增长2.9%，高能效等级家电、文体休闲服务类、旅游咨询租赁服务类零售额保持两位数增长。",
+      "keywords": [
+        "消费品零售",
+        "增长",
+        "高能效"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源汽车行业增长带动电池企业受益。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "集成电路产量增长，利好半导体制造企业。",
+      "relatedIndustries": [
+        "半导体"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "美的集团",
+      "stockCode": "000333",
+      "exchange": "SZSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "高能效等级家电零售额增长，利好家电制造企业。",
+      "relatedIndustries": [
+        "消费",
+        "家电"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "装备制造业和高技术制造业增势较好，对铜等工业金属需求增加。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "铝",
+      "exchange": "上期所",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "装备制造业和高技术制造业增势较好，对铝等工业金属需求增加。",
+      "priceDirection": "up",
+      "confidence": 0.65
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "经济稳中有进，货币政策保持稳定，对国债市场影响不大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "经济增长态势良好，企业经营状况改善，信用风险降低。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源、半导体等行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T11:02:46.208Z",
+  "modelVersion": "qwen-max"
+}

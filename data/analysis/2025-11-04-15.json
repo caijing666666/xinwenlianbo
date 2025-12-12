@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-11-04-15",
+  "newsDate": "2025-11-04",
+  "newsTitle": "美政府“停摆”时间追平历史纪录 多领域影响持续扩大",
+  "newsContent": "美国联邦政府“停摆”今天（11月4日）进入第35天，追平发生在2018年底至2019年初特朗普首个总统任期内的政府“停摆”纪录。3日，代表美国主要航空公司的美国航空协会表示，“停摆”导致空管人员短缺问题加剧，已有超过320万美国旅客受到航班延误或取消的影响。美国交通部长达菲3日称，如果“停摆”使美国航空旅行变得不安全，政府或将关闭美国航空系统。美国旅游协会3日致信美国国会，敦促在年底出行高峰前尽快结束“停摆”，避免航空运输陷入全面混乱。一项覆盖美国4200万人的食品援助项目本月1日起因资金耗尽暂停发放救济金。美国政府方面3日称，将动用应急资金维持11月份50%的食品救济金发放。此外，美国共和、民主两党在医保福利支出问题上僵持不下是此轮联邦政府“停摆”的主要原因之一。与此相关的美国《平价医疗法案》医保的新一年度参保登记于本月1日启动。据美国媒体报道，如果法案涉及的政府补贴问题得不到解决，2026年度保费将大幅上涨，平均涨幅或高达114%。",
+  "industryImpacts": [
+    {
+      "industryName": "航空",
+      "impactScore": 90,
+      "impactType": "negative",
+      "reasoning": "美国政府停摆导致空管人员短缺，航班延误或取消影响旅客出行，可能对航空公司的收入和运营造成负面影响。",
+      "keywords": [
+        "政府停摆",
+        "航班延误",
+        "旅客出行"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 80,
+      "impactType": "negative",
+      "reasoning": "政府停摆导致的航班问题以及食品援助项目的暂停可能抑制民众的旅游意愿，从而对旅游业产生不利影响。",
+      "keywords": [
+        "旅游意愿",
+        "食品援助",
+        "出行高峰"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "医疗保健",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "医保福利支出问题上的僵持可能导致保费大幅上涨，增加个人和家庭的经济负担，进而影响医疗保健行业的消费能力。",
+      "keywords": [
+        "医保福利",
+        "保费上涨",
+        "经济负担"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "negative",
+      "reasoning": "作为国际航线较多的航空公司之一，美国政府停摆导致的航班问题可能会对其业务产生较大冲击。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "携程旅行网",
+      "stockCode": "CTRP",
+      "exchange": "NASDAQ",
+      "impactScore": 75,
+      "impactType": "negative",
+      "reasoning": "作为在线旅游服务提供商，美国政府停摆引发的航班问题及旅游意愿下降可能减少其订单量。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "-1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然美国政府停摆可能引起市场避险情绪上升，但考虑到当前货币政策环境相对稳定，预计对中国国债收益率的影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 50,
+  "summary": "美国政府长期停摆对航空、旅游等行业构成压力，相关企业股价可能承压；同时，国债市场预计保持稳定。",
+  "analyzedAt": "2025-11-29T12:52:31.429Z",
+  "modelVersion": "qwen-max"
+}

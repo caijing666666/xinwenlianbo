@@ -1,0 +1,94 @@
+{
+  "newsId": "2025-11-24-13",
+  "newsDate": "2025-11-24",
+  "newsTitle": "俄称控制三个居民点 乌称击落俄无人机",
+  "newsContent": "俄罗斯国防部23日称，俄军在顿涅茨克等地新控制了三个居民点。在红军城方向（乌称波克罗夫斯克），俄军继续在红军城中央区、矿工区及西部工业区打击被围乌军。乌克兰方面称，过去24小时，前线地区发生162次战斗。自22日晚至23日，乌防空部队击落或压制了数十架俄军无人机。美乌就结束俄乌冲突计划举行首轮会谈针对美方提出的结束俄乌冲突28点新计划，美国和乌克兰代表23日在瑞士日内瓦举行首轮会谈。美方代表称会谈“取得良好进展”，正就相关建议进行修改和调整。乌方表示会谈富有成效。此外，据媒体报道，欧洲方面23日就美方计划提出修改意见，包括反对领土让步和限制乌克兰武装力量的提议，反对美国有关如何使用俄被冻结资产的提议。俄罗斯总统新闻秘书佩斯科夫今天（11月24日）向媒体表示，俄方没有收到任何有关美国、乌克兰和欧洲国家在日内瓦会谈结果的相关消息，也不了解上述各方对美国提出的28点新计划进行的调整。俄方希望通过官方渠道获取相关信息。佩斯科夫同时表示，俄方对与美国开展沟通和谈判依然持开放立场。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突持续，可能增加对军事装备的需求，利好国防军工行业。",
+      "keywords": [
+        "军事装备",
+        "需求增加"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能导致能源价格波动，尤其是天然气和石油，利好能源行业。",
+      "keywords": [
+        "能源价格",
+        "波动"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国船舶",
+      "stockCode": "600150",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突持续，可能增加对军舰等军事装备的需求，利好中国船舶。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能导致能源价格波动，利好中石油。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能导致原油价格波动，预计短期内油价上涨。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能导致避险情绪上升，利好黄金价格。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 55,
+      "impactType": "neutral",
+      "reasoning": "地缘政治紧张局势可能引发市场避险情绪，但货币政策保持稳定，国债收益率预计保持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "俄乌冲突持续，利好国防军工和能源行业，相关企业和商品期货有望受益。建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:13:51.330Z",
+  "modelVersion": "qwen-max"
+}

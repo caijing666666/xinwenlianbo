@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-24-14",
+  "newsDate": "2025-11-24",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "以军空袭打死黎巴嫩真主党重要成员黎巴嫩真主党23日发表声明，证实该组织高级军事指挥官阿里·塔巴塔拜当天在以军对贝鲁特南郊的空袭中身亡，另有4名真主党成员在空袭中身亡。黎真主党称将继续与以色列战斗。以色列国防军同一天称，塔巴塔拜实际上负责指挥对以色列的作战行动，还负责该组织的重建工作。以色列总理内塔尼亚胡当天表示，以色列绝不允许真主党重建其势力。马杜罗称美国对委威胁是“老调重弹”当地时间22日晚，委内瑞拉总统马杜罗说，美国对委内瑞拉的指控和威胁只是“老调重弹”，美国军事部署是企图颠覆委内瑞拉政权，他已下令全国保持警戒状态。据美国政府方面21日称，美国国务院计划在24日将委内瑞拉所谓的贩毒组织“太阳集团”列为“恐怖组织”。美国防部长赫格塞思说，此举可为美方对委行动“提供大量新的选项”。伊朗谴责国际原子能机构理事会反伊决议伊朗外交部发言人巴加埃23日表示，在美国和英、法、德的政治干预下，国际原子能机构理事会最近通过反伊朗决议，破坏了伊朗与该机构的合作进程。巴加埃说，这项决议违背了联合国安理会的规定和国际原子能机构过去的做法，忽视了当前争端的根源，反而加深了本已复杂的局势。日本茨城县一座工厂发生火灾据日本媒体报道，23日晚，日本茨城县坂东市一家废旧塑料加工厂发生火灾。目前，火势仍未得到控制，灭火工作仍在进行之中，过火面积约达1万平方米。当地警方称，当晚工厂厂区内存放的装有大量废塑料等工业废弃物的容器起火，引发了火灾。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "中东地区的紧张局势可能导致原油供应不稳定，从而影响能源行业的成本和供应链。",
+      "keywords": [
+        "中东",
+        "原油",
+        "供应链"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "国防军工",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "地区冲突可能增加对国防军工产品的需求，尤其是与以色列相关的军事装备。",
+      "keywords": [
+        "国防",
+        "军工",
+        "需求"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "中东地区的紧张局势可能导致原油价格波动，进而影响公司的运营成本和利润。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "地区冲突可能增加对国防军工产品的需求，有利于公司业绩提升。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中东地区的紧张局势可能导致原油供应不稳定，推高原油价格。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "地缘政治风险上升，投资者可能转向避险资产，推高黄金价格。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前的地缘政治风险对国债市场的影响有限，收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "中东地区的紧张局势可能对能源行业和相关企业产生负面影响，但对国防军工行业和期货商品如原油和黄金有正面影响。整体市场情绪较为中性。",
+  "analyzedAt": "2025-11-29T10:14:15.244Z",
+  "modelVersion": "qwen-max"
+}

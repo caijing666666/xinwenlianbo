@@ -1,0 +1,103 @@
+{
+  "newsId": "2025-11-22-7",
+  "newsDate": "2025-11-22",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "1—10月全国新设外资企业数同比增长14.7%1—10月，全国新设立外商投资企业超5.3万家，同比增长14.7%。实际使用外资金额6219.3亿元人民币，其中，高技术产业实际使用外资1925.2亿元人民币。我国卫星物联网业务商用试验正式启动工业和信息化部今天（11月22日）宣布正式启动卫星物联网业务商用试验。卫星物联网是通过卫星通信技术连接各类物联网设备。这次为期两年的商用试验，将推动卫星物联网在交通、能源、渔业、应急、工业等各行业各领域规模应用。全国高校2026届毕业生教育人才招聘会举行全国高校2026届毕业生教育人才招聘会主会场活动今天（11月22日）在长春举行。本次招聘会在全国20个城市共同举办，5300多家用人单位提供岗位13.5万个，参会学生10万人次。湖北燕矶长江大桥顺利合龙今天（11月22日），连接湖北鄂州与黄冈的燕矶长江大桥顺利合龙。大桥是双层悬索桥，上层为六车道高速公路，设计时速100公里；下层为四车道城市快速路，设计时速80公里。",
+  "industryImpacts": [
+    {
+      "industryName": "高科技产业",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "实际使用外资金额中，高技术产业占比显著，表明该行业受到外资青睐，未来增长潜力大。",
+      "keywords": [
+        "外资",
+        "高技术产业",
+        "增长"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "卫星物联网",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "卫星物联网业务商用试验正式启动，将推动其在多个领域的应用，有望带动相关产业链的发展。",
+      "keywords": [
+        "卫星物联网",
+        "商用试验",
+        "多领域应用"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "教育",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "全国高校2026届毕业生教育人才招聘会举行，对教育行业短期内影响有限，但长期来看有利于人才培养和就业。",
+      "keywords": [
+        "教育人才招聘会",
+        "毕业生",
+        "就业"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "湖北燕矶长江大桥顺利合龙，表明国家持续加大基础设施建设力度，利好相关企业。",
+      "keywords": [
+        "基础设施建设",
+        "长江大桥",
+        "合龙"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国卫星",
+      "stockCode": "600118",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "卫星物联网业务商用试验启动，作为卫星通信领域的龙头企业，有望受益于政策支持和技术进步。",
+      "relatedIndustries": [
+        "卫星物联网",
+        "高科技产业"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中国交建",
+      "stockCode": "601800",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "湖北燕矶长江大桥顺利合龙，作为国内领先的基础设施建设公司，中国交建有望从中受益。",
+      "relatedIndustries": [
+        "基础设施建设",
+        "建筑"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前经济环境下，货币政策保持稳定，国债收益率预计维持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "外资流入增加及卫星物联网商用试验启动等利好消息，为高科技产业和基础设施建设带来投资机会。",
+  "analyzedAt": "2025-11-29T10:25:14.551Z",
+  "modelVersion": "qwen-max"
+}

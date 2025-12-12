@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-21-3",
+  "newsDate": "2025-11-21",
+  "newsTitle": "李强签署国务院令 公布《森林草原防灭火条例》",
+  "newsContent": "国务院总理李强日前签署国务院令，公布《森林草原防灭火条例》，自2026年1月1日起施行。《条例》旨在有效预防和扑救森林草原火灾，保障人民生命财产安全，保护森林草原资源，维护生态安全。《条例》共6章63条，主要规定了以下内容。一是明确总体要求。森林草原防灭火工作应当坚持预防为主、积极消灭、生命至上、安全第一的工作方针，坚持协调联动、分级负责、属地为主、科学扑救、快速反应、安全高效的原则。二是突出火灾预防。三是完善火灾扑救。根据需要及时设立火场前线指挥部，就地就近组织相关力量参与扑救，及时解救、疏散、撤离受火灾威胁的群众。四是做好灾后处置。此外，《条例》对森林草原防灭火中的违法行为，规定了严格的法律责任。",
+  "industryImpacts": [
+    {
+      "industryName": "林业",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "《森林草原防灭火条例》的出台将有助于保护森林资源，提高林业企业的可持续发展能力。",
+      "keywords": [
+        "森林资源",
+        "可持续发展",
+        "生态保护"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "环保",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "该条例强调了预防和扑救森林草原火灾的重要性，有利于推动环保产业的发展。",
+      "keywords": [
+        "环境保护",
+        "生态安全",
+        "火灾预防"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国林业集团有限公司",
+      "stockCode": "无",
+      "exchange": "非上市",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为国家重要的林业企业之一，该条例的实施将有助于其更好地管理和保护森林资源。",
+      "relatedIndustries": [
+        "林业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "N/A"
+    },
+    {
+      "companyName": "龙净环保",
+      "stockCode": "600388",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "作为一家专注于环保设备制造和服务的企业，该条例可能间接促进其业务增长。",
+      "relatedIndustries": [
+        "环保"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然该条例可能会增加地方政府在森林防火方面的支出，但预计不会对整体债券市场产生显著影响。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "《森林草原防灭火条例》主要利好于林业及环保行业，但对整体资本市场的影响有限。建议关注相关领域的龙头企业。",
+  "analyzedAt": "2025-11-29T10:28:10.922Z",
+  "modelVersion": "qwen-max"
+}

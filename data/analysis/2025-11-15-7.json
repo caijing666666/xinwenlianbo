@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-11-15-7",
+  "newsDate": "2025-11-15",
+  "newsTitle": "新一季冰雪季开启 各地冰雪运动升温",
+  "newsContent": "随着冬日的到来，我国北方多地冰雪设施开始运营，新一季冰雪季全面开启。近日，北方多地迎来降雪天气。冬奥小镇河北崇礼银装素裹，更添冬日氛围。冰雪运动爱好者们迫不及待地涌入雪道，享受属于他们的冬日快乐。据了解，目前崇礼已经有5家大型室外滑雪场开始了新一季冰雪季的运营，较往年提前两周左右。在新疆富蕴县可可托海，作为全国最早开板的室外滑雪场，自十月中旬开业以来，客流量渐入高峰。在黑龙江、吉林等我国传统冰雪运动目的地，各大型滑雪场也先后开始了本年度的运营。而在南方多地，依托旱雪场、室内滑雪场等设施，冰雪运动的开展已从“一季”拓展到了“四季”。在深圳，拥有世界最大室内滑雪场的前海冰雪世界不久前开始运营，日均接待滑雪游客超过了5000人次。随着不同类型冰雪场地设施的供给不断丰富，我国参与冰雪运动的人群稳步扩大，带动我国冰雪产业快速增长。数据显示，2024年我国冰雪运动产业总规模达到9700亿元，同比增长约9%，预计2025年将突破1万亿元。",
+  "industryImpacts": [
+    {
+      "industryName": "旅游",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "冰雪季的开启和冰雪运动的升温将吸引更多游客，促进旅游业的发展。",
+      "keywords": [
+        "冰雪季",
+        "滑雪场",
+        "客流量"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "体育用品",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "随着冰雪运动的普及，对滑雪装备和其他冬季运动用品的需求将增加。",
+      "keywords": [
+        "滑雪装备",
+        "冬季运动用品",
+        "需求增长"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然冰雪运动设施的建设可能带动部分地区的房地产市场，但整体影响有限。",
+      "keywords": [
+        "冰雪设施",
+        "房地产市场",
+        "影响有限"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "长白山",
+      "stockCode": "603099",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内知名的滑雪胜地，长白山将受益于冰雪季的开启和游客数量的增长。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+5-10%"
+    },
+    {
+      "companyName": "探路者",
+      "stockCode": "300005",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "探路者作为户外运动品牌，其滑雪装备等产品将受益于冰雪运动的普及。",
+      "relatedIndustries": [
+        "体育用品"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "冰雪产业的增长对债券市场的影响较小，企业债的整体收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "冰雪季的开启和冰雪运动的升温将利好旅游和体育用品行业，相关企业有望受益。",
+  "analyzedAt": "2025-11-29T10:56:31.559Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,103 @@
+{
+  "newsId": "2025-12-04-11",
+  "newsDate": "2025-12-04",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "神舟二十一号航天员乘组将于近日择机实施第一次出舱活动据中国载人航天工程办公室消息，神舟二十一号航天员乘组将于近日择机实施第一次出舱活动。自11月1日顺利进驻空间站组合体以来，乘组完成了与神舟二十号航天员乘组轮换、空间站平台维护照料等工作。目前，空间站组合体运行稳定，乘组状态良好，已做好出舱活动各项准备工作。《外卖平台服务管理基本要求》国家标准发布市场监管总局发布实施《外卖平台服务管理基本要求》国家标准，从商户资质审核、平台促销行为规范、配送员权益保障、平台内纠纷解决四方面，为外卖行业高质量发展划清底线，营造多元主体互利共赢的网络餐饮环境。全国妇联部署开展巾帼志愿敬老爱幼关爱服务活动在第40个国际志愿者日到来之际，全国妇联部署开展巾帼志愿敬老爱幼关爱服务活动，动员2400多万巾帼志愿者聚焦“一老一小”重点群体，为老年人拍全家福，提供护理照料；为留守流动儿童提供关爱陪伴等暖心服务。山东新签约绿色低碳项目超570亿元在今天（12月4日）召开的山东省绿色低碳高质量发展大会上，400多位海内外嘉宾围绕人工智能、新材料、新能源开展招商对接，共达成32个合作项目，总签约额超570亿元。第七届海南岛国际电影节开幕12月3日晚，由中央广播电视总台和海南省人民政府共同主办的第七届海南岛国际电影节在三亚凤凰岛开幕。本届电影节以“海生万象 光影无垠”为主题，共收到来自119个国家和地区的报名影片4564部，数量创历届新高。",
+  "industryImpacts": [
+    {
+      "industryName": "航天",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "神舟二十一号航天员乘组即将实施第一次出舱活动，表明中国航天技术持续进步，有利于提升相关企业的市场信心。",
+      "keywords": [
+        "航天",
+        "技术进步",
+        "市场信心"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "外卖平台",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "《外卖平台服务管理基本要求》国家标准发布，短期内可能增加平台运营成本，但长期有助于行业规范化发展。",
+      "keywords": [
+        "外卖平台",
+        "国家标准",
+        "规范化"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "绿色低碳",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "山东新签约绿色低碳项目超570亿元，表明政府对绿色低碳产业的支持力度加大，有利于相关企业的发展。",
+      "keywords": [
+        "绿色低碳",
+        "政策支持",
+        "项目投资"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国航天科技集团",
+      "stockCode": "600118",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "神舟二十一号航天员乘组即将实施第一次出舱活动，表明中国航天技术持续进步，有利于提升公司市场信心。",
+      "relatedIndustries": [
+        "航天"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "美团",
+      "stockCode": "3690",
+      "exchange": "HKEX",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "《外卖平台服务管理基本要求》国家标准发布，短期内可能增加平台运营成本，但长期有助于行业规范化发展。",
+      "relatedIndustries": [
+        "外卖平台"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "±1%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "山东新签约绿色低碳项目超570亿元，表明政府对绿色低碳产业的支持力度加大，有利于公司的发展。",
+      "relatedIndustries": [
+        "绿色低碳",
+        "新能源"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前新闻内容未直接涉及货币政策或宏观经济调控，预计对国债收益率影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "航天和绿色低碳行业受益于政策和技术进步，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-04T16:41:15.975Z",
+  "modelVersion": "qwen-max"
+}

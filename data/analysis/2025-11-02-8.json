@@ -1,0 +1,70 @@
+{
+  "newsId": "2025-11-02-8",
+  "newsDate": "2025-11-02",
+  "newsTitle": "第十五届全国运动会火炬传递在粤港澳三地四城同步举行",
+  "newsContent": "第十五届全国运动会火炬传递今天（11月2日）在香港、澳门、广州、深圳四个城市同步举行，这也是全运会火炬首次在香港和澳门传递。今天上午，火炬传递启动仪式在深圳莲花山公园举行，火种护卫护送火种灯上场，十五运会火种盆和火炬相继点燃，首棒火炬手接过火炬开始传递。启动仪式后，香港、澳门、广州同步开展火炬传递。火炬传递共设200棒火炬手，涵盖了先进模范人物代表、基层一线代表、体育工作者代表，以及教育、科技等各行业代表。此次火炬传递应用了智能机器人、无人驾驶汽车、低空飞行器等进行火炬传递或串联路段，凸显粤港澳大湾区作为国际科技创新中心的产业优势，展示科技与体育的深度融合。火炬传递结束后，四城火种于今天下午汇聚广州，在广东奥林匹克体育中心举行融火仪式，为9日晚开幕式主火炬点燃做准备。",
+  "industryImpacts": [
+    {
+      "industryName": "科技",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "火炬传递中应用了智能机器人、无人驾驶汽车、低空飞行器等高科技产品，展示了粤港澳大湾区作为国际科技创新中心的产业优势。",
+      "keywords": [
+        "智能机器人",
+        "无人驾驶汽车",
+        "低空飞行器",
+        "科技创新"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "体育",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "全国运动会火炬传递活动将提升公众对体育的关注度，促进体育产业发展。",
+      "keywords": [
+        "全运会",
+        "火炬传递",
+        "体育产业"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "大疆创新",
+      "stockCode": "DJI",
+      "exchange": "未上市",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "火炬传递活动中使用了低空飞行器，大疆创新作为无人机领域的龙头企业，有望受益于此次活动带来的关注度和市场需求。",
+      "relatedIndustries": [
+        "科技",
+        "无人机"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "比亚迪",
+      "stockCode": "002594",
+      "exchange": "SZSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "火炬传递活动中使用了无人驾驶汽车，比亚迪在新能源汽车和自动驾驶领域有较强的技术积累，有望受益于此次活动带来的关注度和市场需求。",
+      "relatedIndustries": [
+        "科技",
+        "汽车"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "火炬传递活动展示了粤港澳大湾区的科技创新能力，科技行业和相关企业有望受益。建议关注科技和体育行业的投资机会。",
+  "analyzedAt": "2025-11-29T13:01:34.135Z",
+  "modelVersion": "qwen-max"
+}

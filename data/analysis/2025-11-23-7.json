@@ -1,0 +1,91 @@
+{
+  "newsId": "2025-11-23-7",
+  "newsDate": "2025-11-23",
+  "newsTitle": "我国“5G+工业互联网”步入规模化应用新阶段",
+  "newsContent": "记者从工业和信息化部获悉，截至目前，我国“5G+工业互联网”建设项目已超过2万个，正式步入规模化应用新阶段。当前我国具有一定影响力的工业互联网平台超过300家，重点平台工业设备连接数超亿台；建成了自主可控的工业互联网标识解析体系；培育的百家全球领先水平5G工厂平均产能提升25%，产品质量提升21%，运营成本降低19%。“十四五”期间，我国加快推进“5G+工业互联网”应用落地，实现41个工业大类全覆盖，5G工厂“百千万”行动目标全面完成。下一步，我国将打造“5G+工业互联网”升级版，实施工业互联网和人工智能融合赋能行动，同时加强6G与工业融合的前瞻研究，推动工业互联网向更高质量、更广范围发展。",
+  "industryImpacts": [
+    {
+      "industryName": "通信设备",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "5G+工业互联网的规模化应用将推动通信设备需求增长，相关企业有望受益。",
+      "keywords": [
+        "5G",
+        "工业互联网",
+        "通信设备"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "智能制造",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "政策支持和项目推进将加速智能制造的发展，提高生产效率和产品质量。",
+      "keywords": [
+        "智能制造",
+        "5G工厂",
+        "产能提升"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "软件服务",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "工业互联网平台和标识解析体系的发展将带动软件服务需求的增长。",
+      "keywords": [
+        "工业互联网平台",
+        "软件服务",
+        "连接数"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中兴通讯",
+      "stockCode": "000063",
+      "exchange": "SZSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为领先的通信设备供应商，中兴通讯将受益于5G+工业互联网的规模化应用。",
+      "relatedIndustries": [
+        "通信设备",
+        "智能制造"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+5-10%"
+    },
+    {
+      "companyName": "用友网络",
+      "stockCode": "600588",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的软件服务提供商，用友网络将受益于工业互联网平台的发展。",
+      "relatedIndustries": [
+        "软件服务",
+        "智能制造"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-7%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "5G+工业互联网的发展将促进相关企业的融资需求，企业债市场可能迎来更多优质发行主体。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "5G+工业互联网的规模化应用将利好通信设备、智能制造和软件服务行业，相关企业和企业债市场有望受益。",
+  "analyzedAt": "2025-11-29T10:18:16.133Z",
+  "modelVersion": "qwen-max"
+}

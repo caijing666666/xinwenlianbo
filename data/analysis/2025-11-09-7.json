@@ -1,0 +1,106 @@
+{
+  "newsId": "2025-11-09-7",
+  "newsDate": "2025-11-09",
+  "newsTitle": "全运会公路自行车赛跨粤港澳三地举行",
+  "newsContent": "第十五届全运会唯一一项跨越粤港澳三地的比赛——公路自行车男子个人赛昨天（11月8日）举行，这是全运会历史上首次举办跨境比赛，为粤港澳三地深度融合发展积累了“全运经验”。本次公路自行车男子个人赛赛程231.8公里，从珠海博物馆出发，经港珠澳大桥进入澳门，再由大桥前往香港，途经香港迪士尼乐园后返回。比赛期间，选手们共6次穿越三地口岸，全程无间断骑行，创下了全运会史上赛道最长、跨境次数最多的纪录。为此，赛事组委会开创性地通过人车物集成无线射频、人脸识别、北斗定位等技术，从而实现通关“零延时、零接触、零等待”。下周，十五运会马拉松赛事也将在粤港两地举行。人员物资跨境流动、“一个平台，三地购票”等模式，不仅确保了赛事的顺利进行，也为大湾区的未来合作提供宝贵的实践机会，奠定稳固的基础。",
+  "industryImpacts": [
+    {
+      "industryName": "体育",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "全运会的举办提升了体育行业的关注度，促进了相关产业的发展。",
+      "keywords": [
+        "全运会",
+        "体育赛事",
+        "粤港澳大湾区"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "全运会的跨境比赛吸引了大量游客，促进了旅游业的发展。",
+      "keywords": [
+        "旅游",
+        "粤港澳大湾区",
+        "赛事"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "科技",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "赛事中使用的人车物集成无线射频、人脸识别、北斗定位等技术展示了科技创新的应用前景。",
+      "keywords": [
+        "科技",
+        "无线射频",
+        "人脸识别",
+        "北斗定位"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "珠海港股份有限公司",
+      "stockCode": "000507",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为珠海本地企业，受益于全运会带来的关注和基础设施建设。",
+      "relatedIndustries": [
+        "港口",
+        "物流"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国旅游集团中免股份有限公司",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "全运会期间的旅游热潮将带动公司业务增长。",
+      "relatedIndustries": [
+        "旅游",
+        "零售"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    },
+    {
+      "companyName": "海康威视",
+      "stockCode": "002415",
+      "exchange": "SZSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "公司在人脸识别和安防领域的技术应用有望得到更多关注。",
+      "relatedIndustries": [
+        "科技",
+        "安防"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-2%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 55,
+      "impactType": "neutral",
+      "reasoning": "全运会的举办对地方财政有一定影响，但整体影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.65
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "全运会的举办对体育、旅游和科技行业有积极影响，相关企业和地方债市场保持稳定。建议关注受益的龙头企业。",
+  "analyzedAt": "2025-11-29T11:25:37.432Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,64 @@
+{
+  "newsId": "2025-12-02-12",
+  "newsDate": "2025-12-02",
+  "newsTitle": "日本人士批评高市早苗错误言论",
+  "newsContent": "日本人士和国际人士指出，高市早苗的错误言论破坏日中关系，也破坏战后国际秩序。日本最大在野党立宪民主党政务调查会长本庄知史表示，高市在国会的答辩反映出其对“存亡危机事态”的理解不足。他说，从1972年日中邦交正常化以来，历届日本政府在相关议题上的一贯表态来看，高市的发言存在明显偏离。国际人士表示高市早苗错误言论是对国际秩序的公然挑衅国际人士指出，高市早苗的错误言论破坏地区和平，是对二战后国际秩序的公然挑衅。",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 30,
+      "impactType": "negative",
+      "reasoning": "高市早苗的言论可能加剧中日之间的紧张关系，影响两国间的贸易往来。",
+      "keywords": [
+        "中日关系",
+        "国际贸易",
+        "紧张局势"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 25,
+      "impactType": "negative",
+      "reasoning": "中日关系恶化可能导致中国游客减少前往日本旅游，对旅游业产生负面影响。",
+      "keywords": [
+        "中日关系",
+        "旅游业",
+        "游客减少"
+      ],
+      "confidence": 0.65
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 20,
+      "impactType": "negative",
+      "reasoning": "中日关系恶化可能减少中国游客赴日旅游，对公司业务造成不利影响。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 10,
+      "impactType": "neutral",
+      "reasoning": "短期内中日关系的变化对国债市场的影响有限，但需关注长期风险。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.5
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 20,
+  "summary": "高市早苗的言论可能加剧中日紧张关系，对国际贸易和旅游业产生负面影响，建议谨慎对待相关行业和公司。",
+  "analyzedAt": "2025-12-03T06:57:51.811Z",
+  "modelVersion": "qwen-max"
+}

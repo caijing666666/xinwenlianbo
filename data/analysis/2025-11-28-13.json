@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-28-13",
+  "newsDate": "2025-11-28",
+  "newsTitle": "俄称在红军城继续推进 乌称在多方向击退俄军进攻",
+  "newsContent": "俄罗斯国防部27日称，俄军在苏梅、哈尔科夫等多个方向打击乌军，并在顿涅茨克地区又控制一个居民点。在红军城（乌称波克罗夫斯克），俄军继续在多个区域推进，并击退乌军多次突围行动。乌克兰方面同一天称，乌军在波克罗夫斯克、亚历山德里夫斯克等方向击退俄军数十次进攻，打击俄军人员和武器装备集中区、无人机控制点等目标，并击落俄军200多架无人机。普京表示俄军在各战线态势积极 推进速度显著提升俄罗斯总统普京27日在访问吉尔吉斯斯坦时表示，俄军在特别军事行动各战线均保持积极态势，推进速度显著提升。普京表示，俄方总体上认为，美国提出的乌克兰问题和平计划可以作为未来协议的基础。 “北溪”爆炸案一嫌疑人被引渡至德国此外，德国联邦检察院27日证实，一名此前羁押在意大利的“北溪”天然气管道爆炸案乌克兰籍嫌疑人当天被引渡至德国。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突加剧可能导致能源供应紧张，推高能源价格。",
+      "keywords": [
+        "能源",
+        "供应",
+        "价格上涨"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "国防军工",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能增加国防开支和军事装备需求。",
+      "keywords": [
+        "国防",
+        "军事装备",
+        "需求增加"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "能源价格上涨预期将提升公司业绩。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能增加军机需求。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突加剧可能导致能源供应紧张，推高原油价格。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "天然气",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "北溪管道爆炸案嫌疑人被引渡，可能影响天然气供应稳定性。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "地缘政治紧张局势对国债市场影响有限，货币政策保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "俄乌冲突加剧可能推高能源价格，利好能源行业及相关企业。国防军工行业也可能受益于地缘政治紧张局势。建议关注相关龙头企业。",
+  "analyzedAt": "2025-11-29T09:51:06.350Z",
+  "modelVersion": "qwen-max"
+}

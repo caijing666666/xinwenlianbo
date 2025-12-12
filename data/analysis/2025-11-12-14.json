@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-11-12-14",
+  "newsDate": "2025-11-12",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "美国政府“停摆”持续影响美航空业11日，美国联邦政府“停摆”满6周，美国媒体当天报道称，尽管美参议院已通过旨在结束“停摆”的法案，美国航空业受到的严重影响仍在持续。11日，全美约6%的航班被取消，涉及芝加哥、纽约、华盛顿、亚特兰大等地主要机场。土耳其一军机在格鲁吉亚坠毁 20人遇难土耳其国防部11日称，该国一架C-130“大力神”军用运输机当天在从阿塞拜疆返回土耳其途中在格鲁吉亚境内坠毁，机上包括机组人员在内有20名土耳其人。土耳其国防部长居莱尔今天（11月12日）证实，军机上的20人全部遇难。坠机原因未公布。德国化工行业产量跌至30年来最低点德国化工行业协会11日公布的数据显示，2025年第三季度，德国化工产品产量再次下降，降幅为4.3%。德国化工行业协会主席恩特鲁普称，该行业产量已跌至三十年来的最低点。根据德国化工行业协会11日发布的报告，除了德国国内经济疲软外，主要海外市场需求也大幅下降，主要原因包括企业竞争力下降以及美国关税政策造成影响。",
+  "industryImpacts": [
+    {
+      "industryName": "航空",
+      "impactScore": 80,
+      "impactType": "negative",
+      "reasoning": "美国政府停摆导致航班取消，影响航空公司运营和收入",
+      "keywords": [
+        "政府停摆",
+        "航班取消",
+        "运营受影响"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "化工",
+      "impactScore": 75,
+      "impactType": "negative",
+      "reasoning": "德国化工行业产量跌至30年来最低点，需求疲软",
+      "keywords": [
+        "产量下降",
+        "需求疲软",
+        "经济疲软"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "美国政府停摆导致国际航班受到影响，可能影响公司业绩",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "巴斯夫",
+      "stockCode": "BASFY",
+      "exchange": "OTC",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "德国化工行业产量下降，作为主要化工企业可能受到负面影响",
+      "relatedIndustries": [
+        "化工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然美国航空业受停摆影响，但全球供需关系未发生显著变化",
+      "priceDirection": "stable",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "全球经济不确定性增加，但货币政策保持稳定，对国债市场影响有限",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 50,
+  "summary": "美国政府停摆和德国化工行业产量下降对相关行业和公司产生负面影响，建议谨慎投资。",
+  "analyzedAt": "2025-11-29T11:13:44.905Z",
+  "modelVersion": "qwen-max"
+}

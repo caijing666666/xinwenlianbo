@@ -1,0 +1,86 @@
+{
+  "newsId": "2025-10-31-2",
+  "newsDate": "2025-10-31",
+  "newsTitle": "习近平会见加拿大总理",
+  "newsContent": "当地时间10月31日下午，国家主席习近平在韩国庆州出席亚太经合组织第三十二次领导人非正式会议期间会见加拿大总理卡尼。习近平指出，今年是中加建交55周年和建立战略伙伴关系20周年。在双方共同努力下，中加关系呈现恢复向好发展态势，这符合两国共同利益。中方重视加方愿以务实、建设性方式推动两国关系改善发展的表态，愿同加方一道努力，以这次会见为契机，推动中加关系早日回到健康、稳定、可持续的正确轨道，更好造福两国人民。习近平强调，中加双方要树立客观理性认知，正确看待彼此，从两国共同和长远利益出发，推动中加关系发展。坚持互利共赢，拓展经贸、能源等领域务实合作。密切人文交流，支持两国各界增进相互了解，厚植双边关系的民意基础。加强在联合国等多边框架内协调和合作，推动构建更加公正合理的全球治理体系，维护国际公平正义。卡尼表示，建交55年来，加拿大和中国长期保持良好关系。加拿大新政府高度重视对华关系，期待抓住两国关系改善发展的机遇，重拾建交初心，找回失去时间，重启双边合作，以务实和建设性方式推动加中关系取得更多成果。加方愿同中方密切高层往来，推进农业、能源、气候变化等领域合作，实现互利共赢，为两国人民带来更多福祉。在国际事务中，加中两国理念相近，可加强协作，共同践行多边主义、维护自由贸易，推动国际经济秩序改革。双方同意，恢复重启各领域交流合作，推进解决彼此关切的具体经贸问题，巩固转圜势头，共同推动中加战略伙伴关系发展。蔡奇、王毅等参加。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中加两国表示将推进能源领域的合作，这可能促进能源行业的投资和贸易。",
+      "keywords": [
+        "能源",
+        "合作",
+        "投资"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "农业",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "加拿大总理提到希望在农业领域加强与中国的合作，这可能为农业企业带来新的市场机会。",
+      "keywords": [
+        "农业",
+        "合作",
+        "市场机会"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石化",
+      "stockCode": "600028",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为中国主要的能源公司之一，中加能源合作的加深可能会为中国石化带来更多商业机会。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    },
+    {
+      "companyName": "北大荒",
+      "stockCode": "600598",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中加农业合作的增强可能为北大荒等农业企业提供更多出口机会。",
+      "relatedIndustries": [
+        "农业"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-2%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中加能源合作的预期可能增加对原油的需求，从而推高油价。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "大豆",
+      "exchange": "大商所",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "中加农业合作的加强可能增加对中国进口大豆的需求，从而支撑大豆价格。",
+      "priceDirection": "up",
+      "confidence": 0.65
+    }
+  ],
+  "bondImpacts": [],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中加关系改善有望推动能源和农业行业的发展，相关企业和商品期货或受益。",
+  "analyzedAt": "2025-11-29T13:12:13.510Z",
+  "modelVersion": "qwen-max"
+}

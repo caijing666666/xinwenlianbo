@@ -1,0 +1,95 @@
+{
+  "newsId": "2025-11-25-007",
+  "newsDate": "2025-11-25",
+  "newsTitle": "习近平向第七届中俄能源商务论坛致贺信",
+  "newsContent": "新华社北京11月25日电　11月25日，第七届中俄能源商务论坛在北京举办。国家主席习近平向论坛致贺信。  习近平指出，中俄能源合作起步早、基础好，是双方互利合作的典范，为促进两国经济社会发展、增进两国人民福祉发挥了积极作用。  习近平强调，中方愿同俄方一道努力，持续巩固全面能源合作伙伴关系，共同维护全球能源产业链供应链稳定畅通，推动建设更加公平公正、均衡普惠的全球能源治理体系，为世界能源安全与绿色低碳转型注入更多稳定性。  同日，俄罗斯联邦总统普京也向第七届中俄能源商务论坛致贺信。 【纠错】    【责任编辑:焦鹏】    阅读下一篇：",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中俄能源合作的加强将促进两国在能源领域的投资和贸易，有利于能源行业的稳定发展。",
+      "keywords": [
+        "中俄能源合作",
+        "全面能源合作伙伴关系",
+        "全球能源产业链"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "新能源",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "推动建设更加公平公正、均衡普惠的全球能源治理体系，为世界能源安全与绿色低碳转型注入更多稳定性，利好新能源行业的发展。",
+      "keywords": [
+        "绿色低碳转型",
+        "全球能源治理体系"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内最大的石油公司之一，中俄能源合作的深化将为其带来更多的业务机会。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为光伏行业的龙头企业，受益于全球能源治理体系的建设，有望获得更多国际订单。",
+      "relatedIndustries": [
+        "新能源"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中俄能源合作的加强可能增加对原油的需求，从而推高油价。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "天然气",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中俄能源合作也可能增加对天然气的需求，支撑天然气价格。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然中俄能源合作对经济有正面影响，但短期内对国债市场的影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "中俄能源合作的加强将对能源和新能源行业产生积极影响，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-12T02:51:40.115Z",
+  "modelVersion": "qwen-max"
+}

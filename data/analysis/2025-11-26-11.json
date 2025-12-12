@@ -1,0 +1,60 @@
+{
+  "newsId": "2025-11-26-11",
+  "newsDate": "2025-11-26",
+  "newsTitle": "联合国举行“声援巴勒斯坦人民国际日”纪念大会",
+  "newsContent": "合国25日举行“声援巴勒斯坦人民国际日”纪念大会。巴勒斯坦常驻联合国代表曼苏尔在会上表示，以色列必须完全撤出加沙地带，让巴勒斯坦国在加沙地带承担全部行政和安全责任。联合国大会主席贝尔伯克和联合国秘书长古特雷斯当天也呼吁立即扩大对加沙地带的人道主义援助，全面落实停火协议，并推动实现“两国方案”。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "中东地区的紧张局势可能会影响全球能源供应，但目前的新闻内容主要集中在人道主义援助和政治解决方案上，对能源行业直接影响有限。",
+      "keywords": [
+        "中东",
+        "能源供应",
+        "人道主义"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "国防军工",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然巴以冲突可能会引起国际社会对地区安全的关注，但当前新闻内容并未直接提及军事行动或武器需求增加的信息。",
+      "keywords": [
+        "国防",
+        "安全",
+        "冲突"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [],
+  "futuresImpacts": [
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 40,
+      "impactType": "neutral",
+      "reasoning": "地缘政治不确定性通常会推高黄金作为避险资产的需求，但鉴于此次事件更多聚焦于和平解决途径，预计短期内对金价影响不大。",
+      "priceDirection": "stable",
+      "confidence": 0.6
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 30,
+      "impactType": "neutral",
+      "reasoning": "该新闻未显示出将对中国宏观经济环境产生重大影响的因素，因此预计不会显著改变国债收益率走势。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 30,
+  "summary": "本次联合国关于巴勒斯坦问题的讨论主要围绕人道主义援助与和平进程展开，对中国资本市场各领域的影响较为有限。",
+  "analyzedAt": "2025-11-29T10:01:25.049Z",
+  "modelVersion": "qwen-max"
+}

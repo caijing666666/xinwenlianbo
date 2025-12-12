@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-12-02-4",
+  "newsDate": "2025-12-02",
+  "newsTitle": "今年前10个月规上电子信息制造业增加值同比增长超10%",
+  "newsContent": "工业和信息化部最新数据显示，前10个月，规模以上电子信息制造业增加值同比增长10.6%，增速分别比同期工业、高技术制造业高4.5个和1.3个百分点，展现出较强的产业韧性与发展活力。生产端保持稳定增长态势，主要产品供给充足。前10个月，手机产量达12.5亿台，其中智能手机产量10.2亿台，同比增长0.7%，终端产品供给适配市场多元需求；集成电路产量3866亿块，同比增长10.2%，核心零部件产能稳步提升，为产业高质量发展筑牢基础。效益端实现稳步提升，盈利水平持续优化。前10个月，规模以上电子信息制造业实现营业收入14万亿元，同比增长8.3%；营业收入利润率为4.07%，较前9个月提高0.1个百分点，表明企业盈利能力持续改善，产业发展质量不断提升。",
+  "industryImpacts": [
+    {
+      "industryName": "半导体",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "集成电路产量同比增长10.2%，核心零部件产能稳步提升，为产业高质量发展筑牢基础。",
+      "keywords": [
+        "集成电路",
+        "产量增长",
+        "核心零部件"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "消费电子",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "手机和智能手机产量保持稳定增长，终端产品供给适配市场多元需求。",
+      "keywords": [
+        "手机",
+        "智能手机",
+        "产量增长"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的集成电路制造企业，受益于集成电路产量的持续增长。",
+      "relatedIndustries": [
+        "半导体"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "立讯精密",
+      "stockCode": "002475",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为消费电子领域的龙头企业，受益于手机和智能手机产量的增长。",
+      "relatedIndustries": [
+        "消费电子"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "电子信息制造业盈利水平持续优化，但整体债券市场受宏观经济影响较大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "电子信息制造业表现强劲，特别是半导体和消费电子行业，相关企业有望受益。",
+  "analyzedAt": "2025-12-03T07:00:01.956Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,25 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/daily-update",
+      "schedule": "0 19 * * *"
+    }
+  ],
+  "functions": {
+    "app/api/cron/daily-update/route.ts": {
+      "maxDuration": 300
+    },
+    "app/api/analyze/route.ts": {
+      "maxDuration": 180
+    },
+    "app/api/scrape/route.ts": {
+      "maxDuration": 120
+    },
+    "app/api/admin/scrape-day/route.ts": {
+      "maxDuration": 300
+    },
+    "app/api/admin/analyze-day/route.ts": {
+      "maxDuration": 300
+    }
+  }
+}

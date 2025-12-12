@@ -1,0 +1,111 @@
+{
+  "newsId": "2025-11-30-2",
+  "newsDate": "2025-11-30",
+  "newsTitle": "11月中国制造业采购经理指数总体向好",
+  "newsContent": "国家统计局、中国物流与采购联合会今天（11月30日）公布，11月份中国制造业采购经理指数为49.2%，较上月上升0.2个百分点，大部分分项指数较上月有所上升。制造业产需两端有所改善，生产指数和新订单指数双回升。新出口订单指数为47.6%，较上月上升1.7个百分点，指数升幅较为明显。高技术制造业新出口订单指数较上月上升超过3个百分点。11月生产指数为50%，较上月上升0.3个百分点。装备制造业、高技术制造业和消费品制造业生产指数都保持在扩张区间。",
+  "industryImpacts": [
+    {
+      "industryName": "制造业",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "采购经理指数上升，表明制造业整体向好，生产和需求两端有所改善。",
+      "keywords": [
+        "制造业",
+        "PMI",
+        "生产指数",
+        "新订单指数"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "高技术制造业",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "高技术制造业的新出口订单指数显著上升，显示该行业在国际市场上的竞争力增强。",
+      "keywords": [
+        "高技术制造业",
+        "新出口订单",
+        "国际竞争力"
+      ],
+      "confidence": 0.92
+    },
+    {
+      "industryName": "装备制造业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "装备制造业的生产指数保持在扩张区间，表明该行业的生产活动较为活跃。",
+      "keywords": [
+        "装备制造业",
+        "生产指数",
+        "扩张区间"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为高技术制造业的代表企业，中芯国际有望受益于新出口订单的增长。",
+      "relatedIndustries": [
+        "半导体",
+        "高技术制造业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "三一重工",
+      "stockCode": "600031",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为装备制造业的龙头企业，三一重工将从制造业整体向好的趋势中获益。",
+      "relatedIndustries": [
+        "装备制造业",
+        "制造业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "制造业和高技术制造业的复苏将增加对铜的需求，推动价格上涨。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "钢铁",
+      "exchange": "大商所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "制造业生产的恢复将带动钢铁需求增长，支撑价格稳定或上涨。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "制造业数据向好可能引发市场对经济复苏的预期，但短期内货币政策预计保持稳定，对国债收益率影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "制造业及高技术制造业的复苏为相关企业和商品期货带来积极影响，建议关注制造业龙头股及铜、钢铁等工业原材料期货。",
+  "analyzedAt": "2025-11-30T16:12:02.856Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-20-5",
+  "newsDate": "2025-11-20",
+  "newsTitle": "第五届“携手圆梦——两岸同胞交流研讨活动”开幕 王沪宁致贺信",
+  "newsContent": "第五届“携手圆梦——两岸同胞交流研讨活动”20日在成都市开幕。中共中央政治局常委、全国政协主席王沪宁发来贺信，对活动的举办表示祝贺，向两岸暨港澳与会人士致以问候。王沪宁表示，抗战胜利、台湾光复是中华民族的伟大胜利、伟大荣耀。本次活动以“铭记历史、捍卫成果、守护家园、开创未来”为主题，传承和弘扬伟大民族精神、伟大抗战精神，充分彰显了两岸同胞维护一个中国原则、实现祖国完全统一的坚定决心和坚强意志。王沪宁表示，习近平总书记在纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会上庄严宣示中华民族伟大复兴势不可挡。中共二十届四中全会提出在全面建设社会主义现代化国家新征程上推动两岸关系和平发展、推进祖国统一大业。我们将全面贯彻新时代党解决台湾问题的总体方略，坚持一个中国原则和“九二共识”，坚决打击“台独”分裂势力，反对外部势力干涉，维护台海和平稳定，促进两岸经济文化交流合作，坚定守护中华民族共同家园，携手开创中华民族更加美好的未来。",
+  "industryImpacts": [
+    {
+      "industryName": "旅游",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "两岸交流活动的增加可能促进旅游业的发展，特别是与台湾相关的旅游线路和景点。",
+      "keywords": [
+        "两岸交流",
+        "旅游业",
+        "成都"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "航空",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "两岸交流活动的增加可能会带动航空业的需求，尤其是往返于大陆和台湾之间的航班。",
+      "keywords": [
+        "两岸交流",
+        "航空业",
+        "航班需求"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的旅游服务提供商，中国国旅有望受益于两岸交流活动的增加。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "南方航空",
+      "stockCode": "600029",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为国内主要航空公司之一，南方航空有望从两岸交流活动增加带来的航班需求中受益。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "新闻内容主要涉及两岸关系和文化交流，对债券市场的影响较小，预计国债收益率保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "两岸交流活动的增加对旅游和航空行业有正面影响，相关企业有望受益。债券市场影响较小，整体市场情绪偏乐观。",
+  "analyzedAt": "2025-11-29T10:33:24.226Z",
+  "modelVersion": "qwen-max"
+}

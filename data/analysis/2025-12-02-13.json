@@ -1,0 +1,98 @@
+{
+  "newsId": "2025-12-02-13",
+  "newsDate": "2025-12-02",
+  "newsTitle": "俄称已控制红军城和沃尔昌斯克 乌称在波克罗夫斯克方向击退俄军进攻",
+  "newsContent": "据俄罗斯克里姆林宫网站12月1日发布的消息，俄总统普京前一天视察了俄军一处指挥所，俄武装力量总参谋长格拉西莫夫向普京汇报称，俄军已经控制顿涅茨克地区红军城（乌克兰称波克罗夫斯克）和哈尔科夫地区沃尔昌斯克这两处战略要地。此外，在顿涅茨克地区，俄军已攻入另一座铁路枢纽城市红利曼，并控制康斯坦丁诺夫卡约30%的建筑。乌克兰武装部队总参谋部今天（12月2日）称，乌军在波克罗夫斯克方向击退了俄军72次进攻，打击俄军火炮系统、装甲车等目标。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势升级，可能增加国防开支和军事装备需求。",
+      "keywords": [
+        "地缘政治",
+        "国防开支",
+        "军事装备"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "冲突可能导致能源供应不稳定，推动能源价格上涨。",
+      "keywords": [
+        "能源供应",
+        "价格上涨",
+        "供需关系"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国船舶",
+      "stockCode": "600150",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能增加军舰和其他军事装备的需求。",
+      "relatedIndustries": [
+        "国防军工",
+        "造船"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能增加战斗机等航空装备的需求。",
+      "relatedIndustries": [
+        "国防军工",
+        "航空"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+2-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能导致能源供应不稳定，推动油价上涨。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势通常会推高避险资产如黄金的价格。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内地缘政治紧张局势对国债市场影响有限，但长期可能影响货币政策。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "地缘政治紧张局势升级，利好国防军工和能源行业，相关企业和商品期货有望受益。建议关注龙头企业。",
+  "analyzedAt": "2025-12-03T06:58:10.465Z",
+  "modelVersion": "qwen-max"
+}

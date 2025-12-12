@@ -1,0 +1,110 @@
+{
+  "newsId": "2025-11-20-10",
+  "newsDate": "2025-11-20",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "中央财政提前下达2026年农业保险保费补贴预算456亿元为支持农业保险发展，更好地服务保障国家粮食安全，财政部日前发布通知，提前下达中央财政农业保险保费补贴，2026年预算456亿元。2026届高校毕业生规模预计1270万人2026届全国普通高校毕业生规模预计1270万人。教育部部署各地各高校开展“2026届高校毕业生就业扩容提质行动”，围绕推进促就业政策落实、加力稳岗拓岗等方面持续发力，促进高校毕业生高质量充分就业。第三轮第五批中央生态环境保护督察组全部实现督察进驻第三轮第五批中央生态环境保护督察组全部实现督察进驻。进驻期间，有8个例行督察组分别设立专门值班电话和邮政信箱，受理被督察对象生态环境保护方面的来信来电信访举报，受理举报电话时间为每天8时至20时，进驻时间为1个月。2025“世界市长对话·南京”活动开幕昨天（11月19日），2025“世界市长对话·南京”活动在江苏南京开幕。来自文莱、埃及、德国、意大利等国家的友好城市及联合国教科文组织创意城市网络城市市长参会。各方将围绕滨水城市发展、文化遗产保护等主题展开互动交流，分享城市治理经验。",
+  "industryImpacts": [
+    {
+      "industryName": "农业",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中央财政提前下达2026年农业保险保费补贴预算456亿元，将促进农业保险发展，保障国家粮食安全。",
+      "keywords": [
+        "农业保险",
+        "保费补贴",
+        "粮食安全"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "教育",
+      "impactScore": 70,
+      "impactType": "neutral",
+      "reasoning": "2026届高校毕业生规模预计1270万人，教育部部署就业扩容提质行动，但短期内对教育行业影响有限。",
+      "keywords": [
+        "高校毕业生",
+        "就业扩容",
+        "稳岗拓岗"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "环保",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "第三轮第五批中央生态环境保护督察组全部实现督察进驻，加强环境保护力度，利好环保相关企业。",
+      "keywords": [
+        "生态环境保护",
+        "督察组",
+        "环保政策"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国平安",
+      "stockCode": "601318",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的保险公司之一，农业保险保费补贴的增加将直接提升其业务量和收入。",
+      "relatedIndustries": [
+        "保险",
+        "农业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中粮科技",
+      "stockCode": "000930",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "农业保险的发展有助于稳定农业生产，提高农民收入，从而间接推动农产品加工企业的业绩增长。",
+      "relatedIndustries": [
+        "农业",
+        "食品加工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "玉米",
+      "exchange": "大商所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "农业保险的发展有助于稳定粮食生产，减少因自然灾害导致的产量波动，从而支撑玉米价格。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "大豆",
+      "exchange": "大商所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "类似玉米，农业保险的发展有助于稳定大豆生产，减少产量波动，支撑大豆价格。",
+      "priceDirection": "up",
+      "confidence": 0.65
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前新闻内容未涉及货币政策或财政政策的重大变化，因此对国债市场的影响较为中性。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "农业保险保费补贴增加利好农业及相关保险行业，环保政策加强利好环保企业，整体市场情绪偏乐观。",
+  "analyzedAt": "2025-11-29T10:34:56.834Z",
+  "modelVersion": "qwen-max"
+}

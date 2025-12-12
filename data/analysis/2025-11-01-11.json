@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-01-11",
+  "newsDate": "2025-11-01",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "我国钍基熔盐实验堆首次实现堆内钍铀转换今天（11月1日），我国第四代先进裂变核能系统——钍基熔盐实验堆，首次实现了钍铀核燃料转换，初步证明了熔盐堆核能系统利用钍资源的技术可行性，成为目前国际上唯一运行的熔盐堆。该系统将我国储量丰富的钍元素作为核燃料，有望打破我国核电对铀燃料的依赖。我国幸福河湖国家标准正式发布近日，由水利部制定的《幸福河湖评价导则第1部分：流域面积3000平方千米以下（含）河流》正式发布。这是我国首次围绕幸福河湖评价发布的国家标准，明确了河湖幸福指数取值规则、评价结果形成规则等要求。标准将于明年5月1日起全面实施。中国第42次南极考察队今天出征今天（11月1日），中国第42次南极考察队从上海起航。本次考察将继续推进秦岭站配套设施建设和系统优化等重点任务，并深入推进与相关国家和地区的双多边合作，预计明年5月完成任务。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "钍基熔盐实验堆的成功运行标志着中国在核能技术上的重大突破，这将促进新能源行业的发展。",
+      "keywords": [
+        "钍基熔盐堆",
+        "核能技术",
+        "新能源"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "环保",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "幸福河湖国家标准的发布有助于提升河流湖泊的生态环境质量，推动环保产业的发展。",
+      "keywords": [
+        "幸福河湖",
+        "环保标准",
+        "生态保护"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中广核电力",
+      "stockCode": "01816",
+      "exchange": "HKEX",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的核电企业之一，中广核电力有望从钍基熔盐堆技术发展中受益。",
+      "relatedIndustries": [
+        "新能源",
+        "电力"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "碧水源",
+      "stockCode": "300070",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "碧水源专注于水处理和环境治理，幸福河湖国家标准的实施可能为其带来更多的业务机会。",
+      "relatedIndustries": [
+        "环保",
+        "水务"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "短期内政策和技术进步对债券市场影响有限，预计收益率保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "钍基熔盐堆技术突破及幸福河湖国家标准发布利好新能源与环保行业，相关企业股票或有上涨空间。",
+  "analyzedAt": "2025-11-29T13:09:10.607Z",
+  "modelVersion": "qwen-max"
+}

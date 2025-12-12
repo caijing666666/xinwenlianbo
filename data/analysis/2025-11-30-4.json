@@ -1,0 +1,65 @@
+{
+  "newsId": "2025-11-30-4",
+  "newsDate": "2025-11-30",
+  "newsTitle": "在轨一个月 神舟二十一号乘组各项工作按计划推进",
+  "newsContent": "神舟二十一号乘组张陆、武飞、张洪章三名航天员已进驻中国空间站一个月，目前他们正按计划有序推进各项在轨工作。过去一周，航天员开展了微重力直觉物理行为等实验，完成了航天医学实验领域新上软件安装、两相系统实验柜高速图像存储器更换、实验模块拆装等工作，还开展了首次在轨全系统压力应急演练，主要模拟空间站面临内部失压情况时，乘组进行紧急处置的全流程，巩固并提升航天员应急处置能力以及天地协同配合能力。",
+  "industryImpacts": [
+    {
+      "industryName": "航空航天",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "神舟二十一号任务的顺利推进展示了中国在航天领域的技术实力和持续投入，有助于提升相关产业链的发展。",
+      "keywords": [
+        "航天",
+        "技术进步",
+        "产业链"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国卫星",
+      "stockCode": "600118",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的卫星制造企业，中国卫星有望受益于航天事业的发展。",
+      "relatedIndustries": [
+        "航空航天"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "航天电子",
+      "stockCode": "600879",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "航天电子在航天器电子设备方面有较强的技术积累，可能从此次任务中获得订单或技术合作机会。",
+      "relatedIndustries": [
+        "航空航天"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "航天领域的发展对宏观经济影响有限，预计不会显著改变国债收益率走势。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "神舟二十一号任务进展顺利，利好航空航天产业链及相关企业，但整体市场情绪保持稳定。",
+  "analyzedAt": "2025-11-30T16:12:32.525Z",
+  "modelVersion": "qwen-max"
+}

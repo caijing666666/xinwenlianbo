@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-01-2",
+  "newsDate": "2025-11-01",
+  "newsTitle": "习近平出席韩国总统举行的欢迎仪式",
+  "newsContent": "当地时间11月1日下午，韩国总统李在明同中国国家主席习近平在庆州博物馆举行会谈。11月的庆州，秋意正浓。习近平乘车抵达，韩国礼仪队隆重欢迎。李在明热情迎接习近平。两国元首握手合影。习近平同李在明登上检阅台。军乐团奏中韩两国国歌。习近平在李在明陪同下检阅仪仗队。两国元首分别同对方陪同人员握手致意。",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中韩两国领导人的会晤可能促进双边贸易关系，增加贸易额。",
+      "keywords": [
+        "双边贸易",
+        "合作",
+        "出口"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "高层互访有助于增强两国人民的友好往来，促进旅游业发展。",
+      "keywords": [
+        "旅游",
+        "文化交流",
+        "友好往来"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中韩关系改善有望吸引更多韩国游客来华旅游。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "青岛啤酒",
+      "stockCode": "600600",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中韩关系改善可能促进啤酒等消费品在韩国市场的销售。",
+      "relatedIndustries": [
+        "消费"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内对债券市场影响不大，但长期来看，稳定的外交关系有利于经济稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 65,
+  "summary": "中韩高层会晤利好国际贸易和旅游行业，相关企业有望受益。债券市场短期影响有限，建议关注旅游和消费品龙头企业。",
+  "analyzedAt": "2025-11-29T13:05:20.824Z",
+  "modelVersion": "qwen-max"
+}

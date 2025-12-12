@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-16-11",
+  "newsDate": "2025-11-16",
+  "newsTitle": "俄称打击乌能源设施 乌称拦截俄导弹",
+  "newsContent": "俄罗斯国防部15日称，俄军在苏梅、哈尔科夫等多个方向发动攻势，打击乌克兰能源设施、军用机场、无人艇制造车间等目标。在顿涅茨克红军城（乌称波克罗夫斯克），俄军继续打击乌军人员。俄军还在库皮扬斯克等地击退乌军多次解围行动。乌克兰方面同一天称，波克罗夫斯克等地战事激烈，乌军在扎波罗热、哈尔科夫等地打击俄军用专列、人员集结点等目标，并拦截2枚俄“匕首”弹道导弹和近百架无人机。乌军还称对俄罗斯境内梁赞州一处炼油厂实施打击。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突导致能源供应不稳定，可能推高全球能源价格，利好国内能源企业",
+      "keywords": [
+        "能源",
+        "供应",
+        "价格上涨"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "军工",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能增加国防开支，利好军工行业",
+      "keywords": [
+        "军工",
+        "国防",
+        "开支"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "能源价格上涨预期将提升公司业绩",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能增加军品需求",
+      "relatedIndustries": [
+        "军工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突可能导致能源供应紧张，推高油价",
+      "priceDirection": "up",
+      "confidence": 0.9
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治风险上升，避险情绪推动金价上涨",
+      "priceDirection": "up",
+      "confidence": 0.8
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内市场对避险资产的需求增加，但长期影响有限",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "俄乌冲突加剧能源和军工行业的投资机会，相关企业和商品期货有望受益，建议关注能源和军工龙头企业。",
+  "analyzedAt": "2025-11-29T10:53:36.647Z",
+  "modelVersion": "qwen-max"
+}

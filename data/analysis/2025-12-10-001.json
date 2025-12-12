@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-12-10-001",
+  "newsDate": "2025-12-10",
+  "newsTitle": "宁夏回族自治区发展改革委提前下达2026年中央财政以工代赈任务资金11317万元",
+  "newsContent": "近日，宁夏回族自治区发展改革委提前下达2026年中央财政衔接推进乡村振兴补助资金以工代赈专项11317万元，支持我区17个县（市、区），共29个农村中小型公益性基础设施和产业发展配套设施项目建设。项目涵盖农村道路硬化、渠道管网修缮、基础设施提升等领域，预计吸纳3270名当地群众参与项目建设，劳务报酬发放总额达5082万元。项目的实施为群众就近就业增收拓宽了渠道，也为农村改善生产生活条件、壮大特色产业提供坚实支撑，发挥出以工代赈“建设”与“赈济”双重效益，为持续巩固拓展脱贫攻坚成果、扎实推进乡村全面振兴注入强劲动能。　　下一步，宁夏回族自治区发展改革委将强化责任落实，多措并举推动项目落地见效。一是全力督促项目尽快开工建设，推动相关县区加快开展前期工作，确保项目按期开工，带动以重点群体为主的低收入群众就业增收，结合项目进度，逐月发放劳务报酬。二是持续强化全过程监督与指导，通过每月调度、实地督导、专项检查等方式，对项目实施、群众用工组织、劳务报酬发放等关键环节实行全周期闭环管理，确保工程建设管理规范、劳务报酬发放到位，切实提升“赈”的实效。三是继续做好劳务组织模式创新与项目储备，积极鼓励并引导项目采用“国企带镇村”“乡建公司”“村民自建”等灵活发包方式，进一步加强项目的审查、筛选和储备工作。同时，宁夏回族自治区发展改革委将继续与国家发展改革委和财政部门保持密切沟通衔接，积极争取2026年后续中央预算内投资及中央财政衔接资金，助力我区更多低收入群众就业增收。",
+  "industryImpacts": [
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "资金支持农村中小型公益性基础设施和产业发展配套设施项目建设，将直接推动相关行业的发展。",
+      "keywords": [
+        "基础设施",
+        "农村发展",
+        "以工代赈"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "农业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "项目涵盖渠道管网修缮等，有助于改善农业生产条件，提升农业生产力。",
+      "keywords": [
+        "农业",
+        "生产条件",
+        "渠道修缮"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国建筑",
+      "stockCode": "601668",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的建筑企业，有望受益于基础设施建设项目增加。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中交建",
+      "stockCode": "601800",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "公司参与多个基础设施建设项目，有望从此次政策中获益。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "钢铁",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "基础设施建设项目的增加将带动钢铁需求增长。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "水泥",
+      "exchange": "郑商所",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "基础设施建设项目的增加也将带动水泥需求增长。",
+      "priceDirection": "up",
+      "confidence": 0.65
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然资金支持有利于地方经济发展，但短期内对地方债的影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "宁夏回族自治区的以工代赈项目将推动基础设施建设和农业发展，相关企业和商品期货有望受益。",
+  "analyzedAt": "2025-12-12T02:16:35.303Z",
+  "modelVersion": "qwen-max"
+}

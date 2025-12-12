@@ -1,0 +1,91 @@
+{
+  "newsId": "2025-11-01-1",
+  "newsDate": "2025-11-01",
+  "newsTitle": "习近平宣布中方将在深圳举办亚太经合组织第三十三次领导人非正式会议",
+  "newsContent": "当地时间11月1日上午，国家主席习近平出席亚太经合组织第三十二次领导人非正式会议东道主交接环节，宣布中方将于明年11月在广东省深圳市举办亚太经合组织第三十三次领导人非正式会议。习近平强调，亚太经合组织是亚太地区最重要的经济合作机制，为促进亚太地区增长和繁荣作出了重要贡献。构建亚太共同体是实现亚太地区长远发展繁荣的必由之路，也是各方的共同愿景。2026年，中国将第三次担任亚太经合组织东道主。中方愿以此为契机，同各方携手构建亚太共同体，促进亚太地区增长和繁荣，着力推进亚太自由贸易区、互联互通、数字经济、人工智能等务实合作，为亚太发展注入更大活力和动力，更多造福亚太人民。习近平指出，深圳地处太平洋沿岸，几十年间从一个落后的小渔村发展成为现代化国际大都市，是中国人民创造的世界发展史上的一个奇迹，也是中国坚定不移奉行互利共赢开放战略的重要窗口。期待各方明年共赴深圳之约，共商亚太发展大计，共创亚太美好明天。与会经济体领导人积极支持中国接任亚太经合组织2026年东道主，赞同中方办会理念，期待亚太经合组织“中国年”取得圆满成功，为推动区域合作、促进共同发展繁荣作出贡献。",
+  "industryImpacts": [
+    {
+      "industryName": "数字经济",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "习近平强调推进数字经济合作，这将促进相关行业的发展和投资。",
+      "keywords": [
+        "数字经济",
+        "合作",
+        "发展"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "人工智能",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "强调推进人工智能务实合作，将推动该领域的技术创新和应用。",
+      "keywords": [
+        "人工智能",
+        "创新",
+        "应用"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "推进互联互通将带动基础设施建设的需求，包括交通、通信等。",
+      "keywords": [
+        "互联互通",
+        "基础设施",
+        "需求"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "腾讯控股",
+      "stockCode": "00700",
+      "exchange": "HKEX",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为中国领先的互联网公司，腾讯在数字经济领域有广泛布局，有望受益于政策支持。",
+      "relatedIndustries": [
+        "数字经济",
+        "互联网"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "阿里巴巴",
+      "stockCode": "BABA",
+      "exchange": "NYSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "阿里巴巴在数字经济和人工智能领域有重要布局，政策利好将推动其业务增长。",
+      "relatedIndustries": [
+        "数字经济",
+        "人工智能"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "短期内货币政策预计保持稳定，但长期来看，经济合作和增长预期可能对债券市场产生积极影响。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好数字经济和人工智能行业，相关企业和债券市场有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T13:04:45.848Z",
+  "modelVersion": "qwen-max"
+}

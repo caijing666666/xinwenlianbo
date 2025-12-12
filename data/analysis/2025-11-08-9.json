@@ -1,0 +1,130 @@
+{
+  "newsId": "2025-11-08-9",
+  "newsDate": "2025-11-08",
+  "newsTitle": "美国联邦政府“停摆”持续 非农业部门就业数据再次延迟发布",
+  "newsContent": "美国联邦政府创纪录的“停摆”仍在持续。7日，美国参议院就一项为“停摆”期间仍需履职的部分联邦雇员提供拨款的动议进行投票，未获通过。受政府持续“停摆”影响，原定7日发布的美国10月非农业部门就业数据继上月之后再次延迟发布。白宫国家经济委员会主任哈西特7日对媒体表示，政府“停摆”对美国经济的影响远超预期，美国第四季度经济增长或将降至预期的一半左右。7日，美国密歇根大学发布的数据显示，美国11月份消费者信心指数初值降至50.3，低于10月份的终值53.6。美国媒体报道说，这是该数据自2022年6月以来的最低水平。美国单日超五千架次航班取消或延误据航班追踪网站数据，截至7日下午，美国一天内有1000架次航班被取消，超4400架次航班延误。美交通部长达菲表示，如果“停摆”持续，全美航班取消率可能达到15%甚至20%。",
+  "industryImpacts": [
+    {
+      "industryName": "航空",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "美国政府停摆导致航班取消和延误，对航空业造成负面影响。",
+      "keywords": [
+        "航班取消",
+        "延误",
+        "政府停摆"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 65,
+      "impactType": "negative",
+      "reasoning": "航班取消和延误影响旅游业，游客出行受阻。",
+      "keywords": [
+        "旅游",
+        "航班取消",
+        "延误"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "消费",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "消费者信心指数下降，可能抑制消费需求。",
+      "keywords": [
+        "消费者信心",
+        "经济预期"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "达美航空",
+      "stockCode": "DAL",
+      "exchange": "NYSE",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "航班取消和延误直接影响其运营和收入。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "美国航空",
+      "stockCode": "AAL",
+      "exchange": "NASDAQ",
+      "impactScore": 65,
+      "impactType": "negative",
+      "reasoning": "航班取消和延误直接影响其运营和收入。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "-1-3%"
+    },
+    {
+      "companyName": "迪士尼",
+      "stockCode": "DIS",
+      "exchange": "NYSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "旅游业受影响，游客减少可能影响其主题公园业务。",
+      "relatedIndustries": [
+        "旅游",
+        "娱乐"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-1-2%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "航空业需求减少可能导致原油需求下降。",
+      "priceDirection": "down",
+      "confidence": 0.6
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "经济不确定性增加，避险需求上升。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 55,
+      "impactType": "neutral",
+      "reasoning": "市场避险情绪上升，但货币政策保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "经济不确定性增加，企业信用风险上升。",
+      "yieldDirection": "up",
+      "riskLevel": "medium",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 50,
+  "summary": "美国政府停摆导致航空、旅游等行业受到负面影响，消费者信心下降。避险资产如黄金可能受益，建议关注相关行业龙头企业的表现。",
+  "analyzedAt": "2025-11-29T13:23:46.425Z",
+  "modelVersion": "qwen-max"
+}

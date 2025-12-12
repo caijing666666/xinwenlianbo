@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-12-10-004",
+  "newsDate": "2025-12-10",
+  "newsTitle": "何立峰会见世界贸易组织总干事伊维拉时指出：中方坚定支持多边贸易体制 将与各方一道维护开放稳定可预期的国际贸易环境",
+  "newsContent": "首页\n        |\n        简\n        |\n        繁\n        |\n        EN\n        |\n        登录\n        \n          \n          \n            个人中心\n            退出\n          \n        \n        |\n        邮箱\n        |\n        无障碍\n\n      \n    \n  \n  \n    \n    EN\n    \n      \n      \n    \n\n    \n      \n        \n          \n          \n        \n        \n          function goSearch(event) {\n            var e = window.event || event;\n            if(e.preventDefault){\n              e.preventDefault();\n            }else{\n              e.returnValue=false;\n            }\n            var s = '', m = document.querySelector('.header .pchide [name=headSearchword]');\n            s = m.offsetHeight > 0 ? m.value : document.querySelector('.header .mhide [name=headSearchword]').value;\n            // 市场主体 dataTypeId=14\n            if (s == '市场主体') {\n              url = '//sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=14&searchWord=' + s;\n            } else {\n              url = '//sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=107&searchWord=' + encodeURIComponent(s);\n            }\n            window.open(url, '_blank');\n          }\n          function listenerKeyUpEventFn(){\n            if(event.keyCode==13){\n              goSearch();\n            };\n          }",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中方坚定支持多边贸易体制，维护开放稳定的国际贸易环境，有利于国际贸易相关企业的发展。",
+      "keywords": [
+        "多边贸易",
+        "国际贸易",
+        "开放稳定"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "物流",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "国际贸易环境的改善将促进跨境物流需求的增长，利好物流企业。",
+      "keywords": [
+        "物流",
+        "跨境",
+        "需求增长"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国远洋海运集团有限公司",
+      "stockCode": "601919",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为全球领先的航运和物流公司，受益于国际贸易环境的改善。",
+      "relatedIndustries": [
+        "国际贸易",
+        "物流"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中远海控",
+      "stockCode": "601919",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为国际航运巨头，有望从国际贸易环境改善中获益。",
+      "relatedIndustries": [
+        "国际贸易",
+        "物流"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "国际贸易环境改善可能带动工业金属需求增加，尤其是铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "政策对债券市场影响较小，预计收益率保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中方支持多边贸易体制，维护开放稳定的国际贸易环境，利好国际贸易和物流行业及相关企业。",
+  "analyzedAt": "2025-12-12T02:18:00.825Z",
+  "modelVersion": "qwen-max"
+}

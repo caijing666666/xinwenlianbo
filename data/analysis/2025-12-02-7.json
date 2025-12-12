@@ -1,0 +1,114 @@
+{
+  "newsId": "2025-12-02-7",
+  "newsDate": "2025-12-02",
+  "newsTitle": "供需互促 赋能产业升级民生改善",
+  "newsContent": "“十五五”规划建议提出，以新需求引领新供给，以新供给创造新需求，促进消费和投资、供给和需求良性互动。当前，各地正加快引导企业生产老百姓喜欢、需要的产品，推出精准、多元化的服务，持续激发消费市场活力与产业升级动力。这两天，哈尔滨开行的首趟冰雪旅游列车正式发车。为期6天的旅程，餐车专门供应低糖、低盐“适老餐”，契合老年群体饮食需求。不仅是面向银发群体，当前，各地都在推动企业，抓住不同人群的需求特点，定制化、精准化研发和升级新产品。随着传统文化热潮兴起，年轻人成为国潮消费主力军，企业加大国潮元素融合创新，推出了国潮服饰、文创产品等兼具文化内涵与实用价值的产品。面向农村市场，则开发更适用的高效节能吸油烟机、燃气灶具等产品，并且持续开展新能源汽车、绿色建材、绿色智能家电下乡活动。供需更加适配，带来消费活力的持续增长。今年前10个月，我国AI眼镜、智能手表等智能穿戴网上零售额增长23.1%。10月份，我国部分一级能效家电销售额同比增长超10%，有机食品销售额同比增幅达8%以上，绿色智能、高品质消费成为市场主流。日前，国家发布了《关于增强消费品供需适配性进一步促进消费的实施方案》，这是“十五五”规划建议提出后首个聚焦促消费的专项政策文件。下一步，各地将加快推动开设消费品首店、旗舰店、新概念店，举办首秀、首展活动等，进一步激发消费市场新活力。力争到2027年，形成包括老年用品、智能网联汽车、消费电子等3个万亿级消费领域，和包括婴童用品、智能穿戴产品、民用无人机等10个千亿级消费热点。",
+  "industryImpacts": [
+    {
+      "industryName": "消费电子",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策推动智能穿戴设备等消费电子产品的需求增长，促进产业升级和市场活力。",
+      "keywords": [
+        "智能穿戴",
+        "消费升级",
+        "市场需求"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "家电",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "政策支持高效节能家电产品的发展，绿色智能、高品质消费成为市场主流。",
+      "keywords": [
+        "高效节能",
+        "绿色智能",
+        "家电下乡"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "冰雪旅游列车的开行及定制化服务将提升旅游业的吸引力，带动相关产业链发展。",
+      "keywords": [
+        "冰雪旅游",
+        "定制化服务",
+        "旅游市场"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "新能源汽车",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "政策持续推动新能源汽车下乡活动，扩大农村市场需求，促进新能源汽车行业的发展。",
+      "keywords": [
+        "新能源汽车",
+        "下乡活动",
+        "市场需求"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "小米集团",
+      "stockCode": "1810.HK",
+      "exchange": "HKEX",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为智能穿戴设备的主要生产商之一，小米有望受益于政策推动的市场需求增长。",
+      "relatedIndustries": [
+        "消费电子"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "美的集团",
+      "stockCode": "000333.SZ",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为家电行业的龙头企业，美的集团将受益于高效节能家电产品的推广和市场需求的增长。",
+      "relatedIndustries": [
+        "家电"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "比亚迪",
+      "stockCode": "002594.SZ",
+      "exchange": "SZSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为新能源汽车的领先企业，比亚迪将受益于新能源汽车下乡活动的政策支持。",
+      "relatedIndustries": [
+        "新能源汽车"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+4-6%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前货币政策保持稳定，国债收益率预计维持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好消费电子、家电、旅游和新能源汽车行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-03T07:01:38.087Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-22-3",
+  "newsDate": "2025-11-22",
+  "newsTitle": "第十五届全国运动会在深圳闭幕 王沪宁出席闭幕式",
+  "newsContent": "21日晚，第十五届全运会闭幕式在深圳前海欢乐剧场举行。中共中央政治局常委、全国政协主席王沪宁宣布，中华人民共和国第十五届运动会闭幕。第十五届全运会是粤港澳三地首次联合承办的大型体育赛事，是“一国两制”在体育领域的创新实践。本届全运会坚持“绿色、共享、开放、廉洁”的办赛理念和“简约、安全、精彩”的办赛要求，将办赛工作与推动三地全民健身活动相结合，共同奏响“硬联通”“软联通”“心联通”的乐章，助力粤港澳大湾区高质量发展迈上新台阶。第十五届全运会于11月9日在广州开幕，设34个竞技比赛项目和23个群众赛事活动，共有1.4万多名运动员和约1.1万名群众运动员参加。有5人3队8次超8项世界纪录，10人4队14次创/超13项亚洲纪录，10人4队15次创14项全国纪录。广东省省长孟凡利、香港特别行政区行政长官李家超、澳门特别行政区行政长官岑浩辉、国家体育总局局长高志丹分别致辞。第十六届全运会将于2029年在湖南举办。闭幕式上还举行了主题为《星辰大海》的文体展演。 黄坤明、郑建邦、谌贻琴、朱永新和刘振立出席闭幕式。",
+  "industryImpacts": [
+    {
+      "industryName": "体育",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "全运会的成功举办提升了体育行业的关注度，有助于推动全民健身活动和相关产业的发展。",
+      "keywords": [
+        "体育",
+        "全民健身",
+        "粤港澳大湾区"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "全运会的举办吸引了大量游客，促进了当地旅游业的发展。",
+      "keywords": [
+        "旅游",
+        "粤港澳大湾区",
+        "大型赛事"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中体产业",
+      "stockCode": "600158",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为体育产业的龙头企业，中体产业有望受益于全运会带来的行业增长。",
+      "relatedIndustries": [
+        "体育"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "华侨城A",
+      "stockCode": "000069",
+      "exchange": "SZSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "华侨城A在粤港澳大湾区有多个旅游项目，全运会的举办将提升其项目的知名度和客流量。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "全运会的举办对地方财政有一定影响，但整体来看，地方债市场保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "全运会的成功举办对体育和旅游行业有积极影响，相关企业和地方债市场保持稳定。建议关注体育和旅游行业的龙头企业。",
+  "analyzedAt": "2025-11-29T10:22:54.920Z",
+  "modelVersion": "qwen-max"
+}

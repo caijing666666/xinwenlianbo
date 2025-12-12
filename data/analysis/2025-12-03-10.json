@@ -1,0 +1,102 @@
+{
+  "newsId": "2025-12-03-10",
+  "newsDate": "2025-12-03",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "“十四五”期间全国城乡新增残疾人就业超240万人今天（12月3日）是国际残疾人日。据了解，“十四五”期间，全国每年新增城乡残疾人就业均稳定在40万人以上，城乡新增残疾人就业累计超240万人，组织232万城乡残疾人参加职业技能培训，残疾人就业渠道更加多元。前十个月我国移动互联网流量同比增长16.8%今年前10个月，我国移动互联网流量同比增长16.8%。其中10月份当月户均移动互联网接入流量达到22.21GB，创历史新高。截至10月末，全国5G移动电话用户达到11.84亿户，占移动电话用户的64.7%。我国建材全行业实现碳达峰记者从中国建筑材料联合会获悉，“十四五”期间，我国建材工业规模以上企业数量增长36.9%，资产总额增长54.2%。同时，建材行业碳排放已连续4年下降，累计降幅达20.4%，全行业实现碳达峰。中央网信办指导网站平台深入整治网络直播打赏乱象“清朗·整治网络直播打赏乱象”专项行动启动一个月以来，中央网信办指导督导网站平台，针对低俗团播引诱打赏、虚假人设诱骗打赏、诱导未成年人打赏和刺激用户非理性打赏等突出问题，累计处置违规直播间7.3万余个、账号2.4万余个。“平安原野—2025”专项行动立危害鸟类等野生动物刑事案件6600余起8月以来，公安部组织开展“平安原野—2025”专项行动，依法严厉打击危害鸟类等野生动物犯罪活动。截至目前，全国公安机关共立刑事案件6600余起。今年前10个月义乌进出口规模已超去年全年今年前10个月，义乌进出口规模首次突破7000亿大关，达到7011.9亿元，超2024年全年进出口规模；其中，出口同比增长24.4%，进口同比增长31.1%，与230个国家和地区有进出口贸易。",
+  "industryImpacts": [
+    {
+      "industryName": "通信",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "移动互联网流量持续增长，5G用户数量增加，表明通信行业需求强劲。",
+      "keywords": [
+        "移动互联网",
+        "5G",
+        "流量"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "建材",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "建材行业实现碳达峰，规模以上企业数量和资产总额显著增长，显示行业整体向好。",
+      "keywords": [
+        "碳达峰",
+        "规模以上企业",
+        "资产总额"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "电子商务",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "义乌进出口规模突破历史记录，出口和进口均大幅增长，利好电商及相关物流行业。",
+      "keywords": [
+        "进出口",
+        "义乌",
+        "增长"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国移动",
+      "stockCode": "0941.HK",
+      "exchange": "HKEX",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "移动互联网流量和5G用户数的增长将直接提升公司的业务量和收入。",
+      "relatedIndustries": [
+        "通信"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "海螺水泥",
+      "stockCode": "600585.SH",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "建材行业的整体向好以及碳达峰的实现，有利于公司业绩提升。",
+      "relatedIndustries": [
+        "建材"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "阿里巴巴",
+      "stockCode": "BABA.NYSE",
+      "exchange": "NYSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "义乌进出口贸易的大幅增长，有助于电商平台的业务扩展。",
+      "relatedIndustries": [
+        "电子商务"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "经济数据表现良好，但货币政策保持稳定，对国债收益率影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "通信、建材和电子商务行业受益于政策和技术发展，相关企业有望迎来增长机会。",
+  "analyzedAt": "2025-12-04T06:29:39.449Z",
+  "modelVersion": "qwen-max"
+}

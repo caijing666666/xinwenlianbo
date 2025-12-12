@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-08-2",
+  "newsDate": "2025-11-08",
+  "newsTitle": "中华人民共和国第十五届运动会开幕式9日晚在广东广州举行 习近平将出席开幕式并宣布运动会开幕",
+  "newsContent": "中华人民共和国第十五届运动会开幕式11月9日晚在广东奥林匹克体育中心举行。中共中央总书记、国家主席、中央军委主席习近平将出席开幕式并宣布运动会开幕。届时，中央广播电视总台所属中央电视台综合频道、新闻频道、中文国际频道、体育频道、体育赛事频道、4K超高清频道等电视频道，中央人民广播电台中国之声、大湾区之声，中国国际广播电台环球资讯广播等频率将进行现场直播；央视新闻、央视频、央视网等中央重点新媒体平台将同步转播。",
+  "industryImpacts": [
+    {
+      "industryName": "体育",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "运动会的举办将提升体育行业的关注度，增加相关企业的曝光度和潜在商业机会。",
+      "keywords": [
+        "运动会",
+        "体育赛事",
+        "商业机会"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "运动会期间，广州及周边地区的旅游业可能会受益于游客数量的增加。",
+      "keywords": [
+        "旅游业",
+        "游客",
+        "酒店预订"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中体产业",
+      "stockCode": "600158",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为体育行业的重要企业，中体产业可能从运动会带来的关注度中获益。",
+      "relatedIndustries": [
+        "体育"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "岭南控股",
+      "stockCode": "000524",
+      "exchange": "SZSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "岭南控股在广州及周边地区拥有丰富的旅游资源，运动会期间有望吸引更多的游客。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "运动会的举办对地方财政的影响有限，预计不会显著影响地方债的收益率。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 65,
+  "summary": "运动会的举办将对体育和旅游行业产生积极影响，相关企业和地方债市场保持稳定。",
+  "analyzedAt": "2025-11-29T13:21:09.999Z",
+  "modelVersion": "qwen-max"
+}

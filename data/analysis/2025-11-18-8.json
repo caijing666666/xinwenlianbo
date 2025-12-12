@@ -1,0 +1,68 @@
+{
+  "newsId": "2025-11-18-8",
+  "newsDate": "2025-11-18",
+  "newsTitle": "海军福建舰开展入列后首次海上实兵训练",
+  "newsContent": "近日，由海军福建舰、延安舰、通辽舰等多艘舰艇组成的航母编队在完成海上训练任务后返回三亚某军港。这是福建舰入列之后开展的首次海上实兵训练任务。任务中，歼-35、歼-15T、歼-15DT、空警-600等多型舰载机完成了多架次弹射起飞和着舰训练，有效检验了福建舰电磁弹射、回收和甲板作业能力，舰机适配性得到进一步验证。任务期间，福建舰航母编队还开展了编队航行、舰机联合搜救等多个课目训练。在舰机联合搜救课目中，编队指挥所下达处置特情后，舰机海空联动、协同配合，快速完成救援任务，助推编队舰载机特情处置和搜救兵力转进流程完善优化，强化了编队应急情况处置能力。飞行甲板上，航空保障部门官兵高效完成各型舰载机转运、出动准备和起降保障工作。此次福建舰航母编队开展海上训练，是根据工作计划作出的正常安排，旨在检验部队训练成效，提高维护国家主权、安全和发展利益的能力。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "福建舰航母编队的首次海上实兵训练展示了中国海军实力，提升了国防军工行业的关注度和信心。",
+      "keywords": [
+        "国防",
+        "军工",
+        "航母",
+        "训练"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为歼-35等舰载机的主要生产商，中航沈飞有望受益于此次训练展示出的舰载机性能和需求。",
+      "relatedIndustries": [
+        "国防军工",
+        "航空制造"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国船舶",
+      "stockCode": "600150",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为中国主要的军用舰船制造商，中国船舶可能因福建舰的成功训练而受到市场关注。",
+      "relatedIndustries": [
+        "国防军工",
+        "造船业"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "此次事件对宏观经济影响有限，预计不会显著改变国债收益率走势。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "福建舰航母编队的首次海上实兵训练增强了国防军工行业的投资吸引力，相关企业如中航沈飞、中国船舶有望受益。",
+  "analyzedAt": "2025-11-29T10:43:26.090Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-12-01-9",
+  "newsDate": "2025-12-01",
+  "newsTitle": "五部门联合开展医养结合促进行动",
+  "newsContent": "国家卫生健康委、民政部等五部门近日联合部署为期三年的医养结合促进行动。“行动”要求，依托现有医疗卫生养老服务网络，完善医养结合服务体系，到2027年底，结合当地人口老龄化程度，推动每个县（市、区、旗）至少有一家医疗卫生机构或养老机构直接开展医养结合服务，基本实现医养服务县域全覆盖。针对我国4500万失能老人与50万持证养老护理员的供需缺口，“三年行动”要求扩大人才培养规模，支持高校增设医养照护相关专业。同时重点发展居家和社区服务，优化家庭医生签约质效，为65岁以上老年人提供预约转诊等便捷服务，明确到2027年底，失能、高龄、残疾等特殊困难老年人家庭医生签约覆盖率不低于80%。",
+  "industryImpacts": [
+    {
+      "industryName": "医药",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "医养结合促进行动将推动医疗服务和养老产业的发展，增加对医疗设备、药品和服务的需求。",
+      "keywords": [
+        "医养结合",
+        "养老服务",
+        "医疗需求"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "政策鼓励发展居家和社区养老服务，可能带动相关地产项目的开发与销售。",
+      "keywords": [
+        "居家养老",
+        "社区服务",
+        "地产项目"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "恒瑞医药",
+      "stockCode": "600276",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的制药企业之一，有望从增加的医疗需求中获益。",
+      "relatedIndustries": [
+        "医药"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "泰康保险集团",
+      "stockCode": "未上市",
+      "exchange": "未上市",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "该公司在健康管理和养老服务领域有广泛布局，能够抓住此次机会扩大市场份额。",
+      "relatedIndustries": [
+        "保险",
+        "养老服务"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "N/A"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 55,
+      "impactType": "neutral",
+      "reasoning": "虽然该计划可能会导致地方政府增加支出以支持医养结合项目，但短期内对整体债券市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "medium",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "医养结合促进行动主要利好医药及部分房地产企业，预计相关公司将迎来增长机遇。",
+  "analyzedAt": "2025-12-01T16:49:36.158Z",
+  "modelVersion": "qwen-max"
+}

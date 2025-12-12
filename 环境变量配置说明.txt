@@ -1,0 +1,45 @@
+================================
+  环境变量配置说明
+================================
+
+请在项目根目录创建 .env 文件，内容如下：
+
+# 千问 API Key（已提供，可直接使用）
+QWEN_API_KEY=sk-fefa9fed5599445abd3532c3b8187488
+
+# Vercel KV (可选，部署时才需要配置)
+KV_URL=
+KV_REST_API_URL=
+KV_REST_API_TOKEN=
+KV_REST_API_READ_ONLY_TOKEN=
+
+================================
+  快速创建命令
+================================
+
+Windows PowerShell:
+@"
+QWEN_API_KEY=sk-fefa9fed5599445abd3532c3b8187488
+KV_URL=
+KV_REST_API_URL=
+KV_REST_API_TOKEN=
+KV_REST_API_READ_ONLY_TOKEN=
+"@ | Out-File -FilePath .env -Encoding utf8
+
+或者手动复制:
+cp .env.example .env
+
+然后编辑 .env 文件，确保 QWEN_API_KEY 值正确。
+
+================================
+  验证配置
+================================
+
+运行以下命令测试 API 连接：
+
+npm run scrape
+npm run analyze
+
+如果成功，说明配置正确！
+
+================================

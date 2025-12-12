@@ -1,0 +1,102 @@
+{
+  "newsId": "2025-11-20-7",
+  "newsDate": "2025-11-20",
+  "newsTitle": "【学习贯彻四中全会精神在基层】福建厦门：打造宜居城市 让百姓生活更舒心 黑龙江七台河：民生工程添暖意",
+  "newsContent": "党的二十届四中全会提出，加大保障和改善民生力度。福建省厦门市、黑龙江省七台河市认真学习贯彻全会精神，加强普惠性、基础性、兜底性民生建设，不断提高百姓的幸福感、获得感。福建厦门：打造宜居城市 让百姓生活更舒心 在厦门湖里区后浦社区的“零工驿站”，大屏幕上，700多条招工信息随时更新、滚动播出。短期工、兼职工等各类岗位选择丰富，工作时长、薪资待遇一目了然。后浦社区外来流动人口占社区总人口的60%以上，对一些年龄偏大、缺乏专业技能的居民来说，这个家门口的“零工驿站”让大家“找活”方便不少。加大保障和改善民生力度。“十四五”以来，厦门在全市设立了线下零工市场与驿站，推出了线上“零工市场”小程序，开展补贴性技能培训超46万人次；已建成“市—区—镇—村”四级养老服务网络，基本医保参保率稳定在96%以上；累计改造老旧小区1410个，近25万户居民从中受益。接下来，厦门将通过多种形式，推动全会精神深入基层，把民生工程落实到位，不断提升市民生活品质。黑龙江七台河：民生工程添暖意这个冬天，黑龙江七台河市长兴乡马鞍村告别了村民自家的燃煤取暖，享受到了和城市里一样的集中供热。即便是遇到寒潮天气，村民家中温度也能保持在20℃以上。把民生实事办到群众“心坎上”。“十四五”期间，七台河市改造供热管网60多公里，新增供热面积200万平方米，惠及城乡居民2.5万多户；全市医疗卫生机构增至682个，百姓就医体验持续改善。贯彻落实四中全会精神，未来，七台河市还将实施村级自来水改造、乡村道路硬化亮化工程，构建“一刻钟便民生活圈”等，用精准服务回应群众诉求，补短板、强弱项、提质量。",
+  "industryImpacts": [
+    {
+      "industryName": "房地产",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "老旧小区改造和集中供热等民生工程将带动房地产及相关行业的发展，提升居民生活质量。",
+      "keywords": [
+        "老旧小区改造",
+        "集中供热",
+        "民生工程"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "医疗保健",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "医疗卫生机构的增加和改善将提高医疗服务水平，推动医疗保健行业的发展。",
+      "keywords": [
+        "医疗卫生机构",
+        "就医体验",
+        "医疗服务"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "乡村道路硬化亮化工程、村级自来水改造等项目将促进基础设施建设行业的增长。",
+      "keywords": [
+        "乡村道路",
+        "自来水改造",
+        "基础设施"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "万科企业",
+      "stockCode": "000002",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "老旧小区改造政策利好房地产开发商，尤其是具有城市更新经验的企业。",
+      "relatedIndustries": [
+        "房地产"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国建筑",
+      "stockCode": "601668",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "基础设施建设项目增多将直接利好大型建筑企业。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "爱尔眼科",
+      "stockCode": "300015",
+      "exchange": "SZSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "医疗保健行业整体向好，作为眼科医疗服务龙头，有望受益于政策支持。",
+      "relatedIndustries": [
+        "医疗保健"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地方政府加大民生工程建设力度，可能增加地方债发行需求，但同时也有利于经济增长。",
+      "yieldDirection": "stable",
+      "riskLevel": "medium",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好房地产、医疗保健和基础设施建设等行业，相关企业和地方债市场有望受益。建议关注龙头企业和地方债投资机会。",
+  "analyzedAt": "2025-11-29T10:34:09.687Z",
+  "modelVersion": "qwen-max"
+}

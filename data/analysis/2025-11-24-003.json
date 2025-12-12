@@ -1,0 +1,97 @@
+{
+  "newsId": "2025-11-24-003",
+  "newsDate": "2025-11-24",
+  "newsTitle": "吉林省发展改革委召开专题会议谋划部署2026年度重点工作",
+  "newsContent": "11月19日，吉林省发展改革委党组书记、主任张志新主持召开专题会议，谋划部署2026年度重点工作。　　会议指出，今年以来，吉林省发展改革委坚决落实省委省政府决策部署，锚定高质量发展明显进位、全面振兴取得新突破目标，主动作为、狠抓落实，充分发挥政策和研究、规划和计划、投资和项目、改革和创新、综合统筹和综合平衡五大职能作用，扎实推动各项工作取得积极成效。全委上下要继续保持昂扬向上斗志、奋发有为姿态，全力抓好年终岁尾工作收官，为明年工作奠定坚实基础。　　会议强调，2026年是“十五五”开局之年，要坚持目标导向、问题导向、结果导向，厘清路径、强化举措，切实把明年工作谋划到位。要充分发挥吉林省委省政府参谋助手作用，统筹推动“十五五”规划实施，拿出有力举措有序推进重大战略任务、重大工程项目落地；加强经济运行分析调节，精准测算支撑因素，科学合理提出明年经济指标安排建议。要当好经济战线“排头兵”，谋划扩投资、促消费的突破性举措，进一步激发内需潜力；准确把握新质生产力发展要求，构建以先进制造业为骨干，以现代服务业为依托的现代化产业体系，推进产业间高效协同，促进全产业链优化升级，把产业结构单一的“二人转”变为多业并举的“众人行”；狠抓经济体制重点领域改革，以点带面形成破局之力；谋划高水平开放新路径，深入实施长吉图开发开放先导区战略，加快建设各级各类开放平台。要加强经济发展统筹平衡，加快推进长春现代化都市圈建设，促进边境地区产业振兴、民生改善、开放合作，高质量谋划实施一批群众可感可及的民生实事。　　会议要求，全委上下要全面贯彻习近平总书记在听取省委和省政府工作汇报时的重要讲话精神，深刻把握吉林省委省政府对明年工作部署要求，切实把明年工作谋深、谋细、谋实，在专业、务实、高效、尽责、落实上下功夫，以超常规、更有为姿态，为我省“十五五”规划开局起步作出更大发改贡献。　　吉林省发展改革委党组成员出席会议，总工程师，机关各处室、直属各单位主要负责同志参加会议。",
+  "industryImpacts": [
+    {
+      "industryName": "先进制造业",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "会议强调构建以先进制造业为骨干的现代化产业体系，这将促进该行业的发展。",
+      "keywords": [
+        "先进制造业",
+        "现代化产业体系"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "现代服务业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "会议提到要以现代服务业为依托，推动全产业链优化升级，这将有利于现代服务业的发展。",
+      "keywords": [
+        "现代服务业",
+        "全产业链优化升级"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "会议提到要加快推进长春现代化都市圈建设，这将带动基础设施建设的需求。",
+      "keywords": [
+        "基础设施建设",
+        "长春现代化都市圈"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "一汽解放",
+      "stockCode": "000800",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为吉林省重要的汽车制造企业，受益于先进制造业和现代服务业的发展。",
+      "relatedIndustries": [
+        "先进制造业",
+        "现代服务业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "吉林敖东",
+      "stockCode": "000623",
+      "exchange": "SZSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "作为吉林省医药行业的龙头企业，有望受益于经济发展的整体提升。",
+      "relatedIndustries": [
+        "医药"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "钢铁",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和制造业的发展将增加对钢铁的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "会议提到要高质量谋划实施一批群众可感可及的民生实事，这可能增加地方政府的财政支出，但总体影响中性。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "政策利好先进制造业、现代服务业和基础设施建设，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-12T02:54:12.185Z",
+  "modelVersion": "qwen-max"
+}

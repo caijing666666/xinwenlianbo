@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-07-1",
+  "newsDate": "2025-11-07",
+  "newsTitle": "习近平致电祝贺比亚当选连任喀麦隆总统",
+  "newsContent": "11月7日，国家主席习近平致电保罗·比亚，祝贺他当选连任喀麦隆共和国总统。习近平指出，中国和喀麦隆传统友好。近年来，两国政治互信不断深化，各领域合作成果丰硕，在涉及彼此核心利益和重大关切问题上坚定相互支持。明年是中喀建交55周年，两国关系发展面临新机遇。我高度重视中喀关系发展，愿同比亚总统一道努力，以落实中非合作论坛北京峰会成果为契机，推动两国全面战略伙伴关系深入发展，更好造福两国人民。",
+  "industryImpacts": [
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中喀建交55周年，两国关系发展面临新机遇，可能会推动更多基础设施建设项目合作。",
+      "keywords": [
+        "基础设施",
+        "合作",
+        "项目"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "国际贸易",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中喀关系深化可能促进双边贸易增长，利好相关贸易企业。",
+      "keywords": [
+        "贸易",
+        "增长",
+        "合作"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国铁建",
+      "stockCode": "601186",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为基础设施建设龙头企业，有望受益于中喀合作项目的增加。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中远海控",
+      "stockCode": "601919",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "作为国际航运和物流巨头，有望受益于中喀贸易的增长。",
+      "relatedIndustries": [
+        "国际贸易"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "中喀关系的深化对国内货币政策影响有限，国债收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中喀关系深化将利好基础设施建设和国际贸易行业，相关企业和债券市场预计保持稳定。",
+  "analyzedAt": "2025-11-29T12:31:33.266Z",
+  "modelVersion": "qwen-max"
+}

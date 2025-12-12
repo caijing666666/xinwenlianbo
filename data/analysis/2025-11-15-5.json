@@ -1,0 +1,90 @@
+{
+  "newsId": "2025-11-15-5",
+  "newsDate": "2025-11-15",
+  "newsTitle": "“粤车南下”正式实施 互联互通再提速",
+  "newsContent": "11月15日零时起，“粤车南下”政策正式实施，符合条件的广东私家车车主可驾车经港珠澳大桥珠海公路口岸驶入香港口岸自动化停车场。当天零时，首辆获准的广东牌照私家车经车体检查、人脸识别，通过“一站式”查验通道顺利通关，耗时不足1分钟。此次“粤车南下”政策是在“港车北上”“澳车北上”基础上优化升级的，将进一步推动三地人员往来、经济融合与旅游消费升级。",
+  "industryImpacts": [
+    {
+      "industryName": "汽车行业",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "粤车南下政策将促进广东与香港之间的人员往来，增加汽车使用频率，利好汽车销售和相关服务。",
+      "keywords": [
+        "汽车",
+        "交通",
+        "旅游"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "旅游业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "政策将进一步推动三地人员往来，带动旅游业发展，特别是自驾游市场。",
+      "keywords": [
+        "旅游",
+        "自驾游",
+        "消费升级"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "短期内对房地产行业影响有限，但长期来看可能促进粤港澳大湾区的房地产市场发展。",
+      "keywords": [
+        "房地产",
+        "大湾区",
+        "发展"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "比亚迪",
+      "stockCode": "002594",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源汽车龙头企业，受益于政策带来的汽车需求增长。",
+      "relatedIndustries": [
+        "汽车行业",
+        "新能源"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "政策推动三地人员往来，有望带动旅游消费，利好旅游企业。",
+      "relatedIndustries": [
+        "旅游业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "政策对地方债市场影响较小，主要关注经济基本面和货币政策。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "粤车南下政策利好汽车行业和旅游业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:55:56.829Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,91 @@
+{
+  "newsId": "2025-11-05-7",
+  "newsDate": "2025-11-05",
+  "newsTitle": "前三季度我国机器人产量已超去年全年",
+  "newsContent": "记者从中国机械工业联合会获悉，今年以来，我国机器人产量实现快速增长。前三季度，工业机器人产量59.5万台，服务机器人产量1350万套，两大类产品均已超过2024年全年产量。产量增长的同时，机器人整机产品性能质量也显著提升。自主品牌的重载、焊接、喷涂、移动操作等多项高性能工业机器人产品研制成功，填补了高端机器人领域的空白。此外，机器人关键零部件的配套能力也在稳步增强。高精密减速器、高性能伺服系统、智能控制器等关键零部件研制不断取得新突破。",
+  "industryImpacts": [
+    {
+      "industryName": "机器人",
+      "impactScore": 90,
+      "impactType": "positive",
+      "reasoning": "产量和性能质量的提升将推动整个行业的发展，增加市场份额和竞争力。",
+      "keywords": [
+        "机器人",
+        "产量增长",
+        "性能提升"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "industryName": "高端制造",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "自主品牌的高性能工业机器人的成功研制填补了高端制造领域的空白，提升了整体技术水平。",
+      "keywords": [
+        "高端制造",
+        "自主研发",
+        "技术突破"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "零部件制造",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "关键零部件如高精密减速器、伺服系统等的研发取得新突破，增强了产业链的整体配套能力。",
+      "keywords": [
+        "零部件",
+        "研发突破",
+        "配套能力增强"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "埃斯顿",
+      "stockCode": "002747",
+      "exchange": "SZSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的工业机器人制造商，埃斯顿有望受益于行业整体的增长趋势。",
+      "relatedIndustries": [
+        "机器人",
+        "高端制造"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+5-10%"
+    },
+    {
+      "companyName": "汇川技术",
+      "stockCode": "300124",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "公司在伺服系统和控制器领域具有较强的技术实力，有望从关键零部件的突破中获益。",
+      "relatedIndustries": [
+        "零部件制造",
+        "高端制造"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-7%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "机器人及相关制造业企业的盈利能力增强，可能提高其信用评级，降低融资成本。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 80,
+  "summary": "机器人及高端制造行业的快速发展为相关企业和零部件制造商带来积极影响，建议关注龙头企业和技术领先企业。",
+  "analyzedAt": "2025-11-29T12:43:58.432Z",
+  "modelVersion": "qwen-max"
+}

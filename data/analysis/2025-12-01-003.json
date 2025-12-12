@@ -1,0 +1,65 @@
+{
+  "newsId": "2025-12-01-003",
+  "newsDate": "2025-12-01",
+  "newsTitle": "刘国中在北京调研时强调：持续巩固艾滋病防治成效 切实保障人民群众身体健康",
+  "newsContent": "刘国中在北京调研时强调：持续巩固艾滋病防治成效 切实保障人民群众身体健康\n            \n            \n                2025-12-01 15:18\n                来源： \n                    新华社\n                \n                \n                    字号：默认\n                        大\n                        超大\n                    \n                    |\n\t\t\t\t\t          打印\n                    |\n                    \n                    \n                        \n                           \n                           \n                           \n                        \n                    \n                \n            \n\n            \n                刘国中在北京调研时强调持续巩固艾滋病防治成效切实保障人民群众身体健康新华社北京12月1日电 今天是第38个“世界艾滋病日”，中共中央政治局委员、国务院副总理刘国中到北京市调研艾滋病防治工作，看望慰问一线工作人员和志愿者。他强调，要深入学习贯彻习近平总书记重要指示批示精神，认真落实党中央、国务院部署，压实各方责任，完善艾滋病防治体系，持续巩固防治成效，切实保障人民群众身体健康。刘国中来到北京佑安医院，详细了解艾滋病预防宣教干预、监测救治、科技创新和社会组织参与等情况。他强调，经过各方面共同努力，我国艾滋病疫情整体控制在低流行水平。当前，导致艾滋病传播的因素复杂多样，防控工作丝毫不能松懈。要认真落实艾滋病防治规划，进一步加强有针对性的宣传教育和综合干预，扎实做好检测监测，强化重点人群、重点地区防控，提高治疗效果。要推进关键技术科研攻关，加强经验总结交流和支持保障，形成工作合力。今年“世界艾滋病日”的宣传主题是“社会共治，守正创新，终结艾滋”。刘国中强调，要加强社会综合治理，调动全社会共同参与艾滋病防治，鼓励社会组织开展预防干预、动员检测、随访管理等服务，促进专业防治机构和社会组织有效衔接。要加强对艾滋病感染者和病人的人文关怀、权益保障与法治教育，帮助他们回归正常生活。\n\n                \n                    \n                \n            \n\n\n            \n                【我要纠错】责任编辑：潮娈\n            \n\n \n\n            \n            \n                相关稿件",
+  "industryImpacts": [
+    {
+      "industryName": "医药",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "强调艾滋病防治和科技创新，可能增加对相关药品、疫苗及医疗设备的需求。",
+      "keywords": [
+        "艾滋病防治",
+        "科技创新",
+        "医疗服务"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "华兰生物",
+      "stockCode": "002007",
+      "exchange": "SZSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "作为血液制品和疫苗生产企业，有望受益于艾滋病防治政策的推进。",
+      "relatedIndustries": [
+        "医药"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    },
+    {
+      "companyName": "复星医药",
+      "stockCode": "600196",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "公司在创新药研发方面有较强实力，可能受益于艾滋病防治相关的科研支持。",
+      "relatedIndustries": [
+        "医药"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "新闻内容主要涉及公共卫生领域，对货币政策和利率水平无直接影响。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "新闻主要强调艾滋病防治工作，对医药行业及相关企业有一定正面影响，但整体市场情绪保持中性。",
+  "analyzedAt": "2025-12-12T02:39:18.091Z",
+  "modelVersion": "qwen-max"
+}

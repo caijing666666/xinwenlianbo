@@ -1,0 +1,126 @@
+{
+  "newsId": "2025-11-21-7",
+  "newsDate": "2025-11-21",
+  "newsTitle": "多措并举推动就业市场提质扩容",
+  "newsContent": "党的二十届四中全会提出，要多渠道挖掘潜力，促进重点群体稳定就业。眼下，一系列稳岗促就业政策持续发力，推动就业市场提质扩容。这段时间，面向高校毕业生等重点群体的秋季专场招聘活动在全国展开，两个多月里，1万多场招聘会提供岗位超过700万个。新材料、光电子等新兴产业提供的职位数同比增长50%以上，养老产业招聘需求增速超三成，外贸企业持续释放跨境电商、国际物流等细分领域岗位。今年以来，国家加力稳岗扩岗支持政策，前三季度累计发放稳岗返还资金196亿元，支持培训等促就业支出166亿元，阶段性降低失业保险费率政策为企业减少用工成本1384亿元。小微企业、个体工商户等重点群体，还能享受到担保贷款、税费减免、创业补贴等扶持政策。在江西新余，人社部门推出低成本创业扶持计划，为就业困难人群量身打造扶持方案，提供贴息贷款和免费培训，帮助他们在家门口就业创业。“十五五”规划建议提出，要加强产业和就业协同，积极培育新职业新岗位。近日，人力资源社会保障部组织完成95个新的国家职业标准，其中一半是生活服务类，满足养老护理、婴幼儿托育等民生领域紧缺人才需求。近四成围绕先进制造、数字经济、绿色经济等领域，满足产业转型和新兴产业发展急需人才培养。",
+  "industryImpacts": [
+    {
+      "industryName": "新材料",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "政策支持和市场需求增长推动新材料行业发展，尤其是新兴产业提供的职位数同比增长50%以上。",
+      "keywords": [
+        "新材料",
+        "新兴产业",
+        "职位增长"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "光电子",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "政策支持和市场需求增长推动光电子行业发展，尤其是新兴产业提供的职位数同比增长50%以上。",
+      "keywords": [
+        "光电子",
+        "新兴产业",
+        "职位增长"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "养老产业",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "养老产业招聘需求增速超三成，政策支持和市场需求增长推动养老产业发展。",
+      "keywords": [
+        "养老产业",
+        "招聘需求",
+        "增速"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "跨境电商",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "外贸企业持续释放跨境电商、国际物流等细分领域岗位，政策支持和市场需求增长推动跨境电商发展。",
+      "keywords": [
+        "跨境电商",
+        "外贸企业",
+        "岗位释放"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源政策利好电池企业，宁德时代作为行业龙头将受益于政策支持和市场需求增长。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "京东方A",
+      "stockCode": "000725",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "光电子行业受益于政策支持和市场需求增长，京东方A作为行业龙头将受益。",
+      "relatedIndustries": [
+        "光电子",
+        "显示技术"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "阿里巴巴",
+      "stockCode": "BABA",
+      "exchange": "NYSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "跨境电商和国际物流领域受益于政策支持和市场需求增长，阿里巴巴作为行业龙头将受益。",
+      "relatedIndustries": [
+        "跨境电商",
+        "电商"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "就业市场提质扩容对国债市场影响较小，货币政策保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "稳岗扩岗支持政策和降低失业保险费率政策有助于企业降低成本，提高盈利能力，对企业债市场有正面影响。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新材料、光电子、养老产业和跨境电商等行业，相关企业和企业债有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:30:10.028Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-17-12",
+  "newsDate": "2025-11-17",
+  "newsTitle": "以军方称必要时对加沙地带发动全面进攻 哈马斯称拒绝任何形式的托管",
+  "newsContent": "以色列国防军总参谋长扎米尔16日称，以军必须做好准备，在必要时迅速越过加沙地带停火协议约定的以军部署线，在加沙地带发起全面进攻并占领更多区域。当天，以色列总理内塔尼亚胡称，反对建立巴勒斯坦国，且加沙地带必须实现非军事化。按计划，联合国安理会拟于当地时间17日就一份加沙问题决议草案进行表决。以色列媒体报道说，这份决议草案围绕美方“20点计划”的第二阶段，寻求安理会授权在加沙地带设立过渡机构、国际监督机构和所谓“国际稳定部队”。巴勒斯坦伊斯兰抵抗运动（哈马斯）16日晚表示，拒绝任何形式的托管、外国军事存在或在加沙地带设立国际基地，任何关于解除武装的讨论都是巴勒斯坦内部事务，并应与结束以色列占领、建立巴勒斯坦国相联系。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中东地区的紧张局势可能导致全球能源供应不稳定，从而推高能源价格。中国作为主要的能源进口国，国内能源企业可能会受益于价格上涨。",
+      "keywords": [
+        "中东",
+        "能源供应",
+        "价格上涨"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "国防军工",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能促使各国增加国防开支，利好中国的国防军工企业。",
+      "keywords": [
+        "地缘政治",
+        "国防开支",
+        "军工企业"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中东地区紧张局势可能导致油价上涨，中国石油作为主要的石油生产商和销售商将从中受益。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能促使各国增加国防开支，利好中国的国防军工企业。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中东地区的紧张局势可能导致全球能源供应不稳定，从而推高原油价格。",
+      "priceDirection": "up",
+      "confidence": 0.9
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势通常会推动避险需求，从而推高黄金价格。",
+      "priceDirection": "up",
+      "confidence": 0.85
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "地缘政治紧张局势对国债市场的影响相对较小，但可能会导致短期波动。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中东地区的紧张局势可能推高能源和黄金价格，利好相关行业和企业。建议关注能源和国防军工板块的投资机会。",
+  "analyzedAt": "2025-11-29T10:49:03.112Z",
+  "modelVersion": "qwen-max"
+}

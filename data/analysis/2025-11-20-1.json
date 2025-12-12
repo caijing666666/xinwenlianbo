@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-20-1",
+  "newsDate": "2025-11-20",
+  "newsTitle": "应习近平邀请 汤加国王将访华",
+  "newsContent": "应国家主席习近平邀请，汤加王国国王图普六世将于11月21日至27日对中国进行国事访问。",
+  "industryImpacts": [
+    {
+      "industryName": "旅游业",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "汤加国王访华可能促进两国之间的旅游合作，增加中国游客赴汤加旅游的可能性。",
+      "keywords": [
+        "旅游",
+        "合作",
+        "访问"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 40,
+      "impactType": "positive",
+      "reasoning": "中汤两国可能会加强在基础设施建设方面的合作，推动相关项目的发展。",
+      "keywords": [
+        "基础设施",
+        "合作",
+        "发展"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的旅游服务提供商，中国国旅有望从两国旅游合作中受益。",
+      "relatedIndustries": [
+        "旅游业"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+2-3%"
+    },
+    {
+      "companyName": "中国交建",
+      "stockCode": "601800",
+      "exchange": "SSE",
+      "impactScore": 40,
+      "impactType": "positive",
+      "reasoning": "作为全球领先的基建企业之一，中国交建可能参与更多与汤加相关的基础设施建设项目。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "+1-2%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 30,
+      "impactType": "neutral",
+      "reasoning": "此次访问对宏观经济影响有限，短期内不太可能引起国债收益率的显著变化。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 45,
+  "summary": "汤加国王访华主要利好旅游业和基础设施建设行业，但整体市场情绪保持中性。建议关注相关领域内的龙头企业。",
+  "analyzedAt": "2025-11-29T10:32:18.259Z",
+  "modelVersion": "qwen-max"
+}

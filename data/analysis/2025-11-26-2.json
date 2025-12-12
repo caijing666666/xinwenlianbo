@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-11-26-2",
+  "newsDate": "2025-11-26",
+  "newsTitle": "李强会见汤加国王",
+  "newsContent": "11月26日，国务院总理李强在北京人民大会堂会见汤加国王图普六世。李强表示，昨天（11月25日），习近平主席同国王陛下举行会晤，就深化两国关系作出新的战略指引。中方愿同汤方进一步增强政治互信，坚定支持彼此核心利益和重大关切，拓展经贸、基建、民生等领域合作，推动中汤关系走深走实，更好服务两国现代化建设。中方愿同汤方加强多边协调配合，合力应对气候变化等全球性挑战，积极落实构建人类命运共同体理念和四大全球倡议，推动构建更加公正合理的全球治理体系。汤加国王图普六世表示，汤方坚定恪守一个中国原则，支持习近平主席提出的四大全球倡议，愿同中方深化双多边合作，推动全球治理体系改革。吴政隆参加会见。",
+  "industryImpacts": [
+    {
+      "industryName": "基建",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中汤两国深化经贸、基建合作，将促进中国基建企业海外业务拓展。",
+      "keywords": [
+        "基建",
+        "合作",
+        "海外"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "环保",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "双方合力应对气候变化等全球性挑战，可能推动环保行业的发展。",
+      "keywords": [
+        "环保",
+        "气候变化",
+        "全球治理"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国建筑",
+      "stockCode": "601668",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的基建企业，有望受益于中汤两国在基建领域的合作。",
+      "relatedIndustries": [
+        "基建"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "龙源电力",
+      "stockCode": "00916",
+      "exchange": "HKEX",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "作为新能源发电企业，可能受益于双方在应对气候变化方面的合作。",
+      "relatedIndustries": [
+        "环保",
+        "新能源"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "新闻内容未直接涉及货币政策或财政政策变化，对债券市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 65,
+  "summary": "中汤两国深化合作利好基建和环保行业，相关企业有望受益。",
+  "analyzedAt": "2025-11-29T09:58:18.985Z",
+  "modelVersion": "qwen-max"
+}

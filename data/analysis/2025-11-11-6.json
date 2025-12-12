@@ -1,0 +1,88 @@
+{
+  "newsId": "2025-11-11-6",
+  "newsDate": "2025-11-11",
+  "newsTitle": "前10个月我国区域外贸平稳增长韧性显现",
+  "newsContent": "今年前10个月，我国长三角、粤港澳大湾区、京津冀等区域外贸呈现向新向优的升级趋势，展现出强劲韧性。据海关统计，今年前10个月，长三角地区进出口14万亿元，同比增长6%；民营企业进出口7.83万亿元，同比增长9.7%，占进出口总值的55.9%，外贸主力军的作用持续显现。粤港澳大湾区内地9市进出口7.52万亿元人民币，同比增长4%，创历史同期新高。机电产品占整体出口近七成，电子元件、“新三样”产品出口分别增长19.5%、32.2%，外贸结构不断优化升级。前10个月，京津冀区域进出口3.91万亿元，其中出口再创新高，连续7个月保持增长。对共建“一带一路”国家出口占比近六成，对拉美、非洲、中亚五国等新兴市场出口分别增长14.6%、31.9%、40.2%，多元共进的市场布局持续优化。",
+  "industryImpacts": [
+    {
+      "industryName": "电子元件",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "出口增长和结构优化表明该行业具有强劲的增长潜力，尤其是“新三样”产品出口大幅增长。",
+      "keywords": [
+        "电子元件",
+        "新三样",
+        "出口增长"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "机电产品",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "机电产品占整体出口近七成，且出口持续增长，显示了该行业的稳定性和增长潜力。",
+      "keywords": [
+        "机电产品",
+        "出口占比",
+        "增长"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "立讯精密",
+      "stockCode": "002475",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为电子元件和连接器的主要供应商，受益于电子元件出口的强劲增长。",
+      "relatedIndustries": [
+        "电子元件",
+        "机电产品"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "海康威视",
+      "stockCode": "002415",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为安防设备制造商，受益于机电产品的出口增长。",
+      "relatedIndustries": [
+        "机电产品"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "机电产品和电子元件的出口增长将增加对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "外贸平稳增长有助于经济稳定，但短期内对债券市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "外贸数据向好，特别是电子元件和机电产品出口增长，相关行业和企业有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T11:15:45.082Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-11-03-12",
+  "newsDate": "2025-11-03",
+  "newsTitle": "引航亚太开放合作 展现大国责任担当——国际人士高度评价习近平主席在亚太经合组织会议期间提出的重大主张",
+  "newsContent": "国际人士表示，习近平主席在亚太经合组织会议期间提出的重大主张顺应世界发展大势，契合亚太经合组织成员的共同期待，展现了中国负责任大国担当。国际人士表示，中国积极参与并推动亚太合作，在促进地区互联互通、创新增长、完善全球治理等方面发挥了引领作用。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "中国在亚太地区的合作和引领作用将促进新能源技术的推广和应用，特别是在绿色能源和可持续发展领域。",
+      "keywords": [
+        "绿色能源",
+        "可持续发展",
+        "国际合作"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中国推动地区互联互通，将增加对基础设施建设的需求，包括交通、通信等领域的投资。",
+      "keywords": [
+        "互联互通",
+        "基础设施",
+        "投资"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池行业的龙头企业，宁德时代将受益于政策支持和市场需求的增长。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中国交建",
+      "stockCode": "601800",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为基础设施建设的主要参与者，中国交建将受益于地区互联互通项目的推进。",
+      "relatedIndustries": [
+        "基础设施建设",
+        "交通运输"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和新能源项目的发展将增加对铜的需求，从而推高铜价。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前货币政策保持稳定，预计短期内国债收益率不会有显著变化。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源行业和基础设施建设，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T12:57:17.360Z",
+  "modelVersion": "qwen-max"
+}

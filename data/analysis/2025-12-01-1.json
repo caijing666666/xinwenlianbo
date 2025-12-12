@@ -1,0 +1,90 @@
+{
+  "newsId": "2025-12-01-1",
+  "newsDate": "2025-12-01",
+  "newsTitle": "应习近平邀请 法国总统将访华",
+  "newsContent": "应国家主席习近平邀请，法国总统马克龙将于12月3日至5日对中国进行国事访问。",
+  "industryImpacts": [
+    {
+      "industryName": "航空",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "法国总统访华可能促进中法之间的商务和旅游交流，增加航班需求。",
+      "keywords": [
+        "航空",
+        "旅游",
+        "商务"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "奢侈品",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "法国是全球知名的奢侈品生产国，中法关系的加强可能促进奢侈品在中国市场的销售。",
+      "keywords": [
+        "奢侈品",
+        "消费",
+        "高端市场"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "新能源",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "法国在可再生能源领域有较强的技术实力，两国合作可能推动中国新能源行业的发展。",
+      "keywords": [
+        "新能源",
+        "技术合作",
+        "绿色发展"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内主要航空公司之一，有望受益于中法之间商务和旅游交流的增加。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "贵州茅台",
+      "stockCode": "600519",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "作为高端消费品代表，可能受益于中法关系改善带来的高端消费需求增长。",
+      "relatedIndustries": [
+        "奢侈品",
+        "消费"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内对债券市场影响有限，但长期来看，中法合作可能带来经济增长，从而影响利率水平。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "法国总统访华可能促进中法经贸合作，利好航空、奢侈品等行业及相关企业，建议关注相关龙头公司。",
+  "analyzedAt": "2025-12-01T16:40:58.899Z",
+  "modelVersion": "qwen-max"
+}

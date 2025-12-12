@@ -1,0 +1,88 @@
+{
+  "newsId": "2025-12-05-4",
+  "newsDate": "2025-12-05",
+  "newsTitle": "王沪宁对印度尼西亚进行正式友好访问",
+  "newsContent": "应印度尼西亚人民协商会议主席穆扎尼邀请，全国政协主席王沪宁于12月3日至4日对印度尼西亚进行正式友好访问，在雅加达分别会见印尼总统普拉博沃、国会议长布安、地方代表理事会主席纳加穆丁，同印尼人民协商会议主席穆扎尼会谈。会见普拉博沃时，王沪宁转达了习近平主席的亲切问候和良好祝愿，并就苏门答腊地区遭受严重暴雨洪涝灾害表示慰问。王沪宁表示，习近平主席同总统先生多次会晤，确立了“五大支柱”双边合作格局，为两国命运共同体建设指明战略方向。中方愿同印尼落实两国元首重要共识，携手走好具有各自特色的现代化道路，为世界和平、稳定、繁荣作出更大贡献。普拉博沃请王沪宁转达对习近平主席的亲切问候和诚挚敬意，表示印尼由衷钦佩中国取得举世瞩目的发展成就，愿学习借鉴中方成功经验。印尼重申恪守一个中国原则，台湾是中国的一部分。印尼愿推动实现更高水平的全面战略伙伴关系。在同穆扎尼会谈时，王沪宁表示，建交75年来，中印尼两国关系取得长足发展。中国全国政协愿同印尼人民协商会议加强交流合作，更好服务各自国家现代化事业和中印尼命运共同体建设。穆扎尼高度评价两国各领域合作成果，表示印尼人民协商会议愿同中国全国政协加强交流，落实好两国元首重要共识，助力两国关系发展。会见布安和纳加穆丁时，王沪宁表示，中方愿同印尼一道推动两国友好互信和战略合作不断迈向更高水平，更好造福两国人民。对方表示，中国是印尼重要战略合作伙伴，高度赞赏并积极支持中方“一带一路”倡议，愿继续为深化两国互利合作发挥积极作用。访问期间，王沪宁介绍了中共二十届四中全会情况，表示中方愿推动中国式现代化与“黄金印尼2045”愿景深度对接，推进双边务实合作。印尼方对此高度评价，表示愿同中方共同推动两国关系迈上新台阶。王东峰等参加上述活动。",
+  "industryImpacts": [
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中印尼合作加强，特别是在'一带一路'倡议下，将推动两国在基础设施建设领域的合作，利好相关企业。",
+      "keywords": [
+        "一带一路",
+        "基础设施",
+        "合作"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "随着两国关系的深化，能源领域（包括新能源）的合作有望增加，特别是清洁能源项目。",
+      "keywords": [
+        "能源",
+        "新能源",
+        "合作"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国交建",
+      "stockCode": "601800",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为中国领先的基础设施建设公司之一，中国交建可能受益于中印尼在基础设施领域的合作。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "隆基绿能",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为全球领先的光伏产品制造商，隆基绿能可能从两国在新能源领域的合作中获益。",
+      "relatedIndustries": [
+        "能源",
+        "新能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和能源项目通常需要大量铜材，因此对铜的需求可能会增加。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "此次访问主要集中在双边合作和经济交流上，对国内货币政策及国债市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "中印尼友好访问强化了双方在基础设施建设和能源等领域的合作，相关行业和企业有望从中受益。",
+  "analyzedAt": "2025-12-05T13:32:11.232Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,90 @@
+{
+  "newsId": "2025-12-01-10",
+  "newsDate": "2025-12-01",
+  "newsTitle": "今日起近300项国家标准实施",
+  "newsContent": "记者从市场监管总局（国家标准委）获悉，今天（12月1日）起，一批国家标准开始实施。《电子商务平台服务质量评价》（GB/T31526—2025）国家标准提出了电子商务平台服务质量评价指标体系，新增电商平台合规服务、个性化服务、平台口碑等要求，将在保障消费者知情权、降低网络交易风险方面发挥积极促进作用。《新能源汽车运行安全性能动态监测预警技术要求》（GB/T45688—2025）国家标准规定了新能源汽车运行安全性能的动态监测和动态预警技术要求。标准实施将助力构建新能源汽车安全管理新模式，保障驾乘人员安全。此外，《经营主体失信信息分类指南》《玩具及儿童用品绿色包装技术规范》《城市公共设施 城市家具 系统规划与设计指南》等近300项国家标准从今日起正式实施。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "《新能源汽车运行安全性能动态监测预警技术要求》国家标准的实施将提高新能源汽车的安全性和可靠性，有助于提升消费者信心，促进新能源汽车行业的发展。",
+      "keywords": [
+        "新能源汽车",
+        "安全性能",
+        "动态监测"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "电子商务",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "《电子商务平台服务质量评价》国家标准的实施将推动电商平台提升服务质量，增强消费者信任度，有利于电商行业的健康发展。",
+      "keywords": [
+        "电子商务",
+        "服务质量",
+        "消费者知情权"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "玩具及儿童用品",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "《玩具及儿童用品绿色包装技术规范》国家标准的实施将推动行业向绿色环保方向发展，符合可持续发展的趋势。",
+      "keywords": [
+        "玩具",
+        "儿童用品",
+        "绿色包装"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源汽车安全标准的实施将提升新能源汽车的市场接受度，作为电池供应商的宁德时代有望受益。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "阿里巴巴",
+      "stockCode": "BABA",
+      "exchange": "NYSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "电子商务平台服务质量评价标准的实施将促使电商平台提升服务质量，阿里巴巴作为行业龙头有望从中受益。",
+      "relatedIndustries": [
+        "电子商务"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "新标准的实施对宏观经济影响有限，预计不会对国债收益率产生显著影响。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源和电子商务行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-01T16:41:39.022Z",
+  "modelVersion": "qwen-max"
+}

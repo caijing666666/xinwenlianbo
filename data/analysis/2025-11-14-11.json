@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-14-11",
+  "newsDate": "2025-11-14",
+  "newsTitle": "俄称在红军城等方向击退乌军突围行动 乌称使用自产导弹打击俄军目标",
+  "newsContent": "俄罗斯国防部13日称，俄军在顿涅茨克地区红军城（乌称波克罗夫斯克）以及哈尔科夫地区库皮扬斯克等方向击退乌军多次突围行动，并在哈尔科夫和第聂伯罗彼得罗夫斯克地区控制了两个居民点。乌克兰军方13日称，乌军当天使用“火烈鸟”等自产导弹打击了俄军指挥所、雷达站等目标。此外，乌方称，俄军当天傍晚开始使用大量无人机和导弹对基辅等地持续发动袭击。目前，俄方对此暂未回应。对于乌克兰媒体报道称，乌方在今年年底前不会再与俄方进行新的谈判，俄总统新闻秘书佩斯科夫13日称，乌克兰必须认清现实，那就是总有一天乌方将不得不重回谈判桌，届时乌方处境将会进一步恶化。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突持续升级，可能增加对军事装备的需求，利好国内相关企业",
+      "keywords": [
+        "军事装备",
+        "需求增长",
+        "地缘政治"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能导致能源价格波动，但中国作为主要能源消费国，可能受益于能源供应多元化",
+      "keywords": [
+        "能源价格",
+        "供应多元化",
+        "地缘政治"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内重要的军用飞机制造商，可能受益于军事装备需求的增长",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能导致能源价格波动，但中国石油作为大型能源公司，可能受益于能源供应多元化",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能导致能源价格波动，短期内油价可能上涨",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能推高避险需求，黄金价格可能上涨",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "地缘政治紧张局势可能影响市场情绪，但货币政策保持稳定，国债收益率预计保持平稳",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "俄乌冲突持续升级，国防军工和能源行业可能受益，相关企业和商品期货有望上涨。债券市场预计保持稳定。",
+  "analyzedAt": "2025-11-29T11:03:56.449Z",
+  "modelVersion": "qwen-max"
+}

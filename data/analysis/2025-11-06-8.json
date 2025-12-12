@@ -1,0 +1,65 @@
+{
+  "newsId": "2025-11-06-8",
+  "newsDate": "2025-11-06",
+  "newsTitle": "第三十五届中国新闻奖颁奖报告会在京举行",
+  "newsContent": "第三十五届中国新闻奖颁奖报告会6日在北京举行。与会代表认为，深入学习宣传贯彻党的二十届四中全会精神，是新闻战线必须担负起的重大政治责任。要坚持以习近平新时代中国特色社会主义思想为指导，深入学习实践习近平文化思想，精心组织“十四五”时期重大成就宣传，宣传阐释“十五五”时期经济社会发展的战略部署。与会代表表示，要深化主流媒体系统性变革，提高主流舆论传播力影响力。要以时不我待的态度改进文风，提高讲故事能力。要完善人才培养管理体系，加快培养一支有更强战斗力的新闻队伍。报告会由中国记协主办，表彰了377件中国新闻奖获奖作品以及首届“全国十佳新闻工作者”、第12届“好记者讲好故事”活动十佳选手。",
+  "industryImpacts": [
+    {
+      "industryName": "传媒",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "新闻奖颁奖报告会强调了深化主流媒体系统性变革，提高主流舆论传播力影响力，这将有利于传媒行业的发展。",
+      "keywords": [
+        "传媒",
+        "新闻",
+        "变革"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "新华网",
+      "stockCode": "603888",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为中国领先的新闻网站之一，新华网有望受益于政策支持和行业变革。",
+      "relatedIndustries": [
+        "传媒"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "人民网",
+      "stockCode": "603000",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "人民网同样作为重要的新闻平台，也将从政策支持中获益。",
+      "relatedIndustries": [
+        "传媒"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "此次新闻内容主要集中在传媒行业发展上，对债券市场影响不大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "新闻奖颁奖报告会对传媒行业有正面影响，但整体市场情绪保持中立。建议关注传媒行业的龙头企业。",
+  "analyzedAt": "2025-11-29T12:38:29.821Z",
+  "modelVersion": "qwen-max"
+}

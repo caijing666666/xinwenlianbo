@@ -1,0 +1,91 @@
+{
+  "newsId": "2025-11-17-5",
+  "newsDate": "2025-11-17",
+  "newsTitle": "“十四五”期间全国用水效率显著提高",
+  "newsContent": "水利部今天（11月17日）发布的最新数据显示，“十四五”以来，我国持续推进农业节水增效、工业节水减排、城镇节水降损，全国用水总量实现零增长，节水相关产业市场规模估算超7600亿元。我国农业用水占国民经济用水总量约60%，是最大的用水户，也是节水最大潜力所在。眼下，正值河套灌区特有的秋浇时间。在河套灌区水量信息化监测中心，50米长的数字墙实时跳动着120个土壤墒情监测点、80个土壤盐分监测点的数据，“数字孪生”模型精准复刻了10.36万条灌排渠道的运行状态。“十四五”末，我国灌溉水有效利用系数从0.565提高到0.580，在农业灌溉用水总量基本稳定的前提下，保障了我国灌溉面积和粮食产量稳步增加。工业是节水的重要领域。过去十年里，我国以工业用水总量零增长支撑了年均5.7%的工业经济增长，万元工业增加值用水量同期下降50%以上。“十四五”期间，我国加大再生水等非常规水利用设施建设、装备制造、运营服务。最新数据显示，截至2024年底，我国再生水利用量达到212亿立方米。预计到2030年，我国再生水利用量将超过250亿立方米，进一步提升城乡用水需求的保障能力。",
+  "industryImpacts": [
+    {
+      "industryName": "水资源管理",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "节水相关产业市场规模估算超7600亿元，政策支持和市场需求增长将推动行业发展。",
+      "keywords": [
+        "节水",
+        "市场规模",
+        "政策支持"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "农业",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "灌溉水有效利用系数提高，保障了灌溉面积和粮食产量稳步增加，有利于农业可持续发展。",
+      "keywords": [
+        "灌溉",
+        "粮食产量",
+        "可持续发展"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "工业",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "工业用水总量零增长支撑了年均5.7%的工业经济增长，再生水利用设施建设将进一步提升工业用水效率。",
+      "keywords": [
+        "工业用水",
+        "再生水",
+        "经济增长"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "碧水源",
+      "stockCode": "300070",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为水资源管理和污水处理领域的龙头企业，受益于节水政策和市场需求增长。",
+      "relatedIndustries": [
+        "水资源管理",
+        "环保"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "大禹节水",
+      "stockCode": "300021",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "专注于农业节水灌溉技术，受益于农业灌溉水有效利用系数提高。",
+      "relatedIndustries": [
+        "农业",
+        "水资源管理"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "节水和水资源管理行业的企业债可能受到市场关注，但整体债券市场影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "节水政策利好水资源管理和农业行业，相关企业和企业债有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:46:52.494Z",
+  "modelVersion": "qwen-max"
+}

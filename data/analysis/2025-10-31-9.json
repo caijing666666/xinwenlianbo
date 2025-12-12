@@ -1,0 +1,132 @@
+{
+  "newsId": "2025-10-31-9",
+  "newsDate": "2025-10-31",
+  "newsTitle": "我国将采取多项举措拓展绿色贸易",
+  "newsContent": "国务院新闻办今天（10月31日）举行政策例行吹风会，介绍我国拓展绿色贸易有关情况。商务部表示，将深入参与相关国际规则和标准制定，积极参与全球绿色治理，持续推进自贸谈判，提升高标准自贸区网络的“绿色含量”。工业和信息化部表示，将引导企业开展绿色设计和绿色制造，推动绿色工厂提质扩面，计划到2030年，国家、省、市各级绿色工厂产值占比提高到40%。中国人民银行、市场监管总局表示，下一步，将推动降低绿色服务贸易企业的融资门槛和成本，有序扩展绿色产品认证范围。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策支持绿色贸易和绿色制造，将促进新能源行业的发展。",
+      "keywords": [
+        "绿色贸易",
+        "绿色工厂",
+        "新能源"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "制造业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "推动绿色设计和绿色制造，提升绿色工厂产值占比，有利于制造业转型升级。",
+      "keywords": [
+        "绿色设计",
+        "绿色制造",
+        "制造业"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "金融服务",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "降低绿色服务贸易企业的融资门槛和成本，将促进金融服务行业的发展。",
+      "keywords": [
+        "绿色服务贸易",
+        "融资",
+        "金融服务"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源政策利好电池企业，宁德时代作为行业龙头有望受益。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "光伏行业是绿色能源的重要组成部分，隆基股份作为光伏龙头企业将受益于政策支持。",
+      "relatedIndustries": [
+        "新能源",
+        "光伏"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国平安",
+      "stockCode": "601318",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "降低绿色服务贸易企业的融资门槛和成本，将增加金融服务需求，中国平安作为综合性金融集团有望受益。",
+      "relatedIndustries": [
+        "金融服务"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "绿色制造和绿色工厂的推广将增加对铜等工业金属的需求。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "铝",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "绿色制造和绿色工厂的推广也将增加对铝等轻质金属的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "货币政策保持稳定，国债收益率预计不会有明显变化。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "降低绿色服务贸易企业的融资门槛和成本，可能提高相关企业债的吸引力。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源、制造业和金融服务行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T13:16:55.082Z",
+  "modelVersion": "qwen-max"
+}

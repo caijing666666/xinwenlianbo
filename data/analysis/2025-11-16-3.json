@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-16-3",
+  "newsDate": "2025-11-16",
+  "newsTitle": "赵乐际将访问新西兰、澳大利亚",
+  "newsContent": "应新西兰议会议长布朗利、澳大利亚联邦议会参议长莱恩斯和众议长迪克邀请，全国人大常委会委员长赵乐际将于11月19日至25日对新西兰、澳大利亚进行正式友好访问。",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "赵乐际访问新西兰和澳大利亚可能促进双边贸易关系，增加出口机会。",
+      "keywords": [
+        "贸易",
+        "出口",
+        "合作"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "高层互访有助于增进两国人民之间的了解，推动旅游业发展。",
+      "keywords": [
+        "旅游",
+        "文化交流",
+        "游客"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国远洋海运集团有限公司",
+      "stockCode": "601919",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国际航运巨头之一，中澳、中新之间更紧密的经贸联系将为其带来更多业务机会。",
+      "relatedIndustries": [
+        "国际贸易",
+        "物流"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "携程旅行网",
+      "stockCode": "CTRP",
+      "exchange": "NASDAQ",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "随着两国间人员往来增加，预计该在线旅游平台将受益于更多跨境游订单。",
+      "relatedIndustries": [
+        "旅游",
+        "互联网服务"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "此次访问主要聚焦于外交与经济合作层面，并未直接涉及货币政策调整或财政政策变化。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.9
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "赵乐际出访新西兰及澳大利亚有利于加强中国与两国间的经贸合作关系，尤其利好国际贸易及旅游业相关企业。",
+  "analyzedAt": "2025-11-29T10:50:38.044Z",
+  "modelVersion": "qwen-max"
+}

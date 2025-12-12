@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-12-06-1",
+  "newsDate": "2025-12-06",
+  "newsTitle": "【学习贯彻四中全会精神在基层】西藏：文旅深度融合助力高质量发展 吉林：让城市发展成果更多惠及人民",
+  "newsContent": "党的二十届四中全会强调，加大保障和改善民生力度，扎实推进全体人民共同富裕。西藏、吉林多举措赋能经济社会发展，提高人民生活品质。西藏：文旅深度融合助力高质量发展西藏各地通过不断丰富高品质旅游产品供给，迎接冬游小高峰。在拉萨八廓街，非遗体验等项目持续火热。在山南市羊卓雍错，景区基础设施不断升级，便利的交通与配套服务让游客尽览美丽风光。“十四五”以来，西藏以立体交通网络为支撑，旅游服务设施日趋完善。通过打造文化艺术节、实景演出等特色文旅项目，培育新型文化业态。今年1至11月，西藏接待国内外游客6948.47万人次，同比增长10.74%。贯彻落实四中全会精神，接下来，西藏将依托高原生态与文化资源禀赋，促进文旅深度融合，积极探索推动西藏旅游从观光风景游向文化深度游转变。吉林：让城市发展成果更多惠及人民在吉林长春新区，吉大社区加装的电梯这两天正式投用，小区居民终于摆脱了“爬楼难”的困扰。在长春主城区，大量建于上世纪末的多层住宅没有配备电梯，近年来，爬楼成为很多老年人出行的现实难题。长春市把老旧小区加装电梯纳入到城市更新项目中，通过“政府补助、居民共担”等方式稳步推进，惠及广大群众。“十四五”以来，吉林省全力推进城市更新工作，累计开工改造老旧小区5300多个，对4片历史文化街区进行整治提升后开街运营，并完成了30多个历史建筑的修缮改造。落实四中全会精神，下一步，吉林将继续坚持在发展中改善民生，扎实推进老小区、老街区、老厂区的转型提质。",
+  "industryImpacts": [
+    {
+      "industryName": "旅游",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "西藏通过文旅融合和基础设施升级，提升了旅游业的吸引力，游客数量增长明显。",
+      "keywords": [
+        "文旅融合",
+        "基础设施",
+        "游客增长"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "吉林推进老旧小区改造，改善居民生活条件，提升城市居住环境。",
+      "keywords": [
+        "老旧小区改造",
+        "电梯加装",
+        "城市更新"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "西藏旅游",
+      "stockCode": "600749",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "西藏旅游业的发展将直接带动公司业务增长。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "长春高新",
+      "stockCode": "000661",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "城市更新项目可能带来新的业务机会，提升公司业绩。",
+      "relatedIndustries": [
+        "房地产",
+        "城市建设"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "地方政府推动城市更新和民生改善，可能会增加地方债发行，但整体影响中性。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好旅游和房地产行业，相关企业和地方债有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-06T13:23:42.321Z",
+  "modelVersion": "qwen-max"
+}

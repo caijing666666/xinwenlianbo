@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-26-7",
+  "newsDate": "2025-11-26",
+  "newsTitle": "全力推进冬修水利 夯实粮食生产基础",
+  "newsContent": "当前，正值冬修水利的“黄金窗口期”，也是冬春农田水利建设的高峰期，各地正全力推进水利基础设施建设。眼下，重大水利工程建设正在刷新进度。截至目前，引江补汉工程主隧洞掘进已超过14.5公里，支洞掘进已超过32.5公里。大石峡水利枢纽工程9月实现下闸蓄水，目前施工进度已完成总进度计划的95%。今年黄河中下游、海河流域、长江上游局部地区受秋汛影响，冬修水利有效施工期较以往减少10—40天。为了抢抓工期，汛期水毁较重地区正在加快修复水毁水利设施和除险加固工程。在地处洞庭腹地的湖南沅江市长春垸，工人们正在大堤底部浇筑出一个长达105米的新涵闸，用于涵闸建成后垸内农田的灌溉进水，以及洪涝时期的排水。与此同时，各地还在加紧推进灌区改造，为来年粮食稳产增收，打好水利基础。位于江西的平江灌区是国家“十四五”重点水利项目，设计灌溉面积59万亩。在工程的核心项目——兴国县兴江水库的施工现场，塔吊、挖掘机、自卸车等各类工程机械正开足马力。目前，项目边坡防护工程已全部完成，大坝主体混凝土浇筑达10万方。今年新开工6处新建大型灌区，实施150处大中型灌区现代化改造。年度任务完成后，可新增恢复和改善灌溉面积超2000万亩。",
+  "industryImpacts": [
+    {
+      "industryName": "水利建设",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新闻中提到的冬修水利和重大水利工程建设将直接推动水利建设行业的发展，增加相关企业的订单量和收入。",
+      "keywords": [
+        "水利建设",
+        "基础设施",
+        "农田水利"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "农业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "水利设施的建设和改善将提高灌溉效率，有助于提升农业生产能力和粮食产量，对农业行业构成利好。",
+      "keywords": [
+        "农业",
+        "灌溉",
+        "粮食生产"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国电建",
+      "stockCode": "601669",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的水利水电工程承包商之一，中国电建有望从此次大规模水利建设项目中受益，获得更多的业务机会。",
+      "relatedIndustries": [
+        "水利建设",
+        "基础设施建设"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "大禹节水",
+      "stockCode": "300021",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "专注于节水灌溉设备及解决方案的大禹节水，在国家加大农田水利投入背景下，其产品和服务需求预计会有所增长。",
+      "relatedIndustries": [
+        "农业",
+        "节水技术"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "虽然水利项目可能需要地方政府发行债券来筹集资金，但考虑到当前财政政策支持以及市场流动性状况良好，预计不会对地方债收益率产生显著影响。",
+      "yieldDirection": "stable",
+      "riskLevel": "medium",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "水利建设和农业领域迎来政策利好，相关企业或将从中获益；地方债市场预计保持稳定。",
+  "analyzedAt": "2025-11-29T10:00:03.668Z",
+  "modelVersion": "qwen-max"
+}

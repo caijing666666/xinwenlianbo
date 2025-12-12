@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-04-3",
+  "newsDate": "2025-11-04",
+  "newsTitle": "李强会见塞尔维亚总理",
+  "newsContent": "4日，国务院总理李强在上海会见来华出席第八届中国国际进口博览会的塞尔维亚总理马楚特。李强表示，今年以来，习近平主席同武契奇总统两度会晤，为新时代中塞命运共同体建设进一步指明了方向。中方愿同塞方秉持互尊互信的精神，坚定支持彼此核心利益和重大关切，在高质量共建“一带一路”框架内，推进匈塞铁路等重点项目，深化经贸、人文等领域合作，为中塞人民带来更多福祉。双方要密切多边协作，推动加强和完善全球治理。马楚特表示，两国元首成功互访，引领塞中关系迈上历史新高度。中国“十五五”规划将为各国对华合作带来新机遇，塞方期待同中方深化经贸、人文等领域合作，加强多边协作，促进共同发展。",
+  "industryImpacts": [
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中塞合作推进匈塞铁路等重点项目，将促进基础设施建设行业的发展。",
+      "keywords": [
+        "一带一路",
+        "基础设施",
+        "合作"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "国际贸易",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中国“十五五”规划为各国对华合作带来新机遇，将进一步推动国际贸易发展。",
+      "keywords": [
+        "十五五规划",
+        "国际合作",
+        "贸易"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国中铁",
+      "stockCode": "601390",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为基础设施建设龙头企业，中国中铁有望在中塞合作项目中获得更多订单。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国交建",
+      "stockCode": "601800",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中国交建在海外基础设施建设项目中具有丰富经验，有望受益于中塞合作。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "钢铁",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "基础设施建设项目的推进将增加对钢铁的需求。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "基础设施建设项目的推进也将增加对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前货币政策保持稳定，预计国债收益率不会有明显变化。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "中塞合作和中国“十五五”规划利好基础设施建设和国际贸易行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T12:47:58.761Z",
+  "modelVersion": "qwen-max"
+}

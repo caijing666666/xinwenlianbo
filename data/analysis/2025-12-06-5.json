@@ -1,0 +1,67 @@
+{
+  "newsId": "2025-12-06-5",
+  "newsDate": "2025-12-06",
+  "newsTitle": "全国超千家三级医院帮扶中西部地区 提升医疗服务能力",
+  "newsContent": "记者今天（12月6日）从国家卫生健康委了解到，我国加快推动地区间、机构间医疗帮扶协作，东中西部每千人口医疗资源差距正在不断缩小，更多边远地区群众在家门口得到了便捷、优质的健康服务。近日，上海市卫生健康委调集全市覆盖20多个学科的专家团队到新疆喀什等地区开展对口支援。今年，全国21个省份选派1500多名优秀医疗人才对西藏、新疆、青海等地开展组团式支援帮扶。同时，国家巡回医疗工作今年也进一步扩展，82支国家医疗队实现了常态化巡回医疗在资源薄弱县的全覆盖。近年来，我国以人员、技术、服务和管理下沉基层为重点和导向，实施医疗卫生强基工程，把优质医疗资源向边远地区、医疗资源薄弱地区延伸。截至目前，已组织1110家三级医院，帮扶中西部地区871个县的1381家县级医院，补齐县医院医疗服务能力短板。",
+  "industryImpacts": [
+    {
+      "industryName": "医药",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "医疗资源下沉和对口支援政策将促进医药行业的发展，尤其是医疗器械和服务领域。",
+      "keywords": [
+        "医疗帮扶",
+        "医疗服务能力",
+        "优质医疗资源"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "迈瑞医疗",
+      "stockCode": "300760",
+      "exchange": "SZSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的医疗器械制造商，迈瑞医疗有望受益于医疗资源下沉带来的需求增长。",
+      "relatedIndustries": [
+        "医药",
+        "医疗器械"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "爱尔眼科",
+      "stockCode": "300015",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "随着医疗资源向边远地区延伸，爱尔眼科等医疗服务提供商可能迎来更多业务机会。",
+      "relatedIndustries": [
+        "医药",
+        "医疗服务"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "虽然医疗资源下沉有助于改善地方经济和社会福祉，但短期内对地方债的影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "医疗资源下沉政策利好医药行业特别是医疗器械和服务领域的企业，相关公司股价预计上涨。",
+  "analyzedAt": "2025-12-06T13:24:58.898Z",
+  "modelVersion": "qwen-max"
+}

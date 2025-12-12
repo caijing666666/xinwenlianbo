@@ -1,0 +1,53 @@
+{
+  "newsId": "2025-11-05-12",
+  "newsDate": "2025-11-05",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "合国机构呼吁开放更多加沙援助通道联合国世界粮食计划署4日表示，自加沙地带停火第一阶段协议生效以来，该机构已向加沙地带约一百万人分发了粮食包，但是目前当地粮食供应仍严重不足，尤其是加沙地带北部。该机构呼吁开放所有过境点，以确保人道物资能够尽快抵达有需要的地区。根据巴勒斯坦中央人口统计局去年年底发布的数据，加沙地带人口总数约为210万人。美国一架货机坠毁起火 7死多伤4日，美国肯塔基州路易斯维尔市发生一起货机坠毁事故。根据路易斯维尔市市长公布的消息，事故造成机上3人和地面4人死亡，另有11人受伤。这架麦道11型货机属于美国联合包裹服务公司，原计划从路易斯维尔飞往夏威夷州首府檀香山。据美国媒体报道，因飞行距离长，机上装载的燃油较多，货机坠毁后在地面引发严重火灾。报道称，视频显示飞机坠毁前引擎起火。事故原因正在调查中。",
+  "industryImpacts": [
+    {
+      "industryName": "物流",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "美国联合包裹服务公司货机坠毁事故可能引发对航空货运安全的担忧，短期内可能影响物流行业的运营和客户信任。",
+      "keywords": [
+        "货机坠毁",
+        "物流",
+        "安全"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "联合包裹服务公司",
+      "stockCode": "UPS",
+      "exchange": "NYSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "货机坠毁事故可能导致短期股价波动，投资者对公司的运营安全产生担忧。",
+      "relatedIndustries": [
+        "物流",
+        "航空货运"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 30,
+      "impactType": "negative",
+      "reasoning": "物流行业负面事件可能增加相关企业的融资成本，导致企业债收益率上升。",
+      "yieldDirection": "up",
+      "riskLevel": "medium",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 40,
+  "summary": "物流行业因货机坠毁事故受到负面影响，相关企业和债券市场可能面临短期压力。",
+  "analyzedAt": "2025-11-29T12:46:08.687Z",
+  "modelVersion": "qwen-max"
+}

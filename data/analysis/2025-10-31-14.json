@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-10-31-14",
+  "newsDate": "2025-10-31",
+  "newsTitle": "美政府“停摆”持续 经济数据发布推迟",
+  "newsContent": "今天（10月31日）美国联邦政府“停摆”已满一个月。美国媒体报道称，受“停摆”影响，原定于本周公布的美国第三季度国内生产总值数据被推迟发布。目前美国已推迟公布就业、贸易与零售等多项经济数据。此外，纽约州、马里兰州等地已进入紧急状态，以应对政府“停摆”带来的经济冲击。政府“停摆”造成美国多个机场空管员短缺的情况仍在持续。据美国航班跟踪网站的数据，30日有约7000架次航班延误或取消。美国联邦航空管理局当天还对华盛顿里根国家机场和达拉斯-沃思堡国际机场一度下达“地面停飞”令。",
+  "industryImpacts": [
+    {
+      "industryName": "航空",
+      "impactScore": 90,
+      "impactType": "negative",
+      "reasoning": "政府停摆导致航班延误和取消，对航空公司运营造成负面影响。",
+      "keywords": [
+        "航班延误",
+        "空管员短缺",
+        "运营成本"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "industryName": "旅游业",
+      "impactScore": 80,
+      "impactType": "negative",
+      "reasoning": "航班延误和取消影响游客出行计划，减少旅游收入。",
+      "keywords": [
+        "旅游收入",
+        "游客出行",
+        "航班延误"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "美国航空",
+      "stockCode": "AAL",
+      "exchange": "NASDAQ",
+      "impactScore": 90,
+      "impactType": "negative",
+      "reasoning": "航班延误和取消直接影响公司运营和财务表现。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.95,
+      "estimatedPriceImpact": "-3-5%"
+    },
+    {
+      "companyName": "达美航空",
+      "stockCode": "DAL",
+      "exchange": "NYSE",
+      "impactScore": 85,
+      "impactType": "negative",
+      "reasoning": "航班延误和取消影响公司运营效率和客户满意度。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "航空业受挫可能导致原油需求下降。",
+      "priceDirection": "down",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 70,
+      "impactType": "neutral",
+      "reasoning": "政府停摆短期内对国债市场影响有限，但长期可能增加不确定性。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 50,
+  "summary": "美国政府停摆对航空和旅游业产生负面影响，相关企业股价可能下跌。建议关注其他行业的机会。",
+  "analyzedAt": "2025-11-29T13:19:04.309Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,98 @@
+{
+  "newsId": "2025-11-27-11",
+  "newsDate": "2025-11-27",
+  "newsTitle": "俄称在多个方向打击乌军目标 乌称袭击俄军无人机控制点",
+  "newsContent": "俄罗斯国防部称，26日晚到27日早上，俄军防空系统在俄别尔哥罗德州、库尔斯克州等地拦截并摧毁了118架乌克兰无人机。俄军在苏梅、顿涅茨克、扎波罗热等方向摧毁乌军坦克、电子战系统、弹药库等。乌克兰武装部队总参谋部今天（11月27日）称，乌军袭击了俄军无人机控制点以及多个人员、武器和军事装备集中区，摧毁俄军火炮系统和装甲车等装备。俄外交部副部长里亚布科夫26日表示，俄罗斯欢迎美国为寻求解决乌克兰危机所作努力。在俄军仍在进行特别军事行动的背景下，俄方在当前关键问题上“不会作出任何让步或放弃立场”。俄总统新闻秘书佩斯科夫表示，美总统特使威特科夫访问俄罗斯的具体日期还未确定。同一天，乌克兰总统办公室顾问别夫兹在谈及俄乌冲突谈判时表示，领土问题是乌方“红线”。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突持续升级，可能导致各国增加军费开支，利好国防军工行业",
+      "keywords": [
+        "军事",
+        "冲突",
+        "武器"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能推高能源价格，尤其是天然气和石油",
+      "keywords": [
+        "能源",
+        "价格",
+        "供应"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国船舶重工股份有限公司",
+      "stockCode": "601989",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内主要的舰船制造企业，受益于国防军工行业的增长",
+      "relatedIndustries": [
+        "国防军工",
+        "造船"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国石油天然气股份有限公司",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "能源价格上涨预期将提升公司业绩",
+      "relatedIndustries": [
+        "能源",
+        "石油"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能导致原油供应不稳定，推高油价",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "避险情绪上升，投资者可能转向黄金等避险资产",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内地缘政治因素对国债市场影响有限，但需关注长期风险",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "俄乌冲突升级利好国防军工和能源行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T09:56:38.954Z",
+  "modelVersion": "qwen-max"
+}

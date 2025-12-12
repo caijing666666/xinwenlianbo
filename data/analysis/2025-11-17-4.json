@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-11-17-4",
+  "newsDate": "2025-11-17",
+  "newsTitle": "前10个月铁路客流创新高 促进服务消费",
+  "newsContent": "国铁集团今天（11月17日）发布的数据显示，今年1至10月，全国铁路发送旅客39.5亿人次，同比增长6.4%，客流总量和单日客流量均创历史新高。进入四季度，全国铁路调整列车运行图，并对130余条线路动车组列车实行最低4折票价优惠。同时，学生、儿童、伤残军人等旅客购票享受“折上折”，不同年龄段常旅客会员可获双倍或三倍积分，一系列优惠措施提升了旅客的出行意愿。应对旅游客流出行需求，国铁集团大力开行品牌旅游列车和“银发专列”。1至10月，全国铁路累计开行旅游列车2049列，同比增长28.1%，促进了服务消费发展。",
+  "industryImpacts": [
+    {
+      "industryName": "交通运输",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "铁路客流创新高，表明交通运输行业需求旺盛，特别是铁路运输。票价优惠和旅游列车的增加进一步提升了旅客出行意愿。",
+      "keywords": [
+        "铁路",
+        "客流",
+        "优惠",
+        "旅游列车"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "旅游业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "国铁集团大力开行品牌旅游列车和“银发专列”，促进了服务消费发展，对旅游业有积极影响。",
+      "keywords": [
+        "旅游列车",
+        "银发专列",
+        "服务消费"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国家铁路集团有限公司",
+      "stockCode": "无",
+      "exchange": "无",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为主要受益者，铁路客流量的增长和一系列优惠政策将直接提升其业绩。",
+      "relatedIndustries": [
+        "交通运输"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+5-10%"
+    },
+    {
+      "companyName": "携程旅行网",
+      "stockCode": "CTRP",
+      "exchange": "NASDAQ",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "随着旅游列车的增加，携程等在线旅游平台的业务量有望增长。",
+      "relatedIndustries": [
+        "旅游业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+3-5%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "铁路行业的良好表现可能提高相关企业的信用评级，但整体债券市场受此影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "铁路客流创新高及优惠政策对交通运输和旅游业产生积极影响，相关企业和债券市场有望受益。",
+  "analyzedAt": "2025-11-29T10:46:39.267Z",
+  "modelVersion": "qwen-max"
+}

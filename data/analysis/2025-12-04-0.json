@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-12-04-0",
+  "newsDate": "2025-12-04",
+  "newsTitle": "习近平举行仪式欢迎法国总统访华",
+  "newsContent": "国家主席习近平4日上午在人民大会堂北大厅举行仪式，欢迎法兰西共和国总统埃马纽埃尔·马克龙对我国进行国事访问。天安门广场上鸣礼炮21响。习近平主席夫人彭丽媛出席欢迎仪式。陪同马克龙访华的有总统夫人，生态转型、生物多样性、国际气候和自然谈判部部长等。中共中央政治局委员、中央外事工作委员会办公室主任王毅等出席。军乐团奏法中两国国歌。马克龙在习近平陪同下检阅中国人民解放军仪仗队。两国元首回到检阅台观看仪仗队分列式。马克龙是应习近平的邀请对我国进行国事访问的。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "法国总统马克龙访华，可能带来中法在新能源领域的合作机会，尤其是生态转型和国际气候方面。",
+      "keywords": [
+        "新能源",
+        "生态转型",
+        "国际合作"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "环保",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "法国代表团中有生态转型、生物多样性、国际气候和自然谈判部部长，表明两国可能在环保领域加强合作。",
+      "keywords": [
+        "环保",
+        "生物多样性",
+        "国际合作"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池龙头企业，有望受益于中法在新能源领域的合作。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为光伏行业的领军企业，有望受益于中法在可再生能源领域的合作。",
+      "relatedIndustries": [
+        "新能源",
+        "光伏"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "国事访问对债券市场直接影响较小，但稳定的外交关系有助于维持货币政策的稳定性。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "法国总统马克龙访华，可能带来中法在新能源和环保领域的合作机会，相关企业和行业有望受益。",
+  "analyzedAt": "2025-12-04T16:39:31.108Z",
+  "modelVersion": "qwen-max"
+}

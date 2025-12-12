@@ -1,0 +1,95 @@
+{
+  "newsId": "2025-11-19-11",
+  "newsDate": "2025-11-19",
+  "newsTitle": "俄称在红军城击退乌军解围行动 乌称使用美制导弹打击俄军设施",
+  "newsContent": "俄罗斯国防部18日称，俄军继续在顿涅茨克红军城（乌称波克罗夫斯克）清剿被围乌克兰军队，击退乌军发起的多次解围行动。俄军还对153个区域的乌军能源设施、军用车辆等实施打击。俄军还在哈尔科夫、第聂伯罗彼得罗夫斯克新控制了两个居民点。 乌克兰军方称，在波克罗夫斯克、亚历山德里夫斯克等方向，乌军击退俄军数十次进攻。乌方还称，使用美国陆军战术导弹对俄境内的军事设施实施精确打击，并将持续使用此类武器进行远程打击。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能增加国防开支和军备采购，利好相关企业",
+      "keywords": [
+        "地缘政治",
+        "国防开支",
+        "军备采购"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "冲突可能导致能源供应不稳定，推高能源价格",
+      "keywords": [
+        "能源供应",
+        "价格上涨"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国船舶",
+      "stockCode": "600150",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能增加海军装备需求",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能增加航空装备需求",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能导致能源供应不稳定，推高油价",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能增加避险需求，推高金价",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "地缘政治紧张局势对国债市场影响有限，但需关注资金流向",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.65
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "地缘政治紧张局势可能利好国防军工和能源行业，相关企业和商品期货有望受益，但整体市场情绪保持中性。",
+  "analyzedAt": "2025-11-29T10:39:49.452Z",
+  "modelVersion": "qwen-max"
+}

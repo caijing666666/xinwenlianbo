@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-06-4",
+  "newsDate": "2025-11-06",
+  "newsTitle": "应习近平邀请 泰国国王将对中国进行国事访问",
+  "newsContent": "应国家主席习近平邀请，泰国国王哇集拉隆功将于11月13日至17日对中国进行国事访问。",
+  "industryImpacts": [
+    {
+      "industryName": "旅游",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "泰国国王访华可能促进中泰两国旅游业合作，增加中国游客赴泰旅游意愿。",
+      "keywords": [
+        "旅游",
+        "合作",
+        "游客"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "航空",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "随着中泰关系的进一步加强，往返两国的航班需求可能会有所增长。",
+      "keywords": [
+        "航空",
+        "航班",
+        "需求"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的旅游服务提供商之一，中国国旅有望从此次访问带来的双边旅游交流中受益。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "南方航空",
+      "stockCode": "600029",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "南航是中国最大的航空公司之一，在东南亚航线布局广泛，预计会因中泰间更紧密的关系而看到业务量的增长。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然外交活动通常不会直接对债券市场产生重大影响，但良好的国际关系有助于维持宏观经济稳定，间接支持债券价格。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 65,
+  "summary": "泰国国王对中国进行国事访问将主要利好旅游和航空行业及相关企业，同时对整体经济环境形成正面支撑。",
+  "analyzedAt": "2025-11-29T12:37:09.239Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-12-13",
+  "newsDate": "2025-11-12",
+  "newsTitle": "俄称在红军城持续发动攻势 乌称已实施战术转移",
+  "newsContent": "俄罗斯国防部11日称，过去24小时，俄军在顿涅茨克红军城（乌称波克罗夫斯克）的中央区、东部街区等持续对乌军展开攻势，控制了256栋建筑物。此外，俄军已全面控制哈尔科夫库皮扬斯克市东部区域。俄军还在扎波罗热控制了更多居民点。乌克兰方面11日称，在扎波罗热地区连续数日爆发激烈战斗，乌军已从五处居民点附近阵地实施战术转移。乌军方称，当前作战重点在于消耗俄军有生力量，并建立火力控制区以稳定战线。乌军还称，打击了俄奥伦堡州奥尔斯克炼油厂。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "乌军打击俄炼油厂可能导致能源供应紧张，推高能源价格。",
+      "keywords": [
+        "能源",
+        "供应",
+        "价格"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "国防军工",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "冲突持续可能增加对国防军工产品的需求。",
+      "keywords": [
+        "国防",
+        "军工",
+        "需求"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "能源价格上涨可能提升公司业绩。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "冲突持续可能增加对军工产品的需求。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "乌军打击俄炼油厂可能导致能源供应紧张，推高原油价格。",
+      "priceDirection": "up",
+      "confidence": 0.85
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "地缘政治风险上升可能推动避险资产需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "地缘政治风险上升可能影响市场情绪，但货币政策保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "地缘政治风险上升可能推高能源和黄金价格，利好相关行业和企业。建议关注能源和国防军工板块。",
+  "analyzedAt": "2025-11-29T11:13:25.369Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,115 @@
+{
+  "newsId": "2025-12-03-7",
+  "newsDate": "2025-12-03",
+  "newsTitle": "前11个月消费品以旧换新带动销售超2.5万亿元",
+  "newsContent": "记者从商务部了解到，今年1—11月，消费品以旧换新带动相关商品销售额超2.5万亿元，惠及超3.6亿人次。其中，汽车以旧换新超1120万辆，家电以旧换新超12844万台，手机等数码产品购新补贴超9015万件，电动自行车以旧换新超1291万辆，家装厨卫“焕新”超1.2亿件。今年以来，我国共分4批向地方下达3000亿元超长期特别国债资金，支持消费品以旧换新。随着政策效应加快释放，带动数字、绿色等新型消费发展向好，也推动相关行业绿色转型。",
+  "industryImpacts": [
+    {
+      "industryName": "汽车",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "以旧换新政策推动了汽车销售，特别是新能源汽车的销售增长。",
+      "keywords": [
+        "汽车",
+        "以旧换新",
+        "新能源"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "家电",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "家电以旧换新的销量大幅增加，促进了家电行业的整体发展。",
+      "keywords": [
+        "家电",
+        "以旧换新",
+        "销量"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "数码产品",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "手机等数码产品的购新补贴政策刺激了消费者购买意愿。",
+      "keywords": [
+        "数码产品",
+        "购新补贴",
+        "消费"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "家装厨卫",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "家装厨卫焕新政策带动了相关产品的销售，促进了行业发展。",
+      "keywords": [
+        "家装厨卫",
+        "焕新",
+        "销售"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "比亚迪",
+      "stockCode": "002594",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源汽车和电池制造的龙头企业，受益于汽车以旧换新政策。",
+      "relatedIndustries": [
+        "汽车",
+        "新能源"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "美的集团",
+      "stockCode": "000333",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "家电行业龙头，受益于家电以旧换新政策带来的销量增长。",
+      "relatedIndustries": [
+        "家电"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "小米集团",
+      "stockCode": "1810",
+      "exchange": "HKEX",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "数码产品制造商，受益于购新补贴政策。",
+      "relatedIndustries": [
+        "数码产品"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "超长期特别国债资金支持消费品以旧换新，但对债券市场整体影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好汽车、家电、数码产品等行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-04T06:33:09.134Z",
+  "modelVersion": "qwen-max"
+}

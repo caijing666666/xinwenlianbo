@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-11-08-6",
+  "newsDate": "2025-11-08",
+  "newsTitle": "2025年世界互联网大会蓝皮书发布",
+  "newsContent": "《中国互联网发展报告2025》和《世界互联网发展报告2025》蓝皮书今天（11月8日）发布。《中国互联网发展报告2025》显示，一年来，我国人工智能技术持续突破，算力基础设施不断升级。我国已成为全球人工智能专利最大拥有国，占比达60%。《世界互联网发展报告2025》指出，人工智能大模型推理能力显著提升，具身智能受到全球主要经济体的高度重视。人工智能在推动社会生产力转型升级的同时，也带来新型风险挑战，人工智能监管治理仍是全球网络空间国际治理核心议题。",
+  "industryImpacts": [
+    {
+      "industryName": "人工智能",
+      "impactScore": 90,
+      "impactType": "positive",
+      "reasoning": "中国已成为全球人工智能专利最大拥有国，占比达60%，表明该行业在中国政府高度重视，并且技术持续突破，算力基础设施不断升级。",
+      "keywords": [
+        "人工智能",
+        "专利",
+        "算力"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "industryName": "半导体",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "随着人工智能技术的发展，对于高性能计算芯片的需求将增加，利好半导体产业。",
+      "keywords": [
+        "半导体",
+        "芯片",
+        "需求"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "科大讯飞",
+      "stockCode": "002230",
+      "exchange": "SZSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的人工智能企业之一，科大讯飞有望从国家对AI领域的支持中受益。",
+      "relatedIndustries": [
+        "人工智能"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+5-10%"
+    },
+    {
+      "companyName": "海康威视",
+      "stockCode": "002415",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "该公司在安防监控领域应用了大量AI技术，未来可能因政策推动而获得更多项目机会。",
+      "relatedIndustries": [
+        "人工智能",
+        "安防"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+3-7%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "虽然AI行业发展迅速，但短期内对企业整体债务水平影响有限。不过，长期来看，科技类企业的债券可能会因为其良好的发展前景而受到投资者青睐。",
+      "yieldDirection": "stable",
+      "riskLevel": "moderate",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 80,
+  "summary": "中国在全球人工智能领域的领先地位为相关行业及公司带来了积极的投资前景，尤其是专注于AI技术研发的企业。",
+  "analyzedAt": "2025-11-29T13:22:44.814Z",
+  "modelVersion": "qwen-max"
+}

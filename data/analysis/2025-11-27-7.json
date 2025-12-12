@@ -1,0 +1,146 @@
+{
+  "newsId": "2025-11-27-7",
+  "newsDate": "2025-11-27",
+  "newsTitle": "我国推动“两重”建设取得阶段性进展",
+  "newsContent": "记者从国家发展改革委今天（11月27日）举行的新闻发布会上了解到，我国推动“两重”建设取得阶段性进展。去年以来，我国共安排15000亿元超长期特别国债支持2900多个“硬投资”项目建设，并同步推进规划编制、政策制定和体制机制创新。在新型城镇化方面，推动建设改造燃气、供排水等城市地下管网，加快健全管网运行维护管理机制。社会民生方面，支持人口流入重点城市新建和改扩建高中664所，新增普通高中学位超100万个，支持改造病房1.5万间。同时，积极推进三峡水运新通道、沪渝蓉沿江高铁等重大交通基础设施建设，整装谋划实施千万亩级特大型灌区现代化改造，加快构建集中连片粮食生产基地。",
+  "industryImpacts": [
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策支持重大交通基础设施建设和城市地下管网改造，将带动相关行业需求增长。",
+      "keywords": [
+        "基础设施",
+        "交通",
+        "管网"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "教育",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "支持新建和改扩建高中，新增普通高中学位，将促进教育行业的投资和发展。",
+      "keywords": [
+        "教育",
+        "高中",
+        "学位"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "医疗",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "支持病房改造，将提升医疗机构的硬件设施，推动医疗行业的发展。",
+      "keywords": [
+        "医疗",
+        "病房",
+        "改造"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "农业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "推进特大型灌区现代化改造，加快构建集中连片粮食生产基地，将促进农业现代化和粮食生产。",
+      "keywords": [
+        "农业",
+        "灌区",
+        "粮食"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国建筑",
+      "stockCode": "601668",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为基础设施建设领域的龙头企业，将受益于相关政策支持。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "新东方",
+      "stockCode": "EDU",
+      "exchange": "NYSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "教育行业龙头，将受益于高中建设和学位增加带来的市场需求。",
+      "relatedIndustries": [
+        "教育"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "迈瑞医疗",
+      "stockCode": "300760",
+      "exchange": "SZSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "医疗设备龙头企业，将受益于病房改造带来的市场需求。",
+      "relatedIndustries": [
+        "医疗"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "北大荒",
+      "stockCode": "600598",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "农业龙头企业，将受益于特大型灌区现代化改造和粮食生产基地建设。",
+      "relatedIndustries": [
+        "农业"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "钢铁",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和城市地下管网改造将增加对钢铁的需求。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和城市地下管网改造将增加对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "超长期特别国债发行可能对市场流动性产生一定影响，但整体货币政策保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好基础设施建设、教育、医疗和农业等行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T09:54:40.976Z",
+  "modelVersion": "qwen-max"
+}

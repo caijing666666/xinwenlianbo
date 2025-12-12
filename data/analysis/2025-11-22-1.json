@@ -1,0 +1,102 @@
+{
+  "newsId": "2025-11-22-1",
+  "newsDate": "2025-11-22",
+  "newsTitle": "李强会见南非总统",
+  "newsContent": "当地时间11月21日，国务院总理李强在约翰内斯堡会见南非总统拉马福萨。李强首先转达习近平主席对拉马福萨总统的亲切问候，表示在两国元首战略引领下，中南正携手推进新时代全方位战略合作伙伴关系。中方愿同南非弘扬传统友谊，深化政治互信，拓展经贸、民生、人文等领域合作，更好促进两国共同发展和中非团结合作。双方要加强多边协作，落实四大全球倡议，捍卫广大发展中国家共同利益。拉马福萨请李强转达对习近平主席的亲切问候和良好祝愿，表示南非坚定奉行一个中国政策，愿同中方加强经贸、科技、卫生等领域合作，并同广大非洲国家一道，推动中非合作深入发展。南非高度赞赏四大全球倡议，愿同中方密切多边协作。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中南合作加强，可能推动新能源技术在南非的应用和推广。",
+      "keywords": [
+        "新能源",
+        "合作",
+        "推广"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "医药",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "双方表示将在卫生领域加强合作，可能会促进中国医药企业在南非市场的拓展。",
+      "keywords": [
+        "医药",
+        "卫生",
+        "合作"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "科技",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中南两国强调深化科技领域的合作，这将为中国科技企业带来新的市场机会。",
+      "keywords": [
+        "科技",
+        "合作",
+        "市场机会"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池龙头企业，有望受益于中南在新能源领域的合作。",
+      "relatedIndustries": [
+        "新能源"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "恒瑞医药",
+      "stockCode": "600276",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为医药行业的领军企业，可能从与南非的卫生合作中获益。",
+      "relatedIndustries": [
+        "医药"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    },
+    {
+      "companyName": "华为",
+      "stockCode": "未上市",
+      "exchange": "未上市",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "作为科技巨头，可能在南非市场获得更多业务机会。",
+      "relatedIndustries": [
+        "科技"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "N/A"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "中南合作对国内货币政策影响有限，国债收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中南合作利好新能源、医药和科技行业，相关企业有望受益。国债市场预计保持稳定。",
+  "analyzedAt": "2025-11-29T10:22:01.415Z",
+  "modelVersion": "qwen-max"
+}

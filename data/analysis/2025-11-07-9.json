@@ -1,0 +1,103 @@
+{
+  "newsId": "2025-11-07-9",
+  "newsDate": "2025-11-07",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "前10个月我国农村供水工程建设完成投资超千亿截至10月底，各地农村供水工程建设完成投资1019亿元，已完工农村供水工程5448处，提升了8217万农村人口供水保障水平。今年新开工6处新建大型灌区，实施150处大中型灌区现代化改造。四川引大济岷工程今天启动建设今天（11月7日），全国骨干水网工程之一的引大济岷工程在四川雅安启动建设。工程总投资575亿元，引大渡河之水补济岷江流域，引水线路总长261公里。建成后将新增灌溉面积179万亩，保障3400万人的用水安全。教育部举办2026届毕业生首场跨区域联合招聘会今天（11月7日），教育部举办2026届毕业生首场跨区域联合招聘会，联动西部12个省区市和新疆生产建设兵团的就业资源，线上线下汇聚5000多家招聘单位，提供就业岗位35万多个。十五运会开幕式完成最后一次联合彩排十五运会开幕式昨晚（11月6日）在广东奥体中心完成最后一次全流程联合彩排。开幕式共约75分钟，文艺展演部分以“圆梦未来”为主题，通过“同根同源、同心同缘、同梦同圆”三大篇章，展现新时代中国体育事业的蓬勃生机。总台陕西总站揭牌运行 多个文化合作项目在西安启动昨天（11月6日）中央广播电视总台多个文化合作项目在西安启动，总台陕西总站揭牌运行。《中国诗词大会》特别节目《延安诗会》、短视频《长安吟咏》等同日启播。未来总台将进一步挖掘陕西丰富的历史文化、红色和自然生态资源，为陕西高质量发展注入新动能。2025中非经贸和文化论坛在浙江金华举行2025中非经贸和文化论坛，今天（11月7日）在浙江金华举行。来自38个国家和地区的400多位嘉宾围绕“经贸繁荣、文化互鉴、伙伴共赢、民心相通”主题畅谈合作，其间举办中非农业科技合作交流会、中非产业合作与跨境电商发展论坛、中非文化和旅游合作交流会等一系列活动。《高端访谈》今晚播出对格鲁吉亚总理科巴希泽的专访今晚（11月7日）总台央视新闻频道《高端访谈》栏目将播出对格鲁吉亚总理科巴希泽的专访。科巴希泽高度赞赏习近平主席提出的四大全球倡议，称赞中国是和平发展的典范。他表示很高兴格鲁吉亚以主宾国身份参加进博会。节目还将在央视新闻、央视频、央视网等新媒体平台同步上线。",
+  "industryImpacts": [
+    {
+      "industryName": "水利建设",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "农村供水工程建设和引大济岷工程的启动将带动相关产业链的发展，增加行业投资机会。",
+      "keywords": [
+        "农村供水",
+        "引大济岷",
+        "基础设施"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "教育",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "教育部举办跨区域联合招聘会，有助于缓解毕业生就业压力，提升教育行业的整体形象。",
+      "keywords": [
+        "招聘会",
+        "毕业生",
+        "教育"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "文化传媒",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "总台陕西总站揭牌运行及多个文化合作项目的启动，有利于推动文化传媒产业的发展。",
+      "keywords": [
+        "总台",
+        "文化合作",
+        "传媒"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国电建",
+      "stockCode": "601669",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为水利建设领域的龙头企业，受益于农村供水工程和引大济岷工程的投资增长。",
+      "relatedIndustries": [
+        "水利建设",
+        "基础设施"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "新东方",
+      "stockCode": "EDU",
+      "exchange": "NYSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "教育行业利好政策有望提升公司品牌影响力及市场份额。",
+      "relatedIndustries": [
+        "教育"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+1-3%"
+    },
+    {
+      "companyName": "芒果超媒",
+      "stockCode": "300413",
+      "exchange": "SZSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "文化传媒行业的发展将为公司带来更多的内容制作与传播机会。",
+      "relatedIndustries": [
+        "文化传媒"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-2%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "水利建设项目需要大量资金支持，地方政府可能通过发行债券筹集资金，从而提高地方债的需求。",
+      "yieldDirection": "down",
+      "riskLevel": "moderate",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "水利建设和教育行业受到政策支持，相关企业和地方债市场有望受益。建议关注水利建设、教育及文化传媒领域的龙头企业。",
+  "analyzedAt": "2025-11-29T12:34:14.501Z",
+  "modelVersion": "qwen-max"
+}

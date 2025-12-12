@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-26-001",
+  "newsDate": "2025-11-26",
+  "newsTitle": "习近平向香港新界大埔区住宅楼重大火灾事故遇难人员和殉职的消防员表示哀悼 对遇难者家属和受灾人员表示慰问 要求全力以赴扑灭火灾 努力把火灾伤亡损失降到最低",
+  "newsContent": "新华社北京11月26日电　11月26日下午，香港新界大埔屋邨宏福苑多栋住宅楼发生火灾，造成重大人员伤亡。  事故发生后，中共中央总书记、国家主席、中央军委主席习近平高度重视，第一时间了解火灾救援和人员伤亡等情况，指示中央政府驻香港联络办负责人向香港特区行政长官李家超转达他对遇难人员和殉职的消防员的哀悼、对遇难者家属和受灾人员的慰问，要求中央港澳办、中央政府驻香港联络办支持香港特区政府全力以赴扑灭火灾，想方设法做好人员搜救、伤员救治、善后安抚等工作，有关部门和地方提供必要援助，努力把火灾伤亡损失降到最低。  香港特区政府已启动应急救援机制，中央政府驻香港联络办已成立应急专班，与特区政府密切沟通，全力支持做好救援工作。目前，相关工作正在进行中。 【纠错】    【责任编辑:张欣然】    阅读下一篇：",
+  "industryImpacts": [
+    {
+      "industryName": "房地产",
+      "impactScore": 30,
+      "impactType": "negative",
+      "reasoning": "火灾事故可能引发对住宅楼安全标准的担忧，短期内可能导致房地产市场情绪低迷。",
+      "keywords": [
+        "火灾",
+        "安全标准",
+        "房地产"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "保险",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "火灾事故可能会增加人们对保险的需求，尤其是财产保险和人身保险。",
+      "keywords": [
+        "保险需求",
+        "财产保险",
+        "人身保险"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国平安",
+      "stockCode": "601318",
+      "exchange": "SSE",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "作为保险公司，火灾事故可能增加其业务量，尤其是财产保险和人身保险。",
+      "relatedIndustries": [
+        "保险"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "万科企业",
+      "stockCode": "000002",
+      "exchange": "SZSE",
+      "impactScore": 30,
+      "impactType": "negative",
+      "reasoning": "火灾事故可能引发对住宅楼安全标准的担忧，短期内可能导致房地产市场情绪低迷。",
+      "relatedIndustries": [
+        "房地产"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 40,
+      "impactType": "neutral",
+      "reasoning": "火灾事故对宏观经济影响有限，国债收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 50,
+  "summary": "火灾事故对房地产行业有负面影响，但可能增加保险需求。整体市场情绪中性，建议关注保险行业的投资机会。",
+  "analyzedAt": "2025-12-12T02:46:02.034Z",
+  "modelVersion": "qwen-max"
+}

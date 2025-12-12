@@ -1,0 +1,65 @@
+{
+  "newsId": "2025-11-02-2",
+  "newsDate": "2025-11-02",
+  "newsTitle": "习近平就大埃及博物馆开馆向埃及总统致贺信",
+  "newsContent": "11月1日，国家主席习近平向埃及总统塞西致贺信，祝贺大埃及博物馆开馆。习近平表示，值此大埃及博物馆开馆之际，我谨向塞西总统和埃及人民致以诚挚祝贺。相信大埃及博物馆将在埃及文化史上留下浓墨重彩的一笔，为保护和传承古埃及文明发挥重要作用。习近平强调，中国和埃及友好源远流长。近年来，中埃全面战略伙伴关系蓬勃发展，两国人文交流异彩纷呈。上海博物馆“古埃及文明大展”成功举办，中埃联合考古队正在萨卡拉金字塔下共同探索神秘的古埃及文明。我们高兴地看到，两大古老文明双向奔赴，两国人民日益相知相亲。当前，世界百年未有之大变局加速演进，中埃两大文明古国应当持续深化文明互鉴，为中埃全面战略伙伴关系发展不断注入新动能，为构建人类命运共同体汇聚文明力量。",
+  "industryImpacts": [
+    {
+      "industryName": "文化旅游",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中埃文化交流活动的增加将促进两国之间的旅游和文化合作，有利于相关行业的发展。",
+      "keywords": [
+        "文化交流",
+        "旅游业",
+        "文化遗产"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "随着中埃文化交流加深，预计会有更多游客前往埃及旅游，利好旅行社及旅游服务提供商。",
+      "relatedIndustries": [
+        "文化旅游"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "上海博物馆",
+      "stockCode": "",
+      "exchange": "",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "作为中埃文化交流的重要平台之一，上海博物馆未来可能举办更多类似活动，提高其知名度与影响力。",
+      "relatedIndustries": [
+        "文化旅游"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "N/A"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "此次事件主要涉及文化和外交领域，并未直接提及宏观经济政策调整或财政刺激措施，因此对债券市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.9
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "中埃加强文化交流有助于推动文化旅游及相关产业发展，但整体上对中国资本市场的影响较为温和。",
+  "analyzedAt": "2025-11-29T12:59:09.718Z",
+  "modelVersion": "qwen-max"
+}

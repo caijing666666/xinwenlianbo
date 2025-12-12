@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-11-05-6",
+  "newsDate": "2025-11-05",
+  "newsTitle": "前三季度我国服务贸易同比增长7.6%",
+  "newsContent": "商务部最新数据显示，今年前三季度，我国服务贸易稳步增长，服务进出口总额59362.2亿元，同比增长7.6%。其中，出口26015亿元，增长14.4%；进口33347.2亿元，增长2.8%。服务贸易规模扩大的同时，结构也持续优化。前三季度，知识密集型服务进出口增长6.4%。其中，其他商业服务、电信计算机和信息服务进出口增长较快。前三季度，旅行服务进出口增长8.8%。其中，出口增长54.4%，进口增长2.7%。",
+  "industryImpacts": [
+    {
+      "industryName": "电信计算机和信息服务",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "服务贸易中电信计算机和信息服务进出口增长较快，表明该行业需求旺盛，企业有望受益。",
+      "keywords": [
+        "服务贸易",
+        "电信",
+        "计算机",
+        "信息服务"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "旅游业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "旅行服务进出口增长显著，尤其是出口增长迅速，预示着旅游业复苏势头良好。",
+      "keywords": [
+        "旅行服务",
+        "进出口",
+        "增长"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国联通",
+      "stockCode": "600050",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为电信运营商之一，其业务与电信计算机和信息服务密切相关，有望从服务贸易的增长中获益。",
+      "relatedIndustries": [
+        "电信计算机和信息服务"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "随着旅行服务进出口的增加，特别是出口部分的大幅增长，该公司可能迎来更多国际游客，从而推动业绩提升。",
+      "relatedIndustries": [
+        "旅游业"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+3-5%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然服务贸易数据向好，但对整体经济形势及货币政策影响有限，预计短期内国债收益率保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "服务贸易数据显示电信计算机和信息服务、旅游业表现强劲，相关领域内企业或迎来投资机会；而债券市场则维持现状。",
+  "analyzedAt": "2025-11-29T12:43:38.652Z",
+  "modelVersion": "qwen-max"
+}

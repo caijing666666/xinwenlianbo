@@ -1,0 +1,90 @@
+{
+  "newsId": "2025-11-23-3",
+  "newsDate": "2025-11-23",
+  "newsTitle": "王沪宁在广东调研",
+  "newsContent": "中共中央政治局常委、全国政协主席王沪宁21日至23日在广东深圳、惠州调研。他表示，要坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻落实党的二十届四中全会精神和习近平总书记在广东考察时的重要讲话精神，聚焦党和国家中心任务做好党的统战工作和人民政协工作，为确保基本实现社会主义现代化取得决定性进展凝聚人心、凝聚共识、凝聚智慧、凝聚力量。王沪宁在听取前海深港现代服务业合作区介绍后表示，建设前海深港现代服务业合作区是推进全面深化改革开放的重大举措，要为推进粤港澳大湾区建设发挥更大作用。在参观东江纵队纪念馆时他表示，要弘扬伟大抗战精神，引导广大群众特别是青少年传承红色基因、赓续红色血脉，坚定听党话、跟党走。在调研民营企业时他表示，要认真落实促进民营经济发展的政策措施，引导民营企业坚定不移走高质量发展之路。在调研台资企业时他表示，要加强两岸经济文化交流合作，助力台资企业更好融入新发展格局。在博罗县郭前村调研时他表示，要因地制宜发展乡村特色产业，做好农文旅融合发展文章。在调研罗浮山宗教文化历史和宗教事务管理情况时他表示，要贯彻党的宗教工作基本方针，提高宗教事务治理法治化水平。王沪宁还到深圳市政协机关、惠州市惠城区政协机关调研，看望在深圳市、惠州市的全国政协委员和政协机关干部。他表示，人民政协要把深入学习贯彻党的二十届四中全会精神作为重大政治任务，聚焦党中央部署的重大战略、重大任务、重大举措，深入调查研究，积极协商议政，以高质量议政建言服务党和国家中心工作。黄坤明、王东峰一同调研。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "调研中提到推进全面深化改革开放，支持高质量发展，这将有利于新能源行业的政策环境和市场前景。",
+      "keywords": [
+        "改革开放",
+        "高质量发展",
+        "新能源"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "调研内容未直接提及房地产行业，但强调了乡村特色产业的发展，可能对农村地区的房地产有一定影响。",
+      "keywords": [
+        "乡村特色产业",
+        "农文旅融合"
+      ],
+      "confidence": 0.6
+    },
+    {
+      "industryName": "消费",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "调研中提到的乡村振兴和农文旅融合发展，有望带动乡村旅游和相关消费的增长。",
+      "keywords": [
+        "乡村振兴",
+        "农文旅融合",
+        "消费增长"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "比亚迪",
+      "stockCode": "002594",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为新能源汽车领域的龙头企业，受益于政策支持和高质量发展的推动。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "华侨城A",
+      "stockCode": "000069",
+      "exchange": "SZSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "公司涉及文化旅游业务，受益于农文旅融合发展的政策支持。",
+      "relatedIndustries": [
+        "消费",
+        "旅游"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "调研内容未直接提及货币政策或财政政策，预计对国债市场的影响较为有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "调研内容主要利好新能源和消费行业，相关企业和债券市场保持稳定。建议关注新能源和乡村旅游相关企业。",
+  "analyzedAt": "2025-11-29T10:16:13.190Z",
+  "modelVersion": "qwen-max"
+}

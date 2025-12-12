@@ -1,0 +1,117 @@
+{
+  "newsId": "2025-11-10-7",
+  "newsDate": "2025-11-10",
+  "newsTitle": "我国将加快场景培育和开放 推动新场景大规模应用",
+  "newsContent": "国务院新闻办公室今天（11月10日）举行政策例行吹风会，介绍加快场景培育和开放，推动新场景大规模应用有关情况。国家发展改革委有关负责人介绍，我国将打造一批数字经济、人工智能等新领域新赛道应用场景，建设一批制造、交通等领域产业转型升级应用场景，推出一批矿山、应急等行业领域的应用场景。科技部、工业和信息化部、国务院国资委有关负责人表示，将加强关键核心技术攻关，加速推动“5G+”应用场景、“人工智能+”应用场景等重点领域应用场景的培育，欢迎民营企业等各类经营主体融入场景建设，与中央企业在技术、产业、人才等一系列环节深化合作。安徽省和广东省有关负责人也就进一步培育和开放应用场景，加快新兴产业规模化发展等内容，介绍了下一步各自的工作重点。",
+  "industryImpacts": [
+    {
+      "industryName": "数字经济",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策明确支持数字经济的发展，将推动相关技术和服务的广泛应用。",
+      "keywords": [
+        "数字经济",
+        "应用场景",
+        "技术创新"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "人工智能",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "政策强调加快人工智能的应用场景建设，将促进AI技术在各行业的落地。",
+      "keywords": [
+        "人工智能",
+        "应用场景",
+        "技术攻关"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "制造业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "政策支持制造业转型升级，通过新技术应用提升生产效率和产品质量。",
+      "keywords": [
+        "制造业",
+        "转型升级",
+        "应用场景"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "交通",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "政策推动交通领域的应用场景建设，将促进智能交通系统的发展。",
+      "keywords": [
+        "交通",
+        "应用场景",
+        "智能交通"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "阿里巴巴",
+      "stockCode": "BABA",
+      "exchange": "NYSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为数字经济的领军企业，阿里巴巴将受益于政策支持的新应用场景建设。",
+      "relatedIndustries": [
+        "数字经济",
+        "人工智能"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "腾讯控股",
+      "stockCode": "0700.HK",
+      "exchange": "HKEX",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "腾讯在人工智能和数字经济领域有广泛布局，政策利好将推动其业务增长。",
+      "relatedIndustries": [
+        "数字经济",
+        "人工智能"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "海康威视",
+      "stockCode": "002415",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "海康威视在智能安防和交通领域有深厚积累，政策支持将带来新的市场机会。",
+      "relatedIndustries": [
+        "人工智能",
+        "交通"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "政策主要集中在新兴产业和技术领域，对国债市场影响较小，收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好数字经济、人工智能等新兴行业，相关企业和债券市场有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T11:23:11.202Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-08-10",
+  "newsDate": "2025-11-08",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "俄称对乌发动集群打击 乌称打击俄目标俄罗斯国防部7日称，俄军在过去一周使用高精度武器对乌克兰军工设施、能源设施、交通基础设施、军用机场以及乌军和外国雇佣兵部署点实施了七次集群打击，在扎波罗热方向继续推进，控制了一个居民点。 乌克兰能源部长格林丘克今天（11月8日）称，俄罗斯7日夜间起对乌克兰的能源基础设施发动了大规模攻击，导致多个地区断电。乌克兰军方7日称，乌军在库皮扬斯克方向对俄军发动多次进攻，打击俄军坦克、火炮系统等目标。加拿大总理称加美紧密经济关系已结束加拿大总理卡尼7日表示，加拿大和美国之间长达数十年的紧密经济关系已经结束。卡尼称，根据测算，美国的关税政策将导致加拿大经济损失约500亿加元，相当于加拿大国内生产总值的1.8%。加拿大以往依托美国的发展战略已经从优势变成了软肋。目前，加拿大必须调整战略，推动贸易伙伴多元化以创造更大的自主空间。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "乌克兰能源基础设施受到攻击，可能导致能源供应不稳定，影响相关企业运营。",
+      "keywords": [
+        "能源设施",
+        "断电",
+        "供应"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "国防军工",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突加剧，可能增加对国防军工产品的需求。",
+      "keywords": [
+        "军事打击",
+        "武器",
+        "防御"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "乌克兰能源设施受攻击，可能导致全球能源市场波动，影响公司业绩。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突加剧，可能增加对军用飞机等国防军工产品的需求。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "乌克兰能源设施受攻击，可能导致全球能源供应紧张，推高油价。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "地缘政治风险上升，避险情绪增强，可能推高黄金价格。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前货币政策保持稳定，但地缘政治风险可能引起市场波动。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 60,
+  "summary": "乌克兰能源设施受攻击和加拿大与美国经济关系变化导致市场不确定性增加，能源行业和部分商品期货可能面临压力，建议关注国防军工板块。",
+  "analyzedAt": "2025-11-29T13:20:48.859Z",
+  "modelVersion": "qwen-max"
+}

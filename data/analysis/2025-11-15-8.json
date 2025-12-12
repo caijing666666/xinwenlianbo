@@ -1,0 +1,75 @@
+{
+  "newsId": "2025-11-15-8",
+  "newsDate": "2025-11-15",
+  "newsTitle": "第十五届全国运动会：第六个比赛日共产生32枚金牌",
+  "newsContent": "第十五届全国运动会今天（11月15日）进入开幕后的第六个比赛日，全天共产生32枚金牌。田径比赛今天在广州赛区开赛，首个比赛日产生4×100和4×400米混合接力两项冠军。跨越深港两地进行的马拉松比赛，宁夏队的何杰和云南队的张德顺分别夺得男、女冠军。在香港赛区，击剑比赛拉开帷幕，今天产生女子重剑和男子佩剑两枚个人金牌。在澳门赛区，乒乓球男子单打半决赛上演，上海队的樊振东和海南队的林诗栋战胜各自对手，会师男单决赛。",
+  "industryImpacts": [
+    {
+      "industryName": "体育用品",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "全国运动会的举办可能会提高公众对体育活动的兴趣，从而增加对体育用品的需求。",
+      "keywords": [
+        "体育用品",
+        "需求增长"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "运动会期间，运动员、观众及相关人员的流动可能促进当地旅游业的发展。",
+      "keywords": [
+        "旅游业",
+        "人流增加"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "安踏体育",
+      "stockCode": "2020.HK",
+      "exchange": "HKEX",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的体育用品制造商之一，安踏体育有望从运动会带来的体育用品需求增长中受益。",
+      "relatedIndustries": [
+        "体育用品"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888.SH",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "运动会期间的人流增加可能会带动旅游相关服务的需求，对中国国旅等旅游公司构成利好。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然运动会可能短期内刺激地方经济，但长期来看对地方财政状况的影响有限，因此对地方债市场影响不大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "全国运动会主要对体育用品和旅游行业产生正面影响，相关企业股价或有小幅上涨空间；而对期货及债券市场的直接影响较小。",
+  "analyzedAt": "2025-11-29T10:56:59.175Z",
+  "modelVersion": "qwen-max"
+}

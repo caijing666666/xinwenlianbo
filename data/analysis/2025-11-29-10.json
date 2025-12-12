@@ -1,0 +1,66 @@
+{
+  "newsId": "2025-11-29-10",
+  "newsDate": "2025-11-29",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "中国最高票连任国际海事组织A类理事国国际海事组织第34届大会28日在英国伦敦举行新一届理事国选举。中国以最高票当选A类理事国，这是中国连续第19次成功当选。当天选举共169个会员国有选举权，中国获得155票。本次大会共选举产生40个理事国，其中A类为10个航运大国。国际海事组织秘书长多明戈斯日前表示，中国是造船大国，拥有全球最大的港口群和众多班轮公司，在国际海事合作中扮演“非常重要的角色”。以军空袭叙首都附近地区 13人死亡据叙利亚媒体28日报道，以色列当天对大马士革农村省拜特金地区发动空袭，造成至少13人死亡、24人受伤。叙利亚方面当天谴责以方袭击是“严重的侵略行为”。以色列国防军同一天发表声明称，以军在拜特金地区展开行动的目的是打击袭击以方人员的极端组织嫌疑人。多架美海军陆战队军机飞抵加勒比地区28日，包括“鹞”式垂直起降战机在内的美国海军陆战队多架军机抵达位于波多黎各的罗斯福路海军基地，这一基地此前已关闭20余年。另据美国媒体28日报道，美国总统特朗普于上周同委内瑞拉总统马杜罗进行了电话交谈，通话内容包括两人在美国举行会晤的可能性，但目前美国白宫和委内瑞拉政府均拒绝对此作出回应。",
+  "industryImpacts": [
+    {
+      "industryName": "航运",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中国连任国际海事组织A类理事国，表明其在国际航运领域的地位稳固，有利于提升国内航运企业的国际竞争力。",
+      "keywords": [
+        "航运",
+        "国际海事组织",
+        "理事国"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中远海运控股股份有限公司",
+      "stockCode": "601919",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为中国最大的航运企业之一，中远海运将受益于中国在国际海事组织中的地位提升，增强其在全球市场的影响力。",
+      "relatedIndustries": [
+        "航运"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "招商局港口集团股份有限公司",
+      "stockCode": "001872",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中国在全球航运业的地位提升有助于增加对港口服务的需求，从而利好招商局港口等港口运营公司。",
+      "relatedIndustries": [
+        "航运",
+        "物流"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "当前新闻内容主要涉及地缘政治及行业动态，未直接提及货币政策或财政政策变化，因此对国债市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中国在国际海事组织的地位巩固增强了航运及相关行业的投资吸引力，但整体市场情绪仍需关注其他宏观经济因素。",
+  "analyzedAt": "2025-11-29T16:10:40.999Z",
+  "modelVersion": "qwen-max"
+}

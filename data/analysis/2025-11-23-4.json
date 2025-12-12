@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-23-4",
+  "newsDate": "2025-11-23",
+  "newsTitle": "学习贯彻党的二十届四中全会精神中央宣讲团在澳门宣讲",
+  "newsContent": "22日至23日，学习贯彻党的二十届四中全会精神中央宣讲团在澳门特别行政区为中央驻澳机构和中资企业代表、澳门特区管治团队、社会各界人士进行了三场宣讲，并现场交流互动。中央宣讲团围绕学习贯彻习近平总书记在党的二十届四中全会上的重要讲话精神和全会《建议》，紧密结合澳门实际，对全会的重大意义、“十四五”时期我国发展取得的重大成就和“十五五”时期经济社会发展的指导思想、重大原则、主要目标、战略任务和重大举措进行了全面宣讲和系统解读。与会的澳门各界人士表示，将学习好贯彻好全会精神，抢抓国家“十五五”规划带来的新机遇，科学编制特区“三五”规划，高质量推进澳门各项事业建设，更好融入和服务国家发展大局，为推进中国式现代化贡献澳门力量。23日下午，中央宣讲团到横琴粤澳深度合作区调研，与居民、企业代表互动交流。",
+  "industryImpacts": [
+    {
+      "industryName": "房地产",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "澳门特区高质量推进各项事业建设，可能带动房地产市场需求增长。",
+      "keywords": [
+        "高质量建设",
+        "房地产市场",
+        "需求增长"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "澳门旅游业有望受益于政策支持和基础设施建设的提升。",
+      "keywords": [
+        "旅游业",
+        "政策支持",
+        "基础设施"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "银河娱乐集团",
+      "stockCode": "0027.HK",
+      "exchange": "HKEX",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "澳门旅游业的发展将直接利好本地博彩业公司。",
+      "relatedIndustries": [
+        "旅游",
+        "博彩"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "新濠国际发展有限公司",
+      "stockCode": "0200.HK",
+      "exchange": "HKEX",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "澳门旅游业的发展将直接利好本地博彩业公司。",
+      "relatedIndustries": [
+        "旅游",
+        "博彩"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前货币政策保持稳定，预计短期内对债券市场影响不大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "澳门特区高质量建设及旅游业发展预期利好相关行业和企业，建议关注本地博彩业龙头。",
+  "analyzedAt": "2025-11-29T10:16:39.207Z",
+  "modelVersion": "qwen-max"
+}

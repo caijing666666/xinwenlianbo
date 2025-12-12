@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-11-04-5",
+  "newsDate": "2025-11-04",
+  "newsTitle": "李强会见尼日利亚众议长",
+  "newsContent": "4日，国务院总理李强在上海会见来华出席第八届中国国际进口博览会的尼日利亚众议长塔杰丁。李强表示，去年9月，习近平主席同提努布总统在北京举行会晤，推动两国关系迈上全面战略伙伴关系的新台阶。中方愿同尼方加强发展战略对接，积极落实中非“十大伙伴行动”，高质量共建“一带一路”，提升传统领域合作水平，拓展新兴产业合作，更好服务两国经济社会建设。双方要在金砖国家、联合国等多边机制加强协调配合，推动全球南方联合自强。塔杰丁表示，尼方坚定恪守一个中国原则，愿同中方加强治国理政经验交流，拓展经贸、基建、能源、人文等领域合作，推动尼中全面战略伙伴关系不断迈向更高水平。 陈吉宁、吴政隆参加上述活动。",
+  "industryImpacts": [
+    {
+      "industryName": "基建",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中尼双方将加强在基础设施建设领域的合作，这将为中国的建筑和工程公司带来更多的项目机会。",
+      "keywords": [
+        "基建",
+        "合作",
+        "项目"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "两国将在能源领域深化合作，特别是传统能源和新能源方面，有利于中国能源企业扩大市场份额。",
+      "keywords": [
+        "能源",
+        "合作",
+        "市场"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国电建",
+      "stockCode": "601669",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的电力工程建设企业之一，中国电建有望从与尼日利亚的合作中获得更多订单。",
+      "relatedIndustries": [
+        "基建",
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "随着中尼两国在能源领域的进一步合作，中国石油可能迎来更多海外业务拓展的机会。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和能源项目的增加可能会提高对铜的需求，从而推高其价格。",
+      "priceDirection": "up",
+      "confidence": 0.65
+    }
+  ],
+  "bondImpacts": [],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中尼合作加深利好基建及能源行业，相关企业股票及铜期货或有上涨空间。",
+  "analyzedAt": "2025-11-29T12:48:43.246Z",
+  "modelVersion": "qwen-max"
+}

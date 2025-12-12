@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-12-02-8",
+  "newsDate": "2025-12-02",
+  "newsTitle": "各地开展“全国交通安全日”活动 倡导文明交通",
+  "newsContent": "今天（12月2日）是我国第14个“全国交通安全日”，各地围绕“文明交通礼行天下”主题开展活动。广西把活动现场搬进南宁市公安局公共安全教育馆，让孩子们直观学习到机动车“内轮差”“车辆盲区”等交通知识。内蒙古包头市邀请不同年龄段的孩子参加了“分龄分层交通安全教育”实践课堂。这两天，辽宁、河北、四川、广东、天津等地通过交通场景模拟演示、知识竞赛大比拼等方式，向群众普及了安全带的重要性和“路口礼让规则”，同时传递“车让人，人快行”的双向礼让出行理念。",
+  "industryImpacts": [
+    {
+      "industryName": "汽车",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "全国交通安全日活动强调了安全带的重要性和文明交通，可能促进消费者对更安全、更智能的汽车的需求。",
+      "keywords": [
+        "交通安全",
+        "文明交通",
+        "安全带"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "教育",
+      "impactScore": 40,
+      "impactType": "positive",
+      "reasoning": "各地开展的交通安全教育活动可能会增加公众对交通安全教育的关注，从而推动相关教育机构和在线教育平台的发展。",
+      "keywords": [
+        "交通安全教育",
+        "公共安全教育馆",
+        "分龄分层教育"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "比亚迪",
+      "stockCode": "002594",
+      "exchange": "SZSE",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的新能源汽车制造商，比亚迪可能受益于消费者对更安全、更环保车辆需求的增长。",
+      "relatedIndustries": [
+        "汽车",
+        "新能源"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    },
+    {
+      "companyName": "新东方",
+      "stockCode": "EDU",
+      "exchange": "NYSE",
+      "impactScore": 40,
+      "impactType": "positive",
+      "reasoning": "作为知名的教育服务提供商，新东方可能从交通安全教育需求的增长中获益。",
+      "relatedIndustries": [
+        "教育"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "+1-2%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 20,
+      "impactType": "neutral",
+      "reasoning": "该新闻主要关注交通安全教育和社会公益活动，对宏观经济和货币政策的影响较小，因此对国债市场影响不大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 50,
+  "summary": "全国交通安全日活动对汽车和教育行业有轻微正面影响，但整体市场情绪保持中性。建议关注相关行业的龙头企业。",
+  "analyzedAt": "2025-12-03T07:01:57.590Z",
+  "modelVersion": "qwen-max"
+}

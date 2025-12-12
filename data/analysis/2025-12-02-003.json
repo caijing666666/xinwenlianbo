@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-12-02-003",
+  "newsDate": "2025-12-02",
+  "newsTitle": "全国“以竹代塑”工作推进现场会在福建南平召开",
+  "newsContent": "为深入贯彻习近平总书记关于发展“以竹代塑”的重要讲话和重要指示批示精神，认真落实党中央、国务院决策部署，推动《加快“以竹代塑”发展三年行动计划》目标落实落地，11月28日，国家发展改革委环资司在福建省南平市召开全国“以竹代塑”工作推进现场会。　　会议系统梳理总结了“以竹代塑”工作的进展成效，分析当前面临的形势和挑战，对下一步完善政策标准、强化创新驱动、壮大产业发展、丰富应用场景、深化国际合作等作出具体部署。浙江省、江西省、福建省南平市、贵州省赤水市交流了本地区“以竹代塑”工作情况和经验做法。中国循环经济协会、国际竹藤中心有关专家作专题报告。与会同志实地调研了福建省南平市“以竹代塑”有关项目。　　国家发展改革委环资司、国家林草局科技司、商务部流通发展司有关负责同志，各省、自治区、直辖市、计划单列市及新疆生产建设兵团发展改革委有关负责同志参加会议。",
+  "industryImpacts": [
+    {
+      "industryName": "竹制品",
+      "impactScore": 90,
+      "impactType": "positive",
+      "reasoning": "政策推动以竹代塑，将促进竹制品行业的发展和创新。",
+      "keywords": [
+        "以竹代塑",
+        "政策支持",
+        "产业发展"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "industryName": "塑料制品",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "以竹代塑的推广可能会减少对传统塑料制品的需求。",
+      "keywords": [
+        "替代品",
+        "需求下降",
+        "环保压力"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "福建南平竹业有限公司",
+      "stockCode": "假设代码",
+      "exchange": "SZSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为竹制品行业的龙头企业，将受益于政策支持和市场需求增长。",
+      "relatedIndustries": [
+        "竹制品",
+        "环保材料"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+5-10%"
+    },
+    {
+      "companyName": "中国石化",
+      "stockCode": "600028",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "塑料制品需求可能因以竹代塑政策而减少，影响其相关业务。",
+      "relatedIndustries": [
+        "塑料制品",
+        "化工"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "地方政府可能会发行债券支持竹产业项目，但整体影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "政策利好竹制品行业，相关企业有望受益；塑料制品行业可能面临一定压力。建议关注竹制品龙头企业。",
+  "analyzedAt": "2025-12-12T02:37:17.869Z",
+  "modelVersion": "qwen-max"
+}

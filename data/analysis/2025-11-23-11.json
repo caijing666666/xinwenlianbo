@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-23-11",
+  "newsDate": "2025-11-23",
+  "newsTitle": "《联合国气候变化框架公约》第三十次缔约方大会达成应对气候变化挑战文件",
+  "newsContent": "《联合国气候变化框架公约》第三十次缔约方大会于22日在巴西贝伦闭幕，大会达成了名为《全球动员 团结协作应对气候变化挑战》的政治文件，涵盖减缓和适应气候变化、气候融资、国际合作等方面内容，将推动《巴黎协定》的继续实施。 与会人士表示中国为全球绿色发展贡献力量与会人士表示，中国为全球能源转型与绿色发展持续贡献力量。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "《全球动员 团结协作应对气候变化挑战》文件的达成，将推动全球能源转型与绿色发展，中国作为主要贡献者之一，其新能源行业有望获得更多的政策支持和市场需求。",
+      "keywords": [
+        "政策支持",
+        "市场需求",
+        "绿色发展"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "环保",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "随着全球对气候变化问题的关注度提高，环保行业的投资和发展也将得到进一步加强，包括但不限于废物处理、污染治理等领域。",
+      "keywords": [
+        "气候变化",
+        "环境保护",
+        "投资增长"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为全球领先的锂电池制造商之一，宁德时代预计将从新能源汽车市场的扩张中受益匪浅。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为太阳能光伏领域的领先企业，隆基股份可能会因为全球对于可再生能源需求的增长而看到业务量上升。",
+      "relatedIndustries": [
+        "新能源",
+        "太阳能"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "铜是许多绿色技术（如电动汽车、风力发电）的关键材料之一。随着这些领域的发展，预计铜的需求将会增加。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "此次联合国气候大会成果对中国新能源及环保产业构成利好，相关公司股价可能上涨；同时，部分原材料如铜的价格也可能因需求预期增强而走高。",
+  "analyzedAt": "2025-11-29T10:20:05.518Z",
+  "modelVersion": "qwen-max"
+}

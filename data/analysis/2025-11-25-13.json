@@ -1,0 +1,58 @@
+{
+  "newsId": "2025-11-25-13",
+  "newsDate": "2025-11-25",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "巴媒称以军继续袭击加沙地带多地据巴勒斯坦通讯社报道，以色列国防军24日继续袭击巴勒斯坦加沙地带北部加沙城、拜特拉希亚，以及南部汗尤尼斯等地，造成多人死伤。以军称，当天在加沙地带南部发现三名巴方武装人员越过停火协议约定的以军部署线，以军对其开枪并致死。以军还称，近来在加沙地带南部拉法展开行动，打击巴武装地下隧道等目标。德国11月商业景气指数环比下降德国伊弗经济研究所24日公布的数据显示，经季节调整后，德国11月商业景气指数从上月的88.4点降至88.1点，继9月出现年内首次下滑之后，该指数本月再度下行。其中，构成该商业景气指数四项指标中的三项——制造业、建筑业和贸易指标均下降。市场分析人士指出，美国加征关税、欧元走强等因素加剧德国出口压力，年底经济仍呈现停滞态势。日本九州岛发生5.3级地震据中国地震台网正式测定，北京时间今天（11月25日）17时01分在日本九州岛发生5.3级地震，震源深度20公里。日本气象厅发布的消息称，地震发生在熊本县的阿苏地区。日本媒体报道称，九州岛各地均有不同程度震感，本次地震目前没有引发海啸的风险。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "巴以冲突持续，但对中国国防军工行业直接影响有限。",
+      "keywords": [
+        "巴以冲突",
+        "国防军工"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "国际贸易",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "德国商业景气指数下降，显示出口压力增大，可能影响中国对德贸易。",
+      "keywords": [
+        "德国商业景气指数",
+        "出口压力"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [],
+  "futuresImpacts": [
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能推高避险需求，利好黄金期货。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前国际局势和经济数据未显著改变货币政策预期，国债收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 50,
+  "summary": "巴以冲突和德国商业景气指数下降对市场情绪有一定负面影响，但整体影响有限。建议关注黄金期货的避险机会。",
+  "analyzedAt": "2025-11-29T10:06:33.256Z",
+  "modelVersion": "qwen-max"
+}

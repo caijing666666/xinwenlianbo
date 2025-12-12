@@ -1,0 +1,127 @@
+{
+  "newsId": "2025-11-01-5",
+  "newsDate": "2025-11-01",
+  "newsTitle": "全国政协十四届常委会第十四次会议举行全体会议 王沪宁出席",
+  "newsContent": "政协第十四届全国委员会常务委员会第十四次会议1日上午举行全体会议，14位全国政协常委作大会发言。中共中央政治局常委、全国政协主席王沪宁出席。政协常委们在发言中表示，中共二十届四中全会是在向第二个百年奋斗目标进军的新征程上举行的一次十分重要的会议，对“十五五”时期经济社会发展作出顶层设计和战略擘画，完全赞同、坚决拥护全会作出的各项决定，要把学习好贯彻好全会精神作为重大政治任务，切实把思想和行动统一到以习近平同志为核心的中共中央各项决策部署上来，为推进中国式现代化广泛凝心聚力，共同推动宏伟蓝图变为现实。车俊常委建议，把发展新质生产力摆在更加突出的战略位置，坚持以高质量发展牵引“十五五”时期经济社会发展。王世杰常委代表民革中央发言提出，丰富优质多元服务消费供给，打造发展新动能。吴为山常委代表民盟中央发言提出，深化基础教育改革，培养德智体美劳全面发展的优秀人才。司马红常委代表民建中央发言建议，进一步发挥我国超大规模市场优势，建设全国统一大市场，为经济高质量发展注入强劲动能。陶凯元常委代表民进中央发言提出，深化文化体制机制改革，激发全民族文化创新创造活力。焦红常委代表农工党中央发言建议，推进健康中国建设，为中国式现代化筑牢健康根基。侯茂丰常委代表致公党中央发言提出，深入践行习近平生态文明思想，持续提升生态环境质量。刘政奎常委代表九三学社中央发言建议，强化创新链产业链和消费链协同，一体化布局重大科技项目。符之冠常委代表台盟中央发言建议，坚决贯彻新时代中国共产党解决台湾问题的总体方略，深化两岸各领域融合发展。刘聪常委代表全国工商联发言提出，完善中国特色现代企业制度，推进民营企业治理现代化。高鸿钧常委代表无党派人士界发言提出，打好关键核心技术攻坚战，以科技创新引领新质生产力发展。万建民常委提出，深化农业科技创新，推动乡村全面振兴，促进共同富裕。王惠贞常委建议，香港应积极与国家高质量发展目标对接，在“十五五”时期展现更大担当作为。扎西达娃常委表示，牢记领袖嘱托，努力建设团结富裕文明和谐美丽的社会主义现代化新西藏。全国政协副主席朱永新主持会议。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策支持新质生产力发展，强调高质量发展和科技创新，新能源行业将受益于政策支持。",
+      "keywords": [
+        "新质生产力",
+        "高质量发展",
+        "科技创新"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "消费",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "建议丰富优质多元服务消费供给，打造发展新动能，这将促进消费升级和相关产业发展。",
+      "keywords": [
+        "服务消费",
+        "消费升级",
+        "新动能"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "教育",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "深化基础教育改革，培养德智体美劳全面发展的优秀人才，教育行业将迎来新的发展机遇。",
+      "keywords": [
+        "基础教育",
+        "人才培养",
+        "深化改革"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "医疗健康",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "推进健康中国建设，为中国式现代化筑牢健康根基，医疗健康行业将受益于政策支持。",
+      "keywords": [
+        "健康中国",
+        "医疗健康",
+        "现代化"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "环保",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "深入践行习近平生态文明思想，持续提升生态环境质量，环保行业将受益于政策推动。",
+      "keywords": [
+        "生态文明",
+        "环境保护",
+        "绿色发展"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源政策利好电池企业，宁德时代作为行业龙头将受益。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "爱尔眼科",
+      "stockCode": "300015",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "推进健康中国建设，医疗健康行业将受益，爱尔眼科作为眼科医疗服务龙头有望受益。",
+      "relatedIndustries": [
+        "医疗健康"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "新东方",
+      "stockCode": "EDU",
+      "exchange": "NYSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "深化基础教育改革，教育行业将迎来新的发展机遇，新东方作为教育龙头企业有望受益。",
+      "relatedIndustries": [
+        "教育"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "政策强调高质量发展和稳定经济增长，货币政策预计保持稳定，对国债市场影响中性。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源、消费、教育、医疗健康等行业，相关企业和债券市场有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T13:07:10.078Z",
+  "modelVersion": "qwen-max"
+}

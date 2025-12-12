@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-21-4",
+  "newsDate": "2025-11-21",
+  "newsTitle": "【学习贯彻四中全会精神·一线见闻】社区养老暖意浓",
+  "newsContent": "“十五五”规划建议提出，要积极应对人口老龄化，优化基本养老服务供给，完善城乡养老服务网络。在江苏连云港葵花社区，随着新技术、新服务加快下沉，越来越多的老人在家门口就能享受到便捷贴心的养老服务。穿上外骨骼机器人爬楼梯，戴着手部康复机器人修复关节功能……在江苏连云港葵花社区，老年人正抢着试用这批新到的智慧康养设备。采访中记者了解到，葵花社区里，60岁以上老人超过三分之一，居家养老需求旺盛。但几年前，别说这些新设备，社区里甚至没有供他们活动的固定区域。面对全国3亿多银发族的居家养老难题，“十四五”时期，我国全面建立国家基本养老服务制度，加快构建覆盖城乡的三级养老服务体系。全国建成2990个示范性老年友好型社区和500个示范性社区居家养老服务网络，养老机构和设施达到40.6万个，224万户特殊困难老年人家庭完成适老化改造，8.6万个助餐点每天服务300多万老年人。在各项政策的支持下，葵花社区整合资源，建起了一个占地800平方米的老幼共托中心，社区食堂、康复理疗、文体活动一应俱全。社区还为高龄、残疾老人的家里配备了轮椅、护理床，安装烟雾感应器、防摔报警器等智能居家设备。眼下，智慧呼叫系统、养老机器人等新技术加快走进家庭生活，更多的专业人才投身到银发经济这片蓝海，谈到未来的养老生活，大家充满期待。",
+  "industryImpacts": [
+    {
+      "industryName": "医疗保健",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "随着人口老龄化加剧，对医疗保健服务和设备的需求将显著增加。政策支持和社区养老设施的建设将进一步推动该行业的发展。",
+      "keywords": [
+        "人口老龄化",
+        "养老服务",
+        "医疗保健"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "智能科技",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "智慧康养设备如外骨骼机器人、手部康复机器人等新技术的应用将促进智能科技行业的发展。这些技术有助于提高老年人的生活质量。",
+      "keywords": [
+        "智慧康养",
+        "机器人",
+        "智能家居"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "迈瑞医疗",
+      "stockCode": "300760",
+      "exchange": "SZSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的医疗器械制造商，迈瑞医疗将受益于养老服务需求的增长以及相关政策的支持。",
+      "relatedIndustries": [
+        "医疗保健"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+5-10%"
+    },
+    {
+      "companyName": "科大讯飞",
+      "stockCode": "002230",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "科大讯飞在人工智能领域具有较强的技术实力，其产品和服务有望在智慧康养市场中获得广泛应用。",
+      "relatedIndustries": [
+        "智能科技"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+3-5%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "随着养老服务行业的快速发展，相关企业的融资需求可能会上升，这可能会导致企业债发行量增加，并且由于政策支持，违约风险较低。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 78,
+  "summary": "人口老龄化趋势下，医疗保健与智能科技行业将迎来发展机遇，相关企业有望从中获益；同时，企业债市场也可能因融资需求增长而活跃起来。",
+  "analyzedAt": "2025-11-29T10:28:25.088Z",
+  "modelVersion": "qwen-max"
+}

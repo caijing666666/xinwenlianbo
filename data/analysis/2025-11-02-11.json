@@ -1,0 +1,119 @@
+{
+  "newsId": "2025-11-02-11",
+  "newsDate": "2025-11-02",
+  "newsTitle": "汇聚合力 共享机遇——国际人士高度评价习近平主席在亚太经合组织第三十二次领导人非正式会议期间发表的重要讲话和书面演讲",
+  "newsContent": "国际人士表示，习近平主席在亚太经合组织第三十二次领导人非正式会议期间发表的重要讲话和书面演讲，深刻把握时代发展大势，就如何共建开放型亚太经济、加强互利合作提出一系列建议主张，为亚太地区可持续发展擘画了清晰方向。国际人士表示，习近平主席的一系列倡议主张为促进亚太和世界发展繁荣注入宝贵的稳定性、确定性。中国正不断以中国式现代化新成就，为亚太和世界提供新机遇。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "习近平主席的讲话强调了可持续发展和开放型经济，这将促进新能源行业的发展。",
+      "keywords": [
+        "可持续发展",
+        "开放型经济",
+        "新能源"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "半导体",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "加强互利合作和技术交流，有利于半导体产业链的发展。",
+      "keywords": [
+        "互利合作",
+        "技术交流",
+        "半导体"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "医药",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "国际合作和开放市场有助于医药行业的创新和发展。",
+      "keywords": [
+        "国际合作",
+        "开放市场",
+        "医药"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源政策利好电池企业，宁德时代作为龙头企业有望受益。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中芯国际",
+      "stockCode": "00981",
+      "exchange": "HKEX",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "半导体行业受益于国际合作和技术交流，中芯国际作为国内领先企业有望获得增长。",
+      "relatedIndustries": [
+        "半导体",
+        "电子"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和工业需求增加，铜价有望上涨。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "经济增长预期带动能源需求，原油价格可能上涨。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "货币政策保持稳定，国债收益率预计维持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "企业债市场受宏观经济影响较小，短期内收益率预计稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源、半导体等行业，相关企业和商品期货有望受益，建议关注龙头企业。债券市场预计保持稳定。",
+  "analyzedAt": "2025-11-29T13:03:12.922Z",
+  "modelVersion": "qwen-max"
+}

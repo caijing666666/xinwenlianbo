@@ -1,0 +1,49 @@
+{
+  "newsId": "2025-11-11-0",
+  "newsDate": "2025-11-11",
+  "newsTitle": "习近平致电祝贺康诺利就任爱尔兰总统",
+  "newsContent": "2025年11月11日，国家主席习近平致电凯瑟琳·康诺利，祝贺她就任爱尔兰总统。习近平指出，中国和爱尔兰建交46年来，在互学互鉴、友好合作中携手发展，成就斐然。近年来，两国各层级交往密切，务实合作成果丰硕。我高度重视中爱关系发展，愿同康诺利总统一道努力，增进政治互信，赓续传统友好，共同支持多边主义和自由贸易，推动中爱互惠战略伙伴关系不断向前发展，更好造福两国人民。",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中爱关系的加强可能促进两国之间的贸易往来，特别是对于出口导向型企业来说，这将是一个利好消息。",
+      "keywords": [
+        "多边主义",
+        "自由贸易",
+        "友好合作"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "随着两国关系的进一步发展，预计会有更多的文化交流和旅游活动，从而带动旅游业的发展。",
+      "keywords": [
+        "友好合作",
+        "传统友好"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然中爱关系改善对经济有正面影响，但短期内对债券市场的影响有限。长期来看，如果这种合作关系能够持续推动经济增长，则可能会对债券市场产生积极影响。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "中爱关系改善主要利好于国际贸易与旅游行业，但对于整体资本市场而言影响较为温和。",
+  "analyzedAt": "2025-11-29T11:13:30.345Z",
+  "modelVersion": "qwen-max"
+}

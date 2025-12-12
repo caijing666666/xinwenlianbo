@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-12-06-4",
+  "newsDate": "2025-12-06",
+  "newsTitle": "政策服务双升级 中国入境游强劲增长",
+  "newsContent": "随着系列便利化政策落地见效，今年以来，中国入境旅游市场呈现强劲增长。外国游客不仅领略中国风光，更享受便捷消费，“中国游”与“中国购”双双火热，为旅游经济发展注入新动力。在线旅游平台数据显示，今年以来，北京、上海、成都等传统热门目的地入境游客量增幅均超90%。在“跟着电影游中国”等措施推动下，“文化体验游”“深度游”成为新热门，外国游客的足迹也深入更多中国城乡。这个冰雪季，哈尔滨、大连、长春及新疆伊宁等地成为热门入境目的地，自11月17日开园以来，中国雪乡已接待3700余名外国游客。为满足游客深度体验的需求，各地依托过境免签等便利政策，精心打造多条精品入境旅游路线。“熊猫专列”大西南环线串联川、黔、渝，让游客一次旅程尽览三星堆、千户苗寨等多重文化景观；福建推出的世遗探秘等主题线路，引领游客沉浸感受中华文化魅力。“中国游”持续火热，“中国购”也正成为来华旅游新热潮。在杭州，离境“一键退税”服务让外国游客只需用手机“碰一下”，最快两分钟即可完成退税。今年，离境退税便利化水平全面提升，“即买即退”服务在全国推广。国家税务总局统计显示，今年前9个月，办理离境退税境外旅客人数同比增长229.8%，支付、签证等全方位的便利化措施，正持续激发市场活力。",
+  "industryImpacts": [
+    {
+      "industryName": "旅游",
+      "impactScore": 90,
+      "impactType": "positive",
+      "reasoning": "入境游强劲增长，政策支持和便利化措施推动旅游业发展。",
+      "keywords": [
+        "入境游",
+        "便利化政策",
+        "文化体验游"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "industryName": "零售",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "离境退税便利化水平提升，促进外国游客消费。",
+      "keywords": [
+        "离境退税",
+        "即买即退",
+        "消费增长"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "入境游增长带动旅游相关业务收入增加。",
+      "relatedIndustries": [
+        "旅游",
+        "零售"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "携程旅行网",
+      "stockCode": "TCOM",
+      "exchange": "NASDAQ",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "在线旅游平台受益于入境游增长。",
+      "relatedIndustries": [
+        "旅游",
+        "互联网"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "旅游业和零售业的增长对整体经济有正面影响，但债券市场受货币政策影响较大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "入境游和零售业的强劲增长为相关行业带来积极影响，建议关注旅游和零售行业的龙头企业。",
+  "analyzedAt": "2025-12-06T13:24:42.573Z",
+  "modelVersion": "qwen-max"
+}

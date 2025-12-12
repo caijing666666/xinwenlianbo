@@ -1,0 +1,131 @@
+{
+  "newsId": "2025-11-08-5",
+  "newsDate": "2025-11-08",
+  "newsTitle": "《碳达峰碳中和的中国行动》白皮书发布",
+  "newsContent": "今天（11月8日），国务院新闻办公室发布《碳达峰碳中和的中国行动》白皮书。白皮书强调，作出碳达峰碳中和重大宣示五年来，中国牢固树立和践行绿水青山就是金山银山的理念，采取有力行动、付出艰苦努力，推动绿色低碳转型取得历史性成就。能源绿色低碳转型取得显著成效，非化石能源消费比重由2020年的16.0%增至2024年的19.8%，年均提高近1个百分点。化石能源清洁高效利用加快推进，十年来累计完成淘汰煤电落后产能超过1亿千瓦。重点领域低碳发展深入推进。绿色低碳产业在经济总量中的比重不断提升，中国已经建成全球最大、最完整的清洁能源产业链，绿色低碳生活方式加快形成。重点降碳路径全面落地见效。扣除原料用能和非化石能源消费量后，“十四五”前四年中国单位国内生产总值能耗累计下降11.6%。近20年来，中国为全球贡献了约四分之一的新增绿化面积。白皮书指出，中国为全球气候治理注入强大动力。目前，风电、光伏、新能源汽车等产品已出口到全球200多个国家和地区。截至2025年10月底，中国已与43个发展中国家签署55份气候变化南南合作谅解备忘录。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策支持和绿色低碳转型推动新能源行业快速发展，非化石能源消费比重持续提升。",
+      "keywords": [
+        "政策",
+        "绿色低碳",
+        "非化石能源"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "煤炭",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "淘汰煤电落后产能和减少化石能源使用将对煤炭行业产生负面影响。",
+      "keywords": [
+        "淘汰煤电",
+        "化石能源"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "汽车",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "新能源汽车出口到全球200多个国家和地区，市场需求增长预期强劲。",
+      "keywords": [
+        "新能源汽车",
+        "出口",
+        "市场需求"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源政策利好电池企业，作为行业龙头有望受益。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "隆基绿能",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "光伏产业受益于政策支持和市场需求增长。",
+      "relatedIndustries": [
+        "新能源",
+        "光伏"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国神华",
+      "stockCode": "601088",
+      "exchange": "SSE",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "煤炭行业面临淘汰落后产能的压力，公司业绩可能受到影响。",
+      "relatedIndustries": [
+        "煤炭"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然化石能源清洁高效利用推进，但短期内需求仍保持稳定。",
+      "priceDirection": "stable",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "新能源和电动汽车产业的发展将增加对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "货币政策保持稳定，碳达峰碳中和政策对国债市场影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "绿色低碳产业的融资需求增加，相关企业债发行量可能上升。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T13:22:27.044Z",
+  "modelVersion": "qwen-max"
+}

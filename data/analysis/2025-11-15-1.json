@@ -1,0 +1,113 @@
+{
+  "newsId": "2025-11-15-1",
+  "newsDate": "2025-11-15",
+  "newsTitle": "【权威访谈】推动经济持续健康发展",
+  "newsContent": "“十五五”规划《建议》，围绕推动经济高质量发展作出顶层设计和战略擘画。今天（11月15日）的《权威访谈》就建设现代化产业体系、全国统一大市场等工作进行解读。 《建议》明确把“建设现代化产业体系，巩固壮大实体经济根基”摆在战略任务的第一条，部署了优化提升传统产业等4方面重点任务，其中特别提到“着力打造新兴支柱产业”。建设强大国内市场、加快构建新发展格局。《建议》明确提出，要“坚决破除阻碍全国统一大市场建设卡点堵点”，释放我国超大规模市场潜力，增强国内大循环内生动力和可靠性。加快构建高水平社会主义市场经济体制，增强高质量发展动力。《建议》提出“坚持和完善社会主义基本经济制度，更好发挥经济体制改革牵引作用，完善宏观经济治理体系，确保高质量发展行稳致远”。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策明确支持新兴支柱产业，新能源作为重点发展领域将受益于政策扶持。",
+      "keywords": [
+        "新兴支柱产业",
+        "新能源",
+        "政策扶持"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "半导体",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "现代化产业体系建设中，半导体作为高科技产业的重要组成部分，有望获得政府更多支持。",
+      "keywords": [
+        "现代化产业体系",
+        "半导体",
+        "高科技产业"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "医药",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "随着经济高质量发展的推进，医疗健康领域也将迎来新的发展机遇。",
+      "keywords": [
+        "高质量发展",
+        "医疗健康",
+        "发展机遇"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 40,
+      "impactType": "neutral",
+      "reasoning": "虽然政策未直接提及房地产行业，但全国统一大市场的建设可能间接影响房地产市场供需关系。",
+      "keywords": [
+        "全国统一大市场",
+        "房地产",
+        "供需关系"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源政策利好电池企业，宁德时代作为行业龙头将显著受益。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "半导体行业受到政策支持，中芯国际作为国内领先的芯片制造商将迎来更多机会。",
+      "relatedIndustries": [
+        "半导体",
+        "高科技"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "随着现代化产业体系的建设和基础设施投资增加，对铜等工业金属的需求预计将上升。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "宏观经济治理体系的完善有助于稳定市场预期，短期内国债收益率预计保持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源、半导体等行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:54:40.777Z",
+  "modelVersion": "qwen-max"
+}

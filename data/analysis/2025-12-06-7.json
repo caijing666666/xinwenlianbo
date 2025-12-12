@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-12-06-7",
+  "newsDate": "2025-12-06",
+  "newsTitle": "国际人士表示高市早苗错误言论无视历史 非常危险",
+  "newsContent": "国际人士指出，日本首相高市早苗的错误言论无视历史，违背国际法和国际关系基本准则，非常危险。日本人士敦促高市撤回错误言论日本人士指出，稳定的日中关系非常重要，高市早苗应立即撤回错误言论。",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "中日关系紧张可能影响双边贸易，尤其是对日本出口依赖度较高的企业",
+      "keywords": [
+        "中日关系",
+        "贸易",
+        "出口"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "中日关系恶化可能导致赴日旅游人数减少，影响相关旅游公司业绩",
+      "keywords": [
+        "旅游",
+        "中日关系",
+        "游客"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "中日关系紧张可能影响赴日旅游业务，导致收入下降",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "东方航空",
+      "stockCode": "600115",
+      "exchange": "SSE",
+      "impactScore": 30,
+      "impactType": "negative",
+      "reasoning": "中日航线可能受到中日关系紧张的影响，导致客流量减少",
+      "relatedIndustries": [
+        "航空",
+        "旅游"
+      ],
+      "confidence": 0.5,
+      "estimatedPriceImpact": "-1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 20,
+      "impactType": "neutral",
+      "reasoning": "短期内中日关系紧张对国债市场影响有限，但需关注后续发展",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 30,
+  "summary": "中日关系紧张对国际贸易和旅游行业产生负面影响，相关上市公司股价可能承压，建议投资者谨慎对待。",
+  "analyzedAt": "2025-12-06T13:25:44.978Z",
+  "modelVersion": "qwen-max"
+}

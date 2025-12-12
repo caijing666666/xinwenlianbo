@@ -1,0 +1,109 @@
+{
+  "newsId": "2025-11-29-4",
+  "newsDate": "2025-11-29",
+  "newsTitle": "各地一批重大工程加快推进",
+  "newsContent": "近期，各地一批交通、能源等重大工程不断刷新“进度条”，为高质量发展夯实基础。北京城市副中心站综合交通枢纽工程建设取得新进展。项目初期开通运营部分近日顺利通过竣工验收，预计年内具备开通运营条件。北京城市副中心站建筑面积相当于北京西站、北京南站和北京站三座火车站之和，是亚洲最大地下综合交通枢纽，开通运营后，将进一步便捷京津冀三地往来。各地重大交通基础设施建设也加快推进。国家综合交通枢纽重要设施之一——福州长乐国际机场二期扩建工程进入全面收尾阶段。项目投用后，福州机场的年旅客吞吐量将达3600万人次。在四川达州，成达万高铁控制性节点工程——渠江特大桥日前实现主体合龙，为后续轨道施工奠定基础。成达万高铁连接四川成都、达州与重庆万州，将有力推动成渝地区双城经济圈建设。能源项目建设方面，内蒙古乌海抽水蓄能电站机电设备安装等工作已全面展开。乌海抽水蓄能电站总装机容量为120万千瓦，预计2028年首台机组投产，将促进内蒙古西部地区大规模风光绿电并网消纳。在重庆，国家“十四五”规划重点工程乌江白马航电枢纽工程进入大坝主体施工阶段。该工程以航运为主，兼顾发电，建成后，不仅每年可提供超17亿度清洁能源，还打通了渝东南和黔东北地区进入长江黄金水道的“最后一公里”。",
+  "industryImpacts": [
+    {
+      "industryName": "交通基础设施",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "各地重大交通基础设施建设加快推进，将促进相关行业的发展和投资机会。",
+      "keywords": [
+        "交通枢纽",
+        "高铁",
+        "机场扩建"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "抽水蓄能电站等能源项目的推进，将促进清洁能源的发展和应用。",
+      "keywords": [
+        "抽水蓄能",
+        "清洁能源",
+        "风光绿电"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国铁建",
+      "stockCode": "601186",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为交通基础设施建设的主要参与者，公司将受益于各地重大工程的推进。",
+      "relatedIndustries": [
+        "交通基础设施"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中国中车",
+      "stockCode": "601766",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "成达万高铁等项目的推进将增加对铁路设备的需求，利好公司业绩。",
+      "relatedIndustries": [
+        "交通基础设施"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "东方电气",
+      "stockCode": "600875",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "乌海抽水蓄能电站等能源项目的推进将增加对电力设备的需求，利好公司业绩。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "钢铁",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "交通基础设施和能源项目的推进将增加对钢铁的需求，推动价格上涨。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "交通基础设施和能源项目的推进将增加对铜的需求，推动价格上涨。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "各地重大工程的推进可能增加地方政府的融资需求，但整体影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "各地重大工程的推进将利好交通基础设施和能源行业及相关企业，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T16:12:06.566Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-02-12",
+  "newsDate": "2025-11-02",
+  "newsTitle": "俄称在红军城挫败乌方空降行动 乌称正在相关地区开展综合行动",
+  "newsContent": "俄罗斯国防部1日称，打击了保障乌克兰军工企业运转的能源设施、军用机场基础设施、远程攻击型无人机储存点等。俄军表示，过去一天在顿涅茨克红军城（即乌称波克罗夫斯克）挫败乌克兰国防部情报总局特种部队小组的空降行动，城内被围困的乌军人员已开始投降。乌克兰武装部队总司令瑟尔斯基称，尽管前线形势严峻，但波克罗夫斯克-米尔诺格勒城市群并未被俄军包围或封锁，乌军正在该地区开展综合行动。乌国防部情报总局1日称，在俄罗斯莫斯科州摧毁了为俄军提供燃料的“环线”石油制品管道。俄方对此暂无回应。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "乌克兰摧毁俄罗斯石油管道，可能影响能源供应稳定性",
+      "keywords": [
+        "能源",
+        "石油管道",
+        "供应"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "军工",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突加剧，可能增加对军事装备的需求",
+      "keywords": [
+        "军工",
+        "军事装备",
+        "需求"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "乌克兰摧毁俄罗斯石油管道，可能影响全球油价波动",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突加剧，可能增加对军事装备的需求",
+      "relatedIndustries": [
+        "军工"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "乌克兰摧毁俄罗斯石油管道，可能推高油价",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能推动避险需求",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内地缘政治风险对国债市场影响有限",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "俄乌冲突加剧可能对能源和军工行业产生不同影响，建议关注相关企业及期货商品。",
+  "analyzedAt": "2025-11-29T13:03:26.772Z",
+  "modelVersion": "qwen-max"
+}

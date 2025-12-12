@@ -1,0 +1,97 @@
+{
+  "newsId": "2025-11-25-003",
+  "newsDate": "2025-11-25",
+  "newsTitle": "稳步快跑实现全年胜 精准谋划下好先手棋—2025年宁夏回族自治区本级重点项目提前超额完成全年投资目标",
+  "newsContent": "今年以来，按照李邑飞书记“要加力政策供给保障和项目建设，用足用好已有政策、精准制定增量政策，投资于物与投资于人紧密结合、扩大消费投资，切实做好项目谋划建设工作”和张雨浦主席“各地各部门要全面深入贯彻党的二十届四中全会精神，冲刺四季度、决战60天，全面打赢攻坚战和收官战，坚决实现全年经济社会发展目标”的要求，在陈春平常务副主席的具体指导下，宁夏回族自治区发展改革委坚持以重点项目建设为扩大有效投资、优化产业结构、增强发展动能的关键抓手，深入开展“稳增长促发展攻坚年”行动，奋力打好投资消费稳定增长攻坚战，全力推动宁夏回族自治区本级重点项目建设提质增速，重点项目建设延续“质效双升、稳步快跑”的强劲态势，提前两个月超额完成全年投资任务，为当前稳增长、长远增后劲积蓄强劲动能。　　2025年，宁夏回族自治区确定实施本级重点建设项目100个，总投资3915亿元，年度计划投资680亿元。截至10月底，100个重点建设项目已全部开工，累计完成投资749亿元，年度投资完成率为110％，较去年同期投资量增加121亿元，投资完成率提高13.7个百分点。重点项目开工率与投资完成率均刷新近年纪录，完成投资占1—10月份全区固定资产投资总量（1925亿元）的39％，充分发挥了“压舱石”和“主引擎”作用。　　下一步，各地各部门要进一步强化施工组织协调，科学统筹施工安排，严控工程质量与安全底线，全力攻坚存量项目提速。同时，要提早谋划增量项目的储备，精准谋划储备2026年宁夏回族自治区本级重点建设、预备开工和前期工作项目，做好提前量，下好先手棋，打好主动仗，为明年重点项目早实施、早开工奠定坚实基础。",
+  "industryImpacts": [
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "宁夏回族自治区重点项目提前超额完成全年投资目标，表明基础设施建设行业在政策支持下表现强劲。",
+      "keywords": [
+        "基础设施",
+        "重点项目",
+        "投资"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "基础设施建设的推进将带动周边房地产市场的发展，提升房地产行业的投资吸引力。",
+      "keywords": [
+        "房地产",
+        "基础设施",
+        "发展"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国建筑",
+      "stockCode": "601668",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为基础设施建设领域的龙头企业，中国建筑有望受益于宁夏回族自治区重点项目的推进。",
+      "relatedIndustries": [
+        "基础设施建设",
+        "房地产"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "万科A",
+      "stockCode": "000002",
+      "exchange": "SZSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "基础设施建设的推进将带动周边房地产市场的发展，万科A作为房地产龙头企业有望受益。",
+      "relatedIndustries": [
+        "房地产"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "螺纹钢",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "基础设施建设的推进将增加对建筑材料的需求，尤其是螺纹钢等钢材。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "基础设施建设的推进将增加对铜等有色金属的需求。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "宁夏回族自治区重点项目提前超额完成全年投资目标，表明地方政府财政状况良好，有利于地方债的发行和偿还。",
+      "yieldDirection": "down",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "宁夏回族自治区重点项目提前超额完成全年投资目标，利好基础设施建设和房地产行业，相关企业和商品期货有望受益。",
+  "analyzedAt": "2025-12-12T02:49:12.755Z",
+  "modelVersion": "qwen-max"
+}

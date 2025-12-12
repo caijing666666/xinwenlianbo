@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-13-3",
+  "newsDate": "2025-11-13",
+  "newsTitle": "李强将出席上海合作组织成员国政府首脑（总理）理事会第二十四次会议、二十国集团领导人第二十次峰会并对赞比亚进行正式访问",
+  "newsContent": "应俄罗斯联邦总理米舒斯京邀请，国务院总理李强将于11月17日至18日出席在俄罗斯莫斯科举行的上海合作组织成员国政府首脑（总理）理事会第二十四次会议。应赞比亚共和国政府邀请，国务院总理李强将于11月19日至20日对赞比亚进行正式访问。应南非共和国政府邀请，国务院总理李强将于11月21日至23日出席在南非约翰内斯堡举行的二十国集团领导人第二十次峰会。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "国际合作可能带来新的技术和市场机会，特别是在绿色能源领域。",
+      "keywords": [
+        "国际合作",
+        "绿色能源",
+        "技术交流"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "与赞比亚的访问可能会促进中国企业在非洲的基础设施项目投资。",
+      "keywords": [
+        "基础设施",
+        "非洲投资",
+        "一带一路"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为全球领先的电池制造商，有望从国际新能源合作中获益。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国中铁",
+      "stockCode": "601390",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "可能受益于对赞比亚等国家的基础设施建设项目。",
+      "relatedIndustries": [
+        "基础设施建设",
+        "工程"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和新能源项目的发展将增加对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "李强总理的出访活动预计会为中国在新能源和基础设施建设领域的公司带来积极影响，相关商品期货如铜的价格也可能上涨。",
+  "analyzedAt": "2025-11-29T11:05:47.730Z",
+  "modelVersion": "qwen-max"
+}

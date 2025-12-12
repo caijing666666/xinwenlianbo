@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-12-04-001",
+  "newsDate": "2025-12-04",
+  "newsTitle": "近镜头丨“新甲子”开局，习主席这样引领中法关系",
+  "newsContent": "12月4日上午，国家主席习近平在北京人民大会堂同来华进行国事访问的法国总统马克龙举行会谈。这是马克龙总统第四次对中国进行国事访问，也是对习近平主席在去年中法建交60周年之际对法国进行历史性国事访问的回访。　　从长时间深入会谈到共同见证签署多项合作文件，从共同会见中外记者到共同出席中法企业家委员会第七次会议闭幕式……元首外交战略引领，让中法全面战略伙伴关系在“新甲子”走得更稳更好。 　　策划：张晓松　　统筹：杨依军、邱红杰、饶力文　　编导：杨牧、赵博　　记者：冯歆然、蒋志强、张文、董雪　　视觉：朱思明、包昱涵　　新华社国内部制作　　新华社第一工作室出品 【纠错】    【责任编辑:冯粒】    阅读下一篇：",
+  "industryImpacts": [
+    {
+      "industryName": "航空",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中法关系的加强可能促进两国之间的旅游和商务往来，增加航班需求。",
+      "keywords": [
+        "旅游",
+        "商务",
+        "航班"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "贸易",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中法合作文件的签署可能会推动双边贸易增长，利好相关贸易企业。",
+      "keywords": [
+        "贸易",
+        "合作",
+        "增长"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中法关系加强可能增加国际航线的需求，提升公司业绩。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "东方航空",
+      "stockCode": "600115",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中法关系加强可能增加国际航线的需求，提升公司业绩。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "中法关系的加强对货币政策影响较小，国债收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中法关系加强利好航空和贸易行业，相关上市公司有望受益，建议关注航空股。",
+  "analyzedAt": "2025-12-12T02:28:48.474Z",
+  "modelVersion": "qwen-max"
+}

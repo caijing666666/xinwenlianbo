@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-18-4",
+  "newsDate": "2025-11-18",
+  "newsTitle": "王沪宁会见德国社民党代表团",
+  "newsContent": "中共中央政治局常委、全国政协主席王沪宁18日在京会见德国社会民主党联合主席、联邦副总理兼财政部长克林拜尔率领的代表团。王沪宁表示，今年5月，习近平主席同默茨总理通电话，就深化中德交流合作达成重要共识。健康稳定的中德关系符合两国利益，也符合中欧各界期待。中方愿同德方一道，推动中德全方位战略伙伴关系向更高水平迈进，促进中欧关系发展。中国全国政协愿为此作出积极贡献。克林拜尔表示，中国是德国重要伙伴，两国对世界的未来都负有重要责任。德方坚持一个中国政策，愿同中方共同落实好两国领导人达成的重要共识，促进各领域务实合作。德国社民党愿同中国共产党加强战略对话，增进相互理解。王东峰等参加会见。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中德合作有望推动新能源技术交流和市场拓展，利好新能源行业发展。",
+      "keywords": [
+        "中德合作",
+        "新能源技术",
+        "市场拓展"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "汽车",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中德在汽车领域的合作可能进一步加强，特别是在电动汽车领域，有利于中国汽车企业的发展。",
+      "keywords": [
+        "中德合作",
+        "电动汽车",
+        "市场拓展"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为全球领先的动力电池制造商，宁德时代有望受益于中德在新能源汽车领域的合作。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "比亚迪",
+      "stockCode": "002594",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "比亚迪在新能源汽车领域具有较强竞争力，中德合作可能为其带来更多的市场机会。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "中德关系的稳定对国债市场影响较小，预计收益率保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中德高层会晤表明两国关系稳定，新能源和汽车行业有望受益，建议关注相关龙头企业。",
+  "analyzedAt": "2025-11-29T10:42:17.839Z",
+  "modelVersion": "qwen-max"
+}

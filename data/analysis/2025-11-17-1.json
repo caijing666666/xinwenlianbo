@@ -1,0 +1,85 @@
+{
+  "newsId": "2025-11-17-1",
+  "newsDate": "2025-11-17",
+  "newsTitle": "李强赴莫斯科出席上海合作组织成员国政府首脑（总理）理事会第二十四次会议",
+  "newsContent": "11月17日上午，应俄罗斯总理米舒斯京邀请，国务院总理李强乘包机离开北京，赴俄罗斯出席上海合作组织成员国政府首脑（总理）理事会第二十四次会议。当地时间11月17日中午，李强乘包机抵达莫斯科伏努科沃机场。俄罗斯政府代表和中国驻俄罗斯大使张汉晖到机场迎接。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中俄合作可能促进能源贸易，尤其是天然气和石油领域",
+      "keywords": [
+        "能源",
+        "天然气",
+        "石油"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "上合组织成员国间的合作可能推动跨境基础设施项目",
+      "keywords": [
+        "基础设施",
+        "一带一路"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中俄能源合作预期增加，有利于公司业务扩展",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国铁建",
+      "stockCode": "601186",
+      "exchange": "SSE",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "潜在的基础设施建设项目将为公司带来新的增长点",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中俄能源合作预期增强，可能推高原油需求",
+      "priceDirection": "up",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "基础设施建设项目的推进可能会增加对铜的需求",
+      "priceDirection": "up",
+      "confidence": 0.6
+    }
+  ],
+  "bondImpacts": [],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 65,
+  "summary": "中俄及上合组织成员国间加强合作，特别是能源与基建领域，相关企业及商品期货存在投资机会。",
+  "analyzedAt": "2025-11-29T10:45:47.889Z",
+  "modelVersion": "qwen-max"
+}

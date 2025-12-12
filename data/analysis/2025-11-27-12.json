@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-11-27-12",
+  "newsDate": "2025-11-27",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "美国民警卫队在白宫附近遭袭 2人受伤据美国媒体26日报道，美国两名国民警卫队队员26日在位于首都华盛顿的白宫附近遭到枪击，伤势严重。华盛顿特区警方表示，嫌疑人是一名29岁的阿富汗公民，已被逮捕，目前案件正作为恐怖袭击被调查。美国国防部称，美国总统特朗普已下令向华盛顿特区增派500名国民警卫队队员。美联储报告称美制造业零售业持续承压美国联邦储备委员会26日发布的全国经济形势调查报告显示，根据10月上旬到11月中旬收集的信息，受联邦政府“停摆”影响，美国消费支出整体进一步下滑，低收入家庭受影响最为显著。报告还指出，由于物价上涨，制造业和零售业普遍面临成本上涨压力，加征关税为主要推手。欧洲央行称欧元区金融稳定脆弱性处高位欧洲中央银行26日发布的最新一期金融稳定评估报告指出，由于贸易协议的不确定性及关税对经济金融的长期影响，欧元区金融稳定的脆弱性仍处于高位。报告说，衡量贸易政策不确定性的指标已较4月高点显著回落，但不确定性依然存在。",
+  "industryImpacts": [
+    {
+      "industryName": "消费",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "美国消费支出整体进一步下滑，低收入家庭受影响最为显著，这可能对依赖美国市场的中国消费品企业产生负面影响。",
+      "keywords": [
+        "消费支出",
+        "下滑",
+        "低收入家庭"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "制造业",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "由于物价上涨和加征关税的影响，美国制造业面临成本上涨压力，这可能对中国出口导向型制造企业造成不利影响。",
+      "keywords": [
+        "制造业",
+        "成本上涨",
+        "关税"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "美的集团",
+      "stockCode": "000333",
+      "exchange": "SZSE",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "作为家电制造企业，美的集团在美国市场有较大份额，受美国消费支出下滑及成本上涨影响，其业绩可能承压。",
+      "relatedIndustries": [
+        "消费",
+        "制造业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "格力电器",
+      "stockCode": "000651",
+      "exchange": "SZSE",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "同样作为家电制造企业，格力电器在美国市场也有一定份额，受美国消费支出下滑及成本上涨影响，其业绩可能承压。",
+      "relatedIndustries": [
+        "消费",
+        "制造业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "恐怖袭击事件和美国经济不确定性增加，避险情绪上升，黄金价格可能上涨。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "尽管美国经济存在不确定性，但中国货币政策保持稳定，国债收益率预计维持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 50,
+  "summary": "美国消费支出下滑和制造业成本上涨对中国相关行业和公司产生负面影响，但黄金等避险资产可能受益。",
+  "analyzedAt": "2025-11-29T09:57:05.605Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-11-11-13",
+  "newsDate": "2025-11-11",
+  "newsTitle": "国际人士表示包容开放充满活力的中国为世界提供广阔机遇",
+  "newsContent": "国际人士积极评价中国进博会，表示包容开放、充满生机活力的中国，为世界提供了广阔的发展机遇。国际人士指出，中国坚定不移推进高水平对外开放，与世界共享发展机遇，为世界经济稳定增长注入更多正能量。",
+  "industryImpacts": [
+    {
+      "industryName": "消费",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "进博会展示了中国市场的开放和活力，有利于促进国内外消费品牌在中国市场的发展。",
+      "keywords": [
+        "进博会",
+        "开放",
+        "消费"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "进出口贸易",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "高水平对外开放政策将吸引更多外资进入中国市场，同时也有利于中国企业拓展海外市场。",
+      "keywords": [
+        "对外开放",
+        "贸易"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "阿里巴巴",
+      "stockCode": "BABA",
+      "exchange": "NYSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为电商平台巨头，阿里巴巴有望从中国进一步开放市场中受益。",
+      "relatedIndustries": [
+        "消费",
+        "电子商务"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "美的集团",
+      "stockCode": "000333",
+      "exchange": "SZSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "家电行业领导者之一，随着中国市场的持续开放，其产品可能更易进入国际市场。",
+      "relatedIndustries": [
+        "消费",
+        "家电"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然经济环境向好对债券市场有一定正面影响，但短期内货币政策预计保持稳定，因此对国债收益率的影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "进博会及中国坚持开放政策为消费、进出口贸易等行业带来积极信号，相关企业股价或有上涨空间。",
+  "analyzedAt": "2025-11-29T11:18:06.975Z",
+  "modelVersion": "qwen-max"
+}

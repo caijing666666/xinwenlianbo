@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-12-05-6",
+  "newsDate": "2025-12-05",
+  "newsTitle": "前十个月我国服务贸易稳步增长",
+  "newsContent": "今年以来，我国服务贸易稳步增长，知识密集型服务贸易和旅行服务贸易保持较快增长，国际竞争力持续提升。商务部数据显示，今年前十个月，我国服务进出口总额65844.3亿元人民币，同比增长7.5%。其中，出口29090.3亿元，增长14.3%。知识密集型服务贸易保持增长。1—10月，知识密集型服务进出口25121.5亿元，增长6.4%。其中，电信计算机和信息服务等保持较快增长。知识密集型服务顺差4254.3亿元，比上年同期扩大1036亿元。此外，在传统服务贸易中，旅行服务表现亮眼。随着我国不断扩大免签“朋友圈”、延长过境免签时间至240小时，推广购物离境退税“即买即退”等便利化措施，吸引更多外国游客来华旅游、商贸，直接带动旅行服务出口快速增长。",
+  "industryImpacts": [
+    {
+      "industryName": "旅游",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "随着免签政策的扩大和过境免签时间的延长，外国游客来华旅游、商贸增加，直接带动旅行服务出口快速增长。",
+      "keywords": [
+        "免签",
+        "过境免签",
+        "旅行服务"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "电信计算机和信息服务",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "知识密集型服务贸易保持增长，其中电信计算机和信息服务等保持较快增长。",
+      "keywords": [
+        "知识密集型服务",
+        "电信计算机",
+        "信息服务"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的旅游企业，受益于旅行服务出口的快速增长。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中国联通",
+      "stockCode": "600050",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为电信运营商之一，受益于电信计算机和信息服务的增长。",
+      "relatedIndustries": [
+        "电信计算机和信息服务"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "服务贸易的增长对国债市场影响较小，货币政策保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "服务贸易稳步增长，特别是旅行服务和电信计算机信息服务表现亮眼，相关行业和公司有望受益。",
+  "analyzedAt": "2025-12-05T13:32:50.422Z",
+  "modelVersion": "qwen-max"
+}

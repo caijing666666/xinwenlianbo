@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-11-18-10",
+  "newsDate": "2025-11-18",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "到2030年国有林场单位面积森林蓄积量将提高约5%国家发展改革委等部门近日发布《关于加快建设现代化国有林场的意见》，提出力争到2030年，国有林场管理体制进一步完善，单位面积森林蓄积量提高约5%，初步建成资源质量优良、生态功能稳定、产业发展充分的现代化国有林场体系。我国首个采用冷却塔的“华龙一号”核电站开建今天（11月18日），我国首个采用冷却塔的“华龙一号”核电站在山东招远开工建设。该项目通过采用高位收水自然通风冷却塔，将核电站的直接冷源由海水变为大气。项目规划建设6台“华龙一号”核电机组，全部建成后能够满足500万人口的生产生活年度用电需求。国产商用飞机亮相迪拜航展当地时间11月17日，2025迪拜航展在阿联酋迪拜阿勒马克图姆国际机场拉开帷幕。我国2架C919飞机和1架C909公务机亮相，参加航展现场的静态展示和飞行表演。内蒙古阿拉善盟冬季骆驼转场开启内蒙古阿拉善盟进入骆驼转场季，巴丹吉林沙漠、乌兰布和沙漠周边牧民归拢2000余峰夏季放养的骆驼向冬季养殖基地转场，此次转场行程最远200公里。",
+  "industryImpacts": [
+    {
+      "industryName": "林业",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "国家政策支持国有林场现代化建设，提高森林蓄积量，有利于林业资源的可持续发展。",
+      "keywords": [
+        "国有林场",
+        "森林蓄积量",
+        "现代化"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "核电",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "首个采用冷却塔的“华龙一号”核电站开建，标志着中国核电技术的进步和市场扩展。",
+      "keywords": [
+        "华龙一号",
+        "核电站",
+        "冷却塔"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "航空",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "国产商用飞机C919和C909亮相迪拜航展，展示了中国在航空制造业的技术实力和国际市场竞争力。",
+      "keywords": [
+        "C919",
+        "C909",
+        "迪拜航展"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国广核集团",
+      "stockCode": "003816",
+      "exchange": "SZSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为国内主要的核电企业之一，新核电项目的启动将直接利好其业务发展。",
+      "relatedIndustries": [
+        "核电"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国商飞",
+      "stockCode": "",
+      "exchange": "",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "虽然中国商飞未上市，但其产品C919和C909的成功展示有助于提升品牌形象和技术认可度。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": ""
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前新闻内容对债券市场直接影响有限，货币政策预期保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "政策支持林业、核电及航空业的发展，相关行业和公司有望受益。建议关注核电和航空领域的龙头企业。",
+  "analyzedAt": "2025-11-29T10:43:58.783Z",
+  "modelVersion": "qwen-max"
+}

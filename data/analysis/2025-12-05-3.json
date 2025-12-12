@@ -1,0 +1,98 @@
+{
+  "newsId": "2025-12-05-3",
+  "newsDate": "2025-12-05",
+  "newsTitle": "李强将与全球主要国际经济组织负责人举行“1+10”对话会",
+  "newsContent": "国务院总理李强将于12月9日上午在北京同新开发银行行长罗塞芙、世界银行行长彭安杰、国际货币基金组织总裁格奥尔基耶娃、世界贸易组织总干事伊维拉、联合国贸易和发展会议秘书长格林斯潘、国际劳工组织总干事洪博、国际清算银行总经理德科斯、金融稳定理事会主席贝利、亚洲基础设施投资银行行长金立群和经济合作与发展组织副秘书长鲁日奇卡等国际经济组织负责人举行“1+10”对话会。对话会主题为“共商全球治理，共谋全球发展”。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "对话会可能涉及全球绿色能源合作，推动新能源技术的发展和应用。",
+      "keywords": [
+        "绿色能源",
+        "国际合作",
+        "政策支持"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "与国际经济组织的对话可能会促进基础设施投资，特别是“一带一路”相关项目。",
+      "keywords": [
+        "基础设施",
+        "一带一路",
+        "投资"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池龙头企业，有望受益于全球绿色能源合作。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中国建筑",
+      "stockCode": "601668",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为基础设施建设的主要企业，可能受益于国际合作带来的新项目机会。",
+      "relatedIndustries": [
+        "基础设施建设",
+        "房地产"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和新能源发展将增加对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "钢铁",
+      "exchange": "大商所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "基础设施建设需求增加，可能推高钢铁价格。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "短期内货币政策预计保持稳定，但长期来看，国际合作可能带来经济增长，影响收益率。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源和基础设施建设行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-05T13:31:42.364Z",
+  "modelVersion": "qwen-max"
+}

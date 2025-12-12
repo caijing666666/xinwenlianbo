@@ -1,0 +1,76 @@
+{
+  "newsId": "2025-12-02-5",
+  "newsDate": "2025-12-02",
+  "newsTitle": "我国卫生资源总量持续稳步增长 服务效率同步提升",
+  "newsContent": "国家卫生健康委今天（12月2日）发布《2024年我国卫生健康事业发展统计公报》。《公报》显示，我国人民健康水平持续提升，医疗服务提供量和效率同步提升。《公报》显示，我国人均预期寿命达到79岁。卫生资源总量持续稳步增长，到2024年末，全国医疗卫生机构总数1093551个，比上年增加22766个；卫生技术人员1302.0万人，比上年增加53.1万人。2024年，全国医疗卫生机构总诊疗人次101.5亿，比上年增加6.0亿人次。一、二级医院和基层医疗卫生机构诊疗人次为67.6亿人次，占总诊疗人次的66.6%。医院次均住院费用、次均门诊费用，按当年价格比上年均有所下降。2024年全国卫生总费用初步核算为90895.5亿元，占GDP的比重为6.7%。2024年，在基层医疗卫生机构接受健康管理的65岁及以上老年人数14136.0万。我国加强重大疾病与健康危害因素控制，地方病、慢性病、职业病防治工作等取得积极进展。",
+  "industryImpacts": [
+    {
+      "industryName": "医药",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "卫生资源总量持续增长，医疗服务提供量和效率提升，人均预期寿命增加，这些因素将推动医药行业的发展。",
+      "keywords": [
+        "卫生资源",
+        "医疗服务",
+        "人均预期寿命"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "医疗设备",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "随着医疗卫生机构数量的增加，对医疗设备的需求也将相应增加。",
+      "keywords": [
+        "医疗卫生机构",
+        "医疗设备需求"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "恒瑞医药",
+      "stockCode": "600276",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的医药企业，恒瑞医药有望受益于医疗服务需求的增长。",
+      "relatedIndustries": [
+        "医药"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "迈瑞医疗",
+      "stockCode": "300760",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的医疗设备制造商，迈瑞医疗将受益于医疗设备需求的增长。",
+      "relatedIndustries": [
+        "医疗设备"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然卫生事业发展良好，但整体经济环境和货币政策未见明显变化，国债收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "卫生资源和服务效率的提升利好医药和医疗设备行业，相关龙头企业有望受益。债券市场影响较小，国债收益率预计保持稳定。",
+  "analyzedAt": "2025-12-03T07:00:31.085Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,114 @@
+{
+  "newsId": "2025-11-27-8",
+  "newsDate": "2025-11-27",
+  "newsTitle": "我国将加大力度增强消费品供需适配性",
+  "newsContent": "今天（11月27日），国务院新闻办公室举行政策例行吹风会，工业和信息化部、国家发展改革委等五部门负责人，介绍了日前发布的《关于增强消费品供需适配性进一步促进消费的实施方案》（以下简称《方案》）有关情况。相关负责人介绍，此次出台的《方案》，共部署五方面19项重点任务，通过加速新技术新模式创新应用拓展增量、扩大特色和新型产品供给深挖存量、精准匹配不同人群需求细分市场等措施，从供需两侧协同发力，提升供给体系对需求结构的适配性。目前，我国消费品品种总量已达到2.3亿种，已进入优质优价新发展阶段。下一步，将围绕居民养老育幼、文旅和智能消费等品质化、个性化需求，进一步提高供给能力、促进消费，力争到2027年，形成3个万亿级消费领域和10个千亿级消费热点。",
+  "industryImpacts": [
+    {
+      "industryName": "消费",
+      "impactScore": 90,
+      "impactType": "positive",
+      "reasoning": "政策旨在提升消费品供需适配性，促进消费增长，利好整个消费行业。",
+      "keywords": [
+        "消费品",
+        "供需适配",
+        "消费增长"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "industryName": "养老育幼",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策特别提到要围绕居民养老育幼需求提高供给能力，相关企业将受益。",
+      "keywords": [
+        "养老",
+        "育幼",
+        "供给能力"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "文旅",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "政策支持文旅消费，预计会带动旅游、酒店等相关行业的复苏和发展。",
+      "keywords": [
+        "文旅",
+        "消费",
+        "复苏"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "智能消费",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "政策鼓励智能消费，推动新技术新模式创新应用，利好智能家居、智能穿戴等细分领域。",
+      "keywords": [
+        "智能消费",
+        "新技术",
+        "新模式"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "伊利股份",
+      "stockCode": "600887",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为乳制品龙头企业，有望受益于消费增长和供需适配政策。",
+      "relatedIndustries": [
+        "消费"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "政策支持文旅消费，公司作为旅游行业龙头，预计将从中受益。",
+      "relatedIndustries": [
+        "文旅"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "科大讯飞",
+      "stockCode": "002230",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "公司在智能消费领域有较强的技术积累，政策支持智能消费将带来新的增长点。",
+      "relatedIndustries": [
+        "智能消费"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "政策主要针对消费市场，对债券市场影响较小，预计国债收益率保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好消费及相关行业，特别是养老育幼、文旅和智能消费领域。建议关注相关龙头企业。",
+  "analyzedAt": "2025-11-29T09:55:02.806Z",
+  "modelVersion": "qwen-max"
+}

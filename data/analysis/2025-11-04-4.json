@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-11-04-4",
+  "newsDate": "2025-11-04",
+  "newsTitle": "李强会见格鲁吉亚总理",
+  "newsContent": "4日，国务院总理李强在上海会见来华出席第八届中国国际进口博览会的格鲁吉亚总理科巴希泽。李强表示，中格建交33年来，始终相互尊重、相互理解，坚定支持彼此核心利益和重大关切。中国愿同格方加强战略沟通，以高质量共建“一带一路”为引领，深化经贸、人文等领域交流合作，更好造福两国人民。中格同为全球南方国家，应当团结广大发展中国家一道，捍卫全球经贸秩序和国际公平正义。科巴希泽表示，格方恪守一个中国原则，支持习近平主席提出的四大全球倡议，愿同中方在共建“一带一路”倡议框架内，拓展经贸、人文领域合作，加强多边协作。会见后，两国总理共同见证签署多项双边合作文件。",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中格两国加强经贸合作，将促进双边贸易增长。",
+      "keywords": [
+        "一带一路",
+        "经贸合作",
+        "进出口"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "高质量共建“一带一路”将推动基础设施项目的发展。",
+      "keywords": [
+        "一带一路",
+        "基础设施",
+        "建设项目"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国交建",
+      "stockCode": "601800",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为基础设施建设领域的龙头企业，有望受益于“一带一路”项目的推进。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国铁建",
+      "stockCode": "601186",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "公司在海外基础设施建设方面有丰富的经验，可能从新的合作机会中获益。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "基础设施建设需求增加可能会推高对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前新闻主要影响的是特定行业和公司，对整体债券市场的影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中格深化合作利好国际贸易与基建行业，相关企业及商品期货预期表现良好。",
+  "analyzedAt": "2025-11-29T12:48:20.853Z",
+  "modelVersion": "qwen-max"
+}

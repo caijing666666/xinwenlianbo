@@ -1,0 +1,65 @@
+{
+  "newsId": "2025-11-02-7",
+  "newsDate": "2025-11-02",
+  "newsTitle": "我国粮食主产区抢抓农时推进秋冬种",
+  "newsContent": "当前，我国粮食主产区正抢抓农时，分类施策推进秋冬种。农业农村部最新农情调度显示，秋冬种主要作物冬小麦播种已过三成，黄淮海主产区播种进度加快。河北省农业农村厅派出9个秋冬种指导组，联合全省6万多名农技人员开展精准服务。目前，冬小麦播种进入尾声。山东正抢抓播种关键窗口期，开展秸秆还田、耕翻整地，推行抗湿晚播应变关键技术，目前已播冬小麦1200多万亩。安徽组织16个省级工作组下沉一线，推动政策措施和关键技术落实，眼下北部地区冬小麦播种已陆续大面积启动。当前，黄淮海部分小麦产区面临土壤偏湿、整地难度加大、播期拉长等挑战，农业农村部已启动实施奋战60天“抗秋汛、抢麦播、促壮苗”行动，针对性应对黄淮海连阴雨影响。",
+  "industryImpacts": [
+    {
+      "industryName": "农业",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "秋冬种推进顺利，有利于保障粮食供应和稳定市场价格，对农业企业形成利好。",
+      "keywords": [
+        "秋冬种",
+        "黄淮海主产区",
+        "冬小麦播种"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "北大荒",
+      "stockCode": "600598",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内大型农业企业之一，秋冬种的顺利推进将有助于其业绩提升。",
+      "relatedIndustries": [
+        "农业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "苏垦农发",
+      "stockCode": "601952",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "公司主要业务包括农作物种植与销售，秋冬种进展良好对其有利。",
+      "relatedIndustries": [
+        "农业"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "小麦",
+      "exchange": "郑商所",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "虽然秋冬种进展顺利，但短期内市场供需关系变化不大，预计价格波动有限。",
+      "priceDirection": "stable",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "秋冬种进展顺利对农业行业及部分相关企业构成利好，但整体市场情绪保持中性。",
+  "analyzedAt": "2025-11-29T13:01:12.948Z",
+  "modelVersion": "qwen-max"
+}

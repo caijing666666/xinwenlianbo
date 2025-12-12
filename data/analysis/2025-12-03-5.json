@@ -1,0 +1,97 @@
+{
+  "newsId": "2025-12-03-5",
+  "newsDate": "2025-12-03",
+  "newsTitle": "【学习贯彻四中全会精神在基层】新疆：全面推进林果产业提质增效 云南：做优做强特色产业 助力乡村振兴",
+  "newsContent": "党的二十届四中全会提出，加快农业农村现代化，扎实推进乡村全面振兴。新疆、云南立足自身资源禀赋，以特色产业为抓手，促进产业升级、百姓增收。新疆：全面推进林果产业提质增效 眼下，新疆的核桃产业迎来交易生产高峰期。在和田，今年这里的核桃种植面积约150多万亩，产量25万余吨。当地通过“公司+合作社+农户”“公司+农民经纪人+农户”等一体化经营模式，推动核桃精深加工，不断延伸产业链条，实现了核桃产量、价格、交易量均较去年增长10%以上。培育壮大乡村特色产业。“十四五”期间，新疆林果产业共带动约550万果农持续增收，主产区的果农林果收入占总收入的30%以上。贯彻落实四中全会精神，下一步，新疆将围绕优化产业布局、新品种发展、龙头培育、品牌创建等，不断提升新疆林果的品牌影响力和市场竞争力。云南：做优做强特色产业 助力乡村振兴云南怒江草果种植面积达110多万亩，这段时间正是草果的成熟高峰，也是集中采摘、上市的最佳时期。这几天，在怒江泸水市草果精深加工产业园里，新鲜草果经过清洗、烘干、萃取等工序，被加工成草果食品、饮品、日用化工等7类产品，和卖鲜果相比，附加值提升5至8倍。“十四五”以来，云南大力发展花卉、咖啡等特色产业，农民人均可支配收入年均增长8%，农产品出口额达191.7亿元。贯彻落实四中全会精神，接下来，云南将扎实推进农产品加工业发展，通过建立完善联农带农机制、推动乡村旅居业加快发展等，不断激发群众内生动力，促进农民稳定增收。",
+  "industryImpacts": [
+    {
+      "industryName": "农业",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "政策支持农业农村现代化，推动林果产业和特色产业提质增效，有助于提升行业整体竞争力。",
+      "keywords": [
+        "农业农村现代化",
+        "林果产业",
+        "特色产业"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "食品加工",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "农产品深加工产业链的延伸将带动食品加工业的发展，提高附加值。",
+      "keywords": [
+        "农产品深加工",
+        "附加值"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "新疆天业",
+      "stockCode": "600075",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为新疆地区的农业龙头企业，有望受益于林果产业的提质增效。",
+      "relatedIndustries": [
+        "农业",
+        "食品加工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "云南白药",
+      "stockCode": "000538",
+      "exchange": "SZSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "公司涉及草果等中药材的种植与加工，有望受益于云南特色产业的发展。",
+      "relatedIndustries": [
+        "医药",
+        "食品加工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "核桃",
+      "exchange": "郑商所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "新疆核桃产量、价格和交易量均增长，预计期货市场价格将有所上涨。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "草果",
+      "exchange": "郑商所",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "云南草果种植面积扩大，深加工产品附加值提升，预计期货市场价格将有所上涨。",
+      "priceDirection": "up",
+      "confidence": 0.65
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "政策支持乡村振兴，但短期内对地方债市场影响有限，收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "政策利好农业和食品加工行业，相关企业和农产品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-04T06:32:20.723Z",
+  "modelVersion": "qwen-max"
+}

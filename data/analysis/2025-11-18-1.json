@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-11-18-1",
+  "newsDate": "2025-11-18",
+  "newsTitle": "【央视快评】合力开创法治中国建设新局面",
+  "newsContent": "本台今天（11月18日）播发央视快评《合力开创法治中国建设新局面》。",
+  "industryImpacts": [
+    {
+      "industryName": "法律服务",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "法治中国建设将促进法律服务行业的发展，提高对法律服务的需求。",
+      "keywords": [
+        "法治",
+        "法律服务",
+        "需求增长"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "金融科技",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "加强法治环境有助于提升金融市场的透明度和规范性，有利于金融科技企业的发展。",
+      "keywords": [
+        "法治",
+        "金融科技",
+        "市场透明度"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "华泰证券",
+      "stockCode": "601688",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "作为金融服务提供商，受益于法治环境的改善，业务合规性和客户信任度有望提升。",
+      "relatedIndustries": [
+        "金融服务"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "科大讯飞",
+      "stockCode": "002230",
+      "exchange": "SZSE",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "其在智能司法领域的布局可能因法治建设而获得更多应用场景和发展机会。",
+      "relatedIndustries": [
+        "人工智能",
+        "软件开发"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然法治建设长期来看有利于经济稳定，但短期内对国债收益率影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "法治中国建设主要利好法律服务及部分金融科技公司，整体市场情绪保持中立。",
+  "analyzedAt": "2025-11-29T10:40:58.370Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,99 @@
+{
+  "newsId": "2025-11-03-8",
+  "newsDate": "2025-11-03",
+  "newsTitle": "【学习贯彻党的二十届四中全会精神】中央宣讲团在各地各部门宣讲党的二十届四中全会精神",
+  "newsContent": "学习贯彻党的二十届四中全会精神中央宣讲团成员在各地各部门宣讲，推动全会精神学习走深走实。中央宣讲团成员、中共中央政治局委员、中央军委副主席张又侠今天（11月3日）在军委机关作党的二十届四中全会精神宣讲报告。张又侠紧扣宣讲主题，结合军队实际，对全会精神作了系统阐释和深入解读，强调要统筹推进重点任务，在加快先进战斗力建设、推进军事治理现代化、巩固提高一体化国家战略体系和能力等方面务求重大突破。 中央宣讲团成员、中共中央政治局委员、国务院副总理张国清今天在应急管理部宣讲。张国清从深刻认识全会召开的重大意义，准确把握“十五五”时期重要地位，坚持和加强党的全面领导等方面，对全会精神作了全面宣讲和深入阐释。他表示，应急管理系统要把学习贯彻全会精神作为重大政治任务，抓好提高防灾减灾救灾能力等各项部署落实。中央宣讲团成员、中共中央政治局委员、中央政法委书记陈文清今天在中央政法委作宣讲报告。陈文清围绕学习领会习近平总书记在全会上的重要讲话和《建议》精神作深入阐释，强调政法机关要深刻领悟“两个确立”的决定性意义，坚决做到“两个维护”，聚焦全会提出的目标任务，奋力建设更高水平平安中国、法治中国。中央宣讲团成员、中央政策研究室主任江金权今天在山西太原作宣讲报告。江金权围绕“十四五”时期我国发展取得的重大成就、深刻领会“十五五”时期经济社会发展的指导方针和主要目标等六个方面，对全会精神进行全面宣讲和深入阐释。江金权还深入社区、企业、学校，与社区居民、企业职工和高校师生交流互动。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中央宣讲团强调加快先进战斗力建设和推进军事治理现代化，这将推动国防军工行业的发展。",
+      "keywords": [
+        "先进战斗力",
+        "军事治理现代化"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "应急管理",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "张国清副总理强调提高防灾减灾救灾能力，应急管理系统将得到更多政策支持和发展机会。",
+      "keywords": [
+        "防灾减灾救灾",
+        "应急管理系统"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "政法系统",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "陈文清书记强调建设更高水平平安中国、法治中国，政法系统相关企业有望受益。",
+      "keywords": [
+        "平安中国",
+        "法治中国"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为国防军工行业的龙头企业，中航沈飞将受益于加快先进战斗力建设的政策。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中国应急",
+      "stockCode": "300527",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为应急管理系统的代表企业，中国应急将受益于提高防灾减灾救灾能力的政策。",
+      "relatedIndustries": [
+        "应急管理"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "华宇软件",
+      "stockCode": "300271",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为政法系统信息化建设的重要企业，华宇软件将受益于建设更高水平平安中国、法治中国的政策。",
+      "relatedIndustries": [
+        "政法系统"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前政策重点在于行业发展，货币政策保持稳定，对国债市场影响不大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好国防军工、应急管理及政法系统等行业，相关企业和债券市场有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T12:56:12.647Z",
+  "modelVersion": "qwen-max"
+}

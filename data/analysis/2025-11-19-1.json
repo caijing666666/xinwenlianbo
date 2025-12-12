@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-19-1",
+  "newsDate": "2025-11-19",
+  "newsTitle": "合力开创法治中国建设新局面——习近平总书记对全面依法治国工作的重要指示引发热烈反响",
+  "newsContent": "习近平总书记近日对全面依法治国工作作出重要指示，强调要坚持党的领导、人民当家作主、依法治国有机统一，合力开创法治中国建设新局面。总书记的重要指示在各界引发热烈反响，大家表示，总书记重要指示高屋建瓴、思想深邃，具有很强的政治性、思想性、指导性，为新征程上推进全面依法治国指明了前进方向。习近平总书记指出，党的十八大以来，党中央把全面依法治国纳入“四个全面”战略布局予以有力推进，全面依法治国总体格局基本形成，中国特色社会主义法治体系不断完善，中国特色社会主义法治道路越走越宽广。大家表示，全面依法治国的历史性成就，充分彰显了习近平法治思想的真理力量和实践伟力。大家表示，要深入学习贯彻习近平总书记重要指示精神，深刻践行习近平法治思想，紧紧围绕贯彻落实党的二十届四中全会战略部署，守正创新、稳中求进做好全面依法治国各项工作，为高质量发展提供法治保障。习近平总书记强调，要更加注重法治与改革、发展、稳定相协同，更加注重保障和促进社会公平正义，全面推进科学立法、严格执法、公正司法、全民守法，全面推进国家各方面工作法治化，为以中国式现代化全面推进强国建设、民族复兴伟业提供有力法治保障。",
+  "industryImpacts": [
+    {
+      "industryName": "法律服务",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "全面依法治国的推进将增加对法律服务的需求，包括法律顾问、合规审查等。",
+      "keywords": [
+        "法治",
+        "法律服务",
+        "合规"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "教育",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "法治建设需要培养更多法律人才，相关教育和培训需求将增加。",
+      "keywords": [
+        "法治",
+        "教育",
+        "培训"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国政法大学",
+      "stockCode": "无",
+      "exchange": "无",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内顶尖的法律教育机构，其招生和培训业务有望受益于法治建设的推进。",
+      "relatedIndustries": [
+        "教育"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "N/A"
+    },
+    {
+      "companyName": "金杜律师事务所",
+      "stockCode": "无",
+      "exchange": "无",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的律师事务所，其业务量有望随着法治建设的推进而增加。",
+      "relatedIndustries": [
+        "法律服务"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "N/A"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "法治建设对国债市场的影响较为间接，短期内不会显著影响收益率。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "全面依法治国的推进将利好法律服务和教育行业，相关企业和机构有望受益。债券市场保持稳定。",
+  "analyzedAt": "2025-11-29T10:36:36.371Z",
+  "modelVersion": "qwen-max"
+}

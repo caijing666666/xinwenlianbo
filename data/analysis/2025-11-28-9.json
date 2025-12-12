@@ -1,0 +1,101 @@
+{
+  "newsId": "2025-11-28-9",
+  "newsDate": "2025-11-28",
+  "newsTitle": "【活力中国调研行】海南洋浦港：封关在即 如何放得开又管得住",
+  "newsContent": "今年的12月18日，海南自贸港全岛封关运作。目前，海南自贸港封关运作准备工作基本就绪。作为自贸港“样板间”，洋浦承接了全岛超七成的进口货物量。当前，在封关最后冲刺阶段，他们在干什么？来看记者的调研。记者来到洋浦国际集装箱码头的时候，码头扩建工程正在加紧施工，其中新增的488米岸线和泊位刚刚投入运营就迎来首靠船舶，旁边的堆场也进入了建设的最后阶段。李俊铮告诉记者，此次扩建后，码头可满足目前全球最大集装箱船舶靠泊作业需求，年设计通过能力也将提升超30%。这次扩建就是在为封关后，洋浦即将增长约一倍的“零关税”货物提前做好准备。最近，像这样实战化的压力测试，所有与封关之后货物运往内地相关的部门都要参与其中，就是要检测“零关税”货物离岛即将实施的新查验与通行管理方式。全岛封关运作后，“零关税”商品范围将由目前的1900个税目扩大至约6600个税目，比封关前提高了近53个百分点。目前，货物离岛的流程不断顺畅，问题清单的长度越来越短，问题种类也在减少。目前，海南自贸港封关任务整体顺利推进，全岛8个对外开放口岸和10个“二线口岸”的各类设备已基本完备，“二线口岸”试运行都已经启动，6项封关政策及配套13项省内制度文件已全部印发，各项工作正在有条不紊地推进。",
+  "industryImpacts": [
+    {
+      "industryName": "物流",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "洋浦港扩建和封关运作将提升港口吞吐能力，增加货物运输量，利好物流行业。",
+      "keywords": [
+        "港口扩建",
+        "吞吐能力",
+        "货物运输"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "航运",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "洋浦港扩建后可满足全球最大集装箱船舶靠泊作业需求，有利于航运公司扩大业务规模。",
+      "keywords": [
+        "集装箱船舶",
+        "靠泊作业",
+        "业务规模"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "贸易",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "海南自贸港封关运作后，“零关税”商品范围扩大，将促进进出口贸易增长。",
+      "keywords": [
+        "零关税",
+        "商品范围",
+        "进出口贸易"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中远海控",
+      "stockCode": "601919",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为航运龙头企业，中远海控将受益于洋浦港扩建带来的运力提升。",
+      "relatedIndustries": [
+        "航运",
+        "物流"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "上港集团",
+      "stockCode": "600018",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内主要港口运营商之一，上港集团有望从海南自贸港政策中获益。",
+      "relatedIndustries": [
+        "港口运营",
+        "物流"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铁矿石",
+      "exchange": "大商所",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然港口扩建可能增加铁矿石进口量，但整体供需关系未发生显著变化。",
+      "priceDirection": "stable",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "海南自贸港建设对地方财政有一定支持作用，但短期内对地方债收益率影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "海南自贸港封关运作及洋浦港扩建将利好物流、航运和贸易等行业，相关企业有望受益。",
+  "analyzedAt": "2025-11-29T09:49:12.480Z",
+  "modelVersion": "qwen-max"
+}

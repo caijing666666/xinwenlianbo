@@ -1,0 +1,88 @@
+{
+  "newsId": "2025-11-13-12",
+  "newsDate": "2025-11-13",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "美众议院通过临时拨款法案美国国会众议院12日晚正式通过一项联邦政府临时拨款法案，该法案随后由美国总统特朗普签署生效，美国联邦政府持续了43天的创纪录“停摆”结束。该法案将按现有水平为大部分联邦机构提供资金至明年1月底。据美国媒体报道，尽管民主、共和两党暂时达成妥协，但关于医保福利支出的核心分歧并未解决。报道还称，即使此轮“停摆”结束，经济数据发布延迟的情况会持续下去，航班取消或延误情况也会持续一段时间。美国国会预算办公室估计，为期六周的“停摆”可能给美国造成约110亿美元的经济损失。巴以互相指责对方违反停火协议据巴勒斯坦媒体12日报道，以军当天再次违反停火协议，对加沙地带多地发动袭击。以色列国防军当天称，在加沙地带南部汗尤尼斯和拉法打击多名违反停火协议的巴武装人员。同一天，以军继续在约旦河西岸拆除巴勒斯坦人的房屋和水井。 德知名智库称美关税政策阻碍德经济复苏12日，德国政府的经济政策咨询机构——德国经济专家委员会称，该委员会预计2026年德国经济增长仅为0.9%，低于该委员会此前预测的1%，也低于德国政府1.3%的增长预期。该委员会称，美国关税政策阻碍了德国经济的复苏与发展。在欧盟内部，为充分挖掘机遇，必须消除贸易壁垒。",
+  "industryImpacts": [
+    {
+      "industryName": "航空",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "美国政府停摆导致航班取消或延误情况持续，影响航空公司运营。",
+      "keywords": [
+        "航班取消",
+        "延误",
+        "运营"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "出口导向型企业",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "美国关税政策阻碍德国经济复苏，可能对中国出口导向型企业产生连锁反应。",
+      "keywords": [
+        "关税",
+        "出口",
+        "经济复苏"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "美国政府停摆导致航班取消或延误情况持续，影响公司运营和收入。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-3%"
+    },
+    {
+      "companyName": "美的集团",
+      "stockCode": "000333",
+      "exchange": "SZSE",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "美国关税政策阻碍德国经济复苏，可能对中国家电出口企业产生负面影响。",
+      "relatedIndustries": [
+        "家电",
+        "出口导向型企业"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-1-2%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "美国政府停摆对经济造成损失，可能抑制原油需求。",
+      "priceDirection": "down",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "美国政府停摆结束，但经济数据发布延迟，短期内对国债市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 40,
+  "summary": "美国政府停摆结束但仍存在不确定性，对航空、出口导向型企业及原油期货有负面影响，建议谨慎投资。",
+  "analyzedAt": "2025-11-29T11:08:34.979Z",
+  "modelVersion": "qwen-max"
+}

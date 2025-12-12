@@ -1,0 +1,65 @@
+{
+  "newsId": "2025-11-10-10",
+  "newsDate": "2025-11-10",
+  "newsTitle": "第十五届全国运动会赛事全面展开",
+  "newsContent": "第十五届全国运动会今天（11月10日）展开开幕后的第一个比赛日，全天共在游泳、拳击、跳水、马术等项目上产生33枚金牌。今天上午，江苏队在赛艇男子四人双桨决赛中夺得冠军，这是十五运会开幕后产生的首枚金牌。跳水比赛，奥运冠军、湖北选手王宗源摘得男子三米板金牌。在深圳赛区，艺术体操个人全能决赛上午进行，陕西选手王子露夺得冠军。马术盛装舞步团体赛，上海队战胜新疆队和广东队夺冠。",
+  "industryImpacts": [
+    {
+      "industryName": "体育用品",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "全国运动会的举办将提高公众对体育活动的兴趣，从而增加对体育用品的需求。",
+      "keywords": [
+        "体育用品",
+        "需求增长"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "运动会期间，运动员、观众及相关人员的流动可能会促进当地旅游业的发展。",
+      "keywords": [
+        "旅游业",
+        "人流增加"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "安踏体育",
+      "stockCode": "2020",
+      "exchange": "HKEX",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的运动品牌之一，安踏体育有望从运动会带来的体育用品需求增长中受益。",
+      "relatedIndustries": [
+        "体育用品"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "运动会可能吸引大量游客前往举办城市，有利于中国国旅等旅游相关企业的业务增长。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "全国运动会主要利好体育用品和旅游行业，但整体市场情绪保持稳定。",
+  "analyzedAt": "2025-11-29T11:23:44.072Z",
+  "modelVersion": "qwen-max"
+}

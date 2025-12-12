@@ -1,0 +1,104 @@
+{
+  "newsId": "2025-11-06-1",
+  "newsDate": "2025-11-06",
+  "newsTitle": "【央视快评】高标准建设海南自由贸易港",
+  "newsContent": "本台今天（11月6日）播发央视快评《高标准建设海南自由贸易港》。",
+  "industryImpacts": [
+    {
+      "industryName": "旅游",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "高标准建设海南自由贸易港将吸引更多国内外游客，促进旅游业发展。",
+      "keywords": [
+        "旅游业",
+        "游客",
+        "发展"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "物流",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "自由贸易港的建设将提高物流效率，降低运输成本，有利于物流企业的发展。",
+      "keywords": [
+        "物流",
+        "效率",
+        "成本"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "随着自由贸易港的建设，海南的房地产市场可能会受到更多关注，房价有望上涨。",
+      "keywords": [
+        "房地产",
+        "房价",
+        "投资"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的旅游企业，中国国旅将受益于海南自由贸易港带来的旅游需求增长。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "海航控股",
+      "stockCode": "600221",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为海南本地的航空公司，海航控股将受益于自由贸易港带来的客流量增加。",
+      "relatedIndustries": [
+        "航空",
+        "物流"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "海南瑞泽",
+      "stockCode": "002596",
+      "exchange": "SZSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "作为海南本地的建筑材料供应商，海南瑞泽将受益于自由贸易港建设带来的基础设施需求。",
+      "relatedIndustries": [
+        "房地产",
+        "建筑"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "海南自由贸易港的建设可能需要地方政府发行债券来筹集资金，但短期内对整体债券市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "高标准建设海南自由贸易港将主要利好旅游、物流和房地产行业，相关企业有望受益。建议关注这些行业的龙头企业。",
+  "analyzedAt": "2025-11-29T12:36:11.629Z",
+  "modelVersion": "qwen-max"
+}

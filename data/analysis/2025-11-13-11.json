@@ -1,0 +1,97 @@
+{
+  "newsId": "2025-11-13-11",
+  "newsDate": "2025-11-13",
+  "newsTitle": "俄称在红军城方向多线推进 乌称袭击俄军工设施",
+  "newsContent": "俄罗斯国防部12日称，俄军突击队正向顿涅茨克地区红军城（乌称波克罗夫斯克）的西部、中心区西北、东部街区以及西部工业区推进。在哈尔科夫库皮扬斯克，俄军继续打击被围乌军，并击退乌军突击队攻势。此外，俄军还对149个地区的乌方目标进行了打击。乌克兰方面同一天称，乌军在波克罗夫斯克等方向击退俄军数十次进攻，并对俄关键军事目标实施打击，包括俄军装备核心配套工厂以及弹药库等。针对欧盟提出利用俄罗斯遭冻结资产向乌克兰提供1400亿欧元贷款一事，法国经济与财政部长莱斯屈尔12日称，欧盟各国已就如何尽快启动该计划达成共识，但欧盟委员会层面还需要解决技术细节问题，并继续讨论。俄罗斯外长拉夫罗夫日前表示，欧盟方面相关行为藐视《联合国宪章》和其他国际法律规范，是赤裸裸的抢劫。如果西方将其冻结的俄资产转交给乌克兰，俄罗斯将基于对等原则作出回应。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突持续升级，可能导致相关国家增加军费开支，利好国防军工行业。",
+      "keywords": [
+        "俄乌冲突",
+        "军费开支",
+        "国防军工"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能推高能源价格，尤其是石油和天然气。",
+      "keywords": [
+        "地缘政治",
+        "能源价格",
+        "石油",
+        "天然气"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国船舶",
+      "stockCode": "600150",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内重要的军工企业之一，俄乌冲突加剧可能带来更多的订单。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "国际油价上涨预期将对公司业绩产生正面影响。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "地缘政治风险上升通常会推高油价。",
+      "priceDirection": "up",
+      "confidence": 0.85
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "避险情绪升温有利于贵金属价格上涨。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内市场更关注股票及商品市场变化，对债券市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "俄乌冲突升级背景下，国防军工与能源板块受益明显；同时，避险资产如黄金亦值得关注。",
+  "analyzedAt": "2025-11-29T11:08:20.212Z",
+  "modelVersion": "qwen-max"
+}

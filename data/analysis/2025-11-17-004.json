@@ -1,0 +1,91 @@
+{
+  "newsId": "2025-11-17-004",
+  "newsDate": "2025-11-17",
+  "newsTitle": "何立峰与德国副总理兼财政部长克林拜尔共同主持第四次中德高级别财金对话",
+  "newsContent": "首页\n        |\n        简\n        |\n        繁\n        |\n        EN\n        |\n        登录\n        \n          \n          \n            个人中心\n            退出\n          \n        \n        |\n        邮箱\n        |\n        无障碍\n\n      \n    \n  \n  \n    \n    EN\n    \n      \n      \n    \n\n    \n      \n        \n          \n          \n        \n        \n          function goSearch(event) {\n            var e = window.event || event;\n            if(e.preventDefault){\n              e.preventDefault();\n            }else{\n              e.returnValue=false;\n            }\n            var s = '', m = document.querySelector('.header .pchide [name=headSearchword]');\n            s = m.offsetHeight > 0 ? m.value : document.querySelector('.header .mhide [name=headSearchword]').value;\n            // 市场主体 dataTypeId=14\n            if (s == '市场主体') {\n              url = '//sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=14&searchWord=' + s;\n            } else {\n              url = '//sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=107&searchWord=' + encodeURIComponent(s);\n            }\n            window.open(url, '_blank');\n          }\n          function listenerKeyUpEventFn(){\n            if(event.keyCode==13){\n              goSearch();\n            };\n          }",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中德高级别财金对话可能涉及新能源领域的合作，德国在新能源技术方面有较强实力，合作有望推动中国新能源行业的发展。",
+      "keywords": [
+        "新能源",
+        "合作",
+        "技术"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "汽车",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中德在汽车行业的合作历史悠久，此次对话可能进一步加强双方在电动汽车等领域的合作，利好中国汽车产业。",
+      "keywords": [
+        "汽车",
+        "电动汽车",
+        "合作"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "金融",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "中德高级别财金对话主要涉及财政和金融政策的交流，对金融行业的影响较为间接，短期内不会有明显变化。",
+      "keywords": [
+        "金融",
+        "政策",
+        "交流"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池龙头企业，宁德时代有望受益于中德在新能源领域的合作。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "比亚迪",
+      "stockCode": "002594",
+      "exchange": "SZSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "比亚迪在电动汽车领域具有较强竞争力，中德合作可能为其带来新的市场机会。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "中德高级别财金对话主要关注财政和金融政策，对国债市场的影响较为间接，短期内收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中德高级别财金对话可能推动新能源和汽车行业的发展，相关企业和债券市场有望受益，建议关注新能源和汽车行业的龙头企业。",
+  "analyzedAt": "2025-12-12T03:21:06.240Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,130 @@
+{
+  "newsId": "2025-11-03-2",
+  "newsDate": "2025-11-03",
+  "newsTitle": "【学习贯彻党的二十届四中全会精神】凝心聚力 同向同行 为谱写中国式现代化新篇章贡献力量",
+  "newsContent": "连日来，各民主党派中央、全国工商联和无党派人士以多种形式学习贯彻中共二十届四中全会精神。大家表示，要更加紧密地团结在以习近平同志为核心的中共中央周围，为开创中国式现代化建设新局面凝心聚力、接续奋斗。全会高度评价“十四五”时期我国发展取得的重大成就，指出“十五五”时期在基本实现社会主义现代化进程中具有承前启后的重要地位。大家表示，重大成就的取得，根本在于习近平总书记领航掌舵，在于习近平新时代中国特色社会主义思想科学指引。“十五五”时期，我国发展战略机遇和风险挑战并存、不确定难预料因素增多。“两个确立”是我们战胜一切艰难险阻、应对一切不确定性的最大确定性、最大底气、最大保证。“十五五”时期是基本实现社会主义现代化夯实基础、全面发力的关键时期，全会提出了未来五年我国经济社会发展必须遵循的“六个坚持”重要原则和七个方面主要目标。大家表示，要更加紧密地团结在以习近平同志为核心的中共中央周围，发挥密切联系社会各界的优势，积极建言献策，为推动经济社会高质量发展、基本实现社会主义现代化贡献智慧和力量。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策支持和推动高质量发展将促进新能源行业的进一步发展。",
+      "keywords": [
+        "政策",
+        "高质量发展",
+        "新能源"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "半导体",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "科技创新和产业升级将带动半导体行业的发展。",
+      "keywords": [
+        "科技创新",
+        "产业升级",
+        "半导体"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "医药",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "健康中国战略的推进将提升医药行业的市场需求。",
+      "keywords": [
+        "健康中国",
+        "市场需求",
+        "医药"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "政策强调高质量发展，但未明确提及房地产市场具体措施。",
+      "keywords": [
+        "高质量发展",
+        "房地产"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源政策利好电池企业，宁德时代作为龙头企业将受益。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE STAR",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "科技创新和产业升级将带动半导体行业的发展，中芯国际作为龙头将受益。",
+      "relatedIndustries": [
+        "半导体",
+        "科技"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和产业升级将增加对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "钢铁",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和高质量发展将增加对钢铁的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "货币政策保持稳定，国债收益率预计维持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 55,
+      "impactType": "neutral",
+      "reasoning": "经济高质量发展预期下，企业债信用风险相对可控。",
+      "yieldDirection": "stable",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源、半导体等行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T12:54:00.361Z",
+  "modelVersion": "qwen-max"
+}

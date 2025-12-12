@@ -1,0 +1,133 @@
+{
+  "newsId": "2025-12-06-6",
+  "newsDate": "2025-12-06",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "国家发展改革委全年下达以工代赈中央投资355亿元近日，国家发展改革委下达2025年第四批以工代赈中央预算内投资60亿元。至此，全年中央投资规模达到355亿元，预计吸纳超过110万名低收入群众就近务工。1—11月全国期货市场累计成交额增长20.19%中国期货业协会最新数据显示，1—11月全国期货市场累计成交量81.17亿手，累计成交额675.45万亿元，同比分别增长14.74%和20.19%。截至目前，我国共上市期货期权品种164个。全球海上风电装机中国占比超50%《全球海上风电产业链发展报告2025》近日发布，目前全球海上风电的装机容量约为8300万千瓦，其中，中国占比超过50%。今年以来，我国海上风电新增并网容量超过350万千瓦，连续五年居全球首位。广西南宁抽水蓄能电站首轮蓄水完成国家“十四五”重大工程——广西南宁抽水蓄能电站首轮蓄水今天（12月6日）完成，4台30万千瓦机组将于本月全部投产，每年抽水发电量可达22.6亿千瓦时，减少二氧化碳排放220万吨。广州白云机场年旅客吞吐量超7700万人次截至目前，广州白云机场今年旅客吞吐量达7700多万人次，超2024年全年旅客总量。目前，机场国际及海外地区通航点已累计突破100个。2025腾冲科学家论坛今天开幕2025腾冲科学家论坛今天（12月6日）开幕，将举办大学校长论坛、青年科学家论坛等10场分论坛，与会的120多位院士、70多位国内外大学校长围绕“科学·AI改变世界”这一主题展开探讨交流。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "全球海上风电装机中国占比超50%，政策支持和市场需求推动行业发展。",
+      "keywords": [
+        "海上风电",
+        "政策支持",
+        "市场需求"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "国家发展改革委全年下达以工代赈中央投资355亿元，促进基础设施建设和就业。",
+      "keywords": [
+        "以工代赈",
+        "基础设施",
+        "就业"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "航空运输",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "广州白云机场年旅客吞吐量超7700万人次，国际及海外地区通航点突破100个，显示航空业复苏。",
+      "keywords": [
+        "旅客吞吐量",
+        "国际通航点",
+        "复苏"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "金风科技",
+      "stockCode": "002202",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "全球海上风电装机中国占比超50%，作为风电设备制造商将受益。",
+      "relatedIndustries": [
+        "新能源",
+        "风电"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中国建筑",
+      "stockCode": "601668",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "国家发展改革委全年下达以工代赈中央投资355亿元，基础设施建设项目增加。",
+      "relatedIndustries": [
+        "基础设施建设",
+        "建筑"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "南方航空",
+      "stockCode": "600029",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "广州白云机场年旅客吞吐量超7700万人次，航空运输需求增加。",
+      "relatedIndustries": [
+        "航空运输",
+        "旅游"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和新能源项目增加，对铜的需求有望增长。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "钢铁",
+      "exchange": "大商所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和新能源项目增加，对钢铁的需求有望增长。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "货币政策保持稳定，经济复苏预期对国债收益率影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和新能源项目增加，相关企业融资需求增加，企业债发行可能增多。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源行业和基础设施建设，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-06T13:25:28.414Z",
+  "modelVersion": "qwen-max"
+}

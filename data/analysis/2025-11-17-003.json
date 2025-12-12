@@ -1,0 +1,94 @@
+{
+  "newsId": "2025-11-17-003",
+  "newsDate": "2025-11-17",
+  "newsTitle": "李强赴莫斯科出席上海合作组织成员国政府首脑（总理）理事会第二十四次会议",
+  "newsContent": "首页\n        |\n        简\n        |\n        繁\n        |\n        EN\n        |\n        登录\n        \n          \n          \n            个人中心\n            退出\n          \n        \n        |\n        邮箱\n        |\n        无障碍\n\n      \n    \n  \n  \n    \n    EN\n    \n      \n      \n    \n\n    \n      \n        \n          \n          \n        \n        \n          function goSearch(event) {\n            var e = window.event || event;\n            if(e.preventDefault){\n              e.preventDefault();\n            }else{\n              e.returnValue=false;\n            }\n            var s = '', m = document.querySelector('.header .pchide [name=headSearchword]');\n            s = m.offsetHeight > 0 ? m.value : document.querySelector('.header .mhide [name=headSearchword]').value;\n            // 市场主体 dataTypeId=14\n            if (s == '市场主体') {\n              url = '//sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=14&searchWord=' + s;\n            } else {\n              url = '//sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=107&searchWord=' + encodeURIComponent(s);\n            }\n            window.open(url, '_blank');\n          }\n          function listenerKeyUpEventFn(){\n            if(event.keyCode==13){\n              goSearch();\n            };\n          }",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "上海合作组织成员国政府首脑会议可能讨论能源合作，促进能源行业的发展。",
+      "keywords": [
+        "能源合作",
+        "发展"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "会议可能涉及基础设施建设的合作项目，推动相关行业发展。",
+      "keywords": [
+        "基础设施",
+        "合作项目"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "能源合作的讨论可能对大型能源公司带来利好。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国中铁",
+      "stockCode": "601390",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "基础设施建设的合作项目可能增加公司的业务机会。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "能源合作的讨论可能提升原油需求预期。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "基础设施建设的合作项目可能增加铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内货币政策和财政政策预计保持稳定，对国债市场影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "上海合作组织成员国政府首脑会议可能带来能源和基础设施建设行业的利好，相关企业和商品期货有望受益。",
+  "analyzedAt": "2025-12-12T03:20:33.132Z",
+  "modelVersion": "qwen-max"
+}

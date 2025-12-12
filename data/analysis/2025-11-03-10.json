@@ -1,0 +1,65 @@
+{
+  "newsId": "2025-11-03-10",
+  "newsDate": "2025-11-03",
+  "newsTitle": "着陆场全系统综合演练完成 迎接神二十航天员回家",
+  "newsContent": "神舟二十号乘组将于近日择机返回东风着陆场。昨晚（11月2日），着陆场区组织所有搜救力量，进行了最后一次全系统综合演练。2日傍晚，担负搜救回收任务的指挥通信、医监医救车等上百台车辆装备分多路向待命点机动。接收到落点坐标后，搜救回收空中分队5架直升机迅速升空，精准降落在模拟返回舱附近，按程序展开处置。这次合练，着陆场各系统10多支搜救力量密切协同，力求达到“舱落机临人到”的目标。",
+  "industryImpacts": [
+    {
+      "industryName": "航空航天",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "神舟二十号返回任务顺利完成，将提升市场对航天科技及相关产业的信心。",
+      "keywords": [
+        "航天",
+        "技术进步",
+        "信心"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国卫星",
+      "stockCode": "600118",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的卫星制造和应用企业，神舟系列的成功返回将增强其市场地位。",
+      "relatedIndustries": [
+        "航空航天"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "航天电子",
+      "stockCode": "600879",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "公司从事航天电子设备的研发与生产，神舟系列的成功返回将对其业务产生积极影响。",
+      "relatedIndustries": [
+        "航空航天"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "此次事件对宏观经济影响有限，预计不会显著改变国债收益率走势。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 65,
+  "summary": "神舟二十号成功返回将提振航空航天相关企业的股价表现，但对整体市场及期货商品价格影响较小。",
+  "analyzedAt": "2025-11-29T12:56:46.068Z",
+  "modelVersion": "qwen-max"
+}

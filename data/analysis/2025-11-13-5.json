@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-13-5",
+  "newsDate": "2025-11-13",
+  "newsTitle": "“十四五”期间我国专精特新“小巨人”企业数量增长超两倍",
+  "newsContent": "工业和信息化部最新数据显示，“十四五”期间，我国专精特新中小企业从不足4万家增至14万家以上，“小巨人”企业从5000余家突破至1.76万家。截至目前，我国中小企业数量超6000万家。从创新能力看，2024年我国中小企业的有效发明专利中独立研发占比为75.3%，“小巨人”企业户均拥有发明专利26.6项，平均研发投入超3000万元。从行业分布看，超六成“小巨人”企业深耕工业基础领域，近八成企业分布在重点产业链环节，九成企业至少为3家国内外知名大企业直接配套。量子科技、人工智能、低空经济等未来产业领域“小巨人”企业近6000家，为强链稳链发挥了重要支撑作用。",
+  "industryImpacts": [
+    {
+      "industryName": "半导体",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "专精特新企业数量增长，特别是在量子科技和人工智能领域，将推动半导体行业的发展。",
+      "keywords": [
+        "专精特新",
+        "半导体",
+        "量子科技",
+        "人工智能"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "新能源",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "专精特新企业在链稳链作用，新能源产业链中的中小企业有望受益。",
+      "keywords": [
+        "新能源",
+        "产业链",
+        "中小企业"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的半导体制造企业，中芯国际将受益于专精特新企业的增长。",
+      "relatedIndustries": [
+        "半导体"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池领域的龙头企业，宁德时代将受益于新能源产业链的稳定和发展。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "中小企业数量增加，但整体经济环境和货币政策保持稳定，对企业债市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "专精特新企业数量增长利好半导体和新能源行业，相关企业和企业债市场有望受益。",
+  "analyzedAt": "2025-11-29T11:06:22.303Z",
+  "modelVersion": "qwen-max"
+}

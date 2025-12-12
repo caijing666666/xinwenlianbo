@@ -1,0 +1,90 @@
+{
+  "newsId": "2025-12-02-6",
+  "newsDate": "2025-12-02",
+  "newsTitle": "中老铁路开通四年 客货运量持续增长",
+  "newsContent": "记者从国铁集团获悉，截至今天（12月2日），中老铁路开通运营满四年，累计发送旅客超6250万人次、货物超7250万吨，黄金大通道效应持续显现。中老铁路自2021年12月3日开通运营以来，客货运量持续增长。全线单月旅客发送量由开通初期的60万人次增至最高220万人次。昆明至万象间国际旅客列车已累计开行2674列，120余个国家和地区的64万名游客搭乘国际旅客列车出行，为沿线旅游业发展注入了新活力。跨境货物列车每日开行数量由开通初期的2列增至最高23列，累计发送跨境货物超1600万吨，覆盖国内31个省（区、市）和老挝、泰国、马来西亚、新加坡、越南等19个国家和地区，为区域经济发展提供了新引擎。",
+  "industryImpacts": [
+    {
+      "industryName": "交通运输",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "中老铁路客货运量持续增长，为相关运输企业带来更多的业务机会。",
+      "keywords": [
+        "铁路",
+        "运输",
+        "客货运量"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "旅游业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "国际旅客列车的开通促进了沿线旅游业的发展，增加了旅游收入。",
+      "keywords": [
+        "旅游业",
+        "国际旅客列车",
+        "旅游收入"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "物流",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "跨境货物列车数量增加，提升了物流效率，降低了物流成本。",
+      "keywords": [
+        "物流",
+        "跨境货物列车",
+        "物流效率"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国铁建",
+      "stockCode": "601186",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为中老铁路的主要建设者之一，公司有望从铁路运营中获得持续收益。",
+      "relatedIndustries": [
+        "交通运输",
+        "基础设施建设"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "随着国际旅客列车的开通，公司的旅游业务有望受益于游客数量的增长。",
+      "relatedIndustries": [
+        "旅游业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "中老铁路的运营对整体经济环境的影响有限，企业债市场预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "中老铁路的客货运量持续增长，对交通运输、旅游业和物流行业产生积极影响，相关企业和债券市场有望受益。",
+  "analyzedAt": "2025-12-03T07:01:07.197Z",
+  "modelVersion": "qwen-max"
+}

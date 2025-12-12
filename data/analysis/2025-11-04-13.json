@@ -1,0 +1,104 @@
+{
+  "newsId": "2025-11-04-13",
+  "newsDate": "2025-11-04",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "“十四五”期间 我国研制发布数据领域国家标准超120项国家数据局、国家市场监督管理总局发布，“十四五”期间，我国研制并发布数据领域国家标准超过120项，在人工智能应用、新型基础设施、数据交易流通等重点方向实现广泛应用，助力数字经济高质量发展。《中央企业高质量发展报告（2025）》发布日前，《中央企业高质量发展报告（2025）》发布。报告显示，中央企业老旧设备更新、数字化绿色化改造等投资超8000亿元，有力支撑了内需提振。同时，央企在航天、能源、通信等领域打造了一批重大工程、国之重器。前10个月全国办理不动产登记业务超7400万笔今年前10个月，我国累计办理不动产登记业务7400多万笔，颁发不动产权证书4500多万本、电子证书2600多万本。全国2300多个县市实施新建商品房项目“交房即交证”改革，群众办事的时间和成本大幅减少。2025年全国消防宣传月活动在北京启动今天（11月4日），2025年全国消防宣传月活动在北京启动，主题为“全民消防、生命至上——安全用火用电”。国家消防救援局部署各地开展形式多样的消防宣传活动，并对重点行业领域和薄弱环节深入开展隐患排查治理。我国开展银发医养行动国家卫生健康委等五部门今天（11月4日）发出通知，决定组织开展银发医养行动，支持退休医务人员到医养结合机构、养老机构等开展医疗健康服务，各地要建立退休医务人员权益保障机制。南水北调中线工程圆满完成年度调水任务截至10月31日，南水北调中线工程完成2024—2025年度调水任务，累计向北方调水64.73亿立方米，工程惠及沿线27座大中城市，受益人口近1.18亿人。",
+  "industryImpacts": [
+    {
+      "industryName": "数字经济",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "国家发布多项数据领域国家标准，推动人工智能应用、新型基础设施和数据交易流通等重点方向的发展，助力数字经济高质量发展。",
+      "keywords": [
+        "国家标准",
+        "人工智能",
+        "新型基础设施",
+        "数据交易"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "不动产登记业务量大增，且“交房即交证”改革减少了群众办事时间和成本，提升了购房体验，有利于房地产市场的健康发展。",
+      "keywords": [
+        "不动产登记",
+        "交房即交证",
+        "购房体验"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "医疗健康",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "银发医养行动支持退休医务人员到医养结合机构、养老机构开展服务，并建立权益保障机制，有助于提升医疗服务质量和覆盖面。",
+      "keywords": [
+        "银发医养",
+        "退休医务人员",
+        "医养结合"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "阿里巴巴",
+      "stockCode": "BABA",
+      "exchange": "NYSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的云计算和大数据企业，受益于国家对数据领域的重视和发展。",
+      "relatedIndustries": [
+        "数字经济",
+        "云计算"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "万科",
+      "stockCode": "000002",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为房地产行业的龙头企业之一，将从不动产登记业务的增加及‘交房即交证’政策中获益。",
+      "relatedIndustries": [
+        "房地产"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国平安",
+      "stockCode": "601318",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "旗下拥有多个医养结合项目，有望在银发医养行动中获得更多发展机遇。",
+      "relatedIndustries": [
+        "医疗健康"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前经济环境下，货币政策保持相对稳定，短期内国债收益率预计不会有显著变化。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好数字经济、房地产及医疗健康行业，相关企业和债券市场预期表现良好。建议投资者关注这些领域的优质标的。",
+  "analyzedAt": "2025-11-29T12:51:35.398Z",
+  "modelVersion": "qwen-max"
+}

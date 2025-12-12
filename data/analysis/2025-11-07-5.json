@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-07-5",
+  "newsDate": "2025-11-07",
+  "newsTitle": "【学习贯彻党的二十届四中全会精神】中央宣讲团在各地各部门宣讲党的二十届四中全会精神",
+  "newsContent": "连日来，学习贯彻党的二十届四中全会精神中央宣讲团成员在各地各部门宣讲，并深入基层与干部群众互动交流。中央宣讲团成员、国务委员谌贻琴11月6日在人力资源社会保障部宣讲党的二十届四中全会精神。谌贻琴围绕学习领会习近平总书记重要讲话和全会《建议》，对全会精神作了全面宣讲和系统阐释，表示要加大保障和改善民生力度，自觉当好贯彻党中央决策部署的执行者、行动派、实干家。中央宣讲团成员、全国政协副主席姜信治11月6日在全国政协机关宣讲党的二十届四中全会精神。姜信治围绕习近平总书记重要讲话和全会《建议》，从充分认识“十四五”时期我国发展取得的重大成就，准确把握“十五五”时期经济社会发展的指导方针、主要目标、战略任务和重大举措等方面，对全会精神作出了系统深入宣讲。中央宣讲团成员、全国人大常委会法制工作委员会主任沈春耀，11月4日和5日，在新疆维吾尔自治区和新疆生产建设兵团宣讲。沈春耀从深刻认识全会召开的重大意义、深入领会“十五五”时期经济社会发展的指导方针和主要目标等方面，进行了全面宣讲和重点解读。沈春耀还走进社区、高校和企业，与社区干部居民、高校师生和企业职工交流互动。11月4日，中央宣讲团成员、辽宁省委书记许昆林在沈阳作宣讲报告。许昆林围绕学习领会习近平总书记重要讲话和全会《建议》，结合辽宁实际对四中全会精神作了系统宣讲和深入阐释。许昆林还来到东北大学开展宣讲，与师生代表进行互动交流，畅谈奋斗目标和努力方向。",
+  "industryImpacts": [
+    {
+      "industryName": "社会保障",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "加大保障和改善民生力度，可能带来相关行业投资增加。",
+      "keywords": [
+        "社会保障",
+        "民生",
+        "政策支持"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "教育",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "宣讲团成员与高校师生交流互动，表明对教育的重视和支持。",
+      "keywords": [
+        "教育",
+        "高校",
+        "政策支持"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国平安",
+      "stockCode": "601318",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为保险行业的龙头企业，受益于社会保障政策的支持。",
+      "relatedIndustries": [
+        "社会保障",
+        "保险"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "新东方",
+      "stockCode": "EDU",
+      "exchange": "NYSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "教育行业受到政策支持，有望获得更多发展机遇。",
+      "relatedIndustries": [
+        "教育",
+        "培训"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前货币政策保持稳定，预计国债收益率变化不大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "政策利好社会保障和教育行业，相关企业和债券市场表现稳定，建议关注龙头公司。",
+  "analyzedAt": "2025-11-29T12:33:06.290Z",
+  "modelVersion": "qwen-max"
+}

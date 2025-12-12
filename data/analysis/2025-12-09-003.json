@@ -1,0 +1,88 @@
+{
+  "newsId": "2025-12-09-003",
+  "newsDate": "2025-12-09",
+  "newsTitle": "何立峰会见美国科恩集团高级顾问艾伦时指出：中美应不断拉长合作清单 为两国经贸关系打开新的合作空间",
+  "newsContent": "首页\n        |\n        简\n        |\n        繁\n        |\n        EN\n        |\n        登录\n        \n          \n          \n            个人中心\n            退出\n          \n        \n        |\n        邮箱\n        |\n        无障碍\n\n      \n    \n  \n  \n    \n    EN\n    \n      \n      \n    \n\n    \n      \n        \n          \n          \n        \n        \n          function goSearch(event) {\n            var e = window.event || event;\n            if(e.preventDefault){\n              e.preventDefault();\n            }else{\n              e.returnValue=false;\n            }\n            var s = '', m = document.querySelector('.header .pchide [name=headSearchword]');\n            s = m.offsetHeight > 0 ? m.value : document.querySelector('.header .mhide [name=headSearchword]').value;\n            // 市场主体 dataTypeId=14\n            if (s == '市场主体') {\n              url = '//sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=14&searchWord=' + s;\n            } else {\n              url = '//sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=107&searchWord=' + encodeURIComponent(s);\n            }\n            window.open(url, '_blank');\n          }\n          function listenerKeyUpEventFn(){\n            if(event.keyCode==13){\n              goSearch();\n            };\n          }",
+  "industryImpacts": [
+    {
+      "industryName": "半导体",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中美合作可能促进技术交流和市场开放，有利于半导体行业发展",
+      "keywords": [
+        "技术交流",
+        "市场开放",
+        "合作"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "新能源",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中美合作可能带来更多的投资和技术合作机会，推动新能源行业的发展",
+      "keywords": [
+        "投资",
+        "技术合作",
+        "发展"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中美合作可能带来更多的订单和技术支持，提升公司竞争力",
+      "relatedIndustries": [
+        "半导体"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中美合作可能带来更多国际合作机会，推动新能源电池业务增长",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中美合作可能提振工业金属需求，尤其是铜的需求",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "中美合作对债券市场影响较小，货币政策保持稳定",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中美合作有望提振半导体、新能源等行业及相关企业，建议关注相关龙头企业。",
+  "analyzedAt": "2025-12-12T02:20:15.441Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,65 @@
+{
+  "newsId": "2025-12-05-11",
+  "newsDate": "2025-12-05",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "中方呼吁国际社会共同抵制单边强制措施中国代表4日在纪念首个“反对单边强制措施国际日”联大会议上发言。中方表示，单边强制措施严重违背联合国宪章宗旨和原则，严重破坏国际法基本准则和国际法治根基。中方呼吁少数西方国家听从正义呼声，立即、无条件、彻底取消单边强制措施。今年6月联合国大会通过决议，宣布每年12月4日为“反对单边强制措施国际日”，自今年起每年举办纪念活动。美“杜鲁门”号航母系列事故调查报告公布去年年底到今年5月，部署在中东地区的美国“杜鲁门”号航母打击群接连发生错误击落己方“超级大黄蜂”战机、另外2架同型号战机坠海等一系列事故。4日，美国海军就此发布调查报告称，人员配备和训练不足、飞机制动系统故障、维护保养不善等是导致系列事故的原因。美国媒体报道称，这一系列事故导致美国海军损失约1.64亿美元，3架战机至今未找回。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "美国航母事故频发，可能促使中国加强国防建设，增加军费开支。",
+      "keywords": [
+        "国防",
+        "军工",
+        "军费"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为中国主要的战斗机制造商，可能受益于国防开支增加。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国船舶",
+      "stockCode": "600150",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为中国主要的造船企业，可能受益于海军装备更新需求。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前新闻对货币政策和利率水平没有直接影响，国债市场预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "美国航母事故频发可能促使中国加强国防建设，利好国防军工行业及相关企业。",
+  "analyzedAt": "2025-12-05T13:30:45.303Z",
+  "modelVersion": "qwen-max"
+}

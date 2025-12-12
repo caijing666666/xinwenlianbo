@@ -1,0 +1,101 @@
+{
+  "newsId": "2025-11-08-1",
+  "newsDate": "2025-11-08",
+  "newsTitle": "央视快评：以全面深化改革开放推动高质量发展",
+  "newsContent": "本台今天（11月8日）播发央视快评《以全面深化改革开放推动高质量发展》。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "全面深化改革开放政策将推动高质量发展，新能源作为国家战略新兴产业，有望获得更多政策支持和资金投入。",
+      "keywords": [
+        "政策",
+        "高质量发展",
+        "新能源"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "半导体",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "深化改革开放有助于吸引外资和技术引进，提升国内半导体产业的技术水平和竞争力。",
+      "keywords": [
+        "技术引进",
+        "外资",
+        "竞争力"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "医药",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "高质量发展的要求将促进医药行业的创新和研发，提高医疗服务质量。",
+      "keywords": [
+        "创新",
+        "研发",
+        "医疗服务质量"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源政策利好电池企业，宁德时代作为行业龙头，有望受益于政策支持和市场需求增长。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE STAR",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "深化改革开放有助于提升半导体技术水平，中芯国际作为国内领先的半导体制造企业，有望获得更多的市场机会。",
+      "relatedIndustries": [
+        "半导体",
+        "电子"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "高质量发展和深化改革将推动基础设施建设和制造业升级，增加对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内货币政策保持稳定，国债收益率预计不会有大幅波动。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源、半导体和医药等行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T13:20:18.639Z",
+  "modelVersion": "qwen-max"
+}

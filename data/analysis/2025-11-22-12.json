@@ -1,0 +1,58 @@
+{
+  "newsId": "2025-11-22-12",
+  "newsDate": "2025-11-22",
+  "newsTitle": "二十四节气·小雪",
+  "newsContent": "小雪是二十四节气中的第二十个节气，是冬季的第二个节气。节目的最后，我们一起感受这个时节的自然和文化之美。 时至小雪，寒潮和冷空气活动频繁，降雪逐渐增多，但雪量不大，所以称为“小雪”。小雪时节，全国秋冬种基本结束，田间管理成为农事重点。“小麦冬灌，保墒防冻”，农人忙着清沟理墒、压实土壤，破土而出的新绿预示着春的希望。“小雪腌菜，大雪腌肉。”北方人家多在此时开始制作雪里蕻、酸菜等越冬食品。而南方一些地区，有吃糍粑、晒制鱼干的风俗。这蒸腾的生活气息里，蕴藏着地道的风土人情。小雪，雪落成诗，滋养新生。",
+  "industryImpacts": [
+    {
+      "industryName": "农业",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "小雪节气对农业生产有影响，但新闻内容主要描述了农事活动和文化习俗，未提及具体政策或市场变化。",
+      "keywords": [
+        "小麦冬灌",
+        "田间管理"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "食品加工",
+      "impactScore": 40,
+      "impactType": "neutral",
+      "reasoning": "新闻提到北方腌菜、南方制作糍粑等风俗，但这些活动对整个食品加工业的影响有限。",
+      "keywords": [
+        "腌菜",
+        "糍粑"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [],
+  "futuresImpacts": [
+    {
+      "commodity": "农产品",
+      "exchange": "郑商所",
+      "impactScore": 30,
+      "impactType": "neutral",
+      "reasoning": "小雪节气对农产品期货有一定影响，但新闻内容未提及具体供需变化或价格走势。",
+      "priceDirection": "stable",
+      "confidence": 0.6
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 20,
+      "impactType": "neutral",
+      "reasoning": "新闻内容与宏观经济政策无直接关联，对债券市场影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.5
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 30,
+  "summary": "小雪节气的新闻内容主要描述了农事活动和文化习俗，对资本市场整体影响较小。",
+  "analyzedAt": "2025-11-29T10:26:56.346Z",
+  "modelVersion": "qwen-max"
+}

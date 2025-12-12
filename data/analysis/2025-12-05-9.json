@@ -1,0 +1,149 @@
+{
+  "newsId": "2025-12-05-9",
+  "newsDate": "2025-12-05",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "中国大宗商品价格指数连续七个月环比上升中国物流与采购联合会今天（12月5日）公布，11月份中国大宗商品价格指数为114.1点，环比上涨0.8%，连续七个月实现环比上升。分行业看，有色金属价格指数继续走高，能源和农产品价格指数止跌反弹，大宗商品市场景气水平稳中向好。全国总工会启动2026年工会送温暖行动全国总工会日前启动2026年元旦春节期间工会送温暖行动。自2025年12月3日至2026年3月3日，各级工会将关注重点工程、重大项目、建筑、公交、环卫等重点行业，针对劳动模范、困难职工、新就业形态劳动者、灵活就业人员等重点群体，广泛开展走访慰问。南宁至凭祥高铁全线贯通运营我国“十四五”规划与周边国家互联互通的重点项目——南宁至凭祥高铁今天（12月5日）全线贯通运营。南凭高铁正线全长约201公里，设计时速250公里，开通后南宁至凭祥最快75分钟可达。第二届中法教育发展论坛签署54项合作成果今天（12月5日），第二届中法教育发展论坛在四川举行。中法近百所高校达成54项合作成果，包括新增双学位联合培养项目、合作办学以及新建联合科研实验室等。该论坛是中法教育部长层面的定期对话机制，致力于构建系统化、多层次的中法教育合作格局。",
+  "industryImpacts": [
+    {
+      "industryName": "有色金属",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中国大宗商品价格指数连续七个月环比上升，其中有色金属价格指数继续走高，表明该行业景气度提升。",
+      "keywords": [
+        "大宗商品",
+        "有色金属",
+        "价格上涨"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "能源价格指数止跌反弹，预示着能源行业的市场状况有所改善。",
+      "keywords": [
+        "能源",
+        "价格反弹"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "农产品",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "农产品价格指数止跌反弹，对农业相关企业构成利好。",
+      "keywords": [
+        "农产品",
+        "价格反弹"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "铁路运输",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "南宁至凭祥高铁全线贯通运营，有利于提高区域内的物流效率和促进经济发展。",
+      "keywords": [
+        "高铁",
+        "物流",
+        "经济发展"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "江西铜业",
+      "stockCode": "600362",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为有色金属行业的重要企业，江西铜业将受益于有色金属价格的持续上涨。",
+      "relatedIndustries": [
+        "有色金属"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中国石化",
+      "stockCode": "600028",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "能源价格指数止跌反弹，对中国石化的业绩有正面影响。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中粮糖业",
+      "stockCode": "600737",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "农产品价格指数止跌反弹，对中粮糖业等农业相关企业的盈利预期产生积极影响。",
+      "relatedIndustries": [
+        "农产品"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "有色金属价格指数继续走高，预计铜价将继续上涨。",
+      "priceDirection": "up",
+      "confidence": 0.9
+    },
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "能源价格指数止跌反弹，原油期货价格有望回升。",
+      "priceDirection": "up",
+      "confidence": 0.85
+    },
+    {
+      "commodity": "大豆",
+      "exchange": "大商所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "农产品价格指数止跌反弹，大豆期货价格可能上涨。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前宏观经济环境稳定，货币政策未见明显变化，国债收益率预计保持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "整体经济环境稳定，企业债信用风险较低，但需关注个别行业如房地产的风险。",
+      "yieldDirection": "stable",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "大宗商品价格指数持续上升，特别是有色金属、能源和农产品价格的上涨，对相关行业和公司构成利好。建议关注有色金属、能源和农业相关企业及期货品种的投资机会。",
+  "analyzedAt": "2025-12-05T13:33:57.223Z",
+  "modelVersion": "qwen-max"
+}

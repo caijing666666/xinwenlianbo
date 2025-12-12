@@ -1,0 +1,74 @@
+{
+  "newsId": "2025-11-17-13",
+  "newsDate": "2025-11-17",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "俄称新控制居民点 乌称袭击俄炼油厂俄罗斯国防部16日称，俄军当天继续向乌军防御纵深推进，控制了扎波罗热地区两个居民点。俄军对乌能源设施、无人机装配车间等目标实施打击。乌克兰武装部队总参谋部16日称，乌军打击了俄萨马拉州一座炼油厂以及顿涅茨克地区的俄军无人机仓库。日本经济六个季度以来再次出现负增长日本内阁府今天（11月17日）发布初步统计结果显示，日本第三季度国内生产总值（GDP）环比下降0.4%，按年率计算下降1.8%，是自2024年第一季度以来再次出现负增长。日本媒体和专家表示，美国政府4月开始加征汽车关税及所谓“对等关税”重创以汽车为代表的日本出口产业，是日本经济三季度出现负增长的重要原因。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "俄罗斯和乌克兰的冲突加剧，对能源设施的打击可能导致能源供应不稳定，影响能源行业的生产和运营。",
+      "keywords": [
+        "能源设施",
+        "打击",
+        "供应不稳定"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "汽车",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "日本经济出现负增长，其中一个重要原因是美国政府加征汽车关税，这将直接影响日本汽车出口产业。",
+      "keywords": [
+        "汽车关税",
+        "出口产业",
+        "负增长"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "丰田汽车",
+      "stockCode": "TM",
+      "exchange": "NYSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "美国政府加征汽车关税导致日本汽车出口受阻，丰田作为日本主要汽车制造商之一，其业绩可能受到影响。",
+      "relatedIndustries": [
+        "汽车"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "俄罗斯和乌克兰的冲突加剧，可能导致能源供应紧张，从而推高原油价格。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然地缘政治风险增加，但短期内货币政策预计保持稳定，国债收益率变化不大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 50,
+  "summary": "地缘政治风险增加，能源行业和汽车行业面临压力，建议关注避险资产。",
+  "analyzedAt": "2025-11-29T10:49:19.327Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-06-14",
+  "newsDate": "2025-11-06",
+  "newsTitle": "美政府“停摆”持续 拟减少40座机场10%运输量",
+  "newsContent": "6日，美国联邦政府“停摆”进入创纪录的第37天。美国交通部长达菲表示，如果“停摆”持续，交通部将从7日开始削减全美40座繁忙机场10%的运输量，以降低国家空域风险。自10月1日美国联邦政府“停摆”以来，作为“必要人员”的空中交通管制员短缺情况不断恶化，导致美国各地航班延误或取消情况加剧。",
+  "industryImpacts": [
+    {
+      "industryName": "航空",
+      "impactScore": 80,
+      "impactType": "negative",
+      "reasoning": "美国政府停摆导致航班延误或取消，影响航空公司运营和收入。",
+      "keywords": [
+        "航班延误",
+        "航班取消",
+        "运营成本"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "旅游业",
+      "impactScore": 75,
+      "impactType": "negative",
+      "reasoning": "航班减少将直接影响国际旅游，尤其是依赖美国市场的旅行社和酒店。",
+      "keywords": [
+        "国际旅游",
+        "旅行社",
+        "酒店预订"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "作为主要的国际航空公司之一，航班减少将直接影响其国际航线的收入。",
+      "relatedIndustries": [
+        "航空",
+        "旅游业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "携程旅行网",
+      "stockCode": "CTRP",
+      "exchange": "NASDAQ",
+      "impactScore": 65,
+      "impactType": "negative",
+      "reasoning": "航班减少将影响其国际机票和旅游套餐的销售。",
+      "relatedIndustries": [
+        "旅游业",
+        "在线旅游服务"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "-1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "航班减少可能导致航空燃油需求下降，进而影响原油价格。",
+      "priceDirection": "down",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 50,
+  "summary": "美国政府停摆导致航班减少，对航空业和旅游业产生负面影响，相关公司股价可能下跌。",
+  "analyzedAt": "2025-11-29T12:40:59.305Z",
+  "modelVersion": "qwen-max"
+}

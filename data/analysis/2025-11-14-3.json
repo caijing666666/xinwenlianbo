@@ -1,0 +1,102 @@
+{
+  "newsId": "2025-11-14-3",
+  "newsDate": "2025-11-14",
+  "newsTitle": "李强会见泰国国王",
+  "newsContent": "国务院总理李强11月14日上午在京会见来华进行国事访问的泰国国王哇集拉隆功。李强表示，中泰是好亲戚、好朋友、好伙伴。今天（11月14日）上午，习近平主席同国王陛下举行会晤，就进一步深化中泰关系达成重要共识。“中泰一家亲”，中方愿同泰方保持高层交往，巩固睦邻友好，坚定相互支持，深化贸易、投资、绿色经济、人工智能、人文等领域合作，推动中泰命运共同体建设取得更多成果，更好造福两国人民。哇集拉隆功表示，泰中传统友谊深厚，各领域合作成果丰富、前景广阔。泰方高度赞赏中国经济社会发展近年来取得的巨大成就，愿同中方加强友好交往，深化务实合作，在共同发展的道路上携手前行。吴政隆参加会见。",
+  "industryImpacts": [
+    {
+      "industryName": "贸易",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中泰深化贸易合作将促进两国之间的贸易往来，利好相关行业。",
+      "keywords": [
+        "贸易",
+        "合作",
+        "增长"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "投资",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中泰加强投资合作，有望吸引更多的双边投资，推动相关行业发展。",
+      "keywords": [
+        "投资",
+        "合作",
+        "增长"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "绿色经济",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中泰深化绿色经济合作，有利于推动环保和可持续发展项目。",
+      "keywords": [
+        "绿色经济",
+        "合作",
+        "环保"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "人工智能",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "中泰在人工智能领域的合作将进一步推动技术创新和应用。",
+      "keywords": [
+        "人工智能",
+        "合作",
+        "创新"
+      ],
+      "confidence": 0.65
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国中车",
+      "stockCode": "601766",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中泰深化贸易和投资合作，可能增加对铁路运输设备的需求。",
+      "relatedIndustries": [
+        "贸易",
+        "投资"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中泰在绿色经济领域的合作，有望推动光伏产业的发展。",
+      "relatedIndustries": [
+        "绿色经济"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "中泰合作对国内货币政策影响有限，国债收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中泰深化合作利好贸易、投资、绿色经济和人工智能等行业，相关企业有望受益。",
+  "analyzedAt": "2025-11-29T11:00:47.244Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-11-14-5",
+  "newsDate": "2025-11-14",
+  "newsTitle": "丁薛祥出席2025世界中文大会开幕式并发表主旨讲话",
+  "newsContent": "中共中央政治局常委、国务院副总理丁薛祥14日在京出席2025世界中文大会开幕式并发表主旨讲话。丁薛祥指出，习近平主席高度重视国际中文教育，强调坚持守正创新，加强联通融合，凝聚各方共识，努力搭建语言互通之桥、理解互信之桥、文明互鉴之桥。这些年，在中外各方共同努力下，国际中文教育取得丰硕成果，中文学习受到国际社会广泛欢迎。丁薛祥表示，中共二十届四中全会擘画了未来5年中国发展蓝图，将为世界各国提供更多机遇，国际社会学习中文、了解中国的需求也会持续增长。中国作为母语国，将一如既往支持服务各国开展好中文教育。他提出4点建议：一是坚持创新引领，加强中文数字资源共建共享，让中文学习更加便捷高效。二是坚持服务发展，持续推进国际中文教育与职业教育、专业教育融合发展，提升中文实际应用能力和水平。三是坚持友好往来，为中文学习者来华留学提供便利，增进中外民心相通。四是坚持开放包容，加强中文与世界各国语言的双向交流，推动不同文明包容共存、互学互鉴。开幕式前，丁薛祥参观了世界中文大会主题展。2025世界中文大会以“创新引领 数智赋能——让中文零距离”为主题。中外政府官员、专家学者、高校负责人和国际组织代表等约2000人参加开幕式。",
+  "industryImpacts": [
+    {
+      "industryName": "教育",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "国际中文教育的推广将带动相关教育资源的需求，包括教材、在线课程等。",
+      "keywords": [
+        "国际中文教育",
+        "数字资源",
+        "职业教育"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "科技",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "推动中文数字资源共建共享，促进教育科技公司的发展。",
+      "keywords": [
+        "创新引领",
+        "数智赋能",
+        "数字资源"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "新东方",
+      "stockCode": "EDU",
+      "exchange": "NYSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为教育行业的龙头企业，新东方有望受益于国际中文教育的推广。",
+      "relatedIndustries": [
+        "教育"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "好未来",
+      "stockCode": "TAL",
+      "exchange": "NYSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "好未来在教育科技领域的布局将受益于中文数字资源的发展。",
+      "relatedIndustries": [
+        "教育",
+        "科技"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "此次讲话主要涉及教育和文化交流，对货币政策和债券市场影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "国际中文教育的推广将利好教育和科技行业，相关企业有望受益。债券市场预计保持稳定。",
+  "analyzedAt": "2025-11-29T11:01:07.150Z",
+  "modelVersion": "qwen-max"
+}

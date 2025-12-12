@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-12-02-001",
+  "newsDate": "2025-12-02",
+  "newsTitle": "习近平就老挝人民民主共和国成立50周年向老挝人民革命党中央委员会总书记、国家主席通伦致贺电",
+  "newsContent": "新华社北京12月2日电　12月2日，中共中央总书记、国家主席习近平就老挝人民民主共和国成立50周年向老挝人民革命党中央委员会总书记、国家主席通伦致贺电。  习近平指出，老挝人民革命党团结带领老挝人民艰苦奋斗、砥砺前行，在革新开放事业中取得可喜成就，人民生活持续改善，国际和地区影响力显著提升。作为同志加兄弟，中方为此深感高兴。我们坚信，老方一定能走好符合本国国情的社会主义道路，迎接老挝党十二大胜利召开，不断开创党和国家建设事业新局面。  习近平强调，通伦总书记同志今年9月成功访华，我同总书记同志就深化中老命运共同体建设达成新的战略共识。中方始终将老挝作为周边外交优先方向，愿同老方一道，以明年中老建交65周年为契机，赓续传统友谊，加强团结协作，推动新时期中老全面战略合作不断走深走实，为两国人民带来更多福祉，为地区乃至世界和平与发展作出更大贡献。 【纠错】    【责任编辑:张樵苏】    阅读下一篇：",
+  "industryImpacts": [
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中老合作加强，可能推动两国在基础设施建设领域的合作项目增加。",
+      "keywords": [
+        "基础设施",
+        "合作",
+        "投资"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "国际贸易",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中老关系的深化有助于促进双边贸易，特别是农产品、矿产等资源类商品的进出口。",
+      "keywords": [
+        "贸易",
+        "农产品",
+        "矿产"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国中铁",
+      "stockCode": "601390",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为基建行业的龙头企业，有望受益于中老合作带来的新项目机会。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国铁建",
+      "stockCode": "601186",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "同样作为基建行业的重要参与者，可能从增加的合作项目中获益。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内对债券市场影响有限，但长期来看，若中老合作带动经济增长，则可能间接利好国债市场。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 65,
+  "summary": "中老合作加深预计主要利好基建和国际贸易相关企业，建议关注这些领域内的领先公司。",
+  "analyzedAt": "2025-12-12T02:36:23.923Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-11-29-3",
+  "newsDate": "2025-11-29",
+  "newsTitle": "前10个月乡村产业保持良好发展势头",
+  "newsContent": "记者从农业农村部了解到，今年以来，我国乡村产业振兴保持良好发展势头。1—10月，农产品加工业稳中有进，规模以上农副食品加工业增加值同比增长6.3%。新产业新业态活力十足。农业与旅游、文化、体育、电商等深度融合，乡村休闲旅游、农村电商等新业态蓬勃发展，不仅成为产业发展的新增长点，也成为农民增收的新亮点。1—10月，乡村消费品零售额5.5万亿元，同比增长4.6%，增速高于城镇0.4个百分点。全国农村和农产品网络零售额同比分别增长7.5%和9.5%。与此同时，乡村特色产业加快发展。今年支持新建40个优势特色产业集群、50个现代农业产业园、200个农业产业强镇，带动培育398个产业强村，发展了一批“小而精”“特而美”的特色产品，推动“小特产”成为“大产业”，产业韧性持续增强。",
+  "industryImpacts": [
+    {
+      "industryName": "农业",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "农产品加工业稳中有进，乡村产业振兴势头良好，有利于农业企业的发展。",
+      "keywords": [
+        "农产品加工业",
+        "乡村产业振兴",
+        "增长"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "电商",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "农村电商网络零售额同比增长较快，表明电商行业在农村市场的渗透率和影响力持续增强。",
+      "keywords": [
+        "农村电商",
+        "网络零售额",
+        "增长"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "乡村休闲旅游业蓬勃发展，成为新的经济增长点，有助于提升相关企业的业绩。",
+      "keywords": [
+        "乡村休闲旅游",
+        "新增长点",
+        "农民增收"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中粮集团",
+      "stockCode": "000031",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的农产品加工企业之一，受益于农产品加工业的增长趋势。",
+      "relatedIndustries": [
+        "农业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "阿里巴巴",
+      "stockCode": "BABA",
+      "exchange": "NYSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "其电商平台在农村市场的业务有望进一步扩大，带动整体业绩增长。",
+      "relatedIndustries": [
+        "电商"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "大豆",
+      "exchange": "大商所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "随着农产品加工业的稳步发展，对大豆等原材料的需求可能增加，支撑价格上行。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "农业、电商及乡村旅游等行业受到正面影响，相关企业与商品期货存在投资机会。",
+  "analyzedAt": "2025-11-29T16:11:40.255Z",
+  "modelVersion": "qwen-max"
+}

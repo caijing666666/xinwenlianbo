@@ -1,0 +1,133 @@
+{
+  "newsId": "2025-11-04-2",
+  "newsDate": "2025-11-04",
+  "newsTitle": "【学习贯彻党的二十届四中全会精神】真抓实干 为中国式现代化建设贡献力量",
+  "newsContent": "连日来，中管企业、中管金融企业和中管高校干部职工深入学习贯彻党的二十届四中全会精神。大家表示，要把思想和行动统一到以习近平同志为核心的党中央决策部署上来，在推动产业发展、科技创新、民生保障等重点领域主动作为、真抓实干，为中国式现代化建设贡献力量。全会指出，“十四五”时期，面对错综复杂的国际形势和艰巨繁重的国内改革发展稳定任务，以习近平同志为核心的党中央团结带领全党全国各族人民，迎难而上、砥砺前行。我国经济实力、科技实力、综合国力跃上新台阶。大家表示，倍感振奋、深受鼓舞。“十五五”时期是基本实现社会主义现代化夯实基础、全面发力的关键时期，要更加紧密地团结在以习近平同志为核心的党中央周围，保持战略定力，增强必胜信心，乘势而上创造新的伟业。全会提出，“加快高水平科技自立自强，引领发展新质生产力”“建设强大国内市场，加快构建新发展格局”等核心部署，为经济未来发展指明方向。大家表示，全会对“十五五”时期发展作出的顶层设计和战略擘画，准确把握党和国家事业发展所处历史方位，深入分析我国发展环境面临的深刻复杂变化，指导方针科学精准，主要目标清晰明确，任务举措求真务实。中管企业、中管金融企业、中管高校等将以全会精神为指引，锚定目标谋划实践路径。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "全会强调加快高水平科技自立自强，新能源作为科技创新的重要领域将受益于政策支持。",
+      "keywords": [
+        "科技创新",
+        "新能源",
+        "政策支持"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "半导体",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "全会提出加快高水平科技自立自强，半导体行业作为关键核心技术领域将获得更多的政策和资金支持。",
+      "keywords": [
+        "科技创新",
+        "半导体",
+        "政策支持"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "医药",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "全会强调民生保障，医药行业作为重要民生领域将受益于政策支持和市场需求增长。",
+      "keywords": [
+        "民生保障",
+        "医药",
+        "政策支持"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源政策利好电池企业，宁德时代作为行业龙头有望受益。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "半导体行业政策利好，中芯国际作为国内领先的芯片制造企业将受益。",
+      "relatedIndustries": [
+        "半导体",
+        "电子"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "恒瑞医药",
+      "stockCode": "600276",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "医药行业政策利好，恒瑞医药作为创新药龙头企业将受益。",
+      "relatedIndustries": [
+        "医药",
+        "生物技术"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "全会强调加快构建新发展格局，基础设施建设和制造业升级将增加对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "钢铁",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "全会强调加快构建新发展格局，基础设施建设和制造业升级将增加对钢铁的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "货币政策保持稳定，国债收益率预计维持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "全会强调推动产业发展和科技创新，优质企业债信用风险较低，需求可能增加。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源、半导体和医药行业，相关企业和商品期货有望受益，建议关注龙头企业。债券市场整体稳定，优质企业债需求可能增加。",
+  "analyzedAt": "2025-11-29T12:47:36.745Z",
+  "modelVersion": "qwen-max"
+}

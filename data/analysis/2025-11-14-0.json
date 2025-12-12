@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-14-0",
+  "newsDate": "2025-11-14",
+  "newsTitle": "习近平举行仪式欢迎泰国国王访华",
+  "newsContent": "国家主席习近平14日上午在人民大会堂东门外广场举行仪式，欢迎泰王国国王玛哈·哇集拉隆功对我国进行国事访问。习近平主席夫人彭丽媛，中共中央政治局委员、中央外事工作委员会办公室主任王毅等出席欢迎仪式。陪同哇集拉隆功访华的有王后、总理、外交部长等。军乐团奏泰国颂圣歌和中国国歌，鸣礼炮21响。哇集拉隆功在习近平陪同下检阅中国人民解放军仪仗队。两国元首回到检阅台观看仪仗队分列式。随后，军乐团进行行进吹奏表演。哇集拉隆功是应习近平的邀请对我国进行国事访问的。",
+  "industryImpacts": [
+    {
+      "industryName": "旅游",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "泰国国王访华可能促进中泰两国的旅游合作，增加中国游客赴泰旅游，同时吸引更多泰国游客来华。",
+      "keywords": [
+        "旅游",
+        "合作",
+        "游客"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "航空",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "随着中泰两国关系的加强，预计未来往返两国的航班数量将有所增加，利好航空公司。",
+      "keywords": [
+        "航班",
+        "航线",
+        "合作"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的旅游服务提供商，中国国旅有望受益于中泰旅游合作带来的业务增长。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国东方航空",
+      "stockCode": "600115",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "东航在东南亚地区有较多航线布局，中泰关系的加强有利于其业务发展。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "此次访问主要涉及外交和经济合作，对货币政策和国债市场影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.9
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 65,
+  "summary": "泰国国王访华有助于加强中泰两国关系，特别是旅游和航空行业有望从中受益。",
+  "analyzedAt": "2025-11-29T10:59:30.835Z",
+  "modelVersion": "qwen-max"
+}

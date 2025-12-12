@@ -1,0 +1,102 @@
+{
+  "newsId": "2025-12-03-6",
+  "newsDate": "2025-12-03",
+  "newsTitle": "11月物流业景气指数保持扩张态势",
+  "newsContent": "中国物流与采购联合会今天（12月3日）公布，11月份中国物流业景气指数为50.9%，环比回升0.2个百分点。分地区来看，我国东中西部地区业务总量指数相对均衡。从需求板块看，制造回升、能源放缓、消费趋稳。交通运输设备、家电家居、智能设备、汽车及零部件制造业保持较好需求。11月份邮政快递业业务总量指数为70.2%，线下实体、社交电商平台和综合电商平台齐头并进，总体趋于平稳。11月物流业固定资产投资完成额指数为55.4%，业务活动预期指数为54.9%，持续在高景气区间运行。多式联运领域和航空运输业、邮政快递业业务活动预期指数均保持较高水平，对稳定行业预期起到支撑作用。",
+  "industryImpacts": [
+    {
+      "industryName": "物流",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "物流业景气指数保持扩张态势，业务总量指数相对均衡，需求板块中制造回升、消费趋稳，对物流行业整体利好。",
+      "keywords": [
+        "物流",
+        "景气指数",
+        "制造业",
+        "消费"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "制造业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "交通运输设备、家电家居、智能设备、汽车及零部件制造业保持较好需求，有利于制造业的发展。",
+      "keywords": [
+        "制造业",
+        "需求",
+        "增长"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "电子商务",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "邮政快递业业务总量指数较高，线下实体、社交电商平台和综合电商平台齐头并进，总体趋于平稳，对电商行业形成支撑。",
+      "keywords": [
+        "电子商务",
+        "快递",
+        "平台"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "顺丰控股",
+      "stockCode": "002352",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的快递物流企业，受益于邮政快递业业务总量指数的提升。",
+      "relatedIndustries": [
+        "物流",
+        "电子商务"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "美的集团",
+      "stockCode": "000333",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "家电家居制造业保持较好需求，对公司业绩有正面影响。",
+      "relatedIndustries": [
+        "制造业",
+        "消费"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "制造业尤其是家电家居、交通运输设备等行业的良好表现，将带动铜的需求增加。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "物流业和制造业的稳定发展有助于企业经营状况改善，但短期内债券市场收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "物流业和制造业景气度提升，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-04T06:32:45.912Z",
+  "modelVersion": "qwen-max"
+}

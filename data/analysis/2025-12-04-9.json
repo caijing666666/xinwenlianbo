@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-12-04-9",
+  "newsDate": "2025-12-04",
+  "newsTitle": "我国生态保护红线内生态系统质量稳步改善",
+  "newsContent": "记者今天（12月4日）从自然资源部获悉，自2022年全国生态保护红线划定以来，生态保护红线内生态系统质量持续改善。红线内植被覆盖度平均提升1.29%，森林覆盖率和森林蓄积量实现双增长，草原综合植被盖度稳中向好，湿地水源保障状况总体良好。 与此同时，生态保护红线内部空间结构也总体保持稳定，局部优化成效持续显现。红线内，林地面积增加3344平方千米，水域面积增加320平方千米，海洋生态保护红线内，用海强度明显下降。",
+  "industryImpacts": [
+    {
+      "industryName": "环保",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "生态保护红线内生态系统质量持续改善，表明政府对环保行业的重视和支持力度加大，有利于环保企业的发展。",
+      "keywords": [
+        "生态保护",
+        "植被覆盖度",
+        "森林覆盖率"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "林业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "林地面积增加和森林蓄积量增长将直接利好林业企业，提高其资源储备和盈利能力。",
+      "keywords": [
+        "林地面积",
+        "森林蓄积量"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "农业",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "虽然草原综合植被盖度稳中向好，但短期内对农业生产的影响有限，长期来看可能有助于提升土地质量和产量。",
+      "keywords": [
+        "草原植被盖度",
+        "土地质量"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "碧水源",
+      "stockCode": "300070",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为环保行业龙头之一，碧水源有望从国家加强生态保护的政策中受益。",
+      "relatedIndustries": [
+        "环保"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "福建金森",
+      "stockCode": "002679",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "主营森林培育与经营，随着林地面积及森林蓄积量的增长，公司业务前景看好。",
+      "relatedIndustries": [
+        "林业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "绿色债券",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "生态保护成效显著增加了市场对于绿色项目的信心，可能会吸引更多资金流入绿色债券市场。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "生态保护成果显著提振了环保及相关产业的信心，特别是对环保、林业领域的企业构成利好。",
+  "analyzedAt": "2025-12-04T16:45:06.694Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-07-6",
+  "newsDate": "2025-11-07",
+  "newsTitle": "2025年世界互联网大会乌镇峰会开幕",
+  "newsContent": "2025年世界互联网大会乌镇峰会7日在浙江乌镇开幕。中外嘉宾表示，10年前，习近平主席创造性地提出构建网络空间命运共同体理念，为深化互联网领域国际交流合作、携手构建网络空间命运共同体指明了方向。中共二十届四中全会对推动互联网领域创新发展作出一系列重要部署，必将为世界互联网发展带来更多新机遇。各方要培育活力迸发的数字经济，打造和平稳定的网络空间，建设美美与共的精神家园，构建公正合理的治理体系。本届峰会以“共筑开放合作、安全普惠的数智未来——携手构建网络空间命运共同体”为主题。",
+  "industryImpacts": [
+    {
+      "industryName": "互联网",
+      "impactScore": 90,
+      "impactType": "positive",
+      "reasoning": "世界互联网大会强调网络空间命运共同体理念，推动互联网领域创新发展，利好互联网行业。",
+      "keywords": [
+        "互联网",
+        "创新",
+        "合作"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "industryName": "数字经济",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "峰会提出培育活力迸发的数字经济，将促进数字经济发展。",
+      "keywords": [
+        "数字经济",
+        "发展",
+        "创新"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "阿里巴巴",
+      "stockCode": "BABA",
+      "exchange": "NYSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为中国领先的互联网企业，阿里巴巴将受益于政策支持和国际合作。",
+      "relatedIndustries": [
+        "互联网",
+        "数字经济"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "腾讯控股",
+      "stockCode": "0700.HK",
+      "exchange": "HKEX",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "腾讯在互联网和数字经济领域的领先地位使其有望从政策中获益。",
+      "relatedIndustries": [
+        "互联网",
+        "数字经济"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然互联网和数字经济的发展对经济有积极影响，但短期内对国债市场的影响较为有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "世界互联网大会强调网络空间命运共同体理念，利好互联网和数字经济行业，相关龙头企业有望受益。",
+  "analyzedAt": "2025-11-29T12:33:20.778Z",
+  "modelVersion": "qwen-max"
+}

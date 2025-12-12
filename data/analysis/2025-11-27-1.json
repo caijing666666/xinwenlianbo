@@ -1,0 +1,67 @@
+{
+  "newsId": "2025-11-27-1",
+  "newsDate": "2025-11-27",
+  "newsTitle": "《习近平强军思想概论》教材出版发行",
+  "newsContent": "为深入学习贯彻习近平新时代中国特色社会主义思想，进一步推动习近平强军思想进教材进课堂进头脑，更好立德树人、为战育人，中央军委政治工作部组织编写了《习近平强军思想概论》（以下简称《概论》），已由解放军出版社出版发行。《概论》是全面系统阐释习近平强军思想的统编教材，是军队院校政治理论课的权威用书，是推进新时代党的军事指导理论体系化学理化研究的重要成果。《概论》的编写出版和使用，对于更好用习近平强军思想铸魂育人，引导青年官兵深刻领悟“两个确立”的决定性意义，打牢听党指挥、奋斗强军的思想政治根基，努力成为堪当强军重任的时代新人具有重要意义。《概论》由导论、15章主体内容和结语构成，全面反映了党的军事指导理论创新发展的最新成果，特别是对发展马克思主义军事理论作出的原创性贡献，反映了习近平强军思想引领强军实践取得的历史性成就、发生的历史性变革。《概论》忠实原著原文原义，突出教学导向和实践指向，注重深入阐释道理学理哲理，讲清实现党在新时代的强军目标、把人民军队全面建成世界一流军队的部署要求，有助于把习近平强军思想转化为打好实现建军一百年奋斗目标攻坚战、推进新时代强军事业的强大力量。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "《习近平强军思想概论》的出版发行将进一步推动国防和军队现代化建设，利好国防军工行业。",
+      "keywords": [
+        "国防",
+        "军工",
+        "现代化"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的航空防务装备制造商，中航沈飞将受益于国防军工行业的政策支持和发展。",
+      "relatedIndustries": [
+        "国防军工",
+        "航空航天"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国船舶",
+      "stockCode": "600150",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内主要的船舶制造企业，中国船舶将受益于海军现代化建设和国防军工行业的发展。",
+      "relatedIndustries": [
+        "国防军工",
+        "造船"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "国防军工行业的发展对国债市场影响较小，货币政策保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "《习近平强军思想概论》的出版发行利好国防军工行业及相关企业，建议关注该领域的龙头企业。",
+  "analyzedAt": "2025-11-29T09:52:25.349Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,100 @@
+{
+  "newsId": "2025-11-10-3",
+  "newsDate": "2025-11-10",
+  "newsTitle": "《习近平经济思想概论》出版发行",
+  "newsContent": "为推动习近平经济思想进教材进课堂进头脑，由中央宣传部、国家发展改革委组织编写的马克思主义理论研究和建设工程重点教材《习近平经济思想概论》（以下简称《概论》）一书，已由高等教育出版社、人民出版社出版。党的十八大以来，以习近平同志为核心的党中央立足中华民族伟大复兴战略全局和世界百年未有之大变局，深刻把握形势新变化和实践新要求，系统总结我国经济发展的实践经验，观大势、谋全局、干实事，不断深化对经济工作的规律性认识，提出一系列新理念新思想新战略，引领我国经济发展取得历史性成就、发生历史性变革，形成了习近平经济思想。《概论》由导论和正文15章组成，共约21万字，系统阐述习近平经济思想的重大意义、历史地位、鲜明特征、科学体系、基本内涵、实践要求等，充分阐明习近平经济思想是习近平新时代中国特色社会主义思想的重要组成部分，是中国共产党不懈探索社会主义经济发展道路形成的宝贵思想结晶，是运用马克思主义政治经济学基本原理指导新时代经济发展实践形成的重大理论成果，是新时代我国经济工作的科学行动指南。《概论》坚持忠于原著原文，突出体系化学理化，注重易学易用，是高校经济学类专业学生系统学习掌握习近平经济思想的重点教材，也是广大党员、干部学习领会习近平经济思想的重要读物。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "《习近平经济思想概论》强调了绿色低碳发展，这将推动新能源行业的政策支持和市场需求。",
+      "keywords": [
+        "绿色低碳",
+        "政策支持",
+        "市场需求"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "科技",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "书中提到的创新驱动发展战略将促进科技创新和产业升级，利好科技行业。",
+      "keywords": [
+        "创新驱动",
+        "科技创新",
+        "产业升级"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然书中提到了房住不炒的原则，但整体对房地产行业的影响较为中性，短期内不会有重大变化。",
+      "keywords": [
+        "房住不炒",
+        "稳定市场"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池龙头企业，受益于政策支持和市场需求增长。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "华为技术有限公司",
+      "stockCode": "未上市",
+      "exchange": "未上市",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为科技创新的代表企业，受益于创新驱动发展战略。",
+      "relatedIndustries": [
+        "科技",
+        "通信"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "N/A"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "新能源和科技行业的发展将增加对铜的需求，利好铜期货价格。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "货币政策保持稳定，国债收益率预计维持在当前水平。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "政策利好新能源和科技行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T11:21:12.420Z",
+  "modelVersion": "qwen-max"
+}

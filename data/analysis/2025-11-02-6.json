@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-02-6",
+  "newsDate": "2025-11-02",
+  "newsTitle": "前三季度我国电子信息制造业生产快速增长",
+  "newsContent": "记者从工业和信息化部了解到，今年前三季度，我国电子信息制造业生产快速增长，出口保持平稳，效益平稳增长。今年以来，以电子信息制造业为核心的信息产业加速布局，从智能终端到核心元器件，产业持续发力、根基不断夯实。前三季度，规模以上电子信息制造业增加值同比增长10.9%，增速分别比同期工业、高技术制造业高4.7个和1.3个百分点。规模以上电子信息制造业实现营业收入12.5万亿元，同比增长8.8%，利润同比增长12%。出口方面，前三季度，规模以上电子信息制造业累计实现出口交货值同比增长2.1%。我国电子信息制造业的核心竞争力持续加强。",
+  "industryImpacts": [
+    {
+      "industryName": "电子信息制造业",
+      "impactScore": 90,
+      "impactType": "positive",
+      "reasoning": "前三季度电子信息制造业生产快速增长，出口保持平稳，效益平稳增长，核心竞争力持续加强。",
+      "keywords": [
+        "电子信息制造业",
+        "智能终端",
+        "核心元器件"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "industryName": "半导体",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "电子信息制造业的快速增长将带动对半导体的需求增加。",
+      "keywords": [
+        "半导体",
+        "需求增加",
+        "产业链"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的半导体制造企业，受益于电子信息制造业的增长和需求增加。",
+      "relatedIndustries": [
+        "半导体",
+        "电子信息制造业"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "京东方A",
+      "stockCode": "000725",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为显示面板龙头企业，受益于电子信息制造业的快速增长。",
+      "relatedIndustries": [
+        "电子信息制造业",
+        "显示面板"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "电子信息制造业的快速增长和效益提升有助于提高相关企业的信用评级，降低债券风险。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 80,
+  "summary": "电子信息制造业的快速增长利好相关行业和企业，尤其是半导体和显示面板领域。建议关注龙头企业和相关企业债。",
+  "analyzedAt": "2025-11-29T13:00:58.008Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,105 @@
+{
+  "newsId": "2025-11-11-16",
+  "newsDate": "2025-11-11",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "俄称打击乌侦察中心 乌称击退俄进攻俄罗斯联邦安全局今天（11月11日）称，俄军对乌克兰国防部情报总局位于基辅州的电子侦察中心等目标实施打击。俄国防部今天发布一段视频，显示俄军使用火炮打击红军城（乌称波克罗夫斯克）方向的乌克兰无人机指挥点。俄军方10日还称，在扎波罗热和顿涅茨克控制了三个居民点。 乌克兰能源部今天称，俄罗斯对哈尔科夫、敖德萨等多地能源设施发动袭击，目前乌克兰大部分地区正遭遇停电。乌克兰军方今天称，乌军部队袭击了俄军人员集中区；在波克罗夫斯克方向，乌军击退俄军63次进攻。美国国会参议院通过临时拨款法案美国联邦政府“停摆”今天（11月11日）已进入第42天。当地时间10日晚，美国国会参议院正式投票通过了一项意在结束“停摆”的临时拨款法案。美国媒体报道称，众议院最早可能在12日对该法案进行表决。 由于“停摆”造成空管人力不足，美国多地持续强制削减航班。航班跟踪网站的数据显示，10日当天，全美超2400架次航班取消，超9100架次航班延误。此外，美国总统特朗普10日要求所有空管人员重返工作岗位，并称不返岗者将被大幅扣薪。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "乌克兰多地能源设施遭受袭击，导致停电，可能影响能源供应和生产。",
+      "keywords": [
+        "能源设施",
+        "停电",
+        "供应"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "航空",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "美国政府停摆导致空管人力不足，航班取消和延误情况严重，对航空公司运营造成负面影响。",
+      "keywords": [
+        "航班取消",
+        "延误",
+        "空管人力"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "美国航班取消和延误情况严重，可能影响国际航线的运营和收入。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "南方航空",
+      "stockCode": "600029",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "美国航班取消和延误情况严重，可能影响国际航线的运营和收入。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然乌克兰局势紧张，但全球原油供需平衡未受明显影响，价格波动有限。",
+      "priceDirection": "stable",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "天然气",
+      "exchange": "大商所",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "乌克兰能源设施遭受袭击，可能导致天然气供应不稳定，价格上涨压力增加。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前地缘政治风险对国债市场影响有限，收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "企业债市场受地缘政治风险影响较小，收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 50,
+  "summary": "乌克兰局势紧张和美国政府停摆对能源和航空行业产生负面影响，相关企业和商品期货需谨慎关注。债券市场相对稳定。",
+  "analyzedAt": "2025-11-29T11:19:52.104Z",
+  "modelVersion": "qwen-max"
+}

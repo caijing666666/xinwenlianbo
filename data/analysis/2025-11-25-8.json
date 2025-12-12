@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-25-8",
+  "newsDate": "2025-11-25",
+  "newsTitle": "10月民航客货运量双增长",
+  "newsContent": "记者今天（11月25日）从民航局了解到，10月，我国民航共完成运输总周转量146亿吨公里，国内航线和国际航线旅客运输量、货邮运输量均呈现增长态势。客运方面，10月国内航线稳步增长，完成旅客运输量6084.5万人次，同比增长4.4%。分区域看，东部地区公商务出行活跃，西部地区由于三、四线城市旅游热度提升呈现较快增长态势。同时，10月国际航线表现亮眼，完成旅客运输量699万人次，同比增长20.4%。货运方面，10月国内航线完成货邮运输量同比增长8.1%，国际航线完成货邮运输量同比增长21%。货邮运输量月度历史首次突破90万吨。",
+  "industryImpacts": [
+    {
+      "industryName": "航空",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "民航客货运量双增长，表明航空业市场需求强劲，尤其是国际航线的显著增长，预示着行业复苏势头良好。",
+      "keywords": [
+        "民航",
+        "旅客运输量",
+        "货邮运输量"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "西部地区三、四线城市旅游热度提升，带动了国内航线的客运量增长，对旅游业形成利好。",
+      "keywords": [
+        "旅游",
+        "西部地区",
+        "公商务出行"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为国内主要航空公司之一，中国国航将受益于国内外航线的客运量增长。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "南方航空",
+      "stockCode": "600029",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "同样作为大型航空公司，南方航空也将从整体航空市场的复苏中获益。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "航空公司的财务状况可能因业务恢复而改善，降低其发行的企业债券的风险溢价。",
+      "yieldDirection": "down",
+      "riskLevel": "moderate",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "航空及旅游业呈现积极增长态势，相关上市公司股价预计上涨；同时，航空企业债收益率或有所下降。",
+  "analyzedAt": "2025-11-29T10:05:09.032Z",
+  "modelVersion": "qwen-max"
+}

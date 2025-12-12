@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-24-10",
+  "newsDate": "2025-11-24",
+  "newsTitle": "受寒潮影响 多地降雪降温",
+  "newsContent": "目前，一股较强冷空气正在自西向东影响我国。新疆、宁夏、内蒙古、河北、山西等地出现大风降温和降雪天气，多条高速及国省干道局部路段出现路面积雪、结冰。昨晚（11月23日）起，甘肃多地出现雨雪天气，当地交通部门对G30连霍高速、G3017武金高速等部分高速及国省干道采取临时交通管制，路政等部门连夜进行清雪除冰作业。辽宁今天出现大范围寒潮大风天气，海事部门启动防御极端天气三级应急响应，辽宁至山东多条海上客运开始陆续停航，明天将逐步恢复。中央气象台预计，本周冷空气活动较为频繁，北方大部地区有4至8℃降温，部分地区降温超过10℃，并伴有大风天气，提醒公众注意防护。",
+  "industryImpacts": [
+    {
+      "industryName": "交通运输",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "寒潮导致多地交通受阻，影响物流和客运业务",
+      "keywords": [
+        "交通管制",
+        "清雪除冰",
+        "停航"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "寒冷天气增加供暖需求，可能推高能源价格",
+      "keywords": [
+        "供暖",
+        "能源需求",
+        "价格上涨"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "航班停航影响公司运营和收入",
+      "relatedIndustries": [
+        "交通运输"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "华能国际电力股份",
+      "stockCode": "600011",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "寒冷天气增加电力需求，有利于公司业绩",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "动力煤",
+      "exchange": "郑商所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "寒冷天气增加供暖需求，推动煤炭价格上涨",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "天然气",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "寒冷天气增加供暖需求，推动天然气价格上涨",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期天气因素对国债市场影响有限",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.9
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "寒潮天气对交通运输行业产生负面影响，但对能源行业有正面推动作用。建议关注能源相关企业和期货商品的投资机会。",
+  "analyzedAt": "2025-11-29T10:12:47.885Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,124 @@
+{
+  "newsId": "2025-10-31-3",
+  "newsDate": "2025-10-31",
+  "newsTitle": "习近平会见泰国总理",
+  "newsContent": "当地时间10月31日下午，国家主席习近平在韩国庆州出席亚太经合组织第三十二次领导人非正式会议期间会见泰国总理阿努廷。习近平对诗丽吉王太后逝世深表哀悼，并请转达对哇集拉隆功国王的诚挚慰问。习近平指出，中国和泰国是好邻居、好朋友、好亲戚、好伙伴，常来常往、亲如一家。2022年11月我访问泰国，中泰关系进入构建命运共同体的新阶段，两国友好根基更牢、合作动能更强。今年是中泰建交50周年暨“中泰友谊金色50年”。站在新起点上，双方要继往开来，共同推动中泰命运共同体建设走深走实，助力两国各自现代化进程，为地区和平稳定和发展繁荣作出更大贡献。习近平强调，不久前，中共二十届四中全会成功召开，审议通过了“十五五”规划建议。中方愿同泰方加强发展战略对接，分享新时代中国的发展经验。双方要加快中泰铁路建设，加强农产品贸易、绿色经济、数字创新等合作，让两国人民有更多获得感。深化旅游、青年、地方等人文交流，办好建交50周年庆祝活动，促进民心相通。要加大打击网赌电诈等跨境犯罪力度，为两国交往和合作营造安全环境。面对变乱交织的国际形势，中方愿同泰方一道推动落实全球治理倡议，维护国际公平正义，维护全球南方共同利益。阿努廷表示，习近平主席对诗丽吉王太后逝世表示哀悼，这对泰国人民意义重大，泰方对此深为感谢。中共二十届四中全会成功召开并通过“十五五”规划建议，中国的发展成就令人钦佩。今年是泰中建交50周年，这是双边关系发展的重要里程碑。泰方愿以此为契机，同中方密切高层交往，加强经贸、科技、互联互通、旅游等领域合作，将泰中关系提升到新高度。泰方将继续严厉打击网赌电诈犯罪活动。习近平主席提出四大全球倡议体现了中国在国际事务中的负责任大国作用，泰方对此高度赞赏并积极支持。泰方愿同中方加强多边协作，携手促进地区和平、稳定、繁荣。蔡奇、王毅等参加。",
+  "industryImpacts": [
+    {
+      "industryName": "铁路建设",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中泰铁路建设加速将带动相关产业链的发展，包括铁路设备、建筑材料等。",
+      "keywords": [
+        "中泰铁路",
+        "基础设施",
+        "合作"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "农产品贸易",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "加强农产品贸易合作将促进两国农业企业的发展，增加农产品出口机会。",
+      "keywords": [
+        "农产品",
+        "贸易",
+        "合作"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "深化旅游合作将促进两国旅游业的发展，增加游客流量和旅游收入。",
+      "keywords": [
+        "旅游",
+        "人文交流",
+        "合作"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国中铁",
+      "stockCode": "601390",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "中泰铁路建设加速将直接利好中国中铁等铁路建设企业。",
+      "relatedIndustries": [
+        "铁路建设",
+        "基础设施"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中粮糖业",
+      "stockCode": "600737",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "加强农产品贸易合作将有利于中粮糖业等农产品贸易企业。",
+      "relatedIndustries": [
+        "农产品贸易",
+        "农业"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+1-3%"
+    },
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "深化旅游合作将促进中国国旅等旅游企业的业务增长。",
+      "relatedIndustries": [
+        "旅游",
+        "服务业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-2%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中泰铁路建设加速将增加对铜的需求，推动铜价上涨。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "大豆",
+      "exchange": "大商所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "加强农产品贸易合作将增加对大豆等农产品的需求，推动价格上涨。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前政策环境稳定，国债收益率预计保持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "中泰合作加强将利好铁路建设、农产品贸易和旅游等行业及相关企业，建议关注相关龙头企业。",
+  "analyzedAt": "2025-11-29T13:12:32.651Z",
+  "modelVersion": "qwen-max"
+}

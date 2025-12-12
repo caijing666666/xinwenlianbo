@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-11-11-2",
+  "newsDate": "2025-11-11",
+  "newsTitle": "丁薛祥会见挪威外交大臣",
+  "newsContent": "中共中央政治局常委、国务院副总理丁薛祥11日在北京会见挪威外交大臣艾德。丁薛祥表示，中挪人民传统友好，两国关系保持稳定健康发展。去年9月，习近平主席同斯特勒首相举行会晤，就进一步发展两国关系达成重要共识。中共二十届四中全会擘画了中国未来5年发展的宏伟蓝图，将为中挪合作提供更多机遇。双方要深化政治互信，强化战略沟通，加强经贸投资、绿色转型、应对气变等领域务实合作，给两国人民带来更多福祉。艾德高度评价中国在绿色转型发展等方面取得的卓越成就，表示挪方坚持奉行一个中国政策，愿进一步提升挪中关系，推动各领域合作不断迈上新水平。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "中挪合作加强绿色转型和应对气候变化，将促进新能源行业的发展。",
+      "keywords": [
+        "绿色转型",
+        "应对气变",
+        "合作"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "环保",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中挪合作加强应对气候变化，将推动环保技术和服务的需求。",
+      "keywords": [
+        "应对气变",
+        "合作",
+        "环保技术"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中挪合作加强绿色转型，利好电池企业，尤其是龙头企业宁德时代。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中挪合作加强绿色转型，利好光伏企业，尤其是龙头企业隆基股份。",
+      "relatedIndustries": [
+        "新能源",
+        "光伏"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中挪合作加强绿色转型，可能增加对铜等金属的需求，用于新能源和环保项目。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "政策利好新能源和环保行业，但整体货币政策保持稳定，对国债影响不大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "中挪合作加强绿色转型和应对气候变化，利好新能源和环保行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T11:14:13.431Z",
+  "modelVersion": "qwen-max"
+}

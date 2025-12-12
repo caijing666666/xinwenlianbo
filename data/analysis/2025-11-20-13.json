@@ -1,0 +1,68 @@
+{
+  "newsId": "2025-11-20-13",
+  "newsDate": "2025-11-20",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "巴方称以军袭击加沙地带多地致33人死亡巴勒斯坦加沙地带卫生部门19日表示，以色列军队当天对加沙地带加沙城、汗尤尼斯西部的马瓦西地区等多地发动袭击，造成至少33人死亡，数十人受伤。以军称，此次袭击是对加沙武装分子向以军开火的回击。巴勒斯坦伊斯兰抵抗运动（哈马斯）对此予以否认，敦促美国要求以色列遵守停火协议。特朗普签署法案要求公开爱泼斯坦案文件在美国众参两院表决通过后，美国总统特朗普19日签署法案，要求司法部公开已故富商杰弗里·爱泼斯坦相关案件文件。爱泼斯坦与大批美国政商名流交往密切，因涉嫌性犯罪被捕后，2019年8月死于狱中，被判定为“自杀”。美国舆论认为，爱泼斯坦掌握着一份包括各界名人在内的“客户名单”，共和、民主两党内都有不少人要求公开爱泼斯坦案相关文件。印尼塞梅鲁火山剧烈喷发印尼地质局19日发布声明说，位于该国东爪哇省海拔3676米的塞梅鲁火山当天喷发，火山灰柱最高达5公里，警戒级别已提升至最高级。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "印尼塞梅鲁火山喷发可能对当地能源供应造成短期影响，但对中国市场直接影响有限。",
+      "keywords": [
+        "火山喷发",
+        "能源供应"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "巴以冲突升级和印尼火山喷发可能导致游客减少，尤其是前往中东和东南亚地区的旅行。",
+      "keywords": [
+        "巴以冲突",
+        "火山喷发",
+        "旅游业"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [],
+  "futuresImpacts": [
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势加剧通常会推高避险资产如黄金的价格。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然巴以冲突可能会影响中东地区的石油供应，但目前来看实际影响较小。",
+      "priceDirection": "stable",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前新闻内容对债券市场的直接影响不大，收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "巴以冲突和印尼火山喷发对部分行业和商品期货有短期影响，整体市场情绪中性。",
+  "analyzedAt": "2025-11-29T10:35:49.425Z",
+  "modelVersion": "qwen-max"
+}

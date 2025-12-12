@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-12-01-14",
+  "newsDate": "2025-12-01",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "普京签署总统令 对中国公民实施免签俄罗斯总统普京今天（12月1日）签署总统令。根据该总统令，即日起至2026年9月14日，中国公民可以以探亲或商务访问、旅游、参加科学、文化、社会政治、经济、体育活动为目的，免签证进入俄罗斯，可停留不超过30天。过境俄罗斯也无需办理签证。委致信欧佩克称美行动威胁全球能源稳定11月30日，委内瑞拉副总统罗德里格斯在出席石油输出国组织（欧佩克）会议期间宣读了委内瑞拉总统马杜罗致欧佩克的信函。马杜罗在信中说，自8月以来，美国持续对委内瑞拉实施骚扰与威胁，企图“以武力夺取委内瑞拉石油资源”，这不仅直接危及委内瑞拉石油生产，也威胁到全球能源市场的稳定。内塔尼亚胡提交赦免请求遭民众抗议以色列总统府11月30日发表声明说，以色列总理内塔尼亚胡已向总统赫尔佐格提交赦免请求。消息发布后，部分以色列民众在特拉维夫的总统住所外举行抗议，反对赦免内塔尼亚胡。据以色列媒体报道，因涉嫌贪腐等指控，内塔尼亚胡自2020年以来持续在法院受审，但多次以战事、出访等理由“拖延避审”。冬季风暴影响美国多地 交通受阻美国中西部地区近日遭遇冬季风暴袭击。威斯康星州密尔沃基已宣布进入大雪紧急状态。受恶劣天气影响，美国多地的地面和空中交通受阻。航班追踪网站数据显示，截至11月30日晚，美国有超过1.1万架次的航班延误，800多架次航班取消。芝加哥奥黑尔国际机场受影响最为严重。",
+  "industryImpacts": [
+    {
+      "industryName": "旅游",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中俄免签政策将促进两国间的旅游交流，增加中国游客赴俄旅游的需求。",
+      "keywords": [
+        "免签",
+        "旅游",
+        "中俄"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "航空",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "随着中俄旅游需求的增加，往返两国的航班数量和频率可能会有所提升。",
+      "keywords": [
+        "航班",
+        "旅游",
+        "中俄"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的旅游服务提供商，中俄免签政策将直接利好其业务发展。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "南方航空",
+      "stockCode": "600029",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中俄旅游需求增长可能带动公司国际航线业务的增长。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "委内瑞拉总统马杜罗称美国行动威胁全球能源稳定，可能导致市场对供应稳定的担忧。",
+      "priceDirection": "down",
+      "confidence": 0.6
+    }
+  ],
+  "bondImpacts": [],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "中俄免签政策利好旅游和航空行业，但委内瑞拉关于能源市场的言论可能对原油期货产生负面影响。",
+  "analyzedAt": "2025-12-01T16:44:06.309Z",
+  "modelVersion": "qwen-max"
+}

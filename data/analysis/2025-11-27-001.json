@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-27-001",
+  "newsDate": "2025-11-27",
+  "newsTitle": "国家发展改革委价格司组织召开价格无序竞争成本认定工作座谈会",
+  "newsContent": "为贯彻中央财经委员会第六次会议精神，落实《关于治理价格无序竞争 维护良好市场价格秩序的公告》（国家发展改革委 市场监管总局公告2025年第4号）有关要求，11月24日，国家发展改革委会同有关部门及相关行业协会召开会议，研究制定价格无序竞争成本认定标准等相关工作。　　会议指出，目前部分行业价格无序竞争问题仍然突出，一些企业对规范价格竞争行为的要求落实不到位，甚至依然存在扰乱市场价格秩序的行为。国家发展改革委将会同有关部门持续推进相关工作，治理企业价格无序竞争，维护良好市场价格秩序，助力高质量发展。",
+  "industryImpacts": [
+    {
+      "industryName": "消费",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "价格无序竞争的治理有助于稳定市场价格，提升消费者信心，有利于消费行业的健康发展。",
+      "keywords": [
+        "价格无序竞争",
+        "市场秩序",
+        "消费者信心"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "虽然政策主要针对价格无序竞争，但对房地产行业的影响较为间接。短期内可能不会产生显著影响。",
+      "keywords": [
+        "价格无序竞争",
+        "市场秩序",
+        "房地产"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "贵州茅台",
+      "stockCode": "600519",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为高端消费品的代表，贵州茅台有望受益于市场价格秩序的改善，提升品牌价值和市场份额。",
+      "relatedIndustries": [
+        "消费"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "万科A",
+      "stockCode": "000002",
+      "exchange": "SZSE",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "政策主要针对价格无序竞争，对房地产企业的影响较为间接，短期内股价波动有限。",
+      "relatedIndustries": [
+        "房地产"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "±1%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 55,
+      "impactType": "neutral",
+      "reasoning": "政策主要针对价格无序竞争，对债券市场的影响较小，预计国债收益率保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "价格无序竞争治理政策利好消费行业，相关龙头企业有望受益，建议关注贵州茅台等高端消费品公司。",
+  "analyzedAt": "2025-12-12T02:44:21.229Z",
+  "modelVersion": "qwen-max"
+}

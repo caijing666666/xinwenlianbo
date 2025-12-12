@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-26-12",
+  "newsDate": "2025-11-26",
+  "newsTitle": "俄称打击乌能源设施 乌称打击俄炼油厂",
+  "newsContent": "俄罗斯国防部25日称，俄军使用远程高精度武器和无人机打击了乌克兰的军工设施及保障其运作的能源设施和远程无人机储存地点。俄军在红军城（乌称波克罗夫斯克）多个区域击退乌军多次解围行动。乌克兰国家电力公司25日称，俄军的袭击造成基辅州、敖德萨州等多地断电。乌武装部队总参谋部当天称，乌军打击了俄飞机修理厂、炼油厂等多个目标。乌称乌美就结束俄乌冲突新计划关键条款达成共识 俄称不急于催促乌问题谈判针对美方就结束俄乌冲突所提的新计划，美国总统特朗普25日表示，该计划已经进一步完善，目前各方对一些条款内容还存在分歧，美方将派出代表分别与俄乌双方进行沟通。乌国家安全与国防委员会秘书乌梅罗夫当天称，乌美两国代表已就双方在日内瓦会谈中讨论的关键条款达成共识，乌方期待欧洲国家在后续步骤中给予支持。俄外长拉夫罗夫25日称，俄方多次与美方沟通并重申愿遵守俄美元首阿拉斯加会晤达成的共识；俄罗斯并不急于催促美国就乌克兰问题进行谈判，但希望美方告知其与乌克兰和欧洲磋商的结果；他还批评欧洲在这一问题上不断泄密和散布谣言的行为。俄总统助理乌沙科夫今天（11月26日）表示，美总统特使威特科夫将于下周访问莫斯科。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "俄乌冲突导致能源设施受损，可能影响能源供应稳定性。",
+      "keywords": [
+        "能源设施",
+        "断电",
+        "供应"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "军工",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "冲突升级可能导致军事装备需求增加。",
+      "keywords": [
+        "军工设施",
+        "打击",
+        "需求"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "能源设施受损可能导致供应不稳定，影响公司业绩。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "冲突升级可能增加军事装备需求，利好军工企业。",
+      "relatedIndustries": [
+        "军工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "能源设施受损可能导致供应减少，推高油价。",
+      "priceDirection": "up",
+      "confidence": 0.85
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能提升避险需求，推高金价。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "地缘政治风险对国债市场影响有限，但需关注后续发展。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "俄乌冲突升级对能源和军工行业有显著影响，能源供应不稳定可能推高油价，军工需求增加。建议关注相关行业的龙头企业。",
+  "analyzedAt": "2025-11-29T10:01:42.399Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,65 @@
+{
+  "newsId": "2025-11-13-7",
+  "newsDate": "2025-11-13",
+  "newsTitle": "第十五届全国运动会：今天共产生27枚金牌",
+  "newsContent": "第十五届全国运动会今天（11月13日）进入开幕后的第四个比赛日，全天共产生27枚金牌。拳击比赛渐进尾声，奥运冠军、上海队的吴愉夺得女子50公斤级金牌。在香港赛区，场地自行车在香港单车馆开赛，今晚产生2枚金牌；7人制橄榄球赛继续进行，香港男队取得小组赛三连胜。在澳门，乒乓球赛场今天产生2金，其中北京队战胜山东队，夺得18岁以下女子团体赛金牌。",
+  "industryImpacts": [
+    {
+      "industryName": "体育用品",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "全国运动会的举办可能会提高公众对体育运动的兴趣，从而增加对体育用品的需求。",
+      "keywords": [
+        "体育用品",
+        "需求增长"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 40,
+      "impactType": "positive",
+      "reasoning": "运动会期间，参赛选手及观众可能带动当地旅游业的发展。",
+      "keywords": [
+        "旅游业",
+        "游客增长"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "安踏体育",
+      "stockCode": "2020.HK",
+      "exchange": "HKEX",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的体育用品品牌之一，安踏体育有望受益于运动会带来的市场需求提升。",
+      "relatedIndustries": [
+        "体育用品"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    },
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888.SS",
+      "exchange": "SSE",
+      "impactScore": 40,
+      "impactType": "positive",
+      "reasoning": "运动会期间的人流增加可能促进其业务发展。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "+1-2%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 50,
+  "summary": "全国运动会主要影响体育用品和旅游行业，相关公司或有小幅正面影响，但整体市场情绪保持中性。",
+  "analyzedAt": "2025-11-29T11:06:50.000Z",
+  "modelVersion": "qwen-max"
+}

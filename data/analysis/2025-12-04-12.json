@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-12-04-12",
+  "newsDate": "2025-12-04",
+  "newsTitle": "国际人士表示高市早苗错误言论威胁地区和平",
+  "newsContent": "国际人士表示，日本首相高市早苗的错误言论违反国际法，危及国际秩序，其一系列挑衅言行对地区国家构成严重威胁。日本人士要求高市早苗撤回错误言论日本人士表示，高市早苗的言论是干涉中国内政，非常危险，应立即撤回。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能促使政府增加国防开支，利好国防军工行业。",
+      "keywords": [
+        "国防",
+        "军事",
+        "安全"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "地区紧张局势可能导致游客减少，特别是对日本和中国之间的跨境旅游产生负面影响。",
+      "keywords": [
+        "旅游",
+        "跨境",
+        "游客"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的军用飞机制造商，地缘政治紧张局势可能带来更多的订单。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "地缘政治紧张局势可能影响跨境旅游业务，导致收入下降。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势通常会推高避险资产如黄金的需求。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 55,
+      "impactType": "neutral",
+      "reasoning": "短期内地缘政治紧张局势对国债市场的影响有限，但长期来看可能会有波动。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "地缘政治紧张局势对国防军工行业和黄金期货有利，但对旅游业不利。整体市场情绪较为中性，建议关注相关行业的龙头企业。",
+  "analyzedAt": "2025-12-04T16:41:42.743Z",
+  "modelVersion": "qwen-max"
+}

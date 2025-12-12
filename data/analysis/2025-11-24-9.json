@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-24-9",
+  "newsDate": "2025-11-24",
+  "newsTitle": "神舟二十二号飞船计划于11月25日发射",
+  "newsContent": "据中国载人航天工程办公室消息，目前，长征二号F遥二十二运载火箭已完成推进剂加注，计划于北京时间2025年11月25日，在我国酒泉卫星发射中心发射神舟二十二号飞船。神舟二十一号航天员乘组在轨工作正常、状态良好。",
+  "industryImpacts": [
+    {
+      "industryName": "航空航天",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "神舟二十二号飞船的发射将提升中国在航天领域的国际地位，增加对相关技术和服务的需求。",
+      "keywords": [
+        "航天",
+        "技术",
+        "国际合作"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "科技",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "航天项目通常会带动科技创新和技术进步，有利于整个科技行业的发展。",
+      "keywords": [
+        "创新",
+        "研发",
+        "技术进步"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国卫星",
+      "stockCode": "600118",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的卫星制造商，神舟系列飞船的成功发射将直接利好该公司。",
+      "relatedIndustries": [
+        "航空航天",
+        "科技"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "航天电子",
+      "stockCode": "600879",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "公司从事航天电子产品制造，受益于航天项目的推进。",
+      "relatedIndustries": [
+        "航空航天",
+        "科技"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "航天发射活动对宏观经济影响有限，预计不会显著改变国债收益率。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "神舟二十二号飞船发射计划对中国航空航天和科技行业构成正面影响，建议关注相关领域内的龙头企业。",
+  "analyzedAt": "2025-11-29T10:12:07.110Z",
+  "modelVersion": "qwen-max"
+}

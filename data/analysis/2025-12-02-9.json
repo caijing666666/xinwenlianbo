@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-12-02-9",
+  "newsDate": "2025-12-02",
+  "newsTitle": "多地迎来候鸟迁徙高峰",
+  "newsContent": "眼下是候鸟迁徙季，各地加强生态保护和科研监测，为候鸟提供良好的栖息环境。河南三门峡迎来大天鹅迁徙的高峰期，目前已监测到1万多只大天鹅，当地在黄河沿线种植了1500多亩芦苇、蒲草等植物，为大天鹅越冬提供充足食物来源。“十四五”期间，三门峡持续加强生态保护，大天鹅栖息地从4处增加到10处，形成了黄河沿岸100多公里的天鹅观赏带。在江西鄱阳湖，白鹤、白枕鹤、东方白鹳、小天鹅等珍稀越冬候鸟集中现身湖区，水草丰美的湿地环境使它们栖息觅食的范围不断扩大。据统计，目前抵达鄱阳湖区的水鸟达65种，绘就了一幅万鸟翔集的生态画卷。在湖南洞庭湖湿地横岭湖自然保护区，前来越冬的国家二级保护动物白琵鹭超过2100只，是去年的5倍多。今年，湖南省林业部门在这里开展微地形改造，通过堵住“破口”保住洼地内的水和水生生物，共修复湿地25000亩。天更蓝、草更绿、水更清，各地生态环境持续向好，为候鸟迁徙打造星级驿站。在辽宁卧龙湖自然保护区，白鹤宝宝的数量有近300只，占累计迁徙而来的白鹤群体的15%左右。在湖北宜昌，工作人员连续6年观测到小天鹅来到季家湖湿地公园越冬，连续4年在城区发现国家一级保护动物黄胸鹀的身影。位于福建云霄、广西合浦的红树林保护区，正在变成越来越多珍稀鸟类常年栖息的“家园”。在江苏苏州，今年太湖首批越冬候鸟数量创历史新高，吸引了大批摄影爱好者和游客前来观赏拍照。",
+  "industryImpacts": [
+    {
+      "industryName": "生态保护",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "新闻强调了各地加强生态保护和科研监测，为候鸟提供良好的栖息环境。这表明政府对生态保护的重视程度提高，可能会增加相关行业的投资和政策支持。",
+      "keywords": [
+        "生态保护",
+        "科研监测",
+        "政策支持"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游业",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "随着生态环境的改善，越来越多的候鸟迁徙到这些地区，吸引了大批摄影爱好者和游客前来观赏拍照，这将促进当地旅游业的发展。",
+      "keywords": [
+        "旅游业",
+        "生态旅游",
+        "游客"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "随着生态环境的改善，旅游业有望受益，作为国内领先的旅游企业，中国国旅可能从中获益。",
+      "relatedIndustries": [
+        "旅游业"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "东方园林",
+      "stockCode": "002310",
+      "exchange": "SZSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "公司主要从事园林绿化工程，随着各地加强生态保护，公司的业务需求有望增加。",
+      "relatedIndustries": [
+        "生态保护",
+        "园林绿化"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+3-5%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "生态保护和旅游业的发展可能会带来一定的地方财政收入，但短期内对地方债的影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 65,
+  "summary": "生态保护和旅游业有望受益于生态环境的改善，相关企业和地方债市场影响较为中性。建议关注生态保护和旅游业的龙头企业。",
+  "analyzedAt": "2025-12-03T07:02:21.573Z",
+  "modelVersion": "qwen-max"
+}

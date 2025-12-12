@@ -1,0 +1,94 @@
+{
+  "newsId": "2025-12-01-13",
+  "newsDate": "2025-12-01",
+  "newsTitle": "俄称向红军城内多方向推进 乌称打击俄人员集结区",
+  "newsContent": "俄罗斯国防部11月30日称，俄军在苏梅、哈尔科夫等多个方向对乌克兰143个区域的目标实施了打击。在顿涅茨克地区的红军城（乌称波克罗夫斯克），俄军继续向城内的东部和西北部区域推进。乌克兰方面同一天称，乌军打击了俄军4处人员集结区、2套火炮系统，并在多个方向击退俄军进攻。美乌就“和平计划”举行新一轮会谈美国和乌克兰代表团11月30日在美国佛罗里达州围绕美方提出的“和平计划”进行新一轮会谈。据美国媒体报道，美国国务卿鲁比奥在会谈后称，会谈取得了一些进展，将继续进行。乌克兰代表团团长乌梅罗夫称，谈判“艰难但富有成效”。俄总统新闻秘书佩斯科夫称，俄总统普京将于2日会见美国总统特使威特科夫。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突持续升级，可能增加对军事装备的需求。",
+      "keywords": [
+        "军事装备",
+        "需求增长"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张可能导致能源价格波动，尤其是天然气和石油。",
+      "keywords": [
+        "能源价格",
+        "波动"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国船舶",
+      "stockCode": "600150",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国防军工企业，可能受益于军事装备需求的增长。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "能源价格上涨可能提升公司业绩。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张可能导致原油价格上涨。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "避险情绪上升，黄金价格可能上涨。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内地缘政治紧张对国债市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "俄乌冲突升级可能利好国防军工和能源行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-01T16:43:42.021Z",
+  "modelVersion": "qwen-max"
+}

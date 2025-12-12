@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-11-09-1",
+  "newsDate": "2025-11-09",
+  "newsTitle": "习近平会见国际奥委会主席考文垂和终身名誉主席巴赫",
+  "newsContent": "11月9日下午，国家主席习近平在广州白云国际会议中心会见来华出席第十五届全国运动会开幕式的国际奥委会主席考文垂和终身名誉主席巴赫。习近平指出，奥林匹克精神是人类文明的重要内容，寄托着各国人民对建设更美好世界的期盼，同中方推动构建人类命运共同体的愿景高度契合。中国始终是奥林匹克精神的坚定践行者、维护者、传播者。近年来，中国同国际奥委会在推进体育事业中相互支持，携手办成了很多大事好事。年初我们在冰天雪地的哈尔滨共襄亚冬盛会，今天又在温暖如春的广州共赴全运之约，体现了中国同国际奥委会之间的友好密切关系。中方愿持续深化双方高水平合作，统筹推进体育强国建设和奥林匹克运动发展，为全球体育治理贡献更多智慧和力量，为构建人类命运共同体作出更大贡献。习近平强调，全运会是中国最大规模、最高水平的综合性运动会，这届全运会由广东、香港、澳门三地合办。粤港澳大湾区是中国开放程度最高、经济活力最强的区域之一。推进粤港澳大湾区建设，就是要打造中国新发展格局的战略支点、高质量发展的示范地、中国式现代化的引领地。相信这届全运会不仅将见证新时代中国体育事业发展的新成就，也将展现中国式现代化在粤港澳大湾区的万千气象。考文垂和巴赫表示，很高兴来到广州，从粤港澳大湾区建设中感受中国现代化建设的蓬勃生机和巨大成就。中国积极践行奥林匹克精神，为国际奥林匹克事业发展作出重要贡献。国际奥委会感谢中方长期以来给予的大力支持，期待不断加强对华合作，共同推动奥林匹克运动蓬勃发展，进一步将奥林匹克精神传遍世界，增进各国人民团结，促进世界和平。相信即将开幕的中国全运会将是一届精彩成功的盛会，一定会推动中国体育事业取得新的发展。王毅、黄坤明、谌贻琴等参加会见。",
+  "industryImpacts": [
+    {
+      "industryName": "体育",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "全运会的举办和粤港澳大湾区的发展将促进体育产业及相关基础设施建设",
+      "keywords": [
+        "全运会",
+        "粤港澳大湾区",
+        "体育事业"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "大型体育赛事通常会吸引大量游客，带动当地旅游业发展",
+      "keywords": [
+        "旅游业",
+        "游客",
+        "赛事"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "粤港澳大湾区的进一步发展可能会推动该地区的房地产市场",
+      "keywords": [
+        "房地产",
+        "粤港澳大湾区",
+        "基础设施"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中体产业",
+      "stockCode": "600158",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为体育行业的龙头企业，有望受益于全运会及体育事业的发展",
+      "relatedIndustries": [
+        "体育"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "华侨城A",
+      "stockCode": "000069",
+      "exchange": "SZSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "公司在粤港澳大湾区有多个旅游项目，可能受益于全运会带来的游客增长",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然粤港澳大湾区的发展可能增加地方政府的财政支出，但整体影响较为中性",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "全运会和粤港澳大湾区的发展将对体育、旅游和房地产行业产生积极影响，相关企业有望受益。",
+  "analyzedAt": "2025-11-29T11:25:19.037Z",
+  "modelVersion": "qwen-max"
+}

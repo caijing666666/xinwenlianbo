@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-11-24-8",
+  "newsDate": "2025-11-24",
+  "newsTitle": "我国空间科学取得新进展 将实施太空探源科学卫星计划",
+  "newsContent": "我国空间科学先导专项成果发布会今天（11月24日）举行，集中发布了空间科学卫星任务取得的一批重要科学突破。“十五五”期间，我国将组织实施太空探源科学卫星计划。据介绍，中国科学院国家空间科学中心在“十五五”期间将组织实施太空探源科学卫星计划，研制发射四项空间科学卫星任务，探索宇宙奥秘。这四项科学卫星任务分别为探测宇宙黑暗时代与黎明的“鸿蒙计划”、首次直接成像探测太阳极区的“夸父二号”、探寻“地球2.0”的系外地球巡天任务，以及探测宇宙极端条件下物理新规律的增强型X射线时变与偏振空间天文台。中国科学院空间科学先导专项自2011年启动实施，已成功研制并发射“悟空”号、实践十号、“墨子号”“慧眼号”“太极一号”“怀柔一号”“夸父一号”和“天关”卫星等八项科学卫星任务，绘制出国际首个X射线全天天图，获得迄今世界最精确的宇宙射线电子、质子等能谱精细结构，首次直接测量到宇宙最强磁场，探测到距离黑洞最近的高速喷流，在宇宙暂现天体、太阳爆发等领域取得一批重要原创成果，推动我国空间科学创新发展进入“快车道”。",
+  "industryImpacts": [
+    {
+      "industryName": "航天航空",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "太空探源科学卫星计划的实施将推动航天航空行业的发展，增加相关企业的订单和研发投入。",
+      "keywords": [
+        "太空探源",
+        "卫星计划",
+        "航天航空"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "科研仪器",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "随着空间科学任务的推进，对高精度科研仪器的需求将增加，利好相关企业。",
+      "keywords": [
+        "科研仪器",
+        "高精度",
+        "需求增长"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国航天科技集团有限公司",
+      "stockCode": "600118",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的航天企业，将直接受益于太空探源科学卫星计划的实施。",
+      "relatedIndustries": [
+        "航天航空"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中航光电科技股份有限公司",
+      "stockCode": "002179",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "公司生产的连接器等产品在航天航空领域有广泛应用，有望受益于新计划的实施。",
+      "relatedIndustries": [
+        "航天航空",
+        "科研仪器"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "短期内该新闻对债券市场影响较小，货币政策保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "太空探源科学卫星计划的实施将利好航天航空和科研仪器行业，相关企业和债券市场整体情绪偏乐观。",
+  "analyzedAt": "2025-11-29T10:11:38.959Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-11-28-12",
+  "newsDate": "2025-11-28",
+  "newsTitle": "国际人士表示高市早苗错误言论干涉中国内政 释放危险信号",
+  "newsContent": "国际人士指出，日本首相高市早苗的错误言论粗暴干涉中国内政，挑战国际法和国际关系基本准则，释放出危险的信号。日本人士指出高市早苗错误言论违背日本宪法日本人士指出，高市早苗的错误言论违背日本和平宪法，可能导致日本滑向危险方向。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能促使政府增加国防开支，利好国防军工行业。",
+      "keywords": [
+        "国防",
+        "军事",
+        "安全"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "半导体",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "地缘政治紧张可能导致供应链中断和技术封锁风险上升，对半导体行业产生负面影响。",
+      "keywords": [
+        "供应链",
+        "技术封锁",
+        "芯片"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国防军工行业的龙头企业，地缘政治紧张可能带来订单增长。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "negative",
+      "reasoning": "地缘政治紧张可能导致技术封锁和供应链中断，影响公司运营。",
+      "relatedIndustries": [
+        "半导体"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张通常会推高避险需求，利好黄金价格。",
+      "priceDirection": "up",
+      "confidence": 0.9
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内地缘政治紧张对国债市场影响有限，但需关注长期影响。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "地缘政治紧张局势对国防军工和黄金期货有利，但对半导体行业不利。整体市场情绪较为中性，建议关注相关行业龙头企业的表现。",
+  "analyzedAt": "2025-11-29T09:50:43.517Z",
+  "modelVersion": "qwen-max"
+}

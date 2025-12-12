@@ -1,0 +1,117 @@
+{
+  "newsId": "2025-11-09-4",
+  "newsDate": "2025-11-09",
+  "newsTitle": "10月份CPI同比上涨0.2% PPI同比降幅持续收窄",
+  "newsContent": "国家统计局今天（11月9日）发布的数据显示，10月份，随着扩内需等政策措施持续显效，居民消费价格指数CPI同比上涨0.2%，由降转涨；环比上涨0.2%，涨幅比上月扩大0.1个百分点。扣除食品和能源价格的核心CPI同比上涨1.2%，涨幅连续第6个月扩大。10月份，受国内部分行业供需关系改善影响，工业生产者出厂价格指数PPI环比上涨0.1%，为年内首次上涨；同比降幅比上月收窄0.2个百分点，连续第3个月收窄。重点行业产能治理持续推进，带动煤炭加工、光伏设备及元器件制造等行业价格同比均连续2个多月上涨。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策支持和供需关系改善推动了光伏设备及元器件制造等行业价格上涨，利好新能源行业。",
+      "keywords": [
+        "政策",
+        "供需关系",
+        "价格上涨"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "煤炭加工",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "重点行业产能治理持续推进，带动煤炭加工行业价格连续上涨。",
+      "keywords": [
+        "产能治理",
+        "价格上涨"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "消费",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "CPI由降转涨，居民消费价格指数上升，表明消费需求有所增加。",
+      "keywords": [
+        "CPI",
+        "消费需求"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源政策利好电池企业，尤其是龙头企业有望受益于市场需求增长。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "光伏设备及元器件制造行业价格上涨，作为行业龙头的隆基股份将受益。",
+      "relatedIndustries": [
+        "新能源",
+        "光伏"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "煤炭",
+      "exchange": "郑商所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "煤炭加工行业价格连续上涨，预计煤炭期货价格也将随之上涨。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然PPI降幅收窄，但铜价受全球市场影响较大，短期内可能维持稳定。",
+      "priceDirection": "stable",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "CPI和PPI数据表明经济温和复苏，货币政策保持稳定，国债收益率预计维持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 55,
+      "impactType": "neutral",
+      "reasoning": "经济温和复苏对企业债信用风险影响不大，但需关注具体行业的表现。",
+      "yieldDirection": "stable",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T11:24:27.438Z",
+  "modelVersion": "qwen-max"
+}

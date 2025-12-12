@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-11-03-11",
+  "newsDate": "2025-11-03",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "第八届进博会布展工作完成 新闻中心正式运行第八届中国国际进口博览会将于2025年11月5日至10日在上海举办。今年展览面积和参展企业总数均创历史新高。目前，各大展区布展全部完成，服务保障工作已准备就绪，上海各口岸启动进博会边检专用通道等8项便利通关措施。此外，进博会新闻中心今天（11月3日）正式运行。第138届广交会 智慧医疗产品受瞩目第138届广交会第三期首次设立智慧医疗专区，通过场景化空间设计，集中展示医疗机器人、智能诊断、健康监测等6大类前沿科技成果。截至11月3日，展区累计吸引来自世界各地的客商超4万人次。2026年军队文职人员公开招考工作全面展开2026年军队文职人员公开招考工作全面展开。考生可于11月3日8时至11月9日18时期间，登录军队人才网进行网上报名。全军统一笔试拟于2025年12月14日在全国各直辖市、省会城市、自治区首府和其他部分城市同时举行。",
+  "industryImpacts": [
+    {
+      "industryName": "医药",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "广交会首次设立智慧医疗专区，集中展示前沿科技成果，吸引大量客商关注，有望推动行业发展。",
+      "keywords": [
+        "智慧医疗",
+        "广交会",
+        "科技"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "消费",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "进博会展览面积和参展企业总数均创历史新高，有助于促进国内外贸易交流，提振消费市场信心。",
+      "keywords": [
+        "进博会",
+        "贸易",
+        "消费"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "迈瑞医疗",
+      "stockCode": "300760",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的医疗器械公司，受益于广交会对智慧医疗的关注，有望获得更多订单。",
+      "relatedIndustries": [
+        "医药"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "上海机场",
+      "stockCode": "600009",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "进博会期间，上海各口岸启动便利通关措施，有利于提升机场客流量及货运量。",
+      "relatedIndustries": [
+        "交通",
+        "物流"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前宏观经济环境相对稳定，短期内无明显因素影响国债收益率变化。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "医药与消费行业受利好消息刺激，相关企业股价预计上涨；债券市场维持平稳态势。",
+  "analyzedAt": "2025-11-29T12:57:01.455Z",
+  "modelVersion": "qwen-max"
+}

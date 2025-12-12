@@ -1,0 +1,91 @@
+{
+  "newsId": "2025-11-23-2",
+  "newsDate": "2025-11-23",
+  "newsTitle": "李强会见意大利总理",
+  "newsContent": "当地时间11月22日，国务院总理李强在约翰内斯堡会见意大利总理梅洛尼。李强表示，去年7月，习近平主席同总理女士在北京举行会晤，就深化中意关系作出战略规划。中方愿同意方进一步弘扬传统友好，加强发展战略对接，推进双向开放，做强传统合作优势，拓展新兴产业合作，促进共同发展繁荣，打造更加稳定、更富成果的全面战略伙伴关系。双方要加强在联合国、二十国集团等多边框架下的协调配合，凝聚更广泛共识，增强国际社会践行多边主义、筑牢多边机制的信心和定力。梅洛尼表示，意中关系发展势头良好。意方愿同中方用好双边合作机制，深化经贸、科技、人文等领域合作，加强多边沟通协调，共同维护多边主义。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中意合作加强，可能促进新能源技术交流与合作，推动行业发展。",
+      "keywords": [
+        "新能源",
+        "技术交流",
+        "合作"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "半导体",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "双方深化经贸、科技合作，可能为半导体行业带来新的市场机会和技术支持。",
+      "keywords": [
+        "半导体",
+        "经贸",
+        "科技合作"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "医药",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中意在多领域的合作可能包括医药领域，有助于医药企业拓展国际市场。",
+      "keywords": [
+        "医药",
+        "国际合作",
+        "市场拓展"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "新能源政策利好电池企业，中意合作可能带来更多国际订单。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中意科技合作可能为半导体企业提供更多技术支持和市场机会。",
+      "relatedIndustries": [
+        "半导体",
+        "科技"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 55,
+      "impactType": "neutral",
+      "reasoning": "中意合作对国债市场影响有限，货币政策保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中意合作加强，利好新能源、半导体和医药等行业，相关龙头企业有望受益。",
+  "analyzedAt": "2025-11-29T10:15:37.698Z",
+  "modelVersion": "qwen-max"
+}

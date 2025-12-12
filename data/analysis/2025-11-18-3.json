@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-18-3",
+  "newsDate": "2025-11-18",
+  "newsTitle": "李强会见俄罗斯总理",
+  "newsContent": "当地时间11月17日下午，国务院总理李强在莫斯科会见俄罗斯总理米舒斯京。李强表示，中俄总理第三十次定期会晤前不久在杭州举行，聚焦落实习近平主席和普京总统的重要共识，规划下阶段重点合作。中方愿同俄方一道遵循两国元首战略引领，进一步加强沟通对接，深化投资、能源、农业、人文等领域合作。今年9月，上合组织天津峰会取得一系列丰硕成果。中方愿同俄方密切协调配合，推动上合组织各方秉持“上海精神”，将领导人擘画的发展蓝图早日转化为实景图。米舒斯京表示，当前俄中新时代全面战略协作伙伴关系处于高水平。俄方愿同中方进一步密切各层级对话交往，深化经贸、人文领域合作，加强上合组织框架内沟通协调。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中俄深化能源合作，将促进中国能源企业的发展和投资机会。",
+      "keywords": [
+        "能源",
+        "合作",
+        "投资"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "农业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中俄加强农业合作，有助于提升农产品贸易和农业技术交流。",
+      "keywords": [
+        "农业",
+        "合作",
+        "贸易"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "中俄能源合作加深，有利于中国石油的业务拓展和市场份额增长。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中粮集团",
+      "stockCode": "000031",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中俄农业合作增强，有望增加中粮集团的农产品进口和出口业务。",
+      "relatedIndustries": [
+        "农业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中俄能源合作加深，可能增加原油需求，推动价格上涨。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "大豆",
+      "exchange": "大商所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中俄农业合作增强，可能增加大豆等农产品的需求，推动价格上涨。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前政策和经济环境对国债市场影响较小，收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "中俄深化合作利好能源和农业行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:41:55.777Z",
+  "modelVersion": "qwen-max"
+}

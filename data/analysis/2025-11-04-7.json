@@ -1,0 +1,88 @@
+{
+  "newsId": "2025-11-04-7",
+  "newsDate": "2025-11-04",
+  "newsTitle": "韩正会见卡塔尔埃米尔",
+  "newsContent": "当地时间11月3日，国家副主席韩正在卡塔尔多哈出席第二届社会发展世界峰会期间会见卡塔尔埃米尔塔米姆。韩正转达习近平主席对塔米姆的亲切问候，表示中方高度重视中卡关系，去年7月，习近平主席同殿下会面，就深化中卡关系达成重要共识。不久前中共二十届四中全会审议通过“十五五”规划建议，中国致力于通过实现自身发展更好造福世界，这将为中卡合作提供宝贵机遇。中方愿同卡方落实好两国元首重要共识，保持高层交往，深化能源、人工智能等领域合作，推动中卡关系不断迈上新台阶。塔米姆请韩正转达对习近平主席的良好祝愿，表示卡方珍视卡中友谊，坚定恪守一个中国原则，愿同中方拓展合作领域，将卡中关系提升至新高度。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中卡深化能源合作将促进中国能源行业的发展，特别是在石油和天然气领域。",
+      "keywords": [
+        "能源",
+        "石油",
+        "天然气"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "人工智能",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中卡在人工智能领域的合作将进一步推动该行业的发展和技术进步。",
+      "keywords": [
+        "人工智能",
+        "技术合作"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石化",
+      "stockCode": "600028",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为中国最大的能源公司之一，中国石化有望从与卡塔尔的能源合作中受益。",
+      "relatedIndustries": [
+        "能源",
+        "石油"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "科大讯飞",
+      "stockCode": "002230",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为中国领先的人工智能企业，科大讯飞可能从与卡塔尔的技术合作中获得新的发展机遇。",
+      "relatedIndustries": [
+        "人工智能",
+        "科技"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中卡深化能源合作可能增加对原油的需求，从而推高油价。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前新闻内容未直接涉及货币政策或财政政策变化，因此对国债市场影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "中卡深化能源及人工智能合作利好相关行业及企业，预计短期内能源类股票及原油期货价格将有所上涨。",
+  "analyzedAt": "2025-11-29T12:49:14.145Z",
+  "modelVersion": "qwen-max"
+}

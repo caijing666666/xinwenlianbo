@@ -1,0 +1,75 @@
+{
+  "newsId": "2025-11-21-003",
+  "newsDate": "2025-11-21",
+  "newsTitle": "李强抵达约翰内斯堡出席二十国集团领导人第二十次峰会",
+  "newsContent": "首页\n        |\n        简\n        |\n        繁\n        |\n        EN\n        |\n        登录\n        \n          \n          \n            个人中心\n            退出\n          \n        \n        |\n        邮箱\n        |\n        无障碍\n\n      \n    \n  \n  \n    \n    EN\n    \n      \n      \n    \n\n    \n      \n        \n          \n          \n        \n        \n          function goSearch(event) {\n            var e = window.event || event;\n            if(e.preventDefault){\n              e.preventDefault();\n            }else{\n              e.returnValue=false;\n            }\n            var s = '', m = document.querySelector('.header .pchide [name=headSearchword]');\n            s = m.offsetHeight > 0 ? m.value : document.querySelector('.header .mhide [name=headSearchword]').value;\n            // 市场主体 dataTypeId=14\n            if (s == '市场主体') {\n              url = '//sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=14&searchWord=' + s;\n            } else {\n              url = '//sousuo.www.gov.cn/sousuo/search.shtml?code=17da70961a7&dataTypeId=107&searchWord=' + encodeURIComponent(s);\n            }\n            window.open(url, '_blank');\n          }\n          function listenerKeyUpEventFn(){\n            if(event.keyCode==13){\n              goSearch();\n            };\n          }",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "李强出席二十国集团领导人峰会，可能带来国际合作和贸易机会的增加。",
+      "keywords": [
+        "国际合作",
+        "贸易机会"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "峰会上可能会讨论全球基础设施投资合作，有利于中国相关企业。",
+      "keywords": [
+        "基础设施",
+        "投资合作"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国交建",
+      "stockCode": "601800",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为基础设施建设领域的龙头企业，有望受益于国际合作项目的增加。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中远海控",
+      "stockCode": "601919",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "国际贸易合作的增加将提升航运需求，利好航运企业。",
+      "relatedIndustries": [
+        "国际贸易"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 55,
+      "impactType": "neutral",
+      "reasoning": "短期内政策和经济环境保持稳定，对国债收益率影响不大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "李强出席二十国集团领导人峰会，可能带来国际合作和贸易机会的增加，利好基础设施建设和国际贸易相关行业。",
+  "analyzedAt": "2025-12-12T03:04:45.587Z",
+  "modelVersion": "qwen-max"
+}

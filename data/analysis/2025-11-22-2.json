@@ -1,0 +1,127 @@
+{
+  "newsId": "2025-11-22-2",
+  "newsDate": "2025-11-22",
+  "newsTitle": "赵乐际对新西兰进行正式友好访问",
+  "newsContent": "应新西兰议会议长布朗利邀请，全国人大常委会委员长赵乐际11月19日至22日对新西兰进行正式友好访问，在奥克兰会见总理拉克森，在惠灵顿同议长布朗利举行会谈。会见拉克森时，赵乐际表示，在习近平主席和新方领导人战略引领下，双方各领域合作成果丰硕，中新全面战略伙伴关系第二个十年开局良好。中方愿同新方一道，巩固传统友谊，增进理解互信，照顾彼此核心利益和重大关切，做平等相待的真诚朋友、合作伙伴。希望深化互利合作，加强发展战略对接，推动经贸和投资合作，挖掘绿色转型、数字经济、人工智能等领域的合作潜力。促进人文交流，推动文化、教育、旅游、地方等方面合作取得更多成果。加强多边协作，践行真正的多边主义。拉克森表示，新中传统友谊深厚，两国关系持久、稳定。新西兰始终坚持一个中国政策。两国贸易关系强劲，互补性强，为双方带来切实利益。新中人文交流不断深化，中国游客、学生、企业家和华人社区为新西兰发展作出重要贡献。合作、沟通、对话是新西兰同中国关系的鲜明特点。新西兰愿同中国加强对话和交流，在经贸、教育、文化、旅游、环保、农业等多领域开展合作，更好造福两国人民。同布朗利会谈时，赵乐际表示，中国全国人大愿同新西兰议会共同推动落实两国领导人重要共识，从立法机构角度助力中新关系健康稳定发展。加强多层级交流交往，开展治国理政以及立法、监督等领域经验交流，为两国务实合作提供法律保障。密切在各国议会联盟等多边平台的沟通协作。赵乐际介绍了中国坚持和发展全过程人民民主有关情况，表示两国立法机构可就民主法治建设开展交流互鉴。布朗利表示，新西兰一直把中国视作朋友，关注中国创造的发展奇迹。建交50多年来，两国关系快速发展。中国制定了百年奋斗目标，新方欢迎中国在未来取得更大发展。新西兰议会愿加强同中国全国人大的友好交往，为促进两国关系发挥积极作用。访新期间，赵乐际在克赖斯特彻奇出席路易·艾黎纪念馆揭牌仪式，表示要传承好、弘扬好、发展好“路易·艾黎精神”，推动两国民间、地方、青年加强交流合作，书写新时代两国人民携手前行的友好篇章；参访了吉尔克里斯特兄弟农场农户家庭，希望不断增进两国人民之间的相互了解和友好感情。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新闻中提到深化绿色转型领域的合作潜力，这将促进新能源行业的发展。",
+      "keywords": [
+        "绿色转型",
+        "合作潜力",
+        "发展"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "数字经济",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "新闻中提到加强数字经济领域的合作，这将推动相关企业的发展。",
+      "keywords": [
+        "数字经济",
+        "合作",
+        "发展"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "人工智能",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "新闻中提到挖掘人工智能领域的合作潜力，这将促进该行业的技术创新和应用。",
+      "keywords": [
+        "人工智能",
+        "合作潜力",
+        "技术创新"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "新闻中提到促进人文交流，推动文化、教育、旅游等方面的合作，这将有利于旅游业的发展。",
+      "keywords": [
+        "人文交流",
+        "旅游",
+        "合作"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池的龙头企业，受益于绿色转型领域的合作潜力。",
+      "relatedIndustries": [
+        "新能源"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "阿里巴巴",
+      "stockCode": "BABA",
+      "exchange": "NYSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为数字经济的代表企业，受益于数字经济领域的合作。",
+      "relatedIndustries": [
+        "数字经济"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    },
+    {
+      "companyName": "科大讯飞",
+      "stockCode": "002230",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为人工智能领域的领先企业，受益于人工智能领域的合作潜力。",
+      "relatedIndustries": [
+        "人工智能"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    },
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "作为旅游行业的龙头企业，受益于人文交流和旅游合作。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-2%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "新闻主要涉及国际合作和经济发展，对债券市场影响较小，预计收益率保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源、数字经济、人工智能和旅游等行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:22:40.310Z",
+  "modelVersion": "qwen-max"
+}

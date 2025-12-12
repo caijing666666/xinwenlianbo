@@ -1,0 +1,38 @@
+{
+  "newsId": "2025-11-21-2",
+  "newsDate": "2025-11-21",
+  "newsTitle": "李强抵达约翰内斯堡出席二十国集团领导人第二十次峰会",
+  "newsContent": "当天下午，李强结束对赞比亚的正式访问。离开卢萨卡时，赞比亚副总统纳卢曼戈和中国驻赞比亚大使韩镜到机场送行。当地时间11月20日晚，应南非政府邀请，国务院总理李强乘包机抵达约翰内斯堡国际机场，出席二十国集团领导人第二十次峰会。南非卫生部长莫措阿莱迪和中国驻南非大使吴鹏到机场迎接。",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "李强总理出席二十国集团领导人峰会，有助于加强中国与其他国家的经贸合作，促进国际贸易发展。",
+      "keywords": [
+        "国际合作",
+        "贸易",
+        "经济发展"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "国际会议对国内货币政策影响有限，短期内国债收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 60,
+  "summary": "李强总理出席G20峰会，有利于推动国际贸易合作，但对具体行业和公司的影响尚不明确。债券市场预计保持稳定。",
+  "analyzedAt": "2025-11-29T10:27:49.039Z",
+  "modelVersion": "qwen-max"
+}

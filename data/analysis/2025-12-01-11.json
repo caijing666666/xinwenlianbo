@@ -1,0 +1,127 @@
+{
+  "newsId": "2025-12-01-11",
+  "newsDate": "2025-12-01",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "我国近日印发《关于加强生态警务机制建设的意见》为依法严厉打击环境资源犯罪，防范化解重大风险，公安部日前联合国家发展改革委、司法部等部门印发《关于加强生态警务机制建设的意见》。《意见》明确了强化刑事打击、加强主动预防、推动综合治理、服务价值转化等四项主要任务，提出到2027年基本建成由公安机关牵头、相关部门联动的生态警务机制。南水北调中线一期工程启动冰期输水今天（12月1日），南水北调中线一期工程启动2025—2026年度冰期输水，预计到2026年2月底结束。截至目前，南水北调中线一期工程已向京津冀豫四省市供水730亿立方米，近1.18亿人受益。海南“离岛免税”升级政策首月购物金额达23.8亿元海南“离岛免税”升级政策实施首月，“离岛免税”免税购物金额达23.8亿元，同比增长27.1%，购物人数32.9万，件数190.5万件。其中，新政新增的宠物用品、可随身携带的乐器等品类共销售7597件，金额1300万元，政策拉动消费作用初步显现。我国单机容量最大燃气电厂首台机组投产昨天（11月30日），国家能源集团浙江安吉电厂1号机组正式投产。该电厂是我国单机容量最大的燃气电厂，建有两座843兆瓦的燃气机组。项目整体投运后，最高可实现全年发电量约70亿度，能满足600万居民一年的用电量。国产大飞机C919今天商业首航高原机场今天（12月1日），随着国产大飞机C919执飞的航班平稳降落在海拔1940多米的兰州中川国际机场，国产大飞机正式开启上海至兰州的定期商业航班运营。这也是国产大飞机C919商业首航高原机场。第三届中国侨智发展大会在福建福州开幕今天（12月1日），第三届中国侨智发展大会在福建福州开幕。围绕“侨汇天下才·智创新时代”的主题，大会设置16场重点活动，鼓励侨智人才团队参与科研攻关，开展产业与人才对接等，来自39个国家和地区的上千名嘉宾参加。第19届世界水资源大会在摩洛哥马拉喀什开幕今天（12月1日），第19届世界水资源大会在摩洛哥的马拉喀什开幕，主题为“变化世界中的水：创新与适应”。在本次大会上，中方代表将重点阐释中国洪水治理管理的三种模式：洪水控制、洪水利用、洪水塑造，倡议各国全面认知洪水危害性、资源性和功能性。北方多地出现明显降温天气受寒潮影响，今天（12月1日）我国华北、东北多地降温明显，各地供热单位加强管网及换热站巡查，提高供热参数，全力保障居民供暖。中央气象台预计，未来三天，寒潮继续东移南下，我国大部降温明显，提醒公众做好防寒保暖。",
+  "industryImpacts": [
+    {
+      "industryName": "环保",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "《关于加强生态警务机制建设的意见》强化了对环境资源犯罪的打击，有利于环保行业的发展。",
+      "keywords": [
+        "生态警务",
+        "环境资源犯罪",
+        "综合治理"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "旅游零售",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "海南离岛免税政策升级，购物金额和人数增长明显，利好旅游零售业。",
+      "keywords": [
+        "离岛免税",
+        "消费升级",
+        "旅游零售"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "电力",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "国家能源集团浙江安吉电厂投产，单机容量最大燃气电厂有助于提升电力供应能力。",
+      "keywords": [
+        "燃气电厂",
+        "电力供应",
+        "发电量"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "航空",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "国产大飞机C919商业首航高原机场，标志着国产大飞机在商业运营方面取得重要进展。",
+      "keywords": [
+        "C919",
+        "商业首航",
+        "高原机场"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国中免",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "海南离岛免税政策升级，购物金额和人数增长明显，利好公司业绩。",
+      "relatedIndustries": [
+        "旅游零售",
+        "消费"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "国产大飞机C919商业首航高原机场，有望提升公司在国内市场的竞争力。",
+      "relatedIndustries": [
+        "航空",
+        "交通运输"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "国家能源集团",
+      "stockCode": "601088",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "浙江安吉电厂投产，单机容量最大燃气电厂有助于提升公司电力供应能力。",
+      "relatedIndustries": [
+        "电力",
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "天然气",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "浙江安吉电厂投产，单机容量最大燃气电厂可能增加天然气需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前新闻内容对货币政策无直接影响，国债收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好环保、旅游零售、电力和航空等行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-01T16:42:39.364Z",
+  "modelVersion": "qwen-max"
+}

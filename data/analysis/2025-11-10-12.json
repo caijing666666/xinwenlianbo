@@ -1,0 +1,97 @@
+{
+  "newsId": "2025-11-10-12",
+  "newsDate": "2025-11-10",
+  "newsTitle": "俄称在红军城击退乌军进攻 乌称该地区战斗激烈",
+  "newsContent": "俄罗斯国防部9日称，俄军在苏梅、哈尔科夫、顿涅茨克等多个方向发动攻势，摧毁乌军多个电子站和弹药库；俄军在扎波罗热又控制了一个居民点。此外，俄军继续在红军城（乌称波克罗夫斯克）方向展开进攻，并击退乌军多次进攻和突围。乌克兰武装部队总参谋部9日称，过去一天前线地区发生196次战斗。其中，波克罗夫斯克地区战斗依旧最为激烈，乌军击退俄军73次进攻。乌国家电力公司称，乌多地10日将继续实施限电。俄方说正等待美方就恢复核试验言论作进一步说明据俄罗斯塔斯社9日报道，俄总统新闻秘书佩斯科夫表示，针对美国总统特朗普近期宣布计划恢复核试验一事，俄方正等待美方就此言论的进一步说明。佩斯科夫表示，核试验问题极其严肃，与此相关的言论不应含糊其辞。他还表示，俄总统普京并未下令直接开始准备核试验，如果有其他国家违反核试验禁令，俄方将被迫采取对等措施以维护战略平衡。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "乌克兰多地实施限电，可能增加对其他能源的需求，如天然气和煤炭。",
+      "keywords": [
+        "限电",
+        "能源需求",
+        "天然气",
+        "煤炭"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "国防军工",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突持续，可能增加国防军工行业的订单和需求。",
+      "keywords": [
+        "冲突",
+        "国防",
+        "军工"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "乌克兰限电可能导致对天然气和石油的需求增加。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突持续，可能增加国防军工企业的订单。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "乌克兰限电可能导致对能源的需求增加，推高原油价格。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "地缘政治紧张局势可能对黄金价格产生影响，但目前市场情绪较为稳定。",
+      "priceDirection": "stable",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "地缘政治紧张局势对国债市场的影响有限，收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "乌克兰限电和俄乌冲突持续，能源和国防军工行业有望受益，建议关注相关龙头企业。",
+  "analyzedAt": "2025-11-29T11:24:23.296Z",
+  "modelVersion": "qwen-max"
+}

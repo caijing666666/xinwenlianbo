@@ -1,0 +1,69 @@
+{
+  "newsId": "2025-11-10-1",
+  "newsDate": "2025-11-10",
+  "newsTitle": "央视快评：奋力拼搏 为建设体育强国作出新贡献",
+  "newsContent": "本台今天（11月10日）播发央视快评《奋力拼搏 为建设体育强国作出新贡献》。",
+  "industryImpacts": [
+    {
+      "industryName": "体育",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "政策支持建设体育强国，将促进体育产业的发展和投资",
+      "keywords": [
+        "体育",
+        "政策",
+        "发展"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "消费",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "随着体育活动的增加，相关消费品如运动装备、健身器材等需求可能上升",
+      "keywords": [
+        "消费",
+        "运动装备",
+        "健身器材"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "安踏体育",
+      "stockCode": "2020",
+      "exchange": "HKEX",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的体育用品公司，有望受益于体育强国建设带来的市场需求增长",
+      "relatedIndustries": [
+        "体育",
+        "消费"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "李宁",
+      "stockCode": "2331",
+      "exchange": "HKEX",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "同样作为体育用品制造商，李宁也可能从体育产业发展中获益",
+      "relatedIndustries": [
+        "体育",
+        "消费"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "体育强国建设政策利好体育及相关消费行业，建议关注体育用品制造企业。",
+  "analyzedAt": "2025-11-29T11:20:32.125Z",
+  "modelVersion": "qwen-max"
+}

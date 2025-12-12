@@ -1,0 +1,48 @@
+{
+  "newsId": "2025-11-26-4",
+  "newsDate": "2025-11-26",
+  "newsTitle": "赵乐际会见汤加国王",
+  "newsContent": "全国人大常委会委员长赵乐际26日上午在北京会见汤加国王图普六世。赵乐际表示，在习近平主席和国王陛下战略引领下，中汤相互尊重、共同发展的全面战略伙伴关系不断走深走实。昨天（11月25日），习近平主席同你举行会见，擘画了中汤关系发展新蓝图。中方愿同汤加一道，落实好两国元首重要共识，在涉及彼此核心利益问题上坚定相互支持，高质量推进互利共赢合作，深化人文交流，推动中汤关系持续健康稳定向前发展。中国全国人大愿同汤加议会加强各层级、多领域交流交往，为两国务实合作提供法律保障。图普六世表示，汤中友好关系紧密牢固，汤加坚定奉行一个中国政策，愿同中方深化各领域务实合作，加强立法机构交流，不断拓展汤中全面战略伙伴关系。11月26日上午，汤加国王图普六世前往天安门广场，向人民英雄纪念碑敬献花圈。",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中汤关系的深化可能促进两国之间的贸易往来，特别是农产品和渔业产品等。",
+      "keywords": [
+        "贸易",
+        "合作",
+        "农产品"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [],
+  "futuresImpacts": [
+    {
+      "commodity": "农产品",
+      "exchange": "郑商所",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "随着中汤贸易关系的加强，中国对汤加农产品的需求可能会增加，从而推高相关期货价格。",
+      "priceDirection": "up",
+      "confidence": 0.6
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 40,
+      "impactType": "neutral",
+      "reasoning": "此次会面主要涉及外交关系与贸易合作，并未直接提及货币政策或财政政策调整，因此对债券市场影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 50,
+  "summary": "中汤关系深化有利于国际贸易行业及部分农产品期货，但整体来看对中国资本市场的影响较为有限。",
+  "analyzedAt": "2025-11-29T09:58:57.145Z",
+  "modelVersion": "qwen-max"
+}

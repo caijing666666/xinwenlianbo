@@ -1,0 +1,76 @@
+{
+  "newsId": "2025-11-11-8",
+  "newsDate": "2025-11-11",
+  "newsTitle": "全国秋冬种加紧推进 冬小麦播种近七成",
+  "newsContent": "眼下，我国粮食主产区正抢抓农时分类精准施策，全力以赴推进秋冬种。秋冬种面积占全年粮食播种面积的近四分之一，农业农村部最新农情调度显示，全国冬小麦播种近七成。近几天，黄淮海主产区天气有利，当地加紧抢种冬小麦。安徽强化精细整地，加快土壤散墒，避免因土壤偏湿造成烂耕烂种，影响出苗质量，并组织全省1700多名农技骨干，下沉一线服务种粮大户，带动小农户实现大范围高质量播种。山东提前将6000多万亩冬小麦播种任务分解到具体地块，并推广抗寒早熟品种和抗湿晚播技术，减轻晚播影响。在郯城县，当地组织100多名农技人员包片指导农民加紧播种。眼下，长江流域冬油菜正加紧播种，进度过九成。江西统筹稻油轮作等资金2.4亿多元，支持扩种冬油菜，预计播种面积稳定在900万亩以上。湖南冬油菜播种面积预计超过2000万亩，今年，当地发布10个主推品种，并因地制宜推广机械化直播等绿色增产技术。在沅江市，当地安排奖补资金50多万元，推广应用精量一体化播种机。   近日，农业农村部组织12个小麦油菜技术指导组，分赴重点省份开展指导服务，确保秋冬种关键措施落实，提高播种质量。",
+  "industryImpacts": [
+    {
+      "industryName": "农业",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "秋冬种推进顺利，冬小麦和冬油菜播种进度良好，有利于保障粮食安全和农产品供应稳定。",
+      "keywords": [
+        "秋冬种",
+        "冬小麦",
+        "冬油菜",
+        "播种进度"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "北大荒",
+      "stockCode": "600598",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内大型农业企业，秋冬种进展顺利将有助于其主营业务的稳定和发展。",
+      "relatedIndustries": [
+        "农业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "隆平高科",
+      "stockCode": "000998",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "种子企业受益于秋冬种的良好进展，市场需求有望增加。",
+      "relatedIndustries": [
+        "农业",
+        "种子"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "小麦",
+      "exchange": "郑商所",
+      "impactScore": 70,
+      "impactType": "neutral",
+      "reasoning": "虽然秋冬种进展顺利，但短期内对期货价格影响有限，需关注后续天气和产量情况。",
+      "priceDirection": "stable",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "菜籽油",
+      "exchange": "郑商所",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "冬油菜播种进度良好，但短期内对期货价格影响有限，需关注后续供需情况。",
+      "priceDirection": "stable",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "秋冬种进展顺利利好农业及相关企业，建议关注农业龙头企业。",
+  "analyzedAt": "2025-11-29T11:16:34.222Z",
+  "modelVersion": "qwen-max"
+}

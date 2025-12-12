@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-11-3",
+  "newsDate": "2025-11-11",
+  "newsTitle": "【学习贯彻党的二十届四中全会精神】中央宣讲团在各地各部门宣讲党的二十届四中全会精神",
+  "newsContent": "连日来，学习贯彻党的二十届四中全会精神中央宣讲团成员在各地各部门宣讲，推动全会精神学习走深走实。中央宣讲团成员、中共中央政治局委员、国务院副总理何立峰11月11日在住房城乡建设系统宣讲党的二十届四中全会精神。何立峰紧紧围绕深入学习贯彻习近平总书记重要讲话和全会《建议》，从全面理解“十五五”时期经济社会发展的指导思想、重大原则、重大战略任务，坚持和加强党的全面领导等方面，对全会精神作了深入宣讲和阐释。中央宣讲团成员、中国人民银行行长潘功胜11月8日在河南作宣讲报告。潘功胜从深刻认识党的二十届四中全会的重大意义，深刻领会“十五五”时期经济社会发展的指导方针和主要目标，坚持和加强党的全面领导，凝聚起推进中国式现代化的磅礴力量等方面，对全会精神作了系统阐释。潘功胜还来到中原银行，与基层员工开展面对面座谈宣讲。中央宣讲团成员、中央改革办专职副主任丁国文11月6日在广西作宣讲报告。丁国文从准确把握“十五五”时期在基本实现社会主义现代化进程中的重要地位，坚持和加强党的全面领导等方面，对全会精神作了深入阐释。丁国文还来到中国—东盟国家人工智能应用合作中心，与中心工作人员、入驻企业职工和基层干部群众代表进行互动交流。",
+  "industryImpacts": [
+    {
+      "industryName": "房地产",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "何立峰在住房城乡建设系统宣讲，强调了“十五五”时期经济社会发展的指导思想和重大战略任务，可能预示着未来政策将对房地产行业提供支持。",
+      "keywords": [
+        "房地产",
+        "政策支持",
+        "发展"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "金融",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "潘功胜在中国人民银行行长，在河南作宣讲报告，强调了坚持和加强党的全面领导，这可能意味着金融行业的监管环境将更加稳定。",
+      "keywords": [
+        "金融",
+        "监管",
+        "稳定"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "万科企业股份有限公司",
+      "stockCode": "000002",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为房地产行业的龙头企业，万科有望受益于政策支持。",
+      "relatedIndustries": [
+        "房地产"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国工商银行",
+      "stockCode": "601398",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为中国最大的商业银行之一，工行可能从稳定的金融环境中受益。",
+      "relatedIndustries": [
+        "金融"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "货币政策保持稳定，预计国债收益率将维持在当前水平。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "政策利好房地产和金融行业，相关企业和债券市场有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T11:14:26.885Z",
+  "modelVersion": "qwen-max"
+}

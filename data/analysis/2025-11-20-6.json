@@ -1,0 +1,90 @@
+{
+  "newsId": "2025-11-20-6",
+  "newsDate": "2025-11-20",
+  "newsTitle": "二十届首都规划建设委员会第六次全体会议在京召开 蔡奇出席并讲话",
+  "newsContent": "二十届首都规划建设委员会第六次全体会议11月20日在京召开。中共中央政治局常委、首规委主任蔡奇出席会议并讲话。会议指出，在以习近平同志为核心的党中央坚强领导下，首规委各成员单位共同努力，推动首都规划建设取得新进展。要深入学习贯彻党的二十届四中全会精神，学习贯彻习近平总书记关于首都规划建设的重要论述，准确把握首都在中国式现代化全局中的定位作用，推动新时代首都发展，提升城市内涵式发展水平，在中国特色城市现代化进程中发挥示范引领作用。会议要求，持之以恒抓好各项任务落实。强化中央政务功能服务保障，持续改善政务环境。坚定有序疏解非首都功能，更好支持河北雄安新区建设。加强文物腾退保护利用，深入推进城市更新，有序推进央军地重大协同建设项目。优化京津冀城市体系，进一步强化空间协同。践行以人民为中心的发展思想，在精准化、精细化上下功夫，解决城市体检发现的短板弱项。把安全发展理念贯穿到首都规划、建设、发展、治理全过程，建设韧性城市，确保首都安全。会议强调，要在党中央集中统一领导下，进一步完善首规委工作机制。北京市要落实好属地责任，各成员单位要持续创新政策举措，首规委办要组织编制好有关规划实施方案，强化监测评估和监督，共同提升首都规划实施水平。会议听取了2024年度北京城市总体规划、首都功能核心区控规、北京城市副中心控规实施体检情况汇报。中共中央政治局委员、首规委主任尹力主持会议。首规委副主任、委员等出席会议。",
+  "industryImpacts": [
+    {
+      "industryName": "房地产",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "会议强调深入推进城市更新，优化京津冀城市体系，这将对房地产行业带来积极影响。",
+      "keywords": [
+        "城市更新",
+        "京津冀",
+        "优化"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "有序推进央军地重大协同建设项目，加强基础设施建设，利好相关企业。",
+      "keywords": [
+        "基础设施",
+        "协同建设",
+        "重大项目"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "文化旅游",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "加强文物腾退保护利用，推动文化旅游业发展。",
+      "keywords": [
+        "文物保护",
+        "文化旅游",
+        "腾退"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国建筑",
+      "stockCode": "601668",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为基础设施建设龙头企业，受益于城市更新和重大项目建设。",
+      "relatedIndustries": [
+        "基础设施建设",
+        "房地产"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "首开股份",
+      "stockCode": "600376",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为北京地区的房地产开发企业，受益于城市更新政策。",
+      "relatedIndustries": [
+        "房地产"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然会议强调了城市建设和基础设施投资，但整体货币政策保持稳定，地方债收益率预计保持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好房地产、基础设施建设和文化旅游行业，相关企业和地方债市场有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:33:49.290Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-11-29-7",
+  "newsDate": "2025-11-29",
+  "newsTitle": "日本民众再度举行抗议活动 要求高市早苗撤回错误言论",
+  "newsContent": "针对日本首相高市早苗近期发表涉台错误言论，且至今仍不思悔改，日本民众28日晚在位于东京的首相官邸前再度举行抗议活动。当晚，在东京的世田谷区，也有日本民众抗议，打出“维护和平宪法”“反对扩张军备”“高市早苗立即辞职”等标语。连日来，国际人士重申坚持一个中国原则，反对干涉中国内政。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能促使政府增加国防开支，利好军工企业",
+      "keywords": [
+        "国防",
+        "军事",
+        "安全"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "半导体",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "中日关系紧张可能导致日本对中国的技术出口限制加强，影响中国半导体产业供应链",
+      "keywords": [
+        "技术",
+        "出口",
+        "限制"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的军用飞机制造商，受益于国防开支增加",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE",
+      "impactScore": 55,
+      "impactType": "negative",
+      "reasoning": "若日本加强对华技术出口限制，可能面临供应链风险",
+      "relatedIndustries": [
+        "半导体"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治不确定性增加通常会推高避险资产如黄金的需求",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内对债券市场直接影响有限，但长期看如果地缘政治风险持续上升，可能会导致资金流向更安全的资产类别",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.65
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "地缘政治因素短期内对部分行业和公司产生一定影响，整体市场情绪保持中性。建议关注国防军工板块及避险资产的投资机会。",
+  "analyzedAt": "2025-11-29T16:13:21.707Z",
+  "modelVersion": "qwen-max"
+}

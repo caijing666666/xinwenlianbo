@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-24-5",
+  "newsDate": "2025-11-24",
+  "newsTitle": "【学习贯彻四中全会精神在基层】青海：打造青藏高原生态文明高地 内蒙古：以更高标准守护好祖国北疆绿水青山",
+  "newsContent": "党的二十届四中全会指出，加快经济社会发展全面绿色转型，建设美丽中国。青海、内蒙古认真学习贯彻全会精神，牢固树立和践行“绿水青山就是金山银山”理念，不断筑牢生态安全屏障，增强绿色发展动能。青海：打造青藏高原生态文明高地在青海西宁，这些天，国土变更调查及森林草原湿地荒漠调查监测工作正在进行。工作人员通过遥感监测分析、实地调查等方式，动态更新植被覆盖类型、国土绿化空间等信息，为山水林田湖草沙一体化保护和治理提供基础数据。筑牢生态安全屏障。“十四五”以来，青海累计完成国土绿化2633.56万亩。其中，营造林1019.03万亩、草原修复治理1614.53万亩，林草综合植被盖度超60%。学习贯彻四中全会精神，青海将持续提升三江源国家公园建设成效，扎实推进以国家公园为主体的自然保护地体系建设，全力打造青藏高原生态文明高地。内蒙古：以更高标准守护好祖国北疆绿水青山眼下，内蒙古阿尔山7万亩沙棘迎来成熟季。这片沙棘林是当地实施退耕还林后，利用已垦林地和荒山荒地打造的沙棘生态林。今年，沙棘亩产预计超过700公斤。持续加大生态文明建设力度。“十四五”以来，内蒙古全区累计完成造林2785万亩、种草1亿多亩、防沙治沙6688万亩，森林覆盖率提升至21.98%，生态安全屏障功能持续增强。四中全会提出，科学开展大规模国土绿化行动，打好“三北”工程攻坚战。学习贯彻全会精神，下一步，内蒙古将在治沙、防沙、管护、利用上持续发力，不断巩固防沙治沙成果，切实筑牢我国北方重要生态安全屏障。",
+  "industryImpacts": [
+    {
+      "industryName": "环保",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策支持生态文明建设，推动环保行业发展",
+      "keywords": [
+        "生态",
+        "绿色转型",
+        "植被覆盖"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "林业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "大规模国土绿化行动和森林覆盖率提升将促进林业发展",
+      "keywords": [
+        "造林",
+        "森林覆盖率",
+        "生态保护"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "蒙草生态",
+      "stockCode": "300355",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "内蒙古加大生态文明建设力度，公司作为当地生态修复企业有望受益",
+      "relatedIndustries": [
+        "环保",
+        "林业"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "三江源",
+      "stockCode": "600187",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "青海持续推进三江源国家公园建设，公司业务有望增长",
+      "relatedIndustries": [
+        "环保",
+        "旅游"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "地方政府加大生态文明建设投入，但整体财政状况稳定",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好环保和林业行业，相关企业和地方债市场有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:09:36.062Z",
+  "modelVersion": "qwen-max"
+}

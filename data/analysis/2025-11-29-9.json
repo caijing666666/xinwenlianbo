@@ -1,0 +1,94 @@
+{
+  "newsId": "2025-11-29-9",
+  "newsDate": "2025-11-29",
+  "newsTitle": "俄称美方提交美乌日内瓦会谈后的和平计划版本",
+  "newsContent": "俄罗斯总统新闻秘书佩斯科夫28日表示，美方已向俄方提交了美乌日内瓦会谈后的和平计划版本，俄方将在下周对该计划进行讨论。另据美国媒体报道，一个乌克兰代表团正前往美国，计划与美国特使威特科夫等就和平计划展开进一步磋商。此外，乌克兰总统泽连斯基28日说，乌谈判代表团团长、总统办公室主任叶尔马克当天递交辞呈，总统办公室将重组。28日早些时候，乌反腐部门搜查了叶尔马克的住所。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "和平计划的讨论可能会影响全球能源供应格局，但短期内影响有限。",
+      "keywords": [
+        "和平计划",
+        "能源供应"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "国防军工",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "和平谈判进展可能导致地缘政治紧张局势缓解，从而减少对国防军工的需求。",
+      "keywords": [
+        "和平谈判",
+        "地缘政治"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "和平计划的讨论可能会影响全球能源供应格局，但短期内对公司影响有限。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "±2%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "和平谈判进展可能导致地缘政治紧张局势缓解，从而减少对国防军工的需求。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "-3-5%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "和平计划的讨论可能会影响全球能源供应格局，但短期内对油价影响有限。",
+      "priceDirection": "stable",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "和平谈判进展可能导致避险需求下降，从而对黄金价格产生负面影响。",
+      "priceDirection": "down",
+      "confidence": 0.6
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "和平谈判进展对国内经济环境影响有限，国债收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 55,
+  "summary": "和平谈判进展对能源和国防军工行业有一定影响，但整体市场情绪较为中性。建议关注相关行业的龙头企业。",
+  "analyzedAt": "2025-11-29T16:14:00.692Z",
+  "modelVersion": "qwen-max"
+}

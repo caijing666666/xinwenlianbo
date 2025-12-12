@@ -1,0 +1,62 @@
+{
+  "newsId": "2025-11-21-11",
+  "newsDate": "2025-11-21",
+  "newsTitle": "国际人士表示高市早苗错误言论威胁地区和平",
+  "newsContent": "国际人士表示，日本首相高市早苗的错误言论违反国际法，威胁地区和平。日本人士表示高市早苗错误言论损害日中关系 应立即撤回 日本人士表示，高市早苗的错误言行损害了日中关系，给日本经济带来巨大冲击，要求高市早苗撤回相关言论。",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "日本首相的言论可能加剧中日之间的紧张关系，影响两国间的贸易往来。",
+      "keywords": [
+        "国际贸易",
+        "中日关系"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "旅游业",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "中日关系恶化可能导致中国游客减少赴日旅游，对相关企业造成负面影响。",
+      "keywords": [
+        "旅游业",
+        "中日关系"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "作为主要经营出境游业务的企业，中日关系恶化可能对其业绩产生不利影响。",
+      "relatedIndustries": [
+        "旅游业"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 30,
+      "impactType": "neutral",
+      "reasoning": "短期内国际局势变化对国内债券市场的影响有限，但需关注后续发展。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.5
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 40,
+  "summary": "日本首相的不当言论可能对涉及中日贸易和旅游行业的公司带来短期负面冲击，建议投资者谨慎对待这些领域的投资。",
+  "analyzedAt": "2025-11-29T10:31:13.497Z",
+  "modelVersion": "qwen-max"
+}

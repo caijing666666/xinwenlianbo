@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-12-02-11",
+  "newsDate": "2025-12-02",
+  "newsTitle": "中国代表致函联合国秘书长严正批驳日方无理狡辩",
+  "newsContent": "中国常驻联合国代表傅聪12月1日再次致函联合国秘书长古特雷斯，严正批驳日本常驻联合国代表山崎和之11月24日给古特雷斯致函中相关无理狡辩言论。 傅聪在致函中表示，当前中日之间存在严重分歧的直接原因，是日本首相高市早苗发表挑衅性言论，暗示日本会武力介入台湾问题。台湾是中国的领土，日方相关错误言论公然挑战二战胜利成果和战后国际秩序，严重违反《联合国宪章》宗旨和原则。日本代表在致函中称日本坚持专守防卫的被动防御战略，并称高市早苗的言论是基于这一立场。日方的说法自相矛盾，是在欺骗国际社会。国际社会应认清高市早苗错误言论的严重危害，对日方颠覆战后国际秩序的野心保持高度警惕，对日本扩军备战、复活军国主义的野心保持高度警惕，共同守护世界和平。该函将作为联合国大会正式文件，向全体会员国散发。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中日之间的紧张局势可能促使中国增加国防开支，以加强军事能力和防御能力。",
+      "keywords": [
+        "国防",
+        "军备",
+        "安全"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "半导体",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "地缘政治紧张可能导致技术交流和供应链受到干扰，影响半导体行业的生产和销售。",
+      "keywords": [
+        "供应链",
+        "技术封锁",
+        "出口限制"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为中国重要的战斗机制造商之一，中航沈飞可能会受益于国防预算的增加。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中芯国际",
+      "stockCode": "688981",
+      "exchange": "SSE",
+      "impactScore": 55,
+      "impactType": "negative",
+      "reasoning": "如果日本采取进一步的技术封锁措施，将对中芯国际等依赖进口设备和技术的企业产生负面影响。",
+      "relatedIndustries": [
+        "半导体"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治风险上升通常会推高避险资产如黄金的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内，此类事件对国债市场的影响有限；但长期来看，若局势恶化导致经济不确定性增加，则可能引起收益率波动。",
+      "yieldDirection": "stable",
+      "riskLevel": "medium",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "当前新闻主要影响国防军工行业及部分科技企业，同时提升了黄金作为避险工具的价值。整体而言，市场情绪保持谨慎乐观态度。",
+  "analyzedAt": "2025-12-03T06:57:35.090Z",
+  "modelVersion": "qwen-max"
+}

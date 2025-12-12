@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-11-30-10",
+  "newsDate": "2025-11-30",
+  "newsTitle": "日本东京举行抗议游行 要求高市早苗撤回错误言论",
+  "newsContent": "29日，部分日本民众再度在东京新宿举行抗议活动，要求首相高市早苗立即撤回涉台错误言论。多国人士表示高市错误言论危及地区和平与安全国际人士表示，高市早苗错误言论挑战战后国际秩序，危及亚太地区的和平与安全。",
+  "industryImpacts": [
+    {
+      "industryName": "航空",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "地区紧张局势可能影响国际航线运营，导致航班减少和成本增加。",
+      "keywords": [
+        "地缘政治",
+        "航线",
+        "成本"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "地区紧张局势可能导致游客数量下降，特别是对日本的出境游业务。",
+      "keywords": [
+        "地缘政治",
+        "游客",
+        "出境游"
+      ],
+      "confidence": 0.65
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "地区紧张局势可能影响国际航线运营，导致航班减少和成本增加。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-2-3%"
+    },
+    {
+      "companyName": "携程旅行网",
+      "stockCode": "TCOM",
+      "exchange": "NASDAQ",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "地区紧张局势可能导致游客数量下降，特别是对日本的出境游业务。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.65,
+      "estimatedPriceImpact": "-1-2%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势通常会推高避险资产的需求，黄金价格可能上涨。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内地缘政治紧张局势对国债收益率影响有限，但需关注长期影响。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 40,
+  "summary": "地缘政治紧张局势对航空和旅游行业产生负面影响，黄金作为避险资产可能受益。整体市场情绪偏谨慎。",
+  "analyzedAt": "2025-11-30T16:10:32.470Z",
+  "modelVersion": "qwen-max"
+}

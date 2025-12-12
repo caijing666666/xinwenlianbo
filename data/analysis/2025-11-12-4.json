@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-12-4",
+  "newsDate": "2025-11-12",
+  "newsTitle": "赵乐际会见西班牙国王",
+  "newsContent": "全国人大常委会委员长赵乐际12日下午在北京会见西班牙国王费利佩六世。赵乐际表示，近年来，在习近平主席和费利佩六世国王的引领推动下，中西关系保持健康稳定发展。中方愿同西班牙一道，落实好两国领导人重要共识，筑牢政治互信基础，推进务实合作，密切人文交流，保持中西关系高水平发展，为两国人民增添福祉，为世界注入更多稳定性和正能量。中国全国人大愿同西班牙议会一道，密切立法机构友好交往，开展更多立法、监督经验交流，为两国务实合作提供法律保障。费利佩六世表示，西中人民友谊悠久深厚，两国关系始终健康发展。中国发展规划具有长期性、前瞻性、连贯性。西班牙愿同中方加强立法机构交流，深化全面战略伙伴关系。丁仲礼参加会见。11月12日上午，西班牙国王费利佩六世前往天安门广场，向人民英雄纪念碑敬献花圈。",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中西关系的加强可能促进双边贸易，利好相关行业",
+      "keywords": [
+        "双边贸易",
+        "合作",
+        "政治互信"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "两国关系友好发展可能促进旅游业的发展",
+      "keywords": [
+        "人文交流",
+        "旅游",
+        "友好交往"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中西关系友好发展可能促进旅游业，利好旅游公司",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "东方航空",
+      "stockCode": "600115",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中西关系友好发展可能增加国际航班需求",
+      "relatedIndustries": [
+        "航空运输"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "中西关系友好发展对债券市场影响较小，货币政策保持稳定",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 65,
+  "summary": "中西关系友好发展利好国际贸易和旅游业，相关企业和债券市场保持稳定。",
+  "analyzedAt": "2025-11-29T11:10:08.953Z",
+  "modelVersion": "qwen-max"
+}

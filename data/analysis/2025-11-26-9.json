@@ -1,0 +1,119 @@
+{
+  "newsId": "2025-11-26-9",
+  "newsDate": "2025-11-26",
+  "newsTitle": "国内联播快讯",
+  "newsContent": "今年前10个月我国全行业对外直接投资同比增长7%商务部最新数据显示：今年前10个月，我国全行业对外直接投资10332.3亿元人民币，同比增长7%。其中，我国境内投资者共对全球152个国家和地区的9553家境外企业进行了非金融类直接投资，累计投资8726亿元人民币，增长6%。第十四届全国减轻企业负担政策宣传周举行第十四届全国减轻企业负担政策宣传周昨天（11月25日）启动，各地各部门将协调帮助解决企业在原材料、物流、能源等领域的成本负担，同时进一步推动降低企业税费成本。今年前八个月，我国支持制造业发展的主要政策已累计为企业减税降费及退税1.3万亿元。全国已建立8833个博士后科研流动站和工作站记者从人力资源社会保障部了解到，我国实施博士后制度40年来，已累计招收培养博士后40余万人，建立8833个博士后科研流动站和工作站，基本覆盖全部重点高校、主要科研院所和经济社会发展各领域。漳汕高铁福建段开始架梁今天（11月26日），连接福建漳州和广东汕头的漳汕高铁福建段开始架梁。漳汕高铁正线全长约175公里，设计时速350公里，计划2028年建成通车。通车后，漳州至汕头两地实现直达互通，进一步完善区域快速路网。2025科创大会在上海举行 总台高质量发展上海项目发布由中央广播电视总台和上海市人民政府共同主办的2025科创大会今天（11月26日）在上海举行。大会以“科创领航，智启新程”为主题，来自多个领域的专家学者和机构负责人，围绕新一轮科技革命与产业变革的核心趋势，科技如何赋能产业升级、重塑未来生态等内容展开深入探讨。现场还启动多个总台高质量发展项目。2025粤港澳大湾区文化产业投资大会开幕今天（11月26日），2025粤港澳大湾区文化产业投资大会在广州开幕。其间，将通过主题大会、路演等方式，揭示行业趋势，促进项目对接，超110家投资机构、300余家文化企业负责人参会。大会还就金融赋能文化产业等议题，发布了权威报告。长春成功申办2027第33届世界大学生冬季运动会今天（11月26日），在吉林长春举办的国际大学生体育联合会常委会上，经过国际大体联常委会的讨论及投票，吉林长春市成功获得2027大冬会承办权，也成为我国第二个举办大冬会的城市。",
+  "industryImpacts": [
+    {
+      "industryName": "制造业",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "政府持续支持制造业发展，减税降费政策有助于降低企业成本，提高盈利能力。",
+      "keywords": [
+        "减税",
+        "降费",
+        "成本"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "漳汕高铁等大型基础设施项目的推进将带动相关产业链的发展。",
+      "keywords": [
+        "高铁",
+        "基建",
+        "投资"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "文化产业",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "粤港澳大湾区文化产业投资大会的召开将促进文化产业的发展和资本流入。",
+      "keywords": [
+        "文化产业",
+        "投资",
+        "金融赋能"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国中车",
+      "stockCode": "601766",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "高铁项目推进将增加对铁路设备的需求，利好中国中车。",
+      "relatedIndustries": [
+        "基础设施建设",
+        "交通运输"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "三一重工",
+      "stockCode": "600031",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "基础设施建设加速将带动工程机械需求，利好三一重工。",
+      "relatedIndustries": [
+        "基础设施建设",
+        "机械制造"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "钢铁",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "基础设施建设加速将增加对钢铁的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和制造业发展将增加对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.65
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前货币政策保持稳定，国债收益率预计维持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "减税降费政策有助于改善企业财务状况，降低违约风险。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "政府支持制造业和基础设施建设，利好相关行业和企业。建议关注制造业龙头和基础设施建设相关公司。",
+  "analyzedAt": "2025-11-29T10:00:47.120Z",
+  "modelVersion": "qwen-max"
+}

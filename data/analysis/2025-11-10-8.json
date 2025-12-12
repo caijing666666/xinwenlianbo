@@ -1,0 +1,65 @@
+{
+  "newsId": "2025-11-10-8",
+  "newsDate": "2025-11-10",
+  "newsTitle": "各地抢抓农时 有序推进秋冬种",
+  "newsContent": "各地依托科技赋能，有序推进秋冬种，为粮食稳产增收筑牢基础。全国冬小麦播种稳步推进。受此前连续阴雨天气影响，部分地块土壤偏湿、播期拉长。在河南，农技人员下沉一线，科学指导农户因地因墒分类播种，全力弥补晚播带来的不利影响。截至11月7日，河南全省小麦已播面积4087万亩，占预计面积48.1%。在江苏新沂，当地与南京农业大学科技团队合作，调整优化“AI种田”数字系统，通过数据分析安排播种进度、调整播种深度，确保在晚播条件下仍能培育壮苗。四川今年计划播种冬小麦925万亩，高标准农田里，农业科技的“硬核”支撑成为抢农时的主力。在邛崃，当地采用无人机飞播撒种，单机单日可播撒300—500亩地。陕西通过推广新设备、新技术，全力保障农作物适期播种。在渭南，新引进的智能气吹式小麦播种机穿梭在田间，一次完成开沟、碎土、施肥、播种、覆土等多道播种工序。截至目前，陕西全省秋播小麦1000余万亩，进度过七成。",
+  "industryImpacts": [
+    {
+      "industryName": "农业",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "各地依托科技赋能，有序推进秋冬种，为粮食稳产增收筑牢基础。农业科技的应用有助于提高农业生产效率和产量。",
+      "keywords": [
+        "农业科技",
+        "秋播",
+        "稳产增收"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "大北农",
+      "stockCode": "002385",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为农业龙头企业，大北农在农业科技方面有较强的研发能力，受益于农业科技的推广和应用。",
+      "relatedIndustries": [
+        "农业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "隆平高科",
+      "stockCode": "000998",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "隆平高科在种子研发和种植技术方面具有优势，农业科技的应用将提升其市场竞争力。",
+      "relatedIndustries": [
+        "农业"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "小麦",
+      "exchange": "郑商所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "全国冬小麦播种稳步推进，农业科技的应用有助于提高产量，但短期内供应充足可能对价格形成一定压力。",
+      "priceDirection": "stable",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "农业科技的应用推动了农业行业的积极发展，相关企业和农产品期货有望受益，建议关注农业龙头企业。",
+  "analyzedAt": "2025-11-29T11:23:27.903Z",
+  "modelVersion": "qwen-max"
+}

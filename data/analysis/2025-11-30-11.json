@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-30-11",
+  "newsDate": "2025-11-30",
+  "newsTitle": "俄称大规模打击乌能源设施 乌称打击俄炼油厂",
+  "newsContent": "俄罗斯国防部29日称，俄军当天对与乌克兰军工综合体相关的能源设施实施了大规模打击，并打击了157个区域的乌军军用机场基础设施、远程无人机存储与发射点等目标。里海管道集团公司29日称，俄罗斯黑海码头新罗西斯克港遭无人艇的袭击，导致海上系泊装置受损，相关作业暂停。乌克兰军方29日称，乌军当天对俄罗斯境内的飞机修理厂、炼油厂等多个目标实施打击。乌克兰方面29日还称，乌国家安全与国防委员会秘书乌梅罗夫已作为乌克兰谈判代表团新任团长率团前往美国，与美方进行新一轮谈判。乌方称此次赴美谈判目标明确，即“迅速及有意义地”筹备制定结束战争的举措。俄方此前已表示，俄美双方将于下周讨论美方提交的和平计划。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "俄罗斯对乌克兰能源设施的打击可能导致能源供应不稳定，影响相关企业的生产和运营。",
+      "keywords": [
+        "能源设施",
+        "打击",
+        "供应不稳定"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "军工",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突升级可能增加对军事装备的需求，利好军工企业。",
+      "keywords": [
+        "军工综合体",
+        "需求增加",
+        "军事装备"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "俄罗斯对乌克兰能源设施的打击可能导致能源供应不稳定，影响公司的生产和运营。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "俄乌冲突升级可能增加对军事装备的需求，利好军工企业。",
+      "relatedIndustries": [
+        "军工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "能源设施受到打击可能导致供应减少，推高原油价格。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能引发避险情绪，推高黄金价格。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内地缘政治风险对国债市场的影响有限，收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "能源行业受负面影响，军工行业受益。原油和黄金期货有望上涨，国债市场保持稳定。",
+  "analyzedAt": "2025-11-30T16:10:46.896Z",
+  "modelVersion": "qwen-max"
+}

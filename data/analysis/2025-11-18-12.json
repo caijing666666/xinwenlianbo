@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-11-18-12",
+  "newsDate": "2025-11-18",
+  "newsTitle": "联合国安理会通过决议授权组建加沙地带临时国际稳定部队",
+  "newsContent": "合国安理会17日就一份关于加沙地带战后安排的决议草案进行投票，并获得通过。决议授权成立和平理事会作为过渡行政机构，组建临时国际稳定部队，任务包括保障加沙边境安全、通过去军事化稳定加沙安全环境等。中国和俄罗斯投了弃权票。中国代表在当天的解释性发言中表示，该草案没有体现“巴人治巴”这一根本原则，没有确保联合国和安理会的有效参与。尽管中方对决议草案存在重大关切，但考虑到加沙脆弱和严峻的局势，考虑到维持停火的必要性等因素，中方投了弃权票。以军在加沙地带北部打死巴勒斯坦人以色列国防军17日称，以军当天在加沙地带北部的行动中打死两名越过以军部署线的巴勒斯坦人。据巴勒斯坦媒体报道，以军无人机17日对位于加沙城东部的舒贾亚地区发动袭击，造成一名儿童死亡，多人受伤。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "加沙地带的不稳定局势可能促使相关国家增加军费开支，利好国防军工行业。",
+      "keywords": [
+        "军事",
+        "安全",
+        "防务"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "中东地区的紧张局势可能会对全球能源市场产生影响，但目前来看，该决议并未直接涉及能源供应问题。",
+      "keywords": [
+        "石油",
+        "天然气",
+        "供应"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国船舶",
+      "stockCode": "600150",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的造船企业之一，随着国际稳定部队的组建，对于船只的需求可能会上升。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "作为中国主要的战斗机制造商，地缘政治紧张局势可能导致订单增加。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.65,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "地缘政治不确定性通常会推高黄金价格，作为一种避险资产。",
+      "priceDirection": "up",
+      "confidence": 0.6
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 40,
+      "impactType": "neutral",
+      "reasoning": "短期内，该事件对中国国债的影响有限。长期来看，如果地区冲突加剧，可能会导致投资者转向更安全的资产如国债。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.5
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 55,
+  "summary": "联合国安理会通过关于加沙地带的决议草案，预计对国防军工行业及部分相关公司有正面影响；黄金期货可能因避险需求而上涨；整体市场情绪保持中性。",
+  "analyzedAt": "2025-11-29T10:44:36.713Z",
+  "modelVersion": "qwen-max"
+}

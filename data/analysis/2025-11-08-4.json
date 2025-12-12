@@ -1,0 +1,102 @@
+{
+  "newsId": "2025-11-08-4",
+  "newsDate": "2025-11-08",
+  "newsTitle": "【学习贯彻党的二十届四中全会精神】中央宣讲团在各地各部门宣讲党的二十届四中全会精神",
+  "newsContent": "连日来，学习贯彻党的二十届四中全会精神中央宣讲团成员在各地各部门宣讲，推动全会精神学习走深走实。中央宣讲团成员、中共中央政治局委员、中央外办主任王毅11月7日在外交部作宣讲报告。王毅围绕习近平总书记重要讲话精神和全会通过的《建议》，深入阐释全会重大意义，并就外交外事战线学习宣传贯彻全会精神提出明确要求。王毅还与基层党员干部代表交流互动，要求外交外事战线全体同志为构建人类命运共同体作出新的更大贡献。中央宣讲团成员，农业农村部党组书记、部长韩俊11月5日在四川作宣讲报告。韩俊围绕深刻领会“十五五”时期经济发展的重大意义、指导方针和主要目标、战略任务和重大举措、根本保证等方面，结合农业农村工作实际对党的二十届四中全会精神进行深入解读。韩俊还来到眉山市永丰村开展宣讲，与当地干部群众互动交流。中央宣讲团成员，国务院国资委党委书记、主任张玉卓11月5日在云南作宣讲报告。张玉卓从深刻认识党的二十届四中全会的重大意义和深远影响、准确把握“十五五”时期在基本实现社会主义现代化进程中的重要地位等方面，对全会精神作了全面宣讲和系统阐释。张玉卓还走进安宁市的企业和乡村，与基层干部、职工、群众面对面交流。中央宣讲团成员，中国社会科学院院长、党组书记高翔11月5日在中国社会科学院作宣讲报告。高翔围绕深刻领会党的二十届四中全会召开的重大时代意义、全会对“十五五”时期哲学社会科学工作提出的重要要求等方面作了系统宣讲。高翔还来到中国社会科学院大学良乡校区，与师生代表、科技考古与文化遗产保护重点实验室科研人员互动交流。",
+  "industryImpacts": [
+    {
+      "industryName": "农业",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "韩俊部长的宣讲强调了农业农村工作的重要性，预计未来将有更多政策支持农业发展。",
+      "keywords": [
+        "农业农村",
+        "政策支持",
+        "经济发展"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "外交与外事",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "王毅主任的宣讲主要涉及外交外事战线的工作，对资本市场的影响较为间接。",
+      "keywords": [
+        "外交",
+        "外事",
+        "人类命运共同体"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "国有企业",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "张玉卓主任的宣讲提到“十五五”时期的重要地位，预计国企改革和发展的步伐将进一步加快。",
+      "keywords": [
+        "国有企业",
+        "改革",
+        "发展战略"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "哲学社会科学",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "高翔院长的宣讲主要涉及哲学社会科学领域，对资本市场的影响较小。",
+      "keywords": [
+        "哲学社会科学",
+        "研究",
+        "教育"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中粮集团",
+      "stockCode": "000031",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为农业领域的龙头企业，中粮集团有望受益于农业政策的支持。",
+      "relatedIndustries": [
+        "农业"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然张玉卓主任提到国企改革，但具体影响尚不明确。",
+      "relatedIndustries": [
+        "能源",
+        "国有企业"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "±1%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前货币政策保持稳定，预计短期内国债收益率不会有明显变化。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "政策利好农业和国有企业，相关企业和债券市场有望受益，建议关注农业龙头和国企改革概念。",
+  "analyzedAt": "2025-11-29T13:21:53.935Z",
+  "modelVersion": "qwen-max"
+}

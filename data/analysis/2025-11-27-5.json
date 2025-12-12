@@ -1,0 +1,76 @@
+{
+  "newsId": "2025-11-27-5",
+  "newsDate": "2025-11-27",
+  "newsTitle": "《新时代的中国军控、裁军与防扩散》白皮书发布",
+  "newsContent": "国务院新闻办公室今天（11月27日）发布《新时代的中国军控、裁军与防扩散》白皮书。白皮书全面阐释新时代中国军控、裁军与防扩散的政策实践，介绍外空、网络、人工智能等新兴领域国际安全治理主张，展现中国维护世界和平与安全的坚定决心，呼吁世界各国携手推进国际军控进程。 白皮书指出，中国建设性参与国际军控、裁军与防扩散进程，积极贡献中国倡议、中国方案，致力于改善国际安全环境，增进国际安全合作，破解国际安全困境，完善全球安全治理。白皮书强调，中国式现代化是走和平发展道路的现代化，中国的发展是世界和平力量的增长。中国愿同所有爱好和平的国家一道，倡导平等有序的世界多极化、普惠包容的经济全球化，巩固和发展以联合国为核心的国际军控体系，携手构建人类命运共同体。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "白皮书强调中国在军控、裁军与防扩散方面的努力，可能提升国防军工行业的国际形象和市场需求。",
+      "keywords": [
+        "军控",
+        "裁军",
+        "防扩散"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "网络安全",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "白皮书中提到网络等新兴领域的安全治理主张，可能推动网络安全行业的发展。",
+      "keywords": [
+        "网络安全",
+        "新兴领域"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国防军工龙头企业，受益于国家对军控和裁军的重视。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "启明星辰",
+      "stockCode": "002439",
+      "exchange": "SZSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "作为网络安全领域的领先企业，受益于国家对网络安全的重视。",
+      "relatedIndustries": [
+        "网络安全"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "白皮书主要涉及军控和裁军，对货币政策和国债市场影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 65,
+  "summary": "白皮书发布利好国防军工和网络安全行业，相关企业和债券市场保持稳定。",
+  "analyzedAt": "2025-11-29T09:53:54.493Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-11-12-12",
+  "newsDate": "2025-11-12",
+  "newsTitle": "美军“福特”号航母舰队进入加勒比海",
+  "newsContent": "美国海军11日发表声明说，美军“福特”号航母舰队当天抵达美军南方司令部责任区，部署在加勒比海。声明称，该部署的目的是打击毒品贩运和跨国犯罪组织。委内瑞拉举行新一轮军演 哥伦比亚暂停与美情报合作委内瑞拉国防部长洛佩斯11日称，委内瑞拉军方当天举行新一轮军演，以提高军队应对外部威胁能力。同一天，委内瑞拉总统马杜罗签署《综合防御指挥法》，委内瑞拉全国代表大会主席罗德里格斯表示，该立法对于捍卫国家主权、应对美国侵略意义重大。哥伦比亚总统佩特罗11日宣布，他已命令哥伦比亚各级情报部门暂停与美国安全机构之间的通信等往来，直到美国停止在加勒比地区袭击船只。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "美军在加勒比海的部署以及委内瑞拉军演可能促使中国加强国防建设，利好相关企业",
+      "keywords": [
+        "国防",
+        "军事",
+        "安全"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "航运",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "哥伦比亚暂停与美国情报合作可能导致地区局势紧张，影响航运安全和效率",
+      "keywords": [
+        "航运",
+        "安全",
+        "效率"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内主要的战斗机制造商，可能受益于国防开支增加",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中远海控",
+      "stockCode": "601919",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "negative",
+      "reasoning": "加勒比海地区的不稳定因素可能对公司的航运业务造成负面影响",
+      "relatedIndustries": [
+        "航运"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "虽然地缘政治风险上升，但目前未直接影响到全球石油供应，预计短期内价格波动有限",
+      "priceDirection": "stable",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前事件对中国宏观经济影响较小，国债收益率预计保持稳定",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "美军在加勒比海的活动及周边国家反应对中国资本市场整体影响有限，但可能为国防军工行业带来短期投资机会。",
+  "analyzedAt": "2025-11-29T11:12:58.112Z",
+  "modelVersion": "qwen-max"
+}

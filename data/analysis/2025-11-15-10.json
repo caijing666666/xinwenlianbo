@@ -1,0 +1,106 @@
+{
+  "newsId": "2025-11-15-10",
+  "newsDate": "2025-11-15",
+  "newsTitle": "COP30“中国角”活动发布多项中国能源转型成果文件 多方赞赏中国推动绿色创新合作",
+  "newsContent": "“中国能源转型与新能源发展”主题边会日前在《联合国气候变化框架公约》第三十次缔约方大会（COP30）“中国角”举行，发布《中国能源转型展望2025》《中国绿证发展报告》等成果文件。中国代表表示，中国坚持以实际行动应对全球气候变化，为全球能源转型提供中国方案。国际人士对中国在发展可再生能源、推动能源转型合作方面作出的贡献表示赞赏。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策支持和国际合作将推动新能源行业快速发展，增加投资吸引力。",
+      "keywords": [
+        "政策",
+        "国际合作",
+        "能源转型"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "传统能源",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "随着新能源的发展，传统能源的需求可能逐渐减少，影响相关企业的盈利能力。",
+      "keywords": [
+        "需求减少",
+        "替代能源"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为全球领先的锂电池制造商，受益于新能源汽车市场的增长。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "光伏行业的领军企业，有望从国家对可再生能源的支持中获益。",
+      "relatedIndustries": [
+        "新能源",
+        "光伏"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "新能源基础设施建设需要大量铜材，预期需求上升。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "石油",
+      "exchange": "上期所",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "长期来看，向清洁能源过渡可能会抑制原油需求。",
+      "priceDirection": "down",
+      "confidence": 0.6
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "绿色债券",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "政府鼓励发行绿色债券以支持可持续发展项目，提高市场对该类资产的兴趣。",
+      "yieldDirection": "down",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "国债",
+      "impactScore": 55,
+      "impactType": "neutral",
+      "reasoning": "短期内货币政策预计保持稳定，但需关注未来经济结构调整带来的潜在影响。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "中国在COP30上展示的能源转型成果增强了市场对于新能源及相关产业链的信心，建议投资者重点关注该领域内的优质标的。",
+  "analyzedAt": "2025-11-29T10:58:09.402Z",
+  "modelVersion": "qwen-max"
+}

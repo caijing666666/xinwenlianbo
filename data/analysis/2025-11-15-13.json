@@ -1,0 +1,75 @@
+{
+  "newsId": "2025-11-15-13",
+  "newsDate": "2025-11-15",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "以空袭加沙地带多地 巴称人道局势恶化据巴勒斯坦媒体14日报道，以军当天对加沙地带南部拉法、北部加沙城等多地发动空袭。以军当天称，在加沙地带南部打死一名越过“黄线”的巴武装人员。巴勒斯坦伊斯兰抵抗运动（哈马斯）14日称，受新一轮寒潮与强降雨影响，加沙地带大批民众面临严重人道危机，以色列对加沙地带实施长期封锁，应对当地不断恶化的人道局势承担全部责任。加总理称美关税政策致加GDP损失1.8%加拿大总理卡尼14日表示，美国加征关税政策及由此引发的不确定性将导致加拿大国内生产总值损失约1.8%，加拿大必须对此做出回应。卡尼还表示，加拿大政府正在推进贸易伙伴多元化，以创造更多机会和更大的独立性。美芝加哥反移民政策抗议爆发冲突14日，美国伊利诺伊州芝加哥市移民与海关执法局办事机构外发生反对美联邦政府移民政策的抗议活动。警方与抗议者爆发冲突，21人遭到逮捕。今年以来，美国联邦执法人员在多地加大力度展开移民执法行动，抗议和冲突频发。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "巴以冲突和美国移民政策抗议活动对能源行业直接影响有限，但可能间接影响全球能源供应稳定性。",
+      "keywords": [
+        "巴以冲突",
+        "能源供应",
+        "稳定性"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "国际贸易",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "加拿大总理表示美国加征关税政策将导致加拿大GDP损失约1.8%，这可能会影响国际贸易关系。",
+      "keywords": [
+        "美国关税",
+        "加拿大GDP",
+        "国际贸易"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "加拿大国家铁路公司",
+      "stockCode": "CNR",
+      "exchange": "TSX",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "美国加征关税政策可能导致加拿大GDP损失，进而影响加拿大的贸易和物流行业。",
+      "relatedIndustries": [
+        "国际贸易",
+        "物流"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "巴以冲突加剧地缘政治风险，投资者可能转向避险资产如黄金。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前新闻内容未直接提及货币政策或利率变动，因此对国债市场的影响较为中性。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 55,
+  "summary": "巴以冲突和美国移民政策抗议活动对市场情绪影响有限，但美国关税政策可能对加拿大经济产生负面影响。建议关注黄金等避险资产。",
+  "analyzedAt": "2025-11-29T10:59:08.982Z",
+  "modelVersion": "qwen-max"
+}

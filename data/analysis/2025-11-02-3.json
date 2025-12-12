@@ -1,0 +1,98 @@
+{
+  "newsId": "2025-11-02-3",
+  "newsDate": "2025-11-02",
+  "newsTitle": "【学习贯彻党的二十届四中全会精神】为高质量推进国防和军队现代化接续奋斗",
+  "newsContent": "党的二十届四中全会着眼强国建设、民族复兴伟业，站在时代发展和战略全局的高度，对国防和军队建设提出新的要求。连日来，在大江南北的座座军营，广大官兵认真学习贯彻全会精神，一致表示，要更加紧密地团结在以习近平同志为核心的党中央周围，把思想和行动统一到全会精神上来，把智慧和力量凝聚到落实全会作出的战略部署上来，为如期实现建军一百年奋斗目标，高质量推进国防和军队现代化接续奋斗。全会高度评价“十四五”时期我国发展取得的重大成就，为我军在“十五五”时期开创国防和军队现代化新局面指明了前进方向、提供了根本遵循。全军官兵在学习讨论中深切感到，学习贯彻落实好全会精神，就是要自觉在思想上政治上行动上同以习近平同志为核心的党中央保持高度一致，坚决听从党中央、中央军委和习主席指挥，在革命性锻造中向着实现党在新时代的强军目标砥砺前行。全军官兵表示，“十五五”时期，我军要在实现建军一百年奋斗目标的基础上，高质量推进国防和军队现代化，必须完整准确全面贯彻新发展理念，加快构建新发展格局，推动我军建设发展质量变革、效能变革、动力变革，以硬实改革举措解放和发展战斗力，进一步解放和增强军队活力。全会提出，要加快先进战斗力建设，推进军事治理现代化，巩固提高一体化国家战略体系和能力。广大官兵表示，要把全会精神切实融入练兵备战各领域、全过程，向战略管理要质效，加快推进军事管理革命，加强战建统筹、跨域统筹、军地统筹，坚持战、建、备一体推进，不断提升履行新时代使命任务的能力，全力以赴打好实现建军一百年奋斗目标攻坚战。",
+  "industryImpacts": [
+    {
+      "industryName": "国防军工",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "全会强调高质量推进国防和军队现代化，将推动相关行业的发展和投资。",
+      "keywords": [
+        "国防",
+        "军队现代化",
+        "高质量发展"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "高端制造",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "加快先进战斗力建设和军事治理现代化需要高端制造技术的支持。",
+      "keywords": [
+        "先进战斗力",
+        "军事治理",
+        "高端制造"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的军用飞机制造商，受益于国防现代化的推进。",
+      "relatedIndustries": [
+        "国防军工",
+        "高端制造"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中国船舶",
+      "stockCode": "600150",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "海军现代化建设将带动对新型舰船的需求。",
+      "relatedIndustries": [
+        "国防军工",
+        "高端制造"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "钢铁",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "国防建设和高端制造业的发展将增加对钢铁等原材料的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 55,
+      "impactType": "positive",
+      "reasoning": "高端制造和国防建设同样会提升对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.65
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内政策重点在国防和军队现代化，对债券市场影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "国防和军队现代化政策利好国防军工及高端制造行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T12:59:26.759Z",
+  "modelVersion": "qwen-max"
+}

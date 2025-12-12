@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-12-04-4",
+  "newsDate": "2025-12-04",
+  "newsTitle": "李强会见法国总统",
+  "newsContent": "12月4日下午，国务院总理李强在北京人民大会堂会见法国总统马克龙。李强表示，今天（12月4日）上午，习近平主席同总统先生举行会晤，为进一步深化发展两国关系指明了方向。中方愿同法方赓续传统友谊，巩固政治互信，扩大双向开放，加强全方位合作。当前国际经贸摩擦增多，需要各方及时沟通、加深理解，求同存异、切实行动，相向而行妥善解决彼此合理关切。希望法方推动欧盟坚持中欧伙伴定位，聚焦合作，妥处分歧，维护中欧关系的正确发展方向。马克龙表示，法方愿同中方加强交往对话，深化经贸、农业、可再生能源等领域合作，加强协作，维护自由贸易和多边贸易体制，推动改革完善全球治理体系。吴政隆参加会见。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "中法双方强调深化可再生能源领域合作，这将促进中国新能源行业的发展。",
+      "keywords": [
+        "可再生能源",
+        "合作",
+        "发展"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "农业",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中法双方提到加强农业领域的合作，有望推动农产品贸易和技术交流。",
+      "keywords": [
+        "农业",
+        "合作",
+        "贸易"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池龙头企业，受益于中法在可再生能源领域的合作。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "隆平高科",
+      "stockCode": "000998",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为农业种子龙头企业，有望受益于中法在农业领域的合作。",
+      "relatedIndustries": [
+        "农业",
+        "生物科技"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "大豆",
+      "exchange": "大商所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中法农业合作可能增加大豆等农产品的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "当前国际经贸摩擦增多，但中法关系的稳定有助于市场信心，对国债影响不大。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源和农业行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-04T16:43:38.903Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-15-12",
+  "newsDate": "2025-11-15",
+  "newsTitle": "俄称打击乌军能源设施 乌称袭击俄战略性设施",
+  "newsContent": "俄罗斯国防部14日称，俄军当天使用“匕首”高超音速导弹等地空海远程高精度武器和攻击无人机对乌克兰军工企业和相关能源设施实施了密集打击。俄国防部还称，过去一周，对乌军工设施、军用机场、武器装备维修基地等实施大规模打击，并击落乌方1173架无人机。此外，俄军在多地控制了8个居民点。乌克兰方面14日称，当天乌军使用“海王星”导弹与无人机对俄罗斯多处战略性设施实施打击，包括俄克拉斯诺达尔边疆区的新罗西斯克港口及能源基础设施。 14日，俄外交部发言人扎哈罗娃表示，俄罗斯没有任何攻击北约国家的计划，但北约在俄边境附近持续增强兵力，俄罗斯已做好应对任何事态发展的准备。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "乌克兰和俄罗斯的能源设施受到攻击，可能导致能源供应紧张，从而推高能源价格。",
+      "keywords": [
+        "能源",
+        "供应",
+        "价格上涨"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "军工",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "冲突升级可能增加各国对军事装备的需求，利好军工企业。",
+      "keywords": [
+        "军工",
+        "需求",
+        "增长"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "能源供应紧张可能推高油价，利好石油公司。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "冲突升级可能增加对军用飞机的需求，利好军工企业。",
+      "relatedIndustries": [
+        "军工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "能源设施受攻击可能导致供应减少，推高油价。",
+      "priceDirection": "up",
+      "confidence": 0.85
+    },
+    {
+      "commodity": "天然气",
+      "exchange": "上期所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "能源设施受攻击可能导致供应减少，推高天然气价格。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "地缘政治风险增加，但短期内货币政策保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "能源和军工行业受益于地缘政治紧张局势，相关企业和商品期货有望上涨。建议关注能源和军工龙头企业。",
+  "analyzedAt": "2025-11-29T10:58:47.950Z",
+  "modelVersion": "qwen-max"
+}

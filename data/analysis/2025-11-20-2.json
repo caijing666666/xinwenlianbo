@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-11-20-2",
+  "newsDate": "2025-11-20",
+  "newsTitle": "李强抵达卢萨卡开始对赞比亚进行正式访问",
+  "newsContent": "当地时间11月19日晚，应赞比亚政府邀请，国务院总理李强乘包机抵达卢萨卡国际机场，开始对赞比亚进行正式访问。赞比亚副总统纳卢曼戈和中国驻赞比亚大使韩镜到机场迎接。李强表示，近年来，在习近平主席和希奇莱马总统战略指引下，中赞两国政治互信持续深化，各领域合作成果丰硕，成为发展中国家团结协作的典范。中方愿同赞方一道继续努力，赓续传统友谊，深化互利合作，促进两国人民相亲相知，在实现现代化的道路上携手前行。李强是在结束出席上海合作组织成员国政府首脑（总理）理事会第二十四次会议后抵达卢萨卡的。离开莫斯科时，俄罗斯政府代表和中国驻俄罗斯大使张汉晖到机场送行。",
+  "industryImpacts": [
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中赞两国深化合作，可能涉及基础设施建设项目，如公路、铁路等。",
+      "keywords": [
+        "基础设施",
+        "合作",
+        "项目"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "矿业",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "赞比亚是重要的铜矿产地，中赞合作可能促进中国企业在赞比亚的矿业投资。",
+      "keywords": [
+        "矿业",
+        "铜矿",
+        "投资"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国中铁",
+      "stockCode": "601390",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为基础设施建设龙头企业，有望受益于中赞合作带来的新项目。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "紫金矿业",
+      "stockCode": "601899",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "作为矿业龙头企业，有望在赞比亚获得更多矿业资源开发机会。",
+      "relatedIndustries": [
+        "矿业"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "中赞合作可能增加中国对赞比亚铜矿的需求，推动铜价上涨。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "此次访问主要涉及双边合作，对国内货币政策和国债市场影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "中赞合作利好基础设施建设和矿业行业，相关企业和铜期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:32:35.591Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-12-10-002",
+  "newsDate": "2025-12-10",
+  "newsTitle": "陕西省发展改革委组织召开“十五五”电力规划编制推进会",
+  "newsContent": "为统筹推进陕西省“十五五”电力规划工作，凝聚各方共识，探讨思路举措，12月4日，陕西省发展改革委在西安组织召开“十五五”电力规划编制推进会。　　会上，陕西省发展改革委电力处汇报了“十四五”以来全省电力产业发展情况及“十五五”产业发展重点任务。西北电力设计院、陕西省电力设计院、国网陕西经研院等研究机构，以及国网西北分部、国网省公司等电网企业围绕“十五五”电力供需、电网规划、外送互济通道、充电基础设施发展等工作进行交流，相关发电企业结合自身电源发展和电网送出需求作了交流发言。　　陕西省发展改革委副主任、陕西省能源局局长何钟强调，要深入学习贯彻党的二十届四中全会精神，落实陕西省委十四届九次全会部署安排，着眼服务国家“双碳”战略，统筹考虑“十五五”期间用电需求持续增长、负荷与电源逆向分布特征日益显著、高比例新能源跃升发展、新型主体大规模接入等形势挑战，坚持需求导向和问题导向，强化电源、电网、外送等规划重要环节论证，对标对表中央和省委规划建议，突出项目支撑，加强规划衔接，开门问策、集思广益，高质量编好“十五五”电力规划，支撑构建新型电力系统和新型能源体系，为谱写陕西新篇、争做西部示范提供坚强电力保障。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策支持新能源发展，特别是高比例新能源跃升发展和新型电力系统建设，将推动新能源行业快速发展。",
+      "keywords": [
+        "政策",
+        "新能源",
+        "电力系统"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "电力设备",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "电力规划编制推进会强调了电网规划、外送互济通道等重要环节，将促进电力设备行业的发展。",
+      "keywords": [
+        "电网规划",
+        "外送互济",
+        "电力设备"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为光伏行业的龙头企业，受益于新能源政策的支持，有望获得更多的市场份额。",
+      "relatedIndustries": [
+        "新能源",
+        "光伏"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "特变电工",
+      "stockCode": "600089",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为电力设备制造企业，受益于电网规划和外送互济通道的建设，有望获得更多订单。",
+      "relatedIndustries": [
+        "电力设备",
+        "电网"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "电力规划和电网建设将增加对铜的需求，从而推高铜价。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "电力规划和基础设施建设可能需要地方政府发行债券融资，但整体影响较为中性。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源和电力设备行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-12T02:17:10.670Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-23-14",
+  "newsDate": "2025-11-23",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "巴称以军袭击加沙地带造成24人死亡巴勒斯坦加沙地带卫生部门22日称，以军当天对加沙地带多地的袭击造成至少24名巴勒斯坦人死亡。以色列国防军同一天称，以军在加沙地带南部拉法展开军事行动，打死11名武装人员、逮捕6人。据加沙地带卫生部门今天（11月23日）公布的统计数据，自10月10日停火协议生效以来，加沙地带已有342人在以军袭击中死亡。多国航司暂停往返委内瑞拉的航班22日，巴西、哥伦比亚、智利、葡萄牙等国多家航空公司暂时取消往返委内瑞拉的航班。此前一天，美国联邦航空管理局发布警告称，委内瑞拉空域存在“潜在危险情况”。 路透社22日报道，多名美国官员表示，美国准备在未来几天启动与委内瑞拉有关的新一轮行动。 委内瑞拉国防部长洛佩斯同一天表示，美国持续对委内瑞拉施加压力，正对加勒比地区的和平与安全构成“不可预见规模”的巨大挑战。日本大分县火灾持续6天 仍未完全扑灭日本大分县大分市的大规模火灾目前已持续6天，仍未完全扑灭。此外，消防人员还在附近的无人小岛上发现了十几处热源。截至22日，仍有上百人居住在临时避难所里。18日下午，大分市一所住宅起火，由于附近木质建筑密集和大风天气，火势迅速蔓延。美国报告H5N5型禽流感致人死亡病例美国华盛顿州卫生部门说，该州一名确认感染H5N5型禽流感病毒接受治疗的居民于21日死亡。死者是一名有基础健康问题的老年人。据美国媒体报道，这是全球首例人感染该H5亚型禽流感病毒死亡病例，也是今年以来美国报告的第二例人感染禽流感病毒后死亡病例。第一例出现在路易斯安那州，死者也是有基础健康问题的老年人，确认感染H5N1型禽流感病毒。",
+  "industryImpacts": [
+    {
+      "industryName": "医药",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "美国报告H5N5型禽流感致人死亡病例，可能增加对疫苗和抗病毒药物的需求。",
+      "keywords": [
+        "禽流感",
+        "疫苗",
+        "抗病毒药物"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "航空",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "多国航司暂停往返委内瑞拉的航班，可能导致航空公司收入减少。",
+      "keywords": [
+        "航班取消",
+        "委内瑞拉",
+        "航空公司"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "华兰生物",
+      "stockCode": "002007",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为疫苗生产商，可能受益于禽流感疫情带来的需求增长。",
+      "relatedIndustries": [
+        "医药"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "negative",
+      "reasoning": "国际航线受委内瑞拉局势影响，部分航班取消可能导致收入下降。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前新闻未直接涉及货币政策或经济基本面变化，预计国债市场保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.9
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "医药行业因禽流感疫情可能迎来短期利好，而航空业则面临一定压力。整体市场情绪较为中性，建议关注相关行业的龙头企业。",
+  "analyzedAt": "2025-11-29T10:20:58.822Z",
+  "modelVersion": "qwen-max"
+}

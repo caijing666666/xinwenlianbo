@@ -1,0 +1,61 @@
+{
+  "newsId": "news-002",
+  "newsTitle": "国家发改委：前三季度GDP同比增长5.2%",
+  "newsDate": "2025-11-28T19:05:00Z",
+  "newsContent": "国家发展改革委发布数据显示，前三季度国内生产总值同比增长5.2%，经济运行总体平稳，高质量发展扎实推进。",
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 65,
+  "summary": "GDP增长符合预期，经济运行平稳，对各行业影响相对温和",
+  "analyzedAt": "2025-11-28T20:05:00Z",
+  "industryImpacts": [
+    {
+      "industryName": "制造业",
+      "impactType": "positive",
+      "impactScore": 65,
+      "reasoning": "GDP增长体现制造业稳定发展",
+      "keywords": [
+        "GDP",
+        "制造业",
+        "增长"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国平安",
+      "stockCode": "601318",
+      "exchange": "SSE",
+      "impactType": "neutral",
+      "impactScore": 60,
+      "reasoning": "经济稳定增长对保险业整体利好",
+      "relatedIndustries": [
+        "保险业"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "沪深300指数期货",
+      "commodityCode": "IF",
+      "exchange": "中金所",
+      "impactType": "positive",
+      "impactScore": 65,
+      "reasoning": "GDP增长支撑股指期货",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactType": "positive",
+      "impactScore": 60,
+      "reasoning": "经济增长降低企业违约风险",
+      "yieldDirection": "stable",
+      "riskLevel": "medium",
+      "confidence": 0.65
+    }
+  ]
+}

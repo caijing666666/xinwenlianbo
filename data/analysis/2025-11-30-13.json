@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-11-30-13",
+  "newsDate": "2025-11-30",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "以军在加沙地带军事行动致超7万人死亡据巴勒斯坦媒体29日报道，以军当天对加沙地带南部汗尤尼斯实施空袭，造成2名儿童死亡。巴勒斯坦加沙地带卫生部门29日发表声明说，2023年10月以来，以色列在加沙地带的军事行动已造成7.01万名巴勒斯坦人死亡、超过17万人受伤。29日是“声援巴勒斯坦人民国际日”，当天全球多地举行支持巴勒斯坦、呼吁持久和平的抗议活动。美国纽约爆发反移民政策抗议及冲突29日，美国纽约曼哈顿爆发反对美国移民政策的抗议活动，执法人员与抗议者发生冲突，多人被捕。今年6月以来，美国联邦机构在加利福尼亚州洛杉矶、首都华盛顿、伊利诺伊州芝加哥等多地展开针对非法移民的搜捕行动，冲突频发。哥伦比亚西南一火山活动加剧 警戒提升据哥伦比亚媒体29日报道，哥伦比亚地质调查局称，位于该国西南部考卡省的普拉塞火山近来活动加剧，喷出的火山灰柱高度超1000米。29日，该火山警戒级别从黄色提升至橙色。该机构称正密切监测，敦促附近地区的居民保持警惕。普拉塞火山是哥伦比亚最活跃的火山之一，最近一次大规模喷发发生在1977年。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "中东地区的冲突可能会影响石油供应，导致能源价格波动。",
+      "keywords": [
+        "中东",
+        "冲突",
+        "石油"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "哥伦比亚火山活动加剧可能导致该地区旅游业受到影响。",
+      "keywords": [
+        "哥伦比亚",
+        "火山",
+        "旅游"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石化",
+      "stockCode": "600028",
+      "exchange": "SSE",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "中东冲突可能影响石油供应，进而影响公司业绩。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-1-3%"
+    },
+    {
+      "companyName": "携程旅行网",
+      "stockCode": "TCOM",
+      "exchange": "NASDAQ",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "哥伦比亚火山活动加剧可能导致该地区旅游业受到影响，进而影响公司业绩。",
+      "relatedIndustries": [
+        "旅游"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "-1-2%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 50,
+      "impactType": "negative",
+      "reasoning": "中东地区的冲突可能会影响石油供应，导致能源价格波动。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 30,
+      "impactType": "neutral",
+      "reasoning": "当前新闻对国债市场的影响较小，主要关注地缘政治风险。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 40,
+  "summary": "中东冲突和哥伦比亚火山活动可能对能源和旅游行业产生负面影响，建议谨慎投资相关企业和商品期货。",
+  "analyzedAt": "2025-11-30T16:11:33.211Z",
+  "modelVersion": "qwen-max"
+}

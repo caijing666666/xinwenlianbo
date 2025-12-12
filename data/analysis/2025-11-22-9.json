@@ -1,0 +1,38 @@
+{
+  "newsId": "2025-11-22-9",
+  "newsDate": "2025-11-22",
+  "newsTitle": "日本民众集会 要求高市撤回错误言论",
+  "newsContent": "21日晚，日本民众在位于东京的首相官邸前举行集会，要求日本首相高市早苗撤回错误言论。国际人士表示高市错误言论挑战战后国际秩序缅甸国家安全与和平委员会官员佐敏吞21日重申，缅甸政府坚持一个中国政策；缅甸始终遵循和平共处五项原则，尊重中国主权和领土完整，并将一如既往支持中方维护国家统一的努力。",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "日本首相的言论和缅甸政府的支持声明主要涉及政治和外交领域，对国际贸易行业直接影响有限。",
+      "keywords": [
+        "外交",
+        "政治",
+        "国际贸易"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 40,
+      "impactType": "neutral",
+      "reasoning": "此类新闻事件通常不会直接导致债券市场波动，但可能间接影响投资者情绪。鉴于当前信息，预计对中国国债的影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 30,
+  "summary": "日本首相言论及缅甸政府表态主要为地缘政治性质，对中国资本市场整体影响不大，建议继续关注其他更直接相关的经济指标或政策变化。",
+  "analyzedAt": "2025-11-29T10:25:56.108Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,87 @@
+{
+  "newsId": "news-001",
+  "newsTitle": "央行宣布降准0.5个百分点，释放流动性约1万亿元",
+  "newsDate": "2025-11-28T19:00:00Z",
+  "newsContent": "中国人民银行决定于2025年11月28日降准0.5个百分点，此次降准将释放长期资金约1万亿元，旨在保持银行体系流动性合理充裕，支持实体经济发展。",
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 85,
+  "summary": "央行降准释放流动性，利好银行、房地产等行业，债券市场表现积极",
+  "analyzedAt": "2025-11-28T20:00:00Z",
+  "industryImpacts": [
+    {
+      "industryName": "银行业",
+      "impactType": "positive",
+      "impactScore": 85,
+      "reasoning": "降准释放流动性，银行可贷资金增加，有利于银行放贷业务",
+      "keywords": [
+        "降准",
+        "流动性",
+        "银行"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "房地产",
+      "impactType": "positive",
+      "impactScore": 75,
+      "reasoning": "流动性增加有助于降低融资成本，利好房地产行业",
+      "keywords": [
+        "流动性",
+        "融资成本",
+        "房地产"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "工商银行",
+      "stockCode": "601398",
+      "exchange": "SSE",
+      "impactType": "positive",
+      "impactScore": 80,
+      "reasoning": "作为大型银行，降准直接增加可贷资金",
+      "relatedIndustries": [
+        "银行业"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "万科A",
+      "stockCode": "000002",
+      "exchange": "SZSE",
+      "impactType": "positive",
+      "impactScore": 70,
+      "reasoning": "房地产龙头企业受益于流动性宽松",
+      "relatedIndustries": [
+        "房地产"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "10年期国债期货",
+      "commodityCode": "T",
+      "exchange": "中金所",
+      "impactType": "positive",
+      "impactScore": 75,
+      "reasoning": "流动性宽松推动债券价格上涨",
+      "priceDirection": "up",
+      "confidence": 0.8
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactType": "positive",
+      "impactScore": 80,
+      "reasoning": "央行降准增加市场流动性，债券需求增加",
+      "yieldDirection": "down",
+      "riskLevel": "low",
+      "confidence": 0.85
+    }
+  ]
+}

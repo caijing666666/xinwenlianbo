@@ -1,0 +1,91 @@
+{
+  "newsId": "2025-12-04-7",
+  "newsDate": "2025-12-04",
+  "newsTitle": "各地推动人工智能全方位赋能千行百业",
+  "newsContent": "各地以“人工智能+”为抓手，立足自身实际，整合优势资源，推动人工智能全方位赋能千行百业，为高质量发展注入新动能。人工智能推动制造业转型升级。在四川的这座汽轮机叶片生产车间，通过人工智能系统，每一道工序精准控制，保证产品质量稳定。人工智能助力海洋牧场建设。福建已建成25台（套）深远海养殖智能装备，在连江海产养殖基地，平台上搭载的水下智能多模态系统，可以拍摄鱼群活动状况，还能测量pH值、水温、流速等数据，渔民通过手机、电脑等终端设备能第一时间了解养殖情况。在辽宁大连，新一代水下机器人的应用，不仅能抵达潜水员难以企及的深水区域，还能有效克服恶劣天气的不利影响，显著提升传统海洋生产的效率。各地全面实施“人工智能+”行动。甘肃发布首批130项“人工智能+”应用场景清单，通过场景化应用推动技术落地。在甘肃省简牍科学数据中心，工作人员利用高光谱成像仪扫描、提取简牍红外图像信息，在人工智能系统辅助下，探索千年简牍中生动鲜活的古代中国。陕西聚焦民生改善、社会治理等，推出19项“人工智能+”具体举措。在西安，人工智能为古老城墙筑起科技防护网，通过3000多个监测点位，墙体裂缝、沉降等关键数据实时上传，实现24小时不间断监测保护。",
+  "industryImpacts": [
+    {
+      "industryName": "人工智能",
+      "impactScore": 90,
+      "impactType": "positive",
+      "reasoning": "各地推动人工智能全方位赋能千行百业，政策支持和实际应用案例增加，将促进该行业的发展。",
+      "keywords": [
+        "人工智能",
+        "政策支持",
+        "应用场景"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "industryName": "制造业",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "人工智能在制造业中的应用提高了生产效率和产品质量，有助于企业转型升级。",
+      "keywords": [
+        "制造业",
+        "转型升级",
+        "生产效率"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "海洋渔业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "智能装备和技术的应用提升了海洋牧场的建设和管理效率，有利于行业发展。",
+      "keywords": [
+        "海洋牧场",
+        "智能装备",
+        "养殖效率"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "科大讯飞",
+      "stockCode": "002230",
+      "exchange": "SZSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的人工智能企业，科大讯飞有望受益于政策支持和市场需求增长。",
+      "relatedIndustries": [
+        "人工智能",
+        "软件服务"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+5-10%"
+    },
+    {
+      "companyName": "海康威视",
+      "stockCode": "002415",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "公司在智能监控领域有较强的技术积累，随着“人工智能+”行动的推进，其产品和服务需求可能增加。",
+      "relatedIndustries": [
+        "人工智能",
+        "安防设备"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-7%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 65,
+      "impactType": "neutral",
+      "reasoning": "虽然人工智能及相关行业的快速发展可能会提高部分企业的盈利能力，但整体来看对债券市场的影响较为有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "medium",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 80,
+  "summary": "政策推动下，人工智能及其相关行业如制造业、海洋渔业等将迎来发展机遇，建议关注行业内龙头企业。",
+  "analyzedAt": "2025-12-04T16:44:45.931Z",
+  "modelVersion": "qwen-max"
+}

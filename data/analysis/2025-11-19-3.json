@@ -1,0 +1,87 @@
+{
+  "newsId": "2025-11-19-3",
+  "newsDate": "2025-11-19",
+  "newsTitle": "李强出席上海合作组织成员国政府首脑（总理）理事会第二十四次会议",
+  "newsContent": "应俄罗斯联邦总理米舒斯京邀请，国务院总理李强于当地时间11月18日上午在莫斯科出席上海合作组织成员国政府首脑（总理）理事会第二十四次会议。李强表示，今年9月召开的上合组织天津峰会上，习近平主席郑重提出全球治理倡议，为国际社会合力应对世界变局、破解紧迫难题提供了中国智慧和中国方案。上合组织有条件有能力，以共同落实全球治理倡议为契机，在推动实现“世界之治”中作出更大贡献。一是发挥自身独特优势，在全球治理方面展现更大作为，推动构建人类命运共同体。二是聚焦发展与安全两个重点领域，共建开放包容的世界经济，促进普遍安全与持久和平。三是激发创新和转型的强劲活力。中方愿同各成员国通力协作，尽快建成上合组织开发银行，倡议成立中国—上合组织代谢性疾病合作中心，发挥“四个安全中心”重要作用。李强指出，在上合组织天津峰会上，与会领导人共同批准《上合组织未来10年（2026—2035年）发展战略》。中方愿同各成员国一道，更加注重战略协同，有效推进合作落实，优化完善运行机制，不断把上合组织做优做强。与会各方表示，各方应携手落实天津峰会成果，完善组织机制，对接共建“一带一路”倡议，实施未来10年发展战略，促进互联互通、经贸、安全、人文等领域合作，践行全球治理倡议，维护多边主义和联合国中心作用。会后，李强同成员国与会领导人签署联合公报及经贸、铁路、社会发展和保障等领域合作文件，批准上合组织建设相关决议。",
+  "industryImpacts": [
+    {
+      "industryName": "医药",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "倡议成立中国—上合组织代谢性疾病合作中心，将促进医药行业国际合作和创新。",
+      "keywords": [
+        "代谢性疾病",
+        "合作中心",
+        "医药"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "共建开放包容的世界经济，促进互联互通，将推动基础设施建设项目的增加。",
+      "keywords": [
+        "互联互通",
+        "基础设施",
+        "建设"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "恒瑞医药",
+      "stockCode": "600276",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为医药行业的龙头企业，有望受益于中国—上合组织代谢性疾病合作中心的成立。",
+      "relatedIndustries": [
+        "医药"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国中铁",
+      "stockCode": "601390",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "作为基础设施建设的主要企业，有望受益于互联互通和基础设施建设项目。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和互联互通项目将增加对铜的需求。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "政策主要集中在国际合作和经济发展，对国内货币政策影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "政策利好医药和基础设施建设行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:37:10.115Z",
+  "modelVersion": "qwen-max"
+}

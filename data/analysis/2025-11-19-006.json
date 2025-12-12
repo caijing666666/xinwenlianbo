@@ -1,0 +1,99 @@
+{
+  "newsId": "2025-11-19-006",
+  "newsDate": "2025-11-19",
+  "newsTitle": "李强会见蒙古国总理赞登沙特尔",
+  "newsContent": "李强会见蒙古国总理赞登沙特尔\n            \n            \n                2025-11-19 01:38\n                来源： \n                    新华社\n                \n                \n                    字号：默认\n                        大\n                        超大\n                    \n                    |\n\t\t\t\t\t          打印\n                    |\n                    \n                    \n                        \n                           \n                           \n                           \n                        \n                    \n                \n            \n\n            \n                新华社莫斯科11月18日电（记者栾海 陈汀）当地时间11月18日下午，国务院总理李强在莫斯科会见蒙古国总理赞登沙特尔。李强表示，中蒙是山水相连的近邻，保持长期稳定的友好合作关系，符合两国人民的根本利益。今年9月，习近平主席同呼日勒苏赫总统在北京举行会晤，就深化发展中蒙关系进一步指明了方向、擘画了蓝图。中方始终将蒙古国作为周边外交的重要方向，愿同蒙方以中蒙命运共同体建设为引领，进一步加强战略沟通，切实尊重和照顾彼此核心利益和重大关切，拓展务实合作，推动两国全面战略伙伴关系不断走深走实。当地时间11月18日下午，国务院总理李强在莫斯科会见蒙古国总理赞登沙特尔。新华社记者 丁海涛 摄李强指出，中蒙经济互补性强，中方愿同蒙方加强发展战略对接，进一步扩大贸易规模，加强矿产能源、基础设施、互联互通等传统领域合作，探讨推进绿色能源、数字经济等新兴领域合作，打造双方更多利益契合点、合作增长点。中方支持国内毗邻省区同蒙方密切交流，深挖合作潜力，共同推进环阿尔泰山次区域国际合作。双方要促进政党、学界、媒体、青年等往来交流，不断深化相互理解，增进互信与友谊。中方愿同蒙方就地区事务加强沟通协调，共同守护两国和地区和平稳定。赞登沙特尔表示，祝贺中共二十届四中全会胜利召开并审议通过“十五五”规划建议。中国始终秉持亲诚惠容周边外交理念，蒙中关系长期友好，蒙方对此高度赞赏。同中国保持友好合作是蒙外交政策的首要方针，蒙方坚定奉行一个中国政策，台湾、香港、新疆、西藏是中国领土不可分割的一部分。蒙方感谢中方长期以来对蒙经济社会发展提供宝贵帮助，愿同中方共同努力，落实两国元首达成的重要共识，加强发展战略对接，拓展互联互通、基础设施建设、矿业、绿色能源等领域互利合作，实现共同发展。蒙方也愿加强同中方在上合组织等多边框架内沟通协作，为促进地区和平发展繁荣作出更大贡献。\n\n                \n                    \n                \n            \n\n\n            \n                【我要纠错】责任编辑：王安\n            \n\n \n\n            \n            \n                相关稿件",
+  "industryImpacts": [
+    {
+      "industryName": "矿产能源",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "中蒙两国加强矿产能源领域的合作，将促进相关企业的发展和投资机会。",
+      "keywords": [
+        "矿产",
+        "能源",
+        "合作"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "基础设施建设",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "中蒙双方计划加强基础设施建设领域的合作，这将推动相关企业的业务增长。",
+      "keywords": [
+        "基础设施",
+        "建设",
+        "合作"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "绿色能源",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "中蒙探讨推进绿色能源合作，有望为该行业带来新的发展机遇。",
+      "keywords": [
+        "绿色能源",
+        "合作",
+        "发展"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国神华",
+      "stockCode": "601088",
+      "exchange": "SSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的煤炭生产企业，中国神华有望受益于中蒙在矿产能源领域的合作。",
+      "relatedIndustries": [
+        "矿产能源"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中国中铁",
+      "stockCode": "601390",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为基础设施建设的龙头企业，中国中铁可能从两国的合作项目中获得更多的订单。",
+      "relatedIndustries": [
+        "基础设施建设"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "基础设施建设和矿产能源合作将增加对铜的需求，从而推高铜价。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "此次会晤主要涉及双边经济合作，对货币政策和国债市场影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "中蒙加强合作利好矿产能源、基础设施建设和绿色能源等行业，相关企业和商品期货有望受益。",
+  "analyzedAt": "2025-12-12T03:13:27.721Z",
+  "modelVersion": "qwen-max"
+}

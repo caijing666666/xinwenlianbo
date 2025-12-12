@@ -1,0 +1,78 @@
+{
+  "newsId": "2025-11-25-11",
+  "newsDate": "2025-11-25",
+  "newsTitle": "国际人士表示高市早苗错误言论危及国际秩序 破坏地区和平",
+  "newsContent": "国际人士表示，日本首相高市早苗的错误言论违反国际法，危及国际秩序，破坏地区和平。日本人士表示高市早苗错误言论损害日中关系日本人士表示，高市早苗的错误言行损害了日中关系，要求其尽快纠正错误立场。日本前首相鸠山由纪夫近日发文指出，高市偏离“台湾问题是中国内政”这一立场的言论使日中关系急剧恶化，其给国家造成的损失难以估量。他引用《论语》名句“过而不改，是谓过矣”敦促高市尽快纠正错误立场。他在24日再次发文指出，中国对此提出批评是理所当然的。",
+  "industryImpacts": [
+    {
+      "industryName": "国际贸易",
+      "impactScore": 40,
+      "impactType": "negative",
+      "reasoning": "中日关系恶化可能影响两国之间的贸易往来，尤其是对依赖日本市场的中国企业造成负面影响。",
+      "keywords": [
+        "中日关系",
+        "贸易",
+        "出口"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "旅游业",
+      "impactScore": 35,
+      "impactType": "negative",
+      "reasoning": "中日关系紧张可能导致赴日旅游人数减少，进而影响相关旅游企业的业绩。",
+      "keywords": [
+        "旅游业",
+        "游客",
+        "收入"
+      ],
+      "confidence": 0.65
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国旅",
+      "stockCode": "601888",
+      "exchange": "SSE",
+      "impactScore": 30,
+      "impactType": "negative",
+      "reasoning": "中日关系紧张可能减少赴日旅游需求，对公司业务产生不利影响。",
+      "relatedIndustries": [
+        "旅游业"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "海信家电",
+      "stockCode": "000921",
+      "exchange": "SZSE",
+      "impactScore": 25,
+      "impactType": "negative",
+      "reasoning": "公司部分产品出口日本，中日关系恶化可能影响其在日本市场的销售。",
+      "relatedIndustries": [
+        "家电",
+        "国际贸易"
+      ],
+      "confidence": 0.55,
+      "estimatedPriceImpact": "-1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 20,
+      "impactType": "neutral",
+      "reasoning": "短期内中日关系紧张对国债市场的影响有限，但需关注后续发展。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 30,
+  "summary": "中日关系恶化对国际贸易和旅游业产生负面影响，相关企业股价可能承压。债券市场相对稳定，建议关注避险资产。",
+  "analyzedAt": "2025-11-29T10:05:59.432Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,97 @@
+{
+  "newsId": "2025-11-04-16",
+  "newsDate": "2025-11-04",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "俄称在红军城推进 乌称打击俄钻井平台俄罗斯国防部3日称，俄军在红军城（乌称波克罗夫斯克）继续推进并巩固阵地，持续打击红军城火车站等区域被包围的乌军人员，击退乌军10次突围行动。俄方还使用“匕首”高超音速导弹等打击乌方军事工业设施、军用机场等目标。乌克兰方面同一天否认俄方在波克罗夫斯克取得进展。乌方还称，对俄罗斯在黑海水域的“锡瓦什”钻井平台进行打击，并摧毁平台上的侦察监视设备和反坦克导弹系统。以色列空袭黎巴嫩南部致多人死亡以色列3日对黎巴嫩南部发动两次空袭，以军称打死两名黎巴嫩真主党武装人员。以军近期频繁袭击黎巴嫩境内目标，1日晚，以色列空袭黎巴嫩南部，造成4人死亡。以色列国防部长卡茨2日称，黎巴嫩总统奥恩在解除黎巴嫩真主党武装方面行动迟缓，以色列或将升级其军事行动。黎方谴责以色列持续对黎实施侵略行动。 多米尼加称地区局势紧张 美洲峰会推迟多米尼加外交部3日发表声明称，鉴于拉美及加勒比地区局势紧张，原定12月在该国举行的美洲峰会将推迟到明年举行。9月以来，美国以“扫毒”为由，在南美洲海域实施多次打击行动，已导致60余人死亡，美国与委内瑞拉、哥伦比亚的关系趋紧。阿富汗北部地震致27人死亡730多人受伤阿富汗北部胡勒姆地区3日凌晨发生里氏6.4级地震。据阿富汗媒体3日报道，地震已造成27人死亡、730多人受伤，约800间房屋受损。地震还导致部分山体崩塌，多条道路受阻。灾区救援工作正在进行中。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "中东地区的紧张局势可能导致能源供应不稳定，增加能源价格波动性。",
+      "keywords": [
+        "以色列",
+        "黎巴嫩",
+        "真主党",
+        "军事行动"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "国防军工",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能促使各国增加国防开支，利好相关企业。",
+      "keywords": [
+        "俄罗斯",
+        "乌克兰",
+        "军事冲突"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "中东地区紧张局势可能导致原油价格波动，影响公司业绩。",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能促使各国增加国防开支，利好相关企业。",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.6,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "中东地区紧张局势可能导致原油供应不稳定，增加价格波动性。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能推动避险需求，利好黄金价格。",
+      "priceDirection": "up",
+      "confidence": 0.6
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前地缘政治紧张局势对国债市场影响有限，收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 50,
+  "summary": "地缘政治紧张局势对能源和国防军工行业产生不同影响，建议关注相关企业的投资机会。",
+  "analyzedAt": "2025-11-29T12:52:49.162Z",
+  "modelVersion": "qwen-max"
+}

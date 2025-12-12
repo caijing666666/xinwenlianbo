@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-30-6",
+  "newsDate": "2025-11-30",
+  "newsTitle": "执行我国第42次南极考察任务的“雪龙2”号抵达中山站外围海域",
+  "newsContent": "执行中国第42次南极考察任务的“雪龙2”号，目前已抵达中山站外围海域，正在全力开展破冰作业。另外，在澳大利亚霍巴特完成物资补给的“雪龙”号，成功穿越西风带后，正全速驶向中山站，预计于12月1日抵达距离中山站60公里的海域。中国第42次南极考察由“雪龙”号和“雪龙2”号两船共同保障。考察期间，考察队将持续开展南极多领域综合调查观测，实施一批国家重大科技研发项目，并对一些国产装备的极地性能展开现场验证。",
+  "industryImpacts": [
+    {
+      "industryName": "船舶制造",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "南极考察任务的进行表明国家对极地科考的支持，可能增加对破冰船等特种船舶的需求。",
+      "keywords": [
+        "南极考察",
+        "破冰船",
+        "特种船舶"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "科研设备",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "考察队将实施一批国家重大科技研发项目，并验证国产装备性能，这可能促进科研设备行业的发展。",
+      "keywords": [
+        "科研设备",
+        "科技研发",
+        "国产装备"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国船舶",
+      "stockCode": "600150",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内主要的船舶制造商之一，中国船舶可能会受益于未来对破冰船等特种船舶的需求增长。",
+      "relatedIndustries": [
+        "船舶制造"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中海达",
+      "stockCode": "300177",
+      "exchange": "SZSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "公司涉及海洋测绘和导航定位业务，可能因南极考察任务而获得更多的订单或合作机会。",
+      "relatedIndustries": [
+        "科研设备"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "此次新闻内容主要集中在特定行业的利好消息上，对整体经济环境及货币政策影响较小，因此对国债市场的影响较为有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "南极考察任务推进利好船舶制造与科研设备行业，相关企业有望从中获益；但对期货商品及债券市场影响不大。",
+  "analyzedAt": "2025-11-30T16:13:09.406Z",
+  "modelVersion": "qwen-max"
+}

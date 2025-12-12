@@ -1,0 +1,129 @@
+{
+  "newsId": "2025-11-16-7",
+  "newsDate": "2025-11-16",
+  "newsTitle": "“绿色”细节随处见 打造“碳中和”全运会",
+  "newsContent": "第十五届全运会正在进行中，本届全运会从场馆建设、能源保障、赛事组织等各环节都采取减碳措施，全力打造一届“碳中和”全运会。本届全运会首次实现不新建大型场馆，广东赛区75个比赛场馆以及澳门的赛事场馆，超过90%为现有场馆升级改造。曾承办过两届全运会的广州天河体育中心体育场，是我国首个近零碳大型体育场，体育中心外窗采用隔热铝合金窗框搭配低辐射中空玻璃，能够大量反射太阳辐射，有效降低室内空调负荷，场馆节能降碳率达到了约57%。在深圳赛区，所有比赛场馆100%使用绿电，全国首个零碳智慧变电站投入运营，多个场馆顶部和车棚的光伏板，为场馆供能的同时，助力绿色出行。为推动“无废全运”落地，各个赛区的赛事物资推行绿色采购，以电子门票、数字化指南等减少纸张消耗。在香港，一张海报上印有香港赛区的所有赛事项目，志愿者们把它折叠起来，就成为观众手中的“加油棒”。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "全运会采用绿色能源和低碳措施，表明政府对新能源行业的持续支持，有利于行业长期发展。",
+      "keywords": [
+        "绿色能源",
+        "低碳",
+        "政策支持"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "建筑与工程",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "现有场馆的升级改造需求增加，推动了建筑与工程行业的发展。",
+      "keywords": [
+        "场馆改造",
+        "节能降碳"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "信息技术",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "数字化指南和电子门票的应用推广，提升了信息技术在大型活动中的应用前景。",
+      "keywords": [
+        "数字化",
+        "电子门票"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池领域的龙头企业，受益于全运会绿色能源的广泛应用。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "中国建筑",
+      "stockCode": "601668",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "参与场馆改造项目，有望获得更多的订单和市场份额。",
+      "relatedIndustries": [
+        "建筑与工程"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "腾讯控股",
+      "stockCode": "00700",
+      "exchange": "HKEX",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "提供数字化解决方案，如电子门票和数字化指南，提升用户体验。",
+      "relatedIndustries": [
+        "信息技术"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "场馆改造和新能源设施建设需要大量铜材，需求增长预期推动价格上涨。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "铝",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "场馆改造中使用的隔热铝合金窗框等材料需求增加，支撑铝价上涨。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "货币政策保持稳定，全运会的绿色举措对国债市场影响较小。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "新能源和建筑企业的债券可能因行业利好而受到投资者青睐，收益率可能下降。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "全运会的绿色举措利好新能源、建筑与工程及信息技术行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:52:24.548Z",
+  "modelVersion": "qwen-max"
+}

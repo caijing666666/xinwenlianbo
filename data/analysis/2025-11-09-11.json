@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-09-11",
+  "newsDate": "2025-11-09",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "俄称打击乌能源设施 乌称拦截俄无人机俄罗斯国防部8日称，俄军使用“匕首”高超音速导弹、攻击型无人机等，打击了乌克兰军工联合体企业，以及配套的能源设施。俄军还向乌军纵深推进，控制了第聂伯罗彼得罗夫斯克州的一个居民点。乌克兰方面8日称，乌军在应对俄军大规模袭击过程中，拦截了超400架无人机。乌中央能源公司所属火力发电厂陷入瘫痪，乌克兰大部分地区9日将实施分时限电。以军在加沙地带行动已致超6.9万人死亡据巴勒斯坦媒体报道，以军8日继续在加沙地带多地发动袭击。加沙地带卫生部门当天称，自2023年10月7日新一轮巴以冲突爆发以来，以军在加沙地带军事行动已导致69169人死亡，超17万人受伤。此外，以军和以色列定居者8日在约旦河西岸多地发动针对巴勒斯坦人的袭击。连日来，以色列方面的袭击在约旦河西岸持续造成巴勒斯坦人伤亡。坠机致14人死亡 美停飞麦道11型货机8日，美国联邦航空管理局发布紧急适航指令，宣布所有麦道11型货机暂停飞行，直至完成安全检查。4日，一架麦道11型货机在美国肯塔基州路易斯维尔起飞后不久坠毁并起火，造成14人死亡。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "negative",
+      "reasoning": "乌克兰的能源设施受到打击，可能导致能源供应不稳定，影响相关企业的生产和运营。",
+      "keywords": [
+        "能源设施",
+        "供应不稳定",
+        "生产运营"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "航空",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "麦道11型货机停飞事件可能引发对航空安全的担忧，导致航空公司和飞机制造商面临压力。",
+      "keywords": [
+        "航空安全",
+        "停飞",
+        "压力"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "麦道11型货机停飞事件可能引发市场对航空安全的担忧，影响航空公司的股价。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "东方航空",
+      "stockCode": "600115",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "麦道11型货机停飞事件可能引发市场对航空安全的担忧，影响航空公司的股价。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "乌克兰能源设施受损可能导致能源供应紧张，推高原油价格。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    },
+    {
+      "commodity": "天然气",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "乌克兰能源设施受损可能导致能源供应紧张，推高天然气价格。",
+      "priceDirection": "up",
+      "confidence": 0.8
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前国际局势紧张，但国内货币政策保持稳定，国债收益率预计不会有大幅波动。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bearish",
+  "investmentOpportunityScore": 50,
+  "summary": "乌克兰能源设施受损和麦道11型货机停飞事件对能源和航空行业产生负面影响，建议关注能源期货的投资机会。",
+  "analyzedAt": "2025-11-29T11:25:45.577Z",
+  "modelVersion": "qwen-max"
+}

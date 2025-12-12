@@ -1,0 +1,92 @@
+{
+  "newsId": "2025-11-17-8",
+  "newsDate": "2025-11-17",
+  "newsTitle": "第十五届全国运动会推动港澳旅游热",
+  "newsContent": "第十五届全运会期间，香港、澳门文旅消费市场火爆。香港连日来举办多场文旅活动，包括原创音乐剧、主题乐园等，希望带给市民和游客文体旅“三合一”的独特体验。在澳门赛区，当地文旅部门推动“赛场即景点、观赛即旅游”的融合模式，澳门博物馆在主新闻中心等地设置文化展台，澳门特区政府也同步举办了美食节等大型活动，为市民和游客打造多元立体的体验。澳门旅游部门预计，全运会期间平均每天将吸引10万人次旅客访澳。",
+  "industryImpacts": [
+    {
+      "industryName": "旅游",
+      "impactScore": 90,
+      "impactType": "positive",
+      "reasoning": "全运会期间港澳地区文旅消费市场火爆，带动相关行业增长。",
+      "keywords": [
+        "旅游",
+        "消费",
+        "全运会"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "industryName": "酒店",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "大量游客涌入港澳地区，酒店入住率和房价有望提升。",
+      "keywords": [
+        "酒店",
+        "住宿",
+        "全运会"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "餐饮",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "澳门特区政府举办美食节等大型活动，推动餐饮业发展。",
+      "keywords": [
+        "餐饮",
+        "美食节",
+        "全运会"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "金沙中国有限公司",
+      "stockCode": "1928",
+      "exchange": "HKEX",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为澳门主要的综合度假村运营商之一，将受益于全运会期间的旅游热潮。",
+      "relatedIndustries": [
+        "旅游",
+        "酒店",
+        "娱乐"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "香港迪士尼乐园",
+      "stockCode": "N/A",
+      "exchange": "N/A",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "全运会期间香港文旅活动丰富，吸引更多游客参观主题乐园。",
+      "relatedIndustries": [
+        "旅游",
+        "娱乐"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "短期内旅游业和相关行业的繁荣对债券市场影响有限，但长期来看可能提高部分企业的信用评级。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "全运会期间港澳地区的文旅消费市场火爆，利好旅游、酒店及餐饮等行业及相关上市公司。",
+  "analyzedAt": "2025-11-29T10:47:57.440Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,107 @@
+{
+  "newsId": "2025-11-13-001",
+  "newsDate": "2025-11-13",
+  "newsTitle": "国家发展改革委环资司在巴西贝伦宣介我国碳达峰碳中和重大成就",
+  "newsContent": "巴西当地时间11月12日下午，在《联合国气候变化框架公约》第30次缔约方大会（COP30）期间，围绕国务院新闻办公室近日发布的《碳达峰碳中和的中国行动》白皮书，国家发展改革委环资司在巴西贝伦举办宣介活动。环资司主要负责同志介绍了白皮书主要内容，包括建立了全球最系统完善的碳达峰碳中和政策体系、建成了全球最大发展最快的可再生能源体系等方面，系统展示了我国推进碳达峰碳中和取得的重大成就、主要做法和实践经验。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "政策支持和成就展示将增强市场对新能源行业的信心，推动投资和技术进步。",
+      "keywords": [
+        "碳达峰",
+        "碳中和",
+        "可再生能源"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "环保",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "随着碳达峰碳中和目标的推进，环保行业将迎来更多发展机遇。",
+      "keywords": [
+        "碳排放",
+        "环境保护",
+        "绿色经济"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为新能源电池领域的龙头企业，宁德时代将受益于国家对新能源的支持政策。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "隆基股份",
+      "stockCode": "601012",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为光伏行业的领军企业，隆基股份有望从国家推动可再生能源发展的政策中获益。",
+      "relatedIndustries": [
+        "新能源",
+        "太阳能"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "新能源和可再生能源的发展将增加对铜的需求，从而推高铜价。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    },
+    {
+      "commodity": "铝",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "铝在新能源汽车和太阳能板中的应用广泛，需求增长预期将支撑铝价。",
+      "priceDirection": "up",
+      "confidence": 0.65
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "短期内货币政策预计保持稳定，但长期来看，绿色债券发行可能增加。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "新能源和环保企业的融资需求增加，可能会发行更多的绿色债券。",
+      "yieldDirection": "down",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源和环保行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-12T03:27:04.480Z",
+  "modelVersion": "qwen-max"
+}

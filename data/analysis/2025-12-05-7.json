@@ -1,0 +1,38 @@
+{
+  "newsId": "2025-12-05-7",
+  "newsDate": "2025-12-05",
+  "newsTitle": "各地开展志愿服务活动 弘扬志愿精神",
+  "newsContent": "今天（12月5日）是国际志愿者日，各地开展形式多样的志愿服务活动，奉献、友爱、互助、进步的志愿精神在全社会蔚然成风。在广东，残特奥会赛会志愿者已陆续上岗，为运动员和观众进行赛事引导、手语交流等服务保障。雄安新区新成立的6支志愿者服务队深入社区和工地，开展义诊和义剪等活动，推进“志愿者之城”建设。在天津朝阳里社区，志愿们上门为辖区高龄老人提供免费理发等助老服务。如今，多地在城乡社区、公共场所、窗口单位等设立了志愿服务站点，方便群众就近就便参与志愿服务。截至目前，全国有9000多万青年志愿者、5000多万登记注册的老年志愿者，在科技、医疗、教育、社区服务等领域为中国式现代化贡献志愿服务力量。中国青年志愿者还积极走上国际舞台开展志愿服务，促进民心相通。",
+  "industryImpacts": [
+    {
+      "industryName": "社区服务",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "志愿服务活动的增加有助于提升社区服务质量，促进相关行业的发展。",
+      "keywords": [
+        "志愿服务",
+        "社区服务",
+        "助老服务"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 20,
+      "impactType": "neutral",
+      "reasoning": "志愿服务活动对宏观经济和货币政策影响较小，因此对债券市场的影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.6
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 30,
+  "summary": "志愿服务活动的增加对社区服务行业有正面影响，但整体上对资本市场的影响较为有限。",
+  "analyzedAt": "2025-12-05T13:33:00.849Z",
+  "modelVersion": "qwen-max"
+}

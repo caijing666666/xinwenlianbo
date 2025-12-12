@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-03-14",
+  "newsDate": "2025-11-03",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "美交通部长称“停摆”将致航班延误增加美国交通部长达菲2日称，受联邦政府“停摆”影响，全国多地空中交通管制中心出现人手短缺，系统风险显著上升，新的一周航班延误或取消班次会增加。根据美国联邦航空管理局此前发布的消息，美国30个主要机场中，有一半面临人手不足。主要产油国宣布明年初暂停增产石油输出国组织（欧佩克）2日发表声明称，鉴于当前全球经济预期相对平稳，石油库存水平较低，沙特阿拉伯、俄罗斯、伊拉克、阿联酋、科威特、哈萨克斯坦、阿尔及利亚和阿曼8个主要产油国决定12月保持增产节奏，日均增产13.7万桶原油。声明说，由于季节性因素，上述国家决定在2026年前三个月将暂停增产计划。",
+  "industryImpacts": [
+    {
+      "industryName": "航空",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "美国政府停摆导致空中交通管制中心人手短缺，航班延误或取消班次增加，对航空业造成负面影响。",
+      "keywords": [
+        "政府停摆",
+        "航班延误",
+        "人手短缺"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "石油",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "主要产油国宣布暂停增产计划，预计油价将上涨，利好石油行业。",
+      "keywords": [
+        "暂停增产",
+        "油价上涨",
+        "石油库存"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "美国政府停摆导致航班延误或取消班次增加，可能影响国际航线运营。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    },
+    {
+      "companyName": "中石化",
+      "stockCode": "600028",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "主要产油国暂停增产计划，预计油价上涨，利好石油公司。",
+      "relatedIndustries": [
+        "石油"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "主要产油国暂停增产计划，预计油价将上涨。",
+      "priceDirection": "up",
+      "confidence": 0.9
+    }
+  ],
+  "bondImpacts": [],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 65,
+  "summary": "美国政府停摆对航空业产生负面影响，但主要产油国暂停增产计划利好石油行业。建议关注石油相关企业和商品期货。",
+  "analyzedAt": "2025-11-29T12:58:10.794Z",
+  "modelVersion": "qwen-max"
+}

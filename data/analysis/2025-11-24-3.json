@@ -1,0 +1,144 @@
+{
+  "newsId": "2025-11-24-3",
+  "newsDate": "2025-11-24",
+  "newsTitle": "李强会见南非副总统",
+  "newsContent": "当地时间11月23日，国务院总理李强在约翰内斯堡会见南非副总统马沙蒂莱。李强表示，中国和南非是有着深厚友谊的好朋友、好兄弟。中方愿同南非一道遵循习近平主席同拉马福萨总统的战略引领，进一步增进政治互信，坚定相互支持，深化贸易、投资、新能源、汽车、医疗、数字经济、基础设施等各领域合作，推动中南新时代全方位战略合作伙伴关系取得更多成果。中方愿同南非加强沟通协调，落实中非合作论坛北京峰会成果，推动国际秩序朝着更加公正合理的方向发展。马沙蒂莱表示，愿以落实零关税举措为契机，加强经贸、人文等领域合作，推动两国新时代全方位战略合作伙伴关系深入发展。",
+  "industryImpacts": [
+    {
+      "industryName": "新能源",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "中南合作加强，特别是新能源领域的合作，将促进中国新能源企业的发展。",
+      "keywords": [
+        "新能源",
+        "合作",
+        "发展"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "汽车",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "南非市场对汽车的需求增加，尤其是电动汽车，这将有利于中国汽车制造商。",
+      "keywords": [
+        "汽车",
+        "出口",
+        "南非"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "医疗",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中南两国在医疗领域的合作加深，可能带来更多的医疗设备和技术出口机会。",
+      "keywords": [
+        "医疗",
+        "合作",
+        "出口"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "数字经济",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "数字经济的合作将推动相关技术和服务的出口，但具体影响还需进一步观察。",
+      "keywords": [
+        "数字经济",
+        "合作",
+        "技术"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "宁德时代",
+      "stockCode": "300750",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "新能源政策利好电池企业，宁德时代作为行业龙头有望受益。",
+      "relatedIndustries": [
+        "新能源",
+        "汽车"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "比亚迪",
+      "stockCode": "002594",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "南非市场对电动汽车的需求增加，比亚迪作为主要生产商将受益。",
+      "relatedIndustries": [
+        "汽车",
+        "新能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "迈瑞医疗",
+      "stockCode": "300760",
+      "exchange": "SZSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "医疗领域的合作加深，迈瑞医疗作为医疗器械龙头企业有望受益。",
+      "relatedIndustries": [
+        "医疗"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "铜",
+      "exchange": "上期所",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "基础设施建设需求增加，铜作为重要原材料，价格有望上涨。",
+      "priceDirection": "up",
+      "confidence": 0.75
+    },
+    {
+      "commodity": "铁矿石",
+      "exchange": "大商所",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "基础设施建设需求增加，铁矿石作为重要原材料，价格有望上涨。",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "货币政策保持稳定，国债收益率预计不会有明显变化。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    },
+    {
+      "bondType": "企业债",
+      "impactScore": 55,
+      "impactType": "neutral",
+      "reasoning": "企业债市场受整体经济环境影响，短期内不会有显著变化。",
+      "yieldDirection": "stable",
+      "riskLevel": "medium",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好新能源、汽车、医疗等行业，相关企业和商品期货有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-11-29T10:09:14.992Z",
+  "modelVersion": "qwen-max"
+}

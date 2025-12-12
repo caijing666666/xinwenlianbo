@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-11-01-10",
+  "newsDate": "2025-11-01",
+  "newsTitle": "神舟二十一号载人飞船发射取得圆满成功 两个航天员乘组会师太空",
+  "newsContent": "10月31日23时44分，搭载神舟二十一号载人飞船的长征二号F遥二十一运载火箭在酒泉卫星发射中心点火发射，张陆、武飞、张洪章三名航天员顺利进入中国空间站，两个航天员乘组完成中国航天史上第7次“太空会师”。10月31日20时48分，神舟二十一号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心圆梦园广场举行。21时30分许，航天员张洪章、武飞、张陆先后进入飞船，做好发射前的各项准备工作。23时44分，火箭点火发射。约10分钟后，飞船与火箭成功分离，进入预定轨道。今天（11月1日）3时22分，飞船成功对接于空间站天和核心舱前向端口，整个对接过程历时约3.5小时，创造了神舟飞船与空间站交会对接的最快纪录。今天4时58分，神舟二十号航天员乘组打开“家门”，欢迎神舟二十一号航天员入驻中国空间站。按计划，神舟二十一号航天员乘组将在6个月驻留期间，开展空间科学与应用、航天员出舱活动及货物进出舱、科普教育和公益活动等。",
+  "industryImpacts": [
+    {
+      "industryName": "航空航天",
+      "impactScore": 90,
+      "impactType": "positive",
+      "reasoning": "神舟二十一号载人飞船的成功发射和对接，展示了中国在航天领域的技术实力和持续投入，将增强市场对相关企业的信心。",
+      "keywords": [
+        "航天",
+        "技术进步",
+        "研发投入"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "industryName": "国防军工",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "航天事业的发展与国防军工密切相关，此次成功发射将提升市场对国防军工行业的关注度。",
+      "keywords": [
+        "国防",
+        "军工",
+        "国家安全"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国航天科技集团有限公司",
+      "stockCode": "600118",
+      "exchange": "SSE",
+      "impactScore": 90,
+      "impactType": "positive",
+      "reasoning": "作为主要的航天器制造商，公司将直接受益于此次成功的发射任务。",
+      "relatedIndustries": [
+        "航空航天",
+        "国防军工"
+      ],
+      "confidence": 0.95,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中航光电科技股份有限公司",
+      "stockCode": "002179",
+      "exchange": "SZSE",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "公司为航天器提供关键零部件，此次成功发射将增加其订单量。",
+      "relatedIndustries": [
+        "航空航天",
+        "电子元器件"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "航天领域的成功不会直接影响国债市场的收益率，但可能间接提高国家信用评级。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 80,
+  "summary": "神舟二十一号的成功发射增强了市场对中国航天及国防军工行业的信心，相关企业有望受益。",
+  "analyzedAt": "2025-11-29T13:08:43.368Z",
+  "modelVersion": "qwen-max"
+}

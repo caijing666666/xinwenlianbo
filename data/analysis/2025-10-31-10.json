@@ -1,0 +1,79 @@
+{
+  "newsId": "2025-10-31-10",
+  "newsDate": "2025-10-31",
+  "newsTitle": "神舟二十一号发射准备就绪",
+  "newsContent": "酒泉卫星发射中心将于今天（10月31日）23时44分发射神舟二十一号载人飞船。目前，发射任务准备进展顺利，发射已进入倒计时。今天，神舟二十一号乘组三名航天员主要围绕身体、心理、技术等方面进行了调适和确认，并对关键飞行步骤进行了复习，确保以最佳状态开启太空之旅。目前，火箭、飞船、发射场、测控通信等系统状态良好、运行稳定，发射任务已进入倒计时准备。",
+  "industryImpacts": [
+    {
+      "industryName": "航天航空",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "神舟二十一号的成功发射将提升市场对航天航空行业的信心，增加相关企业的关注度和投资热情。",
+      "keywords": [
+        "航天",
+        "发射",
+        "技术"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "科技",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "航天事业的发展将推动相关科技领域如卫星通信、遥感技术等的进步，利好科技行业。",
+      "keywords": [
+        "科技创新",
+        "卫星",
+        "通信"
+      ],
+      "confidence": 0.85
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国航天科技集团有限公司",
+      "stockCode": "600118",
+      "exchange": "SSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为主要参与方之一，此次成功发射将直接提高其企业形象及未来订单预期。",
+      "relatedIndustries": [
+        "航天航空",
+        "国防军工"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中航光电科技股份有限公司",
+      "stockCode": "002179",
+      "exchange": "SZSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "受益于航天航空产业链的整体提振效应。",
+      "relatedIndustries": [
+        "电子元器件",
+        "航天航空"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "短期内航天活动对宏观经济影响有限，因此预计不会显著改变国债收益率走势。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "神舟二十一号的发射准备就绪消息主要利好航天航空及相关科技行业，建议投资者关注该领域的龙头企业。",
+  "analyzedAt": "2025-11-29T13:17:09.320Z",
+  "modelVersion": "qwen-max"
+}

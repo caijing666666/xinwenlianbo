@@ -1,0 +1,65 @@
+{
+  "newsId": "2025-11-01-9",
+  "newsDate": "2025-11-01",
+  "newsTitle": "【学习贯彻党的二十届四中全会精神】中央宣讲团在各地各部门宣讲党的二十届四中全会精神",
+  "newsContent": "连日来，学习贯彻党的二十届四中全会精神中央宣讲团成员在各地各部门宣讲，并深入基层与干部群众互动交流。中央宣讲团成员、中共中央政治局委员、天津市委书记陈敏尔10月31日在天津市委党校作宣讲报告。陈敏尔从深刻认识全会的重大意义，全面理解“十五五”时期经济社会发展的战略任务和重大举措等方面，对四中全会精神进行系统阐释和深入解读。陈敏尔还走进工厂、企业，深入宣传党的二十届四中全会精神。中央宣讲团成员，教育部党组书记、部长怀进鹏10月30日在国家教育行政学院作宣讲报告。怀进鹏围绕准确把握“十五五”时期在基本实现社会主义现代化进程中的重要地位，全面把握好、贯彻落实好全会关于教育改革发展的新部署新要求，作了系统宣讲和深入阐释。怀进鹏还在国家教育行政学院，与基层教育工作者、教师代表互动交流。",
+  "industryImpacts": [
+    {
+      "industryName": "教育",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "党的二十届四中全会强调了教育改革和发展的重要性，预计未来将有更多政策支持和资金投入。",
+      "keywords": [
+        "教育",
+        "改革",
+        "发展"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "新东方",
+      "stockCode": "EDU",
+      "exchange": "NYSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为教育行业的龙头企业，新东方有望受益于教育政策的支持。",
+      "relatedIndustries": [
+        "教育"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "好未来",
+      "stockCode": "TAL",
+      "exchange": "NYSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "好未来作为在线教育的领先企业，也将从教育政策中受益。",
+      "relatedIndustries": [
+        "教育"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "短期内货币政策保持稳定，国债收益率预计不会有大幅波动。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "教育行业受到政策利好，相关上市公司有望受益。债券市场保持稳定，整体市场情绪偏乐观。",
+  "analyzedAt": "2025-11-29T13:08:21.088Z",
+  "modelVersion": "qwen-max"
+}

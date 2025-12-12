@@ -1,0 +1,117 @@
+{
+  "newsId": "2025-11-17-001",
+  "newsDate": "2025-11-17",
+  "newsTitle": "四川省发展改革委召开“十五五”规划编制专家学者和企业家座谈会",
+  "newsContent": "11月10日，四川省发展改革委组织召开“十五五”规划编制专家学者和企业家座谈会，听取有关方面意见建议。四川省发展改革委党组副书记、副主任陶剑锋主持并讲话，总经济师徐莉莉、“十五五”规划编制工作专班有关同志参加会议。　　会上，四川省社会科学院研究员盛毅、中国工程物理研究院总体工程研究所副所长毛勇建、西南财经大学教授汤继强、西南交通大学教授戴宾4位专家立足省情实际，聚焦推动成渝地区双城经济圈建设扩能提质、以高质量制造业引领服务业发展、一体推进科技创新和科技成果转化、以五区共兴促进区域协调发展等建言献策。川发航投、沃飞长空、茶姬控股、鱼泡科技、宜泊信息、毕马威6家企业负责人围绕发展商业航天和低空经济、依托网络平台挖掘就业潜力、培育消费新业态新模式、促进对外投资贸易合作等方面提出意见建议。　　会议强调，“十五五”时期是基本实现社会主义现代化夯实基础、全面发力的关键时期，也是四川塑造发展新动能、形成竞争新优势的重要窗口期。要深刻学习领会党的二十届四中全会精神，深入贯彻落实习近平总书记关于规划工作的重要论述，坚决落实国家和四川省委、省政府对规划编制工作的系列部署，坚持开门编规划，面向社会公开征求意见，认真听取各方面建言献策，汇聚众智、凝聚合力，全力以赴高质量编制“十五五”规划，为乘势而上推进四川现代化建设贡献力量。",
+  "industryImpacts": [
+    {
+      "industryName": "商业航天",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "政策支持和企业建议推动商业航天发展，有望带动相关产业链增长。",
+      "keywords": [
+        "商业航天",
+        "低空经济",
+        "政策支持"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "制造业",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "高质量制造业被强调为引领服务业发展的关键，政策支持将促进产业升级。",
+      "keywords": [
+        "高质量制造业",
+        "产业升级",
+        "政策支持"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "科技创新",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "科技创新和成果转化被列为重要任务，相关政策将促进科技企业发展。",
+      "keywords": [
+        "科技创新",
+        "成果转化",
+        "政策支持"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "消费新业态",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "培育消费新业态新模式被提及，有助于促进消费升级和新兴消费市场的发展。",
+      "keywords": [
+        "消费新业态",
+        "消费升级",
+        "新兴市场"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "川发航投",
+      "stockCode": "暂无",
+      "exchange": "暂无",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为商业航天领域的代表企业，有望受益于政策支持和市场需求增长。",
+      "relatedIndustries": [
+        "商业航天",
+        "低空经济"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "沃飞长空",
+      "stockCode": "暂无",
+      "exchange": "暂无",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为低空经济的代表企业，有望受益于政策支持和市场需求增长。",
+      "relatedIndustries": [
+        "商业航天",
+        "低空经济"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "茶姬控股",
+      "stockCode": "暂无",
+      "exchange": "暂无",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为消费新业态的代表企业，有望受益于政策支持和消费升级趋势。",
+      "relatedIndustries": [
+        "消费新业态",
+        "消费升级"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "四川省“十五五”规划编制强调区域协调发展，但具体影响尚需观察政策实施情况。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.75
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好商业航天、制造业、科技创新和消费新业态等行业，相关企业和地方债有望受益，建议关注龙头企业。",
+  "analyzedAt": "2025-12-12T03:19:44.477Z",
+  "modelVersion": "qwen-max"
+}

@@ -1,0 +1,96 @@
+{
+  "newsId": "2025-11-07-11",
+  "newsDate": "2025-11-07",
+  "newsTitle": "国际联播快讯",
+  "newsContent": "以军空袭黎南部多地 黎总统谴责以色列国防军6日称，当天对黎巴嫩南部多地实施空袭行动，打击黎真主党武装目标。黎巴嫩卫生部称，以军当天的空袭造成1人死亡，多人受伤。黎巴嫩总统奥恩6日强烈谴责以军持续空袭违反国际法，是对黎巴嫩的公然侵犯。联合国驻黎巴嫩临时部队当天发表声明表示，以色列的空袭行为违反了安理会相关决议，呼吁以色列立即停止空袭黎巴嫩。俄称在多地推进 乌称打击俄炼油厂俄罗斯国防部6日称，在顿涅茨克地区红军城（乌称波克罗夫斯克）方向，俄军一昼夜内控制64座建筑。另据俄罗斯媒体今天（11月7日）报道，俄国防部消息显示，俄军将在5天内控制哈尔科夫州关键城市库皮扬斯克的东部。乌克兰方面6日称，乌军5日对位于顿涅茨克机场区域的一处无人机基地实施打击，并袭击了俄罗斯伏尔加格勒炼油厂。美参院为总统不经授权打击委内瑞拉放行6日，美国参议院以51票反对、49票支持的结果，否决了一项旨在禁止美国总统特朗普未经国会授权对委内瑞拉发动军事行动的议案。另据美国媒体报道，6日，两架美军 B-52战略轰炸机再次接近委内瑞拉海岸。这是近期美军军机第四次采取此类行动。委内瑞拉总统马杜罗同一天表示，委内瑞拉不会屈服于美国持续实施的武力威胁。台风“海鸥”在越南登陆 引发灾情台风“海鸥”6日在越南中部登陆，已导致5人死亡，多人受伤。大量房屋倒塌或受损。超过160万户断电。救灾工作正在加紧进行。另据菲律宾减灾委今天（11月7日）发布的数据，台风“海鸥”已导致该国至少188人死亡，135人仍失踪。哈立德·埃纳尼当选教科文组织总干事6日，第43届联合国教科文组织大会在乌兹别克斯坦撒马尔罕审议新一任总干事提名并进行投票，现年54岁的埃及前旅游和文物部长哈立德·埃纳尼当选新任总干事。他将于本月15日上任。埃纳尼当选后表示，期待联合国教科文组织开启新篇章，呼吁通过行动推动和平团结、共筑希望。",
+  "industryImpacts": [
+    {
+      "industryName": "能源",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "乌克兰对俄罗斯炼油厂的打击可能影响全球能源供应，推高油价",
+      "keywords": [
+        "能源",
+        "石油",
+        "供应"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "国防军工",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "中东和东欧地区的紧张局势可能导致相关国家增加军费开支",
+      "keywords": [
+        "国防",
+        "军事",
+        "冲突"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国石油",
+      "stockCode": "601857",
+      "exchange": "SSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "国际油价上涨预期利好石油公司",
+      "relatedIndustries": [
+        "能源"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "中航沈飞",
+      "stockCode": "600760",
+      "exchange": "SSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势可能推动国防军工企业订单增长",
+      "relatedIndustries": [
+        "国防军工"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "乌克兰袭击俄罗斯炼油厂可能加剧全球能源供应紧张，推高油价",
+      "priceDirection": "up",
+      "confidence": 0.85
+    },
+    {
+      "commodity": "黄金",
+      "exchange": "上期所",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "地缘政治紧张局势通常会推高避险资产价格",
+      "priceDirection": "up",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前新闻主要影响商品市场和特定行业，对整体债券市场影响有限",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "地缘政治紧张局势可能推高能源和国防军工行业的股价及期货价格，建议关注相关龙头企业。",
+  "analyzedAt": "2025-11-29T12:35:08.203Z",
+  "modelVersion": "qwen-max"
+}

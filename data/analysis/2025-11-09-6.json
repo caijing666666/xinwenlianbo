@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-09-6",
+  "newsDate": "2025-11-09",
+  "newsTitle": "第34个全国消防日 各地各部门广泛开展消防安全宣教活动",
+  "newsContent": "今天（11月9日）是第34个全国消防日，各地各部门围绕“全民消防、生命至上——安全用火用电”主题，组织开展了形式多样的消防安全宣教活动。今天，国家消防救援局在云南昭通组织开展水域救援演练，模拟城市内涝人员被困，舟艇、无人机配合，消防员桥降到救援点，在激流中成功转移受困者。聚焦生产生活场景火灾，江苏、广西等地开展灭火救援演练。消防员在灭火机器人、智能头盔协助下深入火场，有效控制火势。消防安全知识进校园、入社区。连日来，北京、青海、安徽等地消防部门在校园中宣传防灾知识，河北、新疆、四川等地在社区讲解用火用电安全常识，山东、湖北等地消防部门通过开展消防技能竞赛提高安全意识。各地各部门还运用新媒体广泛宣传，中央广播电视总台联合国家消防救援局推出全民安全公开课，科普火灾防控知识。围绕用火用电安全，浙江创新利用科技手段为电气焊机加装物联网芯片，集成实时定位、环境监测等功能，焊工通过实名认证、安全评估才能开机作业。当作业环境中出现可燃气体浓度或温度超标等情况，系统将触发自动断电保护。目前，浙江8万多家涉焊单位27万台电焊机均已完成“加芯赋码”，有效阻断、拦截违规操作近20万人次，相关智能应用已向全国多省份推广。",
+  "industryImpacts": [
+    {
+      "industryName": "消防设备",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "全国消防日的宣教活动和新技术应用推广，将增加对消防设备的需求。",
+      "keywords": [
+        "消防安全",
+        "救援演练",
+        "智能头盔"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "物联网",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "浙江创新利用科技手段为电气焊机加装物联网芯片，推动了物联网技术在工业安全领域的应用。",
+      "keywords": [
+        "物联网芯片",
+        "实名认证",
+        "自动断电保护"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "青鸟消防",
+      "stockCode": "002960",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的消防设备制造商，青鸟消防有望受益于全国消防日带来的市场需求增长。",
+      "relatedIndustries": [
+        "消防设备"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "移远通信",
+      "stockCode": "603236",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "作为物联网模组供应商，移远通信可能从物联网技术在消防领域的应用中获益。",
+      "relatedIndustries": [
+        "物联网"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "企业债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然消防设备和物联网行业可能受益，但整体经济环境未见明显变化，企业债收益率预计保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 60,
+  "summary": "全国消防日的宣教活动及新技术应用推广，对消防设备和物联网行业有正面影响，但整体市场情绪保持中性。",
+  "analyzedAt": "2025-11-29T11:25:06.715Z",
+  "modelVersion": "qwen-max"
+}

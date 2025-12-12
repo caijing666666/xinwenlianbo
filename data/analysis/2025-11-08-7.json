@@ -1,0 +1,89 @@
+{
+  "newsId": "2025-11-08-7",
+  "newsDate": "2025-11-08",
+  "newsTitle": "十五运会赛事服务保障等工作准备就绪",
+  "newsContent": "今天（11月8日）下午，第十五届全国运动会主新闻中心举行新闻发布会，介绍粤港澳三地赛事筹备情况，目前各项服务保障工作已准备就绪。发布会上，十五运会组委会从科技全运、绿色全运、融合全运、人文全运四方面介绍赛事筹备工作情况。本届全运会设竞技比赛项目34个大项419个小项、群众赛事活动23个大项166个小项，由广州、深圳等广东的17个城市和香港、澳门承办。竞技比赛项目共有14252名运动员参与决赛阶段比赛，3235名注册记者参与报道。香港特区派出历来规模最大的代表团参加，超过600名运动员将出战28个竞赛项目，代表团总人数超过1800人，创下香港自1997年参与全运会以来的新高。澳门派出400人的体育代表团参赛。十五运会即将开幕，赛事服务保障各项工作就绪，将为全国人民奉献一场“彰显制度优势、展示湾区特色、体现岭南风格”的精彩体育盛会。 作为第十五届全运会赛事主转播机构和持权转播机构，中央广播电视总台各项转播报道工作已经全面展开。本届全运会总台跨越三地建设运行四座国际广播中心，并组建超70支公用信号制作团队。届时将以一流的体育赛事制播和报道水准，为观众带来赏心悦目的观赛体验。",
+  "industryImpacts": [
+    {
+      "industryName": "体育",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "全运会的举办将促进体育产业的发展，提高相关企业的知名度和品牌价值。",
+      "keywords": [
+        "体育",
+        "赛事",
+        "品牌"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "全运会期间，大量游客和运动员的到来将带动当地旅游业的发展。",
+      "keywords": [
+        "旅游",
+        "酒店",
+        "餐饮"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "industryName": "传媒",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "作为主转播机构，中央广播电视总台将受益于广告收入和观众收视率的提升。",
+      "keywords": [
+        "传媒",
+        "广告",
+        "收视率"
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中体产业",
+      "stockCode": "600158",
+      "exchange": "SSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为体育行业的龙头企业，中体产业将受益于全运会带来的市场关注度和业务机会。",
+      "relatedIndustries": [
+        "体育"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "华谊兄弟",
+      "stockCode": "300027",
+      "exchange": "SZSE",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "作为传媒行业的重要企业，华谊兄弟可能从全运会的广告和宣传活动中受益。",
+      "relatedIndustries": [
+        "传媒"
+      ],
+      "confidence": 0.75,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "全运会的举办对地方财政有一定影响，但整体上不会显著改变地方债的收益率。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "全运会的举办将对体育、旅游和传媒等行业产生积极影响，相关企业和地方债有望受益。",
+  "analyzedAt": "2025-11-29T13:23:10.280Z",
+  "modelVersion": "qwen-max"
+}

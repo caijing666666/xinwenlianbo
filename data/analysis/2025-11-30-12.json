@@ -1,0 +1,74 @@
+{
+  "newsId": "2025-11-30-12",
+  "newsDate": "2025-11-30",
+  "newsTitle": "美总统称关闭委内瑞拉空域 委强烈谴责美威胁其领空主权",
+  "newsContent": "美国总统特朗普29日在社交媒体发文称，委内瑞拉上空及周边空域“被视为全面关闭”。拉美多家媒体29日引用雷达跟踪网站数据报道称，多架美国海军战机当天在委内瑞拉海岸附近盘旋。美国在特立尼达和多巴哥安装的雷达系统投入使用。29日，委内瑞拉外交部强烈谴责美国威胁其领空主权，称美国对委实施“殖民主义威胁”和“非法侵略”。委内瑞拉国防部长洛佩斯同一天与军事指挥官举行保卫国家军事会议。洛佩斯称，委内瑞拉将不惜一切代价捍卫国家主权。据委内瑞拉国家电视台29日报道，该国武装部队在多地同步开展海岸防御演习。委内瑞拉副总统罗德里格斯称，委内瑞拉启动所有多边机制应对“美国封锁空域”，已启动一项特别方案，确保受多家航空公司暂停运营影响的委内瑞拉公民能够顺利出入境。29日，美洲玻利瓦尔联盟发表声明，强烈谴责美国威胁委内瑞拉领空主权。",
+  "industryImpacts": [
+    {
+      "industryName": "航空",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "美国关闭委内瑞拉空域可能导致航空公司运营成本增加，航班取消或延误，影响收入。",
+      "keywords": [
+        "空域关闭",
+        "运营成本",
+        "航班取消"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "能源",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "虽然委内瑞拉是重要的石油出口国，但目前局势对全球能源供应的影响有限。短期内可能引起市场波动，但长期影响不大。",
+      "keywords": [
+        "石油",
+        "能源供应",
+        "市场波动"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "中国国航",
+      "stockCode": "601111",
+      "exchange": "SSE",
+      "impactScore": 60,
+      "impactType": "negative",
+      "reasoning": "作为国际航线较多的航空公司，受委内瑞拉空域关闭影响较大，可能面临航班调整和成本上升的压力。",
+      "relatedIndustries": [
+        "航空"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "-2-4%"
+    }
+  ],
+  "futuresImpacts": [
+    {
+      "commodity": "原油",
+      "exchange": "上期所",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "尽管委内瑞拉是主要产油国之一，但当前局势尚未对全球原油供需产生显著影响。短期内油价可能出现波动，但预计不会大幅上涨。",
+      "priceDirection": "stable",
+      "confidence": 0.7
+    }
+  ],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 30,
+      "impactType": "neutral",
+      "reasoning": "此次事件对中国国债市场影响较小，投资者情绪稳定，收益率预计保持平稳。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.9
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 50,
+  "summary": "委内瑞拉空域关闭主要影响航空业，相关公司股价可能承压；能源行业短期波动但长期影响有限；债券市场基本不受影响。",
+  "analyzedAt": "2025-11-30T16:11:16.128Z",
+  "modelVersion": "qwen-max"
+}

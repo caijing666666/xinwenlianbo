@@ -1,0 +1,50 @@
+{
+  "newsId": "2025-11-13-6",
+  "newsDate": "2025-11-13",
+  "newsTitle": "新闻特写：湾区志愿者共赴全运之约",
+  "newsContent": "在第十五届全运会期间，粤港澳三个赛区共有近5万名志愿者投身赛事服务，挥洒热情与汗水，同心共赴全运之约。飞奔、擦拭、撤离，一系列动作在8秒内完成。在本届全运会澳门赛区的女排赛场，每当地面有汗水滴落，都会有志愿者迅速地将地面擦干。19岁的澳门小伙儿吴立恒就是其中的一名“快擦手”。得知在家门口举办全运会的排球比赛，他第一时间报了名。在澳门赛区，像吴立恒这样的志愿者有3500名。广东赛区，来自全省17个承办地市的3万名志愿者为赛事护航。香港赛区共有1.6万名赛事志愿者服务赛场内外。65岁的陆海豪是一名退休警察，2008年，他曾服务保障北京奥运会香港分赛场。这次赛事来到家门口，他也再次忙碌了起来，每天早上七点到达场馆，一天至少走上2万多步、15公里。本届全运会，香港志愿者报名创造了历史之最，最终入选的志愿者最小的16岁，最长的已经85岁，大家用行动呼应着全运会的志愿服务口号——“为你，更精彩”。",
+  "industryImpacts": [
+    {
+      "industryName": "体育",
+      "impactScore": 50,
+      "impactType": "positive",
+      "reasoning": "全运会的举办提升了体育行业的关注度，志愿者服务展示了良好的社会形象。",
+      "keywords": [
+        "全运会",
+        "志愿者",
+        "体育"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "industryName": "旅游",
+      "impactScore": 40,
+      "impactType": "positive",
+      "reasoning": "全运会期间，粤港澳地区的旅游活动可能会增加，带动当地旅游业的发展。",
+      "keywords": [
+        "全运会",
+        "旅游",
+        "粤港澳"
+      ],
+      "confidence": 0.6
+    }
+  ],
+  "companyImpacts": [],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "地方债",
+      "impactScore": 30,
+      "impactType": "neutral",
+      "reasoning": "全运会对地方经济有一定的促进作用，但对地方债的影响较为有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.5
+    }
+  ],
+  "overallSentiment": "neutral",
+  "investmentOpportunityScore": 40,
+  "summary": "全运会的举办对体育和旅游行业有正面影响，但整体市场情绪较为中性，投资机会有限。",
+  "analyzedAt": "2025-11-29T11:06:36.766Z",
+  "modelVersion": "qwen-max"
+}

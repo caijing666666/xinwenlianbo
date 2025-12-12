@@ -1,0 +1,102 @@
+{
+  "newsId": "2025-11-17-2",
+  "newsDate": "2025-11-17",
+  "newsTitle": "【权威访谈】在发展中保障和改善民生",
+  "newsContent": "“十五五”规划《建议》将坚持人民至上作为“十五五”时期经济社会发展必须遵循的一项重要原则，指出，要加大保障和改善民生力度，扎实推进全体人民共同富裕。今天（11月17日）的《权威访谈》从就业、社会保障、教育、医疗等方面进行解读。实现人民对美好生活的向往是中国式现代化的出发点和落脚点。《建议》围绕保障和改善民生，在促进高质量充分就业、健全社会保障体系等方面部署了一批均衡性可及性强的政策举措。全面建设社会主义现代化国家，教育是基础，科技是关键，人才是根本。《建议》进一步明确，要抓住新一轮科技革命和产业变革历史机遇，统筹教育强国、科技强国、人才强国建设，提升国家创新体系整体效能。看病就医是人民群众最为关心的问题之一。《建议》提出，要加强县区、基层医疗机构运行保障。优化医疗机构功能定位和布局，实施医疗卫生强基工程，推进全民健康数智化建设。",
+  "industryImpacts": [
+    {
+      "industryName": "医疗",
+      "impactScore": 80,
+      "impactType": "positive",
+      "reasoning": "政策强调加强县区、基层医疗机构运行保障，优化医疗机构功能定位和布局，推进全民健康数智化建设，将促进医疗行业的发展。",
+      "keywords": [
+        "医疗",
+        "医疗机构",
+        "健康数智化"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "industryName": "教育",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "《建议》进一步明确要统筹教育强国建设，提升国家创新体系整体效能，这将推动教育资源的优化配置和教育行业的持续发展。",
+      "keywords": [
+        "教育",
+        "教育强国",
+        "创新体系"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "industryName": "科技",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "政策提出抓住新一轮科技革命和产业变革历史机遇，统筹科技强国建设，这将为科技创新提供更多的支持和发展空间。",
+      "keywords": [
+        "科技",
+        "科技强国",
+        "创新"
+      ],
+      "confidence": 0.8
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "迈瑞医疗",
+      "stockCode": "300760",
+      "exchange": "SZSE",
+      "impactScore": 85,
+      "impactType": "positive",
+      "reasoning": "作为国内领先的医疗器械企业，迈瑞医疗将受益于医疗行业的政策支持和市场需求的增长。",
+      "relatedIndustries": [
+        "医疗"
+      ],
+      "confidence": 0.9,
+      "estimatedPriceImpact": "+3-5%"
+    },
+    {
+      "companyName": "新东方",
+      "stockCode": "EDU",
+      "exchange": "NYSE",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "作为教育行业的龙头企业，新东方将受益于教育强国政策的支持，有望在教育市场中获得更大的发展空间。",
+      "relatedIndustries": [
+        "教育"
+      ],
+      "confidence": 0.8,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "科大讯飞",
+      "stockCode": "002230",
+      "exchange": "SZSE",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "作为人工智能领域的领先企业，科大讯飞将受益于科技强国政策的支持，有望在技术创新和市场拓展方面取得更多进展。",
+      "relatedIndustries": [
+        "科技"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 60,
+      "impactType": "neutral",
+      "reasoning": "政策主要集中在民生和社会发展领域，对货币政策的影响较小，预计国债收益率将保持稳定。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.8
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 75,
+  "summary": "政策利好医疗、教育和科技行业，相关企业和债券市场有望受益，建议关注这些领域的龙头企业。",
+  "analyzedAt": "2025-11-29T10:46:06.335Z",
+  "modelVersion": "qwen-max"
+}

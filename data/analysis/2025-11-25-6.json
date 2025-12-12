@@ -1,0 +1,77 @@
+{
+  "newsId": "2025-11-25-6",
+  "newsDate": "2025-11-25",
+  "newsTitle": "学习贯彻党的二十届四中全会精神中央宣讲团在香港宣讲",
+  "newsContent": "24日至25日，学习贯彻党的二十届四中全会精神中央宣讲团在香港特别行政区为中央驻港机构和中资企业代表、香港特区管治团队、社会各界人士进行了三场宣讲，并现场交流互动。中央宣讲团围绕学习贯彻习近平总书记在党的二十届四中全会上的重要讲话精神和全会《建议》，结合香港实际，对全会的重大意义、“十四五”时期我国发展取得的重大成就和“十五五”时期经济社会发展的指导思想、重大原则、主要目标、战略任务和重大举措进行了全面宣讲和系统解读。与会的香港各界人士表示，将学习好贯彻好全会精神，抢抓国家“十五五”规划带来的重大机遇，发挥香港“背靠祖国、联通世界”独特优势和重要作用，更好融入和服务国家发展大局，开创香港长期繁荣稳定的美好未来。24日下午，中央宣讲团到北部都会区调研，并与园区工作人员、企业代表等进行了交流。",
+  "industryImpacts": [
+    {
+      "industryName": "金融服务",
+      "impactScore": 70,
+      "impactType": "positive",
+      "reasoning": "香港作为国际金融中心，政策支持将促进金融服务业的发展。",
+      "keywords": [
+        "金融服务",
+        "国际金融中心",
+        "政策支持"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "industryName": "房地产",
+      "impactScore": 65,
+      "impactType": "positive",
+      "reasoning": "北部都会区的调研和交流可能预示着该区域将进一步发展，对房地产行业有利。",
+      "keywords": [
+        "北部都会区",
+        "房地产开发",
+        "基础设施建设"
+      ],
+      "confidence": 0.75
+    }
+  ],
+  "companyImpacts": [
+    {
+      "companyName": "香港交易所",
+      "stockCode": "00388",
+      "exchange": "HKEX",
+      "impactScore": 75,
+      "impactType": "positive",
+      "reasoning": "政策支持将增强香港作为国际金融中心的地位，有利于港交所业务增长。",
+      "relatedIndustries": [
+        "金融服务"
+      ],
+      "confidence": 0.85,
+      "estimatedPriceImpact": "+2-4%"
+    },
+    {
+      "companyName": "新鸿基地产",
+      "stockCode": "00016",
+      "exchange": "HKEX",
+      "impactScore": 60,
+      "impactType": "positive",
+      "reasoning": "北部都会区的发展预期将推动房地产市场，尤其是大型开发商受益。",
+      "relatedIndustries": [
+        "房地产"
+      ],
+      "confidence": 0.7,
+      "estimatedPriceImpact": "+1-3%"
+    }
+  ],
+  "futuresImpacts": [],
+  "bondImpacts": [
+    {
+      "bondType": "国债",
+      "impactScore": 50,
+      "impactType": "neutral",
+      "reasoning": "当前政策主要集中在经济发展和区域合作上，对债券市场直接影响有限。",
+      "yieldDirection": "stable",
+      "riskLevel": "low",
+      "confidence": 0.7
+    }
+  ],
+  "overallSentiment": "bullish",
+  "investmentOpportunityScore": 70,
+  "summary": "政策利好香港金融服务和房地产行业，相关企业有望受益。建议关注香港交易所和大型房地产开发商。",
+  "analyzedAt": "2025-11-29T10:04:26.459Z",
+  "modelVersion": "qwen-max"
+}
